@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="//discord.gg/HzJ3Gfr"><img src="https://img.shields.io/discord/739934735387721768?logo=discord"></a>
-  <a href="//github.com/kkrypt0nn/Wordlists"><img src="https://img.shields.io/github/languages/code-size/kkrypt0nn/Wordlists"></a>
+  <a href="//github.com/kkrypt0nn/Wordlists"><img src="https://img.shields.io/github/repo-size/kkrypt0nn/Wordlists"></a>
   <a href="//github.com/kkrypt0nn/Wordlists/commits"><img src="https://img.shields.io/github/last-commit/kkrypt0nn/Wordlists"></a>
   <a href="//github.com/kkrypt0nn/Wordlists/contributors"><img src="https://img.shields.io/github/all-contributors/kkrypt0nn/Wordlists"></a>
 </p>
