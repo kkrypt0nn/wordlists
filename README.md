@@ -63,8 +63,8 @@ Me or other people will take their time to answer and help you.
   * [Spanish](languages/spanish.txt) - 441 Lines
 * Names
   * [Top Family Names USA](names/top_family_names_usa.txt) - 720'303 Lines
-  * [Top Female Names Germany](names/top)
-  * [Top Female Names USA](names/top_female_names_germany.txt) - 4'685 Lines
+  * [Top Female Names Germany](names/top_female_names_germany.txt) - 4'685 Lines
+  * [Top Female Names USA](names/top_female_names_usa.txt) - 1'000 Lines
   * [Top Male Names USA](names/top_male_names_usa.txt) - 1'000 Lines
   * [Names](names/names.txt) - 10'177 Lines
 * Passwords
