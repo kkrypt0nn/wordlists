@@ -13,9 +13,6 @@
   <a href="//github.com/kkrypt0nn/Wordlists/contributors"><img src="https://img.shields.io/github/all-contributors/kkrypt0nn/Wordlists"></a>
 </p>
 
-## 👤 Authors
-* **[Krypton (@kkrypt0nn)](https://github.com/kkrypt0nn)**
-
 ## 🆘 Support
 If you need some help for something, do not hesitate to join my discord server [here](https://discord.gg/HzJ3Gfr).
 
