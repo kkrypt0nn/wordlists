@@ -67,7 +67,7 @@ Me or other people will take their time to answer and help you.
 * Passwords
   * [000webhost](passwords/000webhost.txt) - 720'301 Lines
   * [BT4 Passwords](passwords/bt4_passwords.txt) - 1'652'902 Lines
-  * [Burnett](passwords/burnett.txt) - 1023 Lines
+  * [Burnett](passwords/burnett.txt) - 1'023 Lines
   * [Common Passwords Windows](passwords/common_passwords_win.txt) - 814 Lines
   * [Common Roots](passwords/common_roots.txt) - 4'723 Lines
   * [Dark Web 2017](passwords/darkweb_2017.txt) - 9'998 Lines
@@ -97,7 +97,7 @@ Me or other people will take their time to answer and help you.
   * [Cities](security_question_answers/cities.txt) - 98'303 Lines
   * [City, State, Country](security_question_answers/city_state_country.txt) - 98'303 Lines
   * [Common Surnames](security_question_answers/common_surnames.txt) - 19'999 Lines
-  * [Dates](security_question_answers/dates.txt) - 75'1067 Lines
+  * [Dates](security_question_answers/dates.txt) - 751'067 Lines
   * [HTML Colors](security_question_answers/html_colors.txt) - 147 Lines
   * [Street Names](security_question_answers/street_names.txt) - 99'999 Lines
   * [US Colleges](security_question_answers/us_colleges.txt) - 6'751 Lines
@@ -147,9 +147,9 @@ Me or other people will take their time to answer and help you.
     * [Irix](user_agents/operating_system_name/irix.txt) - 13 Lines
     * [Linux](user_agents/operating_system_name/linux.txt) - 20'823 Lines
     * [LiveArea](user_agents/operating_system_name/livearea.txt) - 52 Lines
-    * [MacOS](user_agents/operating_system_name/macos.txt) - 5'147 Lines
-    * [Mac OS X](user_agents/operating_system_name/mac_os_x.txt) - 18'903 Lines
     * [Mac](user_agents/operating_system_name/mac.txt) - 654 Lines
+    * [Mac OS X](user_agents/operating_system_name/mac_os_x.txt) - 18'903 Lines
+    * [MacOS](user_agents/operating_system_name/macos.txt) - 5'147 Lines
     * [OpenBSD](user_agents/operating_system_name/openbsd.txt) - 285 Lines
     * [Palmos](user_agents/operating_system_name/palmos.txt) - 18 Lines
     * [Rim Rablet OS](user_agents/operating_system_name/rim_tablet_os.txt) - 12 Lines
