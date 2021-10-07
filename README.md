@@ -108,10 +108,10 @@ Me or other people will take their time to answer and help you.
   * [US Public Schools](security_question_answers/us_public_schools.txt) - 100'318 Lines
   * [ZIP Codes](security_question_answers/zip_codes.txt) - 100 Lines
 * Stressing
-  * [3 Digits 000 To 999](stressing/3_digits_000_to_999.txt) - 999 Lines
-  * [4 Digits 0000 To 9999](stressing/4_digits_0000_to_9999.txt) - 9'999 Lines
-  * [5 Digits 00000 To 99999](stressing/5_digits_00000_to_99999.txt) - 99'999 Lines
-  * [6 Digits 000000 To 999999](stressing/6_digits_000000_to_999999.txt) - 999'999 Lines
+  * [3 Digits 000 To 999](stressing/3_digits_000_999.txt) - 999 Lines
+  * [4 Digits 0000 To 9999](stressing/4_digits_0000_9999.txt) - 9'999 Lines
+  * [5 Digits 00000 To 99999](stressing/5_digits_00000_99999.txt) - 99'999 Lines
+  * [6 Digits 000000 To 999999](stressing/6_digits_000000_999999.txt) - 999'999 Lines
   * [Alphanumeric Case](stressing/alphanum_case.txt) - 93 Lines
   * [Alphanumeric Case Extra](stressing/alphanum_case_extra.txt) - 61 Lines
   * [Characters](stressing/char.txt) - 25 Lines
