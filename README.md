@@ -7,7 +7,7 @@
 </h4>
 
 <p align="center">
-  <a href="//discord.gg/HzJ3Gfr"><img src="https://img.shields.io/discord/739934735387721768?logo=discord"></a>
+  <a href="//discord.gg/mTBrXyWxAF"><img src="https://img.shields.io/discord/739934735387721768?logo=discord"></a>
   <a href="//github.com/kkrypt0nn/Wordlists"><img src="https://img.shields.io/github/repo-size/kkrypt0nn/Wordlists"></a>
   <a href="//github.com/kkrypt0nn/Wordlists/commits"><img src="https://img.shields.io/github/last-commit/kkrypt0nn/Wordlists"></a>
   <a href="//github.com/kkrypt0nn/Wordlists/contributors"><img src="https://img.shields.io/github/contributors/kkrypt0nn/Wordlists"></a>
@@ -22,7 +22,7 @@ If you need some help for something, do not hesitate to join my discord server [
 ## ❔ Issues or questions
 If you have any issues or questions of how to code a specific command, you can:
 
-* Join my discord server [here](https://discord.gg/HzJ3Gfr)
+* Join my discord server [here](https://discord.gg/mTBrXyWxAF)
 * Post them [here](https://github.com/kkrypt0nn/Wordlists/issues)
 
 Me or other people will take their time to answer and help you.
