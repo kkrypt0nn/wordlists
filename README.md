@@ -17,7 +17,7 @@
 You can either download the entire repository and have all wordlists, or use the [Wordlist-Downloader](https://github.com/kkrypt0nn/Wordlist-Downloader) script to download one wordlist at a time.
 
 ## 🆘 Support
-If you need some help for something, do not hesitate to join my discord server [here](https://discord.gg/HzJ3Gfr).
+If you need some help for something, do not hesitate to join my discord server [here](https://discord.gg/mTBrXyWxAF).
 
 ## ❔ Issues or questions
 If you have any issues or questions of how to code a specific command, you can:
