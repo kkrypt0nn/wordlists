@@ -13,9 +13,6 @@
   <a href="//github.com/kkrypt0nn/Wordlists/contributors"><img src="https://img.shields.io/github/contributors/kkrypt0nn/Wordlists"></a>
 </p>
 
-## 📥 Wordlist Downloader
-You can either download the entire repository and have all wordlists, or use the [Wordlist-Downloader](https://github.com/kkrypt0nn/Wordlist-Downloader) script to download one wordlist at a time.
-
 ## 🆘 Support
 If you need some help for something, do not hesitate to join my discord server [here](https://discord.gg/mTBrXyWxAF).
 
