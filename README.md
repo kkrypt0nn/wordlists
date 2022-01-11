@@ -53,11 +53,25 @@ Me or other people will take their time to answer and help you.
   * [Nmap](famous/nmap.txt) - 4'999 Lines
   * [RockYou](famous/rockyou.zip) - 14'344'392 Lines
 * Languages
+  * [Arabic](languages/arabic.txt) - 465'914 Lines
+  * [Croatian](languages/croatian.txt) - 215'956 Lines
+  * [Czech](languages/czech.txt) - 535'889 Lines
+  * [Danish](languages/danish.txt) - 154'437 Lines
+  * [Dutch](languages/dutch.txt) - 173'562 Lines
   * [English](languages/english.txt) - 354'297 Lines
-  * [French](languages/french.txt) - 33'6531 Lines
+  * [French](languages/french.txt) - 336'531 Lines
   * [German](languages/german.txt) - 1'908'814 Lines
-  * [Portuguese](languages/portuguese.txt) - 41'516 Lines
-  * [Spanish](languages/spanish.txt) - 441 Lines
+  * [Hebrew](languages/hebrew.txt) - 469'750 Lines
+  * [Italian](languages/italian.txt) - 95'152 Lines
+  * [Norwegian](languages/norwegian.txt) - 322'043 Lines
+  * [Polish](languages/polish.txt) - 300'676 Lines
+  * [Portuguese](languages/portuguese.txt) - 307'374 Lines
+  * [Russian](languages/russian.txt) - 379'323 Lines
+  * [Serbian](languages/serbian.txt) - 263'909 Lines
+  * [Spanish](languages/spanish.txt) - 70'157 Lines
+  * [Swedish](languages/swedish.txt) - 72'370 Lines
+  * [Turkish](languages/turkish.txt) - 371'169 Lines
+  * [Ukrainian](languages/ukrainian.txt) - 126'308 Lines
 * Names
   * [Top Family Names USA](names/top_family_names_usa.txt) - 720'303 Lines
   * [Top Female Names Germany](names/top_female_names_germany.txt) - 4'685 Lines
