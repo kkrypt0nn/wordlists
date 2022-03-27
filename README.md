@@ -60,6 +60,7 @@ Me or other people will take their time to answer and help you.
   * [Dutch](languages/dutch.txt) - 173'562 Lines
   * [English](languages/english.txt) - 354'297 Lines
   * [French](languages/french.txt) - 336'531 Lines
+  * [Georgian](languages/georgian.txt) - 143'053 Lines
   * [German](languages/german.txt) - 1'908'814 Lines
   * [Hebrew](languages/hebrew.txt) - 469'750 Lines
   * [Italian](languages/italian.txt) - 95'152 Lines
