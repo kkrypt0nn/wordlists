@@ -25,6 +25,329 @@ If you have any issues or questions of how to code a specific command, you can:
 Me or other people will take their time to answer and help you.
 
 ## 📜 Wordlists
+
+<details>
+  <summary>Togglable Wordlists</summary>
+  <details>
+  <summary>Directory Scanners</summary>
+  <ul>
+    <li><a href="directory_scanner/apache_user_enum_1.0.txt">Apache User Enum 1.0</a> - 8'915 Lines</li>
+    <li><a href="directory_scanner/apache_user_enum_2.0.txt">Apache User Enum 2.0</a> - 10'340 Lines</li>
+    <li><a href="directory_scanner/big.txt">Big</a> - 20'468 Lines</li>
+    <li><a href="directory_scanner/common.txt">Common</a> - 4'612 Lines</li>
+    <li><a href="directory_scanner/directories.txt">Directories</a> - 58'655 Lines</li>
+    <li><a href="directory_scanner/directory_list_1.0.txt">Directory List 1.0</a> - 141'693 Lines</li>
+    <li><a href="directory_scanner/directory_list_2.3_medium.txt">Directory List 2.3 Medium</a> - 220'545 Lines</li>
+    <li><a href="directory_scanner/directory_list_2.3_small.txt">Directory List 2.3 Small</a> - 87'649 Lines</li>
+    <li><a href="directory_scanner/directory_list_lowercase_2.3_medium.txt">Directory List Lowercase 2.3 Medium</a> - 207'628 Lines</li>
+    <li><a href="directory_scanner/directory_list_lowercase_2.3_small.txt">Directory List Lowercase 2.3 Small</a> - 81'628 Lines</li>
+    <li><a href="directory_scanner/extensions_common.txt">Extensions Common</a> - 27 Lines</li>
+    <li><a href="directory_scanner/indexes.txt">Indexes</a> - 9 Lines</li>
+    <li><a href="directory_scanner/joomla.txt">Joomla</a> - 1'543 Lines</li>
+    <li><a href="directory_scanner/sensitive_files_unix.txt">Sensitive Files Unix</a> - 15 Lines</li>
+    <li><a href="directory_scanner/sensitive_files_win.txt">Sensitive Files Windows</a> - 6 Lines</li>
+    <li><a href="directory_scanner/top_subdomains.txt">Top Subdomains</a> - 114'531 Lines</li>
+    <li><a href="directory_scanner/wp_plugins.txt">WordPress Plugins</a> - 88'088 Lines</li>
+    <li><a href="directory_scanner/wp_themes.txt">WordPress Themes</a> - 21'148 Lines</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Famous</summary>
+  <ul>
+    <li><a href="famous/dnsmap.txt">DNSMap</a> - 17'576 Lines</li>
+    <li><a href="famous/facebook_phished.txt">Facebook Phished</a> - 2'441 Lines</li>
+    <li><a href="famous/fasttrack.txt">FastTrack</a> - 222 Lines</li>
+    <li><a href="famous/fern_wifi.txt">Fern WiFi</a> - 478 Lines</li>
+    <li><a href="famous/hotmail.txt">Hotmail</a> - 8'932 Lines</li>
+    <li><a href="famous/nmap.txt">Nmap</a> - 4'999 Lines</li>
+    <li><a href="famous/rockyou.zip">RockYou</a> - 14'344'392 Lines</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Languages</summary>
+  <ul>
+    <li><a href="languages/arabic.txt">Arabic</a> - 465'914 Lines</li>
+    <li><a href="languages/croatian.txt">Croatian</a> - 215'956 Lines</li>
+    <li><a href="languages/czech.txt">Czech</a> - 535'889 Lines</li>
+    <li><a href="languages/danish.txt">Danish</a> - 154'437 Lines</li>
+    <li><a href="languages/dutch.txt">Dutch</a> - 173'562 Lines</li>
+    <li><a href="languages/english.txt">English</a> - 354'297 Lines</li>
+    <li><a href="languages/french.txt">French</a> - 336'531 Lines</li>
+    <li><a href="languages/georgian.txt">Georgian</a> - 143'053 Lines</li>
+    <li><a href="languages/german.txt">German</a> - 1'908'814 Lines</li>
+    <li><a href="languages/hebrew.txt">Hebrew</a> - 469'750 Lines</li>
+    <li><a href="languages/italian.txt">Italian</a> - 95'152 Lines</li>
+    <li><a href="languages/norwegian.txt">Norwegian</a> - 322'043 Lines</li>
+    <li><a href="languages/polish.txt">Polish</a> - 300'676 Lines</li>
+    <li><a href="languages/portuguese.txt">Portuguese</a> - 307'374 Lines</li>
+    <li><a href="languages/russian.txt">Russian</a> - 379'323 Lines</li>
+    <li><a href="languages/serbian.txt">Serbian</a> - 263'909 Lines</li>
+    <li><a href="languages/spanish.txt">Spanish</a> - 70'157 Lines</li>
+    <li><a href="languages/swedish.txt">Swedish</a> - 72'370 Lines</li>
+    <li><a href="languages/turkish.txt">Turkish</a> - 371'169 Lines</li>
+    <li><a href="languages/ukrainian.txt">Ukrainian</a> - 126'308 Lines</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Names</summary>
+  <ul>
+    <li><a href="names/top_family_names_usa.txt">Top Family Names USA</a> - 720'303 Lines</li>
+    <li><a href="names/top_female_names_germany.txt">Top Female Names Germany</a> - 4'685 Lines</li>
+    <li><a href="names/top_female_names_usa.txt">Top Female Names USA</a> - 1'000 Lines</li>
+    <li><a href="names/top_male_names_usa.txt">Top Male Names USA</a> - 1'000 Lines</li>
+    <li><a href="names/names.txt">Names</a> - 10'177 Lines</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Passwords</summary>
+  <ul>
+    <li><a href="passwords/000webhost.txt">000webhost</a> - 720'301 Lines</li>
+    <li><a href="passwords/bt4_passwords.txt">BT4 Passwords</a> - 1'652'902 Lines</li>
+    <li><a href="passwords/burnett.txt">Burnett</a> - 1'023 Lines</li>
+    <li><a href="passwords/common_passwords_win.txt">Common Passwords Windows</a> - 814 Lines</li>
+    <li><a href="passwords/common_roots.txt">Common Roots</a> - 4'723 Lines</li>
+    <li><a href="passwords/darkweb_2017.txt">Dark Web 2017</a> - 9'998 Lines</li>
+    <li><a href="passwords/db2_default_passwords.txt">DB2 Default Passwords</a> - 7 Lines</li>
+    <li><a href="passwords/default_passwords_for_services.txt">Default Passwords For Services</a> - 1'242 Lines</li>
+    <li><a href="passwords/dutch_passwords.txt">Dutch Passwords</a> - 4'322'833 Lines</li>
+    <li><a href="passwords/hak5.txt">Hak5</a> - 2'350 Lines</li>
+    <li><a href="passwords/honeynet.txt">Honeynet</a> - 453'008 Lines</li>
+    <li><a href="passwords/http_default_passwords.txt">HTTP Default Passwords</a> - 18 Lines</li>
+    <li><a href="passwords/ipmi_passwords.txt">IPMI Passwords</a> - 998 Lines</li>
+    <li><a href="passwords/keyboard_patterns.txt">Keyboard Patterns</a> - 19 Lines</li>
+    <li><a href="passwords/md5decryptor.txt">md5decryptor</a> - 3'431'315 Lines</li>
+    <li><a href="passwords/medical_devices_passwords.txt">Medical Devices Passwords</a> - 172 Lines</li>
+    <li><a href="passwords/mirai_passwords.txt">Mirai Passwords</a> - 42 Lines</li>
+    <li><a href="passwords/most_used_passwords.txt">Most Used Passwords</a> - 999'997 Lines</li>
+    <li><a href="passwords/most_used_passwords_ncsc.txt">Most Used Passwords NCSC</a> - 99'999 Lines</li>
+    <li><a href="passwords/nord_vpn.txt">Nord VPN</a> - 1'436 Lines</li>
+    <li><a href="passwords/openwall.txt">Openwall</a> - 3'721'223 Lines</li>
+    <li><a href="passwords/password.txt">Password</a> - 88'396 Lines</li>
+    <li><a href="passwords/postgres_default_passwords.txt">PostgreSQL Default Passwords</a> - 3 Lines</li>
+    <li><a href="passwords/probable_wpa.txt">Probable WPA</a> - 4'799 Lines</li>
+    <li><a href="passwords/tomcat_mgr_default_passwords.txt">Tomcat Manager Default Passwords</a> - 6 Lines</li>
+    <li><a href="passwords/top_adobe_passwords.txt">Top Adobe Passwords</a> - 99 Lines</li>
+    <li><a href="passwords/unix_passwords.txt">UNIX Passwords</a> - 1'008 Lines</li>
+    <li><a href="passwords/xato_net_passwords.txt">Xato.net Passwords</a> - 5'189'453 Lines</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Security Question Answers</summary>
+  <ul>
+    <li><a href="security_question_answers/cities.txt">Cities</a> - 98'303 Lines</li>
+    <li><a href="security_question_answers/city_state_country.txt">City, State, Country</a> - 98'303 Lines</li>
+    <li><a href="security_question_answers/common_surnames.txt">Common Surnames</a> - 19'999 Lines</li>
+    <li><a href="security_question_answers/dates.txt">Dates</a> - 751'067 Lines</li>
+    <li><a href="security_question_answers/html_colors.txt">HTML Colors</a> - 147 Lines</li>
+    <li><a href="security_question_answers/street_names.txt">Street Names</a> - 99'999 Lines</li>
+    <li><a href="security_question_answers/us_colleges.txt">US Colleges</a> - 6'751 Lines</li>
+    <li><a href="security_question_answers/us_private_schools.txt">US Private Schools</a> - 21'755 Lines</li>
+    <li><a href="security_question_answers/us_public_schools.txt">US Public Schools</a> - 100'318 Lines</li>
+    <li><a href="security_question_answers/zip_codes.txt">ZIP Codes</a> - 100 Lines</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Stressing</summary>
+  <ul>
+    <li><a href="stressing/3_digits_000_999.txt">3 Digits 000 To 999</a> - 999 Lines</li>
+    <li><a href="stressing/4_digits_0000_9999.txt">4 Digits 0000 To 9999</a> - 9'999 Lines</li>
+    <li><a href="stressing/5_digits_00000_99999.txt">5 Digits 00000 To 99999</a> - 99'999 Lines</li>
+    <li><a href="stressing/6_digits_000000_999999.txt">6 Digits 000000 To 999999</a> - 999'999 Lines</li>
+    <li><a href="stressing/alphanum_case.txt">Alphanumeric Case</a> - 93 Lines</li>
+    <li><a href="stressing/alphanum_case_extra.txt">Alphanumeric Case Extra</a> - 61 Lines</li>
+    <li><a href="stressing/char.txt">Characters</a> - 25 Lines</li>
+    <li><a href="stressing/unicode.txt">Unicode</a> - 65'535 Lines</li>
+    <li><a href="stressing/uri_hex.txt">URI Hex</a> - 255 Lines</li>
+  </ul>
+</details>
+
+<details>
+  <summary>User Agents</summary>
+  <details>
+    <summary>Hardware Type Specific</summary>
+    <ul>
+      <li><a href="user_agents/hardware_type_specific/billboard.txt">Billboard</a> - 11 Lines</li>
+      <li><a href="user_agents/hardware_type_specific/car.txt">Car</a> - 10 Lines</li>
+      <li><a href="user_agents/hardware_type_specific/computer.txt">Computer</a> - 222'966 Lines</li>
+      <li><a href="user_agents/hardware_type_specific/ebook_reader.txt">Ebook Reader</a> - 1'931 Lines</li>
+      <li><a href="user_agents/hardware_type_specific/game_console.txt">Game Console</a> - 322 Lines</li>
+      <li><a href="user_agents/hardware_type_specific/glasses.txt">Glasses</a> - 4 Lines</li>
+      <li><a href="user_agents/hardware_type_specific/handheld_game.txt">Handheld Game</a> - 189 Lines</li>
+      <li><a href="user_agents/hardware_type_specific/large_screen.txt">Large Screen</a> - 389 Lines</li>
+      <li><a href="user_agents/hardware_type_specific/media_player.txt">Media Player</a> - 39 Lines</li>
+      <li><a href="user_agents/hardware_type_specific/mobile.txt">Mobile</a> - 138'616 Lines</li>
+      <li><a href="user_agents/hardware_type_specific/music_player.txt">Music Player</a> - 818 Lines</li>
+      <li><a href="user_agents/hardware_type_specific/pda.txt">PDA</a> - 2 Lines</li>
+      <li><a href="user_agents/hardware_type_specific/phone.txt">Phone</a> - 100'478 Lines</li>
+      <li><a href="user_agents/hardware_type_specific/server.txt">Server</a> - 1'755 Lines</li>
+      <li><a href="user_agents/hardware_type_specific/tablet.txt">Tablet</a> - 26'315 Lines</li>
+      <li><a href="user_agents/hardware_type_specific/tv.txt">TV</a> - 1'109 Lines</li>
+    </ul>
+  </details>
+  <details>
+    <summary>Operating System Name</summary>
+    <ul>
+      <li><a href="user_agents/operating_system_name/android.txt">Android</a> - 202'129 Lines</li>
+      <li><a href="user_agents/operating_system_name/bada.txt">Bada</a> - 182 Lines</li>
+      <li><a href="user_agents/operating_system_name/beos.txt">Beos</a> - 15 Lines</li>
+      <li><a href="user_agents/operating_system_name/blackberry_os.txt">Blackberry OS</a> - 2'365 Lines</li>
+      <li><a href="user_agents/operating_system_name/chromeos.txt">ChromeOS</a> - 1'757 Lines</li>
+      <li><a href="user_agents/operating_system_name/darwin.txt">Darwin</a> - 549 Lines</li>
+      <li><a href="user_agents/operating_system_name/fire_os.txt">Fire OS</a> - 1'869 Lines</li>
+      <li><a href="user_agents/operating_system_name/freebsd.txt">FreeBSD</a> - 812 Lines</li>
+      <li><a href="user_agents/operating_system_name/haiku.txt">Haiku</a> - 45 Lines</li>
+      <li><a href="user_agents/operating_system_name/hp_webos.txt">HP WebOS</a> - 21 Lines</li>
+      <li><a href="user_agents/operating_system_name/ios.txt">iOS</a> - 23'835 Lines</li>
+      <li><a href="user_agents/operating_system_name/irix.txt">Irix</a> - 13 Lines</li>
+      <li><a href="user_agents/operating_system_name/linux.txt">Linux</a> - 20'823 Lines</li>
+      <li><a href="user_agents/operating_system_name/livearea.txt">LiveArea</a> - 52 Lines</li>
+      <li><a href="user_agents/operating_system_name/mac.txt">Mac</a> - 654 Lines</li>
+      <li><a href="user_agents/operating_system_name/mac_os_x.txt">Mac OS X</a> - 18'903 Lines</li>
+      <li><a href="user_agents/operating_system_name/macos.txt">MacOS</a> - 5'147 Lines</li>
+      <li><a href="user_agents/operating_system_name/openbsd.txt">OpenBSD</a> - 285 Lines</li>
+      <li><a href="user_agents/operating_system_name/palmos.txt">Palmos</a> - 18 Lines</li>
+      <li><a href="user_agents/operating_system_name/rim_tablet_os.txt">Rim Rablet OS</a> - 12 Lines</li>
+      <li><a href="user_agents/operating_system_name/sunos.txt">SunOS</a> - 293 Lines</li>
+      <li><a href="user_agents/operating_system_name/symbian.txt">Symbian</a> - 3'438 Lines</li>
+      <li><a href="user_agents/operating_system_name/unix_based_os.txt">Unix Based OS</a> - 598 Lines</li>
+      <li><a href="user_agents/operating_system_name/webos.txt">WebOS</a> - 42 Lines</li>
+      <li><a href="user_agents/operating_system_name/windows_mobile.txt">Windows Mobile</a> - 354 Lines</li>
+      <li><a href="user_agents/operating_system_name/windows_phone.txt">Windows Phone</a> - 2'193 Lines</li>
+      <li><a href="user_agents/operating_system_name/windows.txt">Windows</a> - 183'284 Lines</li>
+    </ul>
+  </details>
+  <details>
+    <summary>Software Name</summary>
+    <ul>
+      <li><a href="user_agents/software_name/1337browser.txt">1337 Browser</a> - 5 Lines</li>
+      <li><a href="user_agents/software_name/alexa_certification_scanner.txt">Alexa Certification Scanner</a> - 1 Lines</li>
+      <li><a href="user_agents/software_name/android_browser.txt">Android Browser</a> - 33'081 Lines</li>
+      <li><a href="user_agents/software_name/blackberry_browser.txt">Blackberry Browser</a> - 1'854 Lines</li>
+      <li><a href="user_agents/software_name/brave.txt">Brave</a> - 70 Lines</li>
+      <li><a href="user_agents/software_name/chrome.txt">Chrome</a> - 182'359 Lines</li>
+      <li><a href="user_agents/software_name/chromium.txt">Chromium</a> - 870 Lines</li>
+      <li><a href="user_agents/software_name/curl.txt">Curl</a> - 232 Lines</li>
+      <li><a href="user_agents/software_name/discord_bot.txt">Discord Bot</a> - 1 Lines</li>
+      <li><a href="user_agents/software_name/ea_origin_browser.txt">EA Origin Browser</a> - 312 Lines</li>
+      <li><a href="user_agents/software_name/edge.txt">Edge</a> - 3'605 Lines</li>
+      <li><a href="user_agents/software_name/electron_application.txt">Electron Application</a> - 632 Lines</li>
+      <li><a href="user_agents/software_name/excel.txt">Excel</a> - 9 Lines</li>
+      <li><a href="user_agents/software_name/facebook_app.txt">Facebook App</a> - 6'810 Lines</li>
+      <li><a href="user_agents/software_name/facebook_bot.txt">Facebook Bot</a> - 19 Lines</li>
+      <li><a href="user_agents/software_name/firebird.txt">Firebird</a> - 98 Lines</li>
+      <li><a href="user_agents/software_name/firefox.txt">Firefox</a> - 26'035 Lines</li>
+      <li><a href="user_agents/software_name/googlebot.txt">Google Bot</a> - 276 Lines</li>
+      <li><a href="user_agents/software_name/google_earth_pro.txt">Google Earth Pro</a> - 24 Lines</li>
+      <li><a href="user_agents/software_name/google_earth.txt">Google Earth</a> - 39 Lines</li>
+      <li><a href="user_agents/software_name/google_favicon_crawler.txt">Google Favicon Crawler</a> - 3 Lines</li>
+      <li><a href="user_agents/software_name/google_search_app.txt">Google Search App</a> - 2'381 Lines</li>
+      <li><a href="user_agents/software_name/google_site_verifier_bot.txt">Google Site Verifier Bot</a> - 2 Lines</li>
+      <li><a href="user_agents/software_name/iceweasel.txt">Iceweasel</a> - 555 Lines</li>
+      <li><a href="user_agents/software_name/internet_explorer_mobile.txt">Internet Explorer Mobile</a> - 1'068 Lines</li>
+      <li><a href="user_agents/software_name/internet_explorer.txt">Internet Explorer</a> - 102'404 Lines</li>
+      <li><a href="user_agents/software_name/internet_tv_browser.txt">Internet TV Browser</a> - 354 Lines</li>
+      <li><a href="user_agents/software_name/itunes.txt">iTunes</a> - 30 Lines</li>
+      <li><a href="user_agents/software_name/java_runtime_environment.txt">Java Runtime Environment</a> - 518 Lines</li>
+      <li><a href="user_agents/software_name/kindle_browser.txt">Kindle Browser</a> - 76 Lines</li>
+      <li><a href="user_agents/software_name/motorola_internet_browser.txt">Motorola Internet Browser</a> - 19 Lines</li>
+      <li><a href="user_agents/software_name/nintendo_browser.txt">Nintendo Browser</a> - 89 Lines</li>
+      <li><a href="user_agents/software_name/nokia_browser.txt">Nokia Browser</a> - 1'240 Lines</li>
+      <li><a href="user_agents/software_name/onenote.txt">OneNote</a> - 2 Lines</li>
+      <li><a href="user_agents/software_name/opera_mini.txt">Opera Mini</a> - 30'825 Lines</li>
+      <li><a href="user_agents/software_name/opera.txt">Opera</a> - 17'145 Lines</li>
+      <li><a href="user_agents/software_name/outlook.txt">Outlook</a> - 384 Lines</li>
+      <li><a href="user_agents/software_name/pinterest_app.txt">Pinterest App</a> - 1'283 Lines</li>
+      <li><a href="user_agents/software_name/pinterest_bot.txt">Pinterest Bot</a> - 6 Lines</li>
+      <li><a href="user_agents/software_name/playstation_4_browser.txt">PlayStation 4 Browser</a> - 72 Lines</li>
+      <li><a href="user_agents/software_name/powerpoint.txt">PowerPoint</a> - 10 Lines</li>
+      <li><a href="user_agents/software_name/python_urllib.txt">Python urllib</a> - 18 Lines</li>
+      <li><a href="user_agents/software_name/safari.txt">Safari</a> - 12'186 Lines</li>
+      <li><a href="user_agents/software_name/samsung_browser.txt">Samsung Browser</a> - 5'326 Lines</li>
+      <li><a href="user_agents/software_name/slackbot_link_checker.txt">Slack Bot Link Checker</a> - 2 Lines</li>
+      <li><a href="user_agents/software_name/sony_web_browser.txt">Sony Web Browser</a> - 4 Lines</li>
+      <li><a href="user_agents/software_name/tweetmeme_bot.txt">TweetMeme Bot</a> - 3 Lines</li>
+      <li><a href="user_agents/software_name/twitter_app.txt">Twitter App</a> - 154 Lines</li>
+      <li><a href="user_agents/software_name/twitterbot.txt">Twitter Bot</a> - 4 Lines</li>
+      <li><a href="user_agents/software_name/valve_steam_game_overlay.txt">Valve Steam Game Overlay</a> - 1'009 Lines</li>
+      <li><a href="user_agents/software_name/vision_mobile_browser.txt">Vision Mobile Browser</a> - 3 Lines</li>
+      <li><a href="user_agents/software_name/w3c_css_validator.txt">w3c CSS Validator</a> - 4 Lines</li>
+      <li><a href="user_agents/software_name/w3c_link_checker.txt">w3c Link Checker</a> - 6 Lines</li>
+      <li><a href="user_agents/software_name/w3c_validator.txt">w3c Validator</a> - 9 Lines</li>
+      <li><a href="user_agents/software_name/webtv.txt">WebTV</a> - 6 Lines</li>
+      <li><a href="user_agents/software_name/wget.txt">Wget</a> - 70 Lines</li>
+      <li><a href="user_agents/software_name/word.txt">Word</a> - 32 Lines</li>
+      <li><a href="user_agents/software_name/yandex_browser.txt">Yandex Browser</a> - 2'175 Lines</li>
+    </ul>
+  </details>
+</details>
+
+<details>
+  <summary>Usernames</summary>
+  <ul>
+    <li><a href="usernames/cirt_default_usernames.txt">CIRT Default Usernames</a> - 827 Lines</li>
+    <li><a href="usernames/common_admin_base64.txt">Common Admin Base64</a> - 57 Lines</li>
+    <li><a href="usernames/db2_default_user.txt">DB2 Default User</a> - 5 Lines</li>
+    <li><a href="usernames/default_users_for_services.txt">Default Users For Services</a> - 919 Lines</li>
+    <li><a href="usernames/http_default_users.txt">HTTP Default Users</a> - 27 Lines</li>
+    <li><a href="usernames/ipmi_users.txt">IPMI Users</a> - 14 Lines</li>
+    <li><a href="usernames/mirai_user.txt">Mirai User</a> - 15 Lines</li>
+    <li><a href="usernames/multiple_sources_users.txt">Multiple Sources Users</a> - 21'167 Lines</li>
+    <li><a href="usernames/postgres_default_user.txt">PostgreSQL</a> - 3 Lines</li>
+    <li><a href="usernames/tomcat_mgr_default_users.txt">Tomcat Manager Default Users</a> - 100 Lines</li>
+    <li><a href="usernames/unix_users.txt">UNIX Users</a> - 167 Lines</li>
+    <li><a href="usernames/xato_net_usernames.txt">Xato.net Usernames</a> - 8'295'455 Lines</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Vulnerabilities</summary>
+  <ul>
+    <li><a href="vulnerabilities/all_attacks.txt">All Attacks</a> - 468 Lines</li>
+    <li><a href="vulnerabilities/apache.txt">Apache</a> - 29 Lines</li>
+    <li><a href="vulnerabilities/axis.txt">Axis</a> - 16 Lines</li>
+    <li><a href="vulnerabilities/cgis.txt">Cgis</a> - 3'493 Lines</li>
+    <li><a href="vulnerabilities/coldfusion.txt">ColdFusion</a> - 21 Lines</li>
+    <li><a href="vulnerabilities/dirTraversal_nix.txt">Directory Traversal NIX</a> - 870 Lines</li>
+    <li><a href="vulnerabilities/dirTraversal.txt">Directory Traversal</a> - 846 Lines</li>
+    <li><a href="vulnerabilities/dirTraversal_win.txt">Directory Traversal Windows</a> - 846 Lines</li>
+    <li><a href="vulnerabilities/domino.txt">Domino</a> - 290 Lines</li>
+    <li><a href="vulnerabilities/fatwire_page_names.txt">FatWire Page Names</a> - 2'711 Lines</li>
+    <li><a href="vulnerabilities/fatwire.txt">FatWire</a> - 100 Lines</li>
+    <li><a href="vulnerabilities/front_page.txt">Front Page</a> - 42 Lines</li>
+    <li><a href="vulnerabilities/hpsmh.txt">HP System Management Homepage</a> - 237 Lines</li>
+    <li><a href="vulnerabilities/hyperion.txt">Hyperion</a> - 578 Lines</li>
+    <li><a href="vulnerabilities/iis.txt">Internet Information Services</a> - 58 Lines</li>
+    <li><a href="vulnerabilities/iplanet.txt">iPlanet</a> - 35 Lines</li>
+    <li><a href="vulnerabilities/jboss.txt">JBoss</a> - 18 Lines</li>
+    <li><a href="vulnerabilities/jersey.txt">Jersey</a> - 120 Lines</li>
+    <li><a href="vulnerabilities/jrun.txt">JRun</a> - 12 Lines</li>
+    <li><a href="vulnerabilities/netware.txt">NetWare</a> - 59 Lines</li>
+    <li><a href="vulnerabilities/oracle.txt">Oracle</a> - 1'074 Lines</li>
+    <li><a href="vulnerabilities/ror.txt">ROR</a> - 120 Lines</li>
+    <li><a href="vulnerabilities/sap.txt">SAP</a> - 1'110 Lines</li>
+    <li><a href="vulnerabilities/sharepoint.txt">SharePoint</a> - 1'707 Lines</li>
+    <li><a href="vulnerabilities/sql_inj.txt">SQL Injections</a> - 40 Lines</li>
+    <li><a href="vulnerabilities/sql.txt">SQL</a> - 125 Lines</li>
+    <li><a href="vulnerabilities/sunas.txt">Sunas</a> - 50 Lines</li>
+    <li><a href="vulnerabilities/tests.txt">Test</a> - 32 Lines</li>
+    <li><a href="vulnerabilities/tomcat.txt">Tomcat</a> - 86 Lines</li>
+    <li><a href="vulnerabilities/vignette.txt">Vignette</a> - 72 Lines</li>
+    <li><a href="vulnerabilities/weblogic.txt">WebLogic</a> - 360 Lines</li>
+    <li><a href="vulnerabilities/websphere.txt">WebSphere</a> - 560 Lines</li>
+    <li><a href="vulnerabilities/xml.txt">XML</a> - 15 Lines</li>
+    <li><a href="vulnerabilities/xss.txt">XSS</a> - 22'596 Lines</li>
+  </ul>
+</details>
+</details>
+
+<hr>
+
 * Directory Scanners
   * [Apache User Enum 1.0](directory_scanner/apache_user_enum_1.0.txt) - 8'915 Lines
   * [Apache User Enum 2.0](directory_scanner/apache_user_enum_2.0.txt) - 10'340 Lines
