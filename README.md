@@ -13,16 +13,13 @@
   <a href="//github.com/kkrypt0nn/Wordlists/contributors"><img src="https://img.shields.io/github/contributors/kkrypt0nn/Wordlists"></a>
 </p>
 
-## 🆘 Support
-If you need some help for something, do not hesitate to join my discord server [here](https://discord.gg/mTBrXyWxAF).
-
-## ❔ Issues or questions
-If you have any issues or questions of how to code a specific command, you can:
+## 🌍 Contributing
+If you have a wordlist that you wish to see here, you can:
 
 * Join my discord server [here](https://discord.gg/mTBrXyWxAF)
 * Post them [here](https://github.com/kkrypt0nn/Wordlists/issues)
 
-Me or other people will take their time to answer and help you.
+If you already have a wordlist ready to be adeded, make sure to [open a pull request](https://github.com/kkrypt0nn/wordlists/pulls).
 
 ## 📜 Wordlists
 
