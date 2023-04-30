@@ -28,10 +28,12 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
   <details>
   <summary>Directory Scanners</summary>
   <ul>
+    <li><a href="directory_scanner/apache.txt">Apache</a> - 13'232 Lines</li>
     <li><a href="directory_scanner/apache_user_enum_1.0.txt">Apache User Enum 1.0</a> - 8'915 Lines</li>
     <li><a href="directory_scanner/apache_user_enum_2.0.txt">Apache User Enum 2.0</a> - 10'340 Lines</li>
     <li><a href="directory_scanner/big.txt">Big</a> - 20'468 Lines</li>
     <li><a href="directory_scanner/common.txt">Common</a> - 4'612 Lines</li>
+    <li><a href="directory_scanner/conf.txt">Conf</a> - 100'926 Lines</li>
     <li><a href="directory_scanner/directories.txt">Directories</a> - 58'655 Lines</li>
     <li><a href="directory_scanner/directory_list_1.0.txt">Directory List 1.0</a> - 141'693 Lines</li>
     <li><a href="directory_scanner/directory_list_2.3_medium.txt">Directory List 2.3 Medium</a> - 220'545 Lines</li>
@@ -39,8 +41,12 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
     <li><a href="directory_scanner/directory_list_lowercase_2.3_medium.txt">Directory List Lowercase 2.3 Medium</a> - 207'628 Lines</li>
     <li><a href="directory_scanner/directory_list_lowercase_2.3_small.txt">Directory List Lowercase 2.3 Small</a> - 81'628 Lines</li>
     <li><a href="directory_scanner/extensions_common.txt">Extensions Common</a> - 27 Lines</li>
+    <li><a href="directory_scanner/fuzz_php_special.txt">Fuzz PHP Special</a> - 136'921 Lines</li>
     <li><a href="directory_scanner/indexes.txt">Indexes</a> - 9 Lines</li>
     <li><a href="directory_scanner/joomla.txt">Joomla</a> - 1'543 Lines</li>
+    <li><a href="directory_scanner/jsp.txt">JSP</a> - 92'216 Lines</li>
+    <li><a href="directory_scanner/most_common.txt">Most Common</a> - 1'011 Lines</li>
+    <li><a href="directory_scanner/robotx.txt">Robots</a> - 990 Lines</li>
     <li><a href="directory_scanner/sensitive_files_unix.txt">Sensitive Files Unix</a> - 15 Lines</li>
     <li><a href="directory_scanner/sensitive_files_win.txt">Sensitive Files Windows</a> - 6 Lines</li>
     <li><a href="directory_scanner/top_subdomains.txt">Top Subdomains</a> - 114'531 Lines</li>
@@ -324,6 +330,7 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
     <li><a href="vulnerabilities/jboss.txt">JBoss</a> - 18 Lines</li>
     <li><a href="vulnerabilities/jersey.txt">Jersey</a> - 120 Lines</li>
     <li><a href="vulnerabilities/jrun.txt">JRun</a> - 12 Lines</li>
+    <li><a href="vulnerabilities/juicy_files.txt">Juicy Files</a> - 187'964 Lines</li>
     <li><a href="vulnerabilities/netware.txt">NetWare</a> - 59 Lines</li>
     <li><a href="vulnerabilities/oracle.txt">Oracle</a> - 1'074 Lines</li>
     <li><a href="vulnerabilities/ror.txt">ROR</a> - 120 Lines</li>
@@ -331,6 +338,7 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
     <li><a href="vulnerabilities/sharepoint.txt">SharePoint</a> - 1'707 Lines</li>
     <li><a href="vulnerabilities/sql_inj.txt">SQL Injections</a> - 40 Lines</li>
     <li><a href="vulnerabilities/sql.txt">SQL</a> - 125 Lines</li>
+    <li><a href="vulnerabilities/ssti.txt">SSTI</a> - 107 Lines</li>
     <li><a href="vulnerabilities/sunas.txt">Sunas</a> - 50 Lines</li>
     <li><a href="vulnerabilities/tests.txt">Test</a> - 32 Lines</li>
     <li><a href="vulnerabilities/tomcat.txt">Tomcat</a> - 86 Lines</li>
@@ -346,10 +354,12 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
 <hr>
 
 * Directory Scanners
+  * [Apache](directory_scanner/apache.txt) - 13'232 Lines
   * [Apache User Enum 1.0](directory_scanner/apache_user_enum_1.0.txt) - 8'915 Lines
   * [Apache User Enum 2.0](directory_scanner/apache_user_enum_2.0.txt) - 10'340 Lines
   * [Big](directory_scanner/big.txt) - 20'468 Lines
   * [Common](directory_scanner/common.txt) - 4'612 Lines
+  * [Conf](directory_scanner/conf.txt) - 100'926 Lines
   * [Directories](directory_scanner/directories.txt) - 58'655 Lines
   * [Directory List 1.0](directory_scanner/directory_list_1.0.txt) - 141'693 Lines
   * [Directory List 2.3 Medium](directory_scanner/directory_list_2.3_medium.txt) - 220'545 Lines
@@ -357,8 +367,12 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
   * [Directory List Lowercase 2.3 Medium](directory_scanner/directory_list_lowercase_2.3_medium.txt) - 207'628 Lines
   * [Directory List Lowercase 2.3 Small](directory_scanner/directory_list_lowercase_2.3_small.txt) - 81'628 Lines
   * [Extensions Common](directory_scanner/extensions_common.txt) - 27 Lines
+  * [Fuzz PHP Special](directory_scanner/fuzz_php_special.txt) - 136'921 Lines
   * [Indexes](directory_scanner/indexes.txt) - 9 Lines
   * [Joomla](directory_scanner/joomla.txt) - 1'543 Lines
+  * [JSP](directory_scanner/jsp.txt) - 92'216 Lines
+  * [Most Common](directory_scanner/most_common.txt) - 1'011 Lines
+  * [Robots](directory_scanner/robots.txt) - 990 Lines
   * [Sensitive Files Unix](directory_scanner/sensitive_files_unix.txt) - 15 Lines
   * [Sensitive Files Windows](directory_scanner/sensitive_files_win.txt) - 6 Lines
   * [Top Subdomains](directory_scanner/top_subdomains.txt) - 114'531 Lines
@@ -587,6 +601,7 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
   * [JBoss](vulnerabilities/jboss.txt) - 18 Lines
   * [Jersey](vulnerabilities/jersey.txt) - 120 Lines
   * [JRun](vulnerabilities/jrun.txt) - 12 Lines
+  * [Juicy Files](vulnerabilities/juicy_files.txt) - 187'964 Lines
   * [NetWare](vulnerabilities/netware.txt) - 59 Lines
   * [Oracle](vulnerabilities/oracle.txt) - 1'074 Lines
   * [ROR](vulnerabilities/ror.txt) - 120 Lines
@@ -594,6 +609,7 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
   * [SharePoint](vulnerabilities/sharepoint.txt) - 1'707 Lines
   * [SQL Injections](vulnerabilities/sql_inj.txt) - 40 Lines
   * [SQL](vulnerabilities/sql.txt) - 125 Lines
+  * [SSTI](vulnerabilities/ssti.txt) - 107 Lines
   * [Sunas](vulnerabilities/sunas.txt) - 50 Lines
   * [Test](vulnerabilities/tests.txt) - 32 Lines
   * [Tomcat](vulnerabilities/tomcat.txt) - 86 Lines
