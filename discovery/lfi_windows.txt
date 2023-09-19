@@ -1,0 +1,466 @@
+/Program Files/Apache Group/Apache/apache.conf
+/Program Files/Apache Group/Apache/apache2.conf
+/Program Files/Apache Group/Apache/conf/apache.conf
+/Program Files/Apache Group/Apache/conf/apache2.conf
+/Program Files/Apache Group/Apache/conf/httpd.conf
+/Program Files/Apache Group/Apache/logs/access.log
+/Program Files/Apache Group/Apache/logs/error.log
+/Program Files/Apache Group/Apache2/conf/apache.conf
+/Program Files/Apache Group/Apache2/conf/apache2.conf
+/Program Files/Apache Group/Apache2/conf/httpd.conf
+/Program Files/Apache Software Foundation/Apache2.2/conf/httpd.conf
+/Program Files/Apache Software Foundation/Apache2.2/logs/access.log
+/Program Files/Apache Software Foundation/Apache2.2/logs/error.log
+/Program Files/MySQL/MySQL Server 5.0/data/mysql-bin.index
+/Program Files/MySQL/MySQL Server 5.0/data/mysql-bin.log
+/Program Files/MySQL/MySQL Server 5.0/data/mysql.err
+/Program Files/MySQL/MySQL Server 5.0/data/mysql.log
+/Program Files/MySQL/MySQL Server 5.0/data/{HOST}.err
+/Program Files/MySQL/MySQL Server 5.0/my.cnf
+/Program Files/MySQL/MySQL Server 5.0/my.ini
+/Program Files/MySQL/data/mysql-bin.index
+/Program Files/MySQL/data/mysql-bin.log
+/Program Files/MySQL/data/mysql.err
+/Program Files/MySQL/data/mysql.log
+/Program Files/MySQL/data/{HOST}.err
+/Program Files/MySQL/my.cnf
+/Program Files/MySQL/my.ini
+/Program Files/PostgreSQL/8.3/data/pg_hba.conf
+/Program Files/PostgreSQL/8.3/data/pg_ident.conf
+/Program Files/PostgreSQL/8.3/data/postgresql.conf
+/Program Files/PostgreSQL/8.4/data/pg_hba.conf
+/Program Files/PostgreSQL/8.4/data/pg_ident.conf
+/Program Files/PostgreSQL/8.4/data/postgresql.conf
+/Program Files/PostgreSQL/9.0/data/pg_hba.conf
+/Program Files/PostgreSQL/9.0/data/pg_ident.conf
+/Program Files/PostgreSQL/9.0/data/postgresql.conf
+/Program Files/PostgreSQL/9.1/data/pg_hba.conf
+/Program Files/PostgreSQL/9.1/data/pg_ident.conf
+/Program Files/PostgreSQL/9.1/data/postgresql.conf
+/Program Files/Vidalia Bundle/Polipo/polipo.conf
+/Program Files/[JBOSS]/server/default/conf/jboss-minimal.xml
+/Program Files/[JBOSS]/server/default/conf/jboss-service.xml
+/Program Files/[JBOSS]/server/default/conf/jndi.properties
+/Program Files/[JBOSS]/server/default/conf/log4j.xml
+/Program Files/[JBOSS]/server/default/conf/login-config.xml
+/Program Files/[JBOSS]/server/default/conf/server.log.properties
+/Program Files/[JBOSS]/server/default/conf/standardjaws.xml
+/Program Files/[JBOSS]/server/default/conf/standardjboss.xml
+/Program Files/[JBOSS]/server/default/deploy/jboss-logging.xml
+/Program Files/[JBOSS]/server/default/log/boot.log
+/Program Files/[JBOSS]/server/default/log/server.log
+/Program Files/xampp/apache/conf/apache.conf
+/Program Files/xampp/apache/conf/apache2.conf
+/Program Files/xampp/apache/conf/httpd.conf
+/Program Files\Apache Group\Apache2\conf\httpd.conf
+/Program Files\Apache Group\Apache\conf\httpd.conf
+/Program Files\Apache Group\Apache\logs\access.log
+/Program Files\Apache Group\Apache\logs\error.log
+/Program Files\xampp\apache\conf\httpd.conf
+C:/$recycle.bin/s-1-5-18/desktop.ini
+C:/MININT/SMSOSD/OSDLOGS/VARIABLES.DAT
+C:/Tomcat/LICENSE
+C:/Tomcat/RELEASE-NOTES
+C:/apache/log/access.log
+C:/apache/log/access_log
+C:/apache/log/error.log
+C:/apache/log/error_log
+C:/apache/logs/access.log
+C:/apache/logs/access_log
+C:/apache/logs/error.log
+C:/apache/logs/error_log
+C:/apache/php/php.ini
+C:/apache2/log/access.log
+C:/apache2/log/access_log
+C:/apache2/log/error.log
+C:/apache2/log/error_log
+C:/apache2/logs/access.log
+C:/apache2/logs/access_log
+C:/apache2/logs/error.log
+C:/apache2/logs/error_log
+C:/boot.ini
+C:/documents and settings/administrator/desktop/desktop.ini
+C:/documents and settings/administrator/ntuser.dat
+C:/documents and settings/administrator/ntuser.ini
+C:/home/bin/stable/apache/php.ini
+C:/home2/bin/stable/apache/php.ini
+C:/inetpub/logs/logfiles
+C:/inetpub/wwwroot/global.asa
+C:/inetpub/wwwroot/index.asp
+C:/inetpub/wwwroot/web.config
+C:/log/access.log
+C:/log/access_log
+C:/log/error.log
+C:/log/error_log
+C:/log/httpd/access_log
+C:/log/httpd/error_log
+C:/logs/access.log
+C:/logs/access_log
+C:/logs/error.log
+C:/logs/error_log
+C:/logs/httpd/access_log
+C:/logs/httpd/error_log
+C:/mysql/bin/my.ini
+C:/mysql/data/hostname.err
+C:/mysql/data/mysql.err
+C:/mysql/data/mysql.log
+C:/mysql/my.cnf
+C:/mysql/my.ini
+C:/nginx/conf/mime.types
+C:/nginx/conf/nginx.conf
+C:/nginx/conf/sites-enabled/default.conf
+C:/nginx/logs/access.log
+C:/nginx/logs/error.log
+C:/opt/xampp/logs/access.log
+C:/opt/xampp/logs/access_log
+C:/opt/xampp/logs/error.log
+C:/opt/xampp/logs/error_log
+C:/php/php.ini
+C:/php/sessions/
+C:/php4/php.ini
+C:/php4/sessions/
+C:/php5/php.ini
+C:/php5/sessions/
+C:/program files (x86)/Tomcat/LICENSE
+C:/program files (x86)/Tomcat/RELEASE-NOTES
+C:/program files (x86)/apache group/apache/conf/access.log
+C:/program files (x86)/apache group/apache/conf/error.log
+C:/program files (x86)/apache group/apache/conf/httpd.conf
+C:/program files (x86)/apache group/apache/logs/access.log
+C:/program files (x86)/apache group/apache/logs/error.log
+C:/program files (x86)/apache group/apache2/conf/httpd.conf
+C:/program files (x86)/filezilla server/filezilla server.xml
+C:/program files (x86)/mysql/data/hostname.err
+C:/program files (x86)/mysql/data/mysql-bin.log
+C:/program files (x86)/mysql/data/mysql.err
+C:/program files (x86)/mysql/data/mysql.log
+C:/program files (x86)/mysql/my.cnf
+C:/program files (x86)/mysql/my.ini
+C:/program files (x86)/mysql/mysql server 5.0/data/hostname.err
+C:/program files (x86)/mysql/mysql server 5.0/data/mysql-bin.log
+C:/program files (x86)/mysql/mysql server 5.0/data/mysql.err
+C:/program files (x86)/mysql/mysql server 5.0/data/mysql.log
+C:/program files (x86)/mysql/mysql server 5.0/my.cnf
+C:/program files (x86)/mysql/mysql server 5.0/my.ini
+C:/program files (x86)/mysql/mysql server 5.1/my.ini
+C:/program files (x86)/xampp/apache/conf/httpd.conf
+C:/program files/Apache Software Foundation/Tomcat 8.0/LICENSE
+C:/program files/Apache Software Foundation/Tomcat 8.0/RELEASE-NOTES
+C:/program files/Apache Software Foundation/Tomcat 8.5/LICENSE
+C:/program files/Apache Software Foundation/Tomcat 8.5/RELEASE-NOTES
+C:/program files/Apache Software Foundation/Tomcat 9.0/LICENSE
+C:/program files/Apache Software Foundation/Tomcat 9.0/RELEASE-NOTES
+C:/program files/Tomcat/LICENSE
+C:/program files/Tomcat/RELEASE-NOTES
+C:/program files/apache group/apache/conf/access.log
+C:/program files/apache group/apache/conf/error.log
+C:/program files/apache group/apache/conf/httpd.conf
+C:/program files/apache group/apache/logs/access.log
+C:/program files/apache group/apache/logs/error.log
+C:/program files/apache group/apache2/conf/httpd.conf
+C:/program files/filezilla server/filezilla server.xml
+C:/program files/mysql/data/hostname.err
+C:/program files/mysql/data/mysql-bin.log
+C:/program files/mysql/data/mysql.err
+C:/program files/mysql/data/mysql.log
+C:/program files/mysql/my.cnf
+C:/program files/mysql/my.ini
+C:/program files/mysql/mysql server 5.0/data/hostname.err
+C:/program files/mysql/mysql server 5.0/data/mysql-bin.log
+C:/program files/mysql/mysql server 5.0/data/mysql.err
+C:/program files/mysql/mysql server 5.0/data/mysql.log
+C:/program files/mysql/mysql server 5.0/my.cnf
+C:/program files/mysql/mysql server 5.0/my.ini
+C:/program files/mysql/mysql server 5.1/my.ini
+C:/program files/xampp/apache/conf/httpd.conf
+C:/programdata/mcafee/common framework/sitelist.xml
+C:/sysprep.inf
+C:/sysprep.xml
+C:/sysprep/sysprep.inf
+C:/sysprep/sysprep.xml
+C:/system volume information/wpsettings.dat
+C:/system32/inetsrv/metabase.xml
+C:/unattend.txt
+C:/unattend.xml
+C:/unattended.txt
+C:/unattended.xml
+C:/users/administrator/.aws/config
+C:/users/administrator/.aws/credentials
+C:/users/administrator/.elasticbeanstalk/config 
+C:/users/administrator/appdata/Roaming/Microsoft/Windows/PowerShell/PSReadline/ConsoleHost_history.txt
+C:/users/administrator/appdata/local/google/chrome/user data/default/bookmarks
+C:/users/administrator/appdata/local/google/chrome/user data/default/bookmarks.bak
+C:/users/administrator/appdata/local/google/chrome/user data/default/cookies
+C:/users/administrator/appdata/local/google/chrome/user data/default/history
+C:/users/administrator/appdata/local/google/chrome/user data/default/last session
+C:/users/administrator/appdata/local/google/chrome/user data/default/login data
+C:/users/administrator/appdata/local/google/chrome/user data/default/preferences
+C:/users/administrator/appdata/local/google/chrome/user data/default/secure preferences
+C:/users/administrator/appdata/local/google/chrome/user data/default/top sites
+C:/users/administrator/desktop/desktop.ini
+C:/users/administrator/desktop/proof.txt
+C:/users/administrator/ntuser.dat
+C:/users/administrator/ntuser.ini
+C:/windows/csc/v2.0.6/pq
+C:/windows/csc/v2.0.6/sm
+C:/windows/debug/netsetup.log
+C:/windows/explorer.exe
+C:/windows/iis5.log
+C:/windows/iis6.log
+C:/windows/iis7.log
+C:/windows/iis8.log
+C:/windows/notepad.exe
+C:/windows/panther/setupinfo
+C:/windows/panther/setupinfo.bak
+C:/windows/panther/sysprep.inf
+C:/windows/panther/sysprep.xml
+C:/windows/panther/unattend.txt
+C:/windows/panther/unattend.xml
+C:/windows/panther/unattend/setupinfo
+C:/windows/panther/unattend/setupinfo.bak
+C:/windows/panther/unattend/sysprep.inf
+C:/windows/panther/unattend/sysprep.xml
+C:/windows/panther/unattend/unattend.txt
+C:/windows/panther/unattend/unattend.xml
+C:/windows/panther/unattend/unattended.txt
+C:/windows/panther/unattend/unattended.xml
+C:/windows/panther/unattended.txt
+C:/windows/panther/unattended.xml
+C:/windows/php.ini
+C:/windows/repair/sam
+C:/windows/repair/security
+C:/windows/repair/software
+C:/windows/repair/system
+C:/windows/system.ini
+C:/windows/system32/config/appevent.evt
+C:/windows/system32/config/default.sav
+C:/windows/system32/config/regback/default
+C:/windows/system32/config/regback/sam
+C:/windows/system32/config/regback/security
+C:/windows/system32/config/regback/software
+C:/windows/system32/config/regback/system
+C:/windows/system32/config/sam
+C:/windows/system32/config/secevent.evt
+C:/windows/system32/config/security.sav
+C:/windows/system32/config/software.sav
+C:/windows/system32/config/system
+C:/windows/system32/config/system.sa
+C:/windows/system32/config/system.sav
+C:/windows/system32/drivers/etc/hosts
+C:/windows/system32/eula.txt
+C:/windows/system32/inetsrv/config/applicationhost.config
+C:/windows/system32/inetsrv/config/schema/aspnet_schema.xml
+C:/windows/system32/license.rtf
+C:/windows/system32/logfiles/httperr/httperr1.log
+C:/windows/system32/sysprep.inf
+C:/windows/system32/sysprep.xml
+C:/windows/system32/sysprep/sysprep.xml
+C:/windows/system32/sysprepsysprep.inf
+C:/windows/system32/sysprepsysprep.xml
+C:/windows/system32/sysprepunattend.txt
+C:/windows/system32/sysprepunattend.xml
+C:/windows/system32/sysprepunattended.txt
+C:/windows/system32/sysprepunattended.xml
+C:/windows/system32/unattend.txt
+C:/windows/system32/unattend.xml
+C:/windows/system32/unattended.txt
+C:/windows/system32/unattended.xml
+C:/windows/temp/
+C:/windows/win.ini
+C:/windows/windowsupdate.log
+C:/winnt/php.ini
+C:/winnt/win.ini
+C:/xampp/apache/bin/php.ini
+C:/xampp/apache/conf/httpd.conf
+C:/xampp/apache/logs/access.log
+C:/xampp/apache/logs/error.log
+C:/xampp/filezillaftp/filezilla server.xml
+C:/xampp/filezillaftp/logs
+C:/xampp/filezillaftp/logs/access.log
+C:/xampp/filezillaftp/logs/error.log
+C:/xampp/mercurymail/logs/access.log
+C:/xampp/mercurymail/logs/error.log
+C:/xampp/mercurymail/mercury.ini
+C:/xampp/mysql/data/mysql.err
+C:/xampp/php/php.ini
+C:/xampp/phpmyadmin/config.inc
+C:/xampp/phpmyadmin/config.inc.php
+C:/xampp/phpmyadmin/phpinfo.php
+C:/xampp/sendmail/sendmail.ini
+C:/xampp/sendmail/sendmail.log
+C:/xampp/tomcat/conf/tomcat-users.xml
+C:/xampp/tomcat/conf/web.xml
+C:/xampp/webalizer/webalizer.conf
+C:/xampp/webdav/webdav.txtc:/MySQL/data/mysql-bin.index
+c:/MySQL/data/mysql-bin.log
+c:/MySQL/data/mysql.err
+c:/MySQL/data/mysql.log
+c:/MySQL/data/{IPDELHOST}.err
+c:/MySQL/my.cnf
+c:/MySQL/my.ini
+c:/NetServer/bin/stable/apache/php.ini
+c:/PHP/php.ini
+c:/PostgreSQL/log/pgadmin.log
+c:/Program Files/Apache Group/Apache/apache.conf
+c:/Program Files/Apache Group/Apache/apache2.conf
+c:/Program Files/Apache Group/Apache/conf/apache.conf
+c:/Program Files/Apache Group/Apache/conf/apache2.conf
+c:/Program Files/Apache Group/Apache/conf/httpd.conf
+c:/Program Files/Apache Group/Apache/logs/access.log
+c:/Program Files/Apache Group/Apache/logs/error.log
+c:/Program Files/Apache Group/Apache2/conf/apache.conf
+c:/Program Files/Apache Group/Apache2/conf/apache2.conf
+c:/Program Files/Apache Group/Apache2/conf/httpd.conf
+c:/Program Files/Apache Software Foundation/Apache2.2/conf/httpd.conf
+c:/Program Files/Apache Software Foundation/Apache2.2/logs/access.log
+c:/Program Files/Apache Software Foundation/Apache2.2/logs/error.log
+c:/Program Files/MySQL/MySQL Server 5.0/data/mysql-bin.index
+c:/Program Files/MySQL/MySQL Server 5.0/data/mysql-bin.log
+c:/Program Files/MySQL/MySQL Server 5.0/data/mysql.err
+c:/Program Files/MySQL/MySQL Server 5.0/data/mysql.log
+c:/Program Files/MySQL/MySQL Server 5.0/data/{IPDELHOST}.err
+c:/Program Files/MySQL/MySQL Server 5.0/my.cnf
+c:/Program Files/MySQL/MySQL Server 5.0/my.ini
+c:/Program Files/MySQL/data/mysql-bin.index
+c:/Program Files/MySQL/data/mysql-bin.log
+c:/Program Files/MySQL/data/mysql.err
+c:/Program Files/MySQL/data/mysql.log
+c:/Program Files/MySQL/data/{IPDELHOST}.err
+c:/Program Files/MySQL/my.cnf
+c:/Program Files/MySQL/my.ini
+c:/Program Files/PostgreSQL/8.3/data/pg_hba.conf
+c:/Program Files/PostgreSQL/8.3/data/pg_ident.conf
+c:/Program Files/PostgreSQL/8.3/data/postgresql.conf
+c:/Program Files/PostgreSQL/8.4/data/pg_hba.conf
+c:/Program Files/PostgreSQL/8.4/data/pg_ident.conf
+c:/Program Files/PostgreSQL/8.4/data/postgresql.conf
+c:/Program Files/PostgreSQL/9.0/data/pg_hba.conf
+c:/Program Files/PostgreSQL/9.0/data/pg_ident.conf
+c:/Program Files/PostgreSQL/9.0/data/postgresql.conf
+c:/Program Files/PostgreSQL/9.1/data/pg_hba.conf
+c:/Program Files/PostgreSQL/9.1/data/pg_ident.conf
+c:/Program Files/PostgreSQL/9.1/data/postgresql.conf
+c:/Program Files/Vidalia Bundle/Polipo/polipo.conf
+c:/Program Files/xampp/apache/conf/apache.conf
+c:/Program Files/xampp/apache/conf/apache2.conf
+c:/Program Files/xampp/apache/conf/httpd.conf
+c:/WINDOWS/Debug/NetSetup.LOG
+c:/WINDOWS/ODBC.INI
+c:/WINDOWS/WindowsUpdate.log
+c:/WINDOWS/comsetup.log
+c:/WINDOWS/php.ini
+c:/WINDOWS/repair/setup.log
+c:/WINDOWS/setupact.log
+c:/WINDOWS/setupapi.log
+c:/WINDOWS/setuperr.log
+c:/WINDOWS/system32/Macromed/Flash/FlashInstall.log
+c:/WINDOWS/system32/Macromed/Flash/install.log
+c:/WINDOWS/system32/drivers/etc/hosts
+c:/WINDOWS/system32/drivers/etc/lmhosts.sam
+c:/WINDOWS/system32/drivers/etc/networks
+c:/WINDOWS/system32/drivers/etc/protocol
+c:/WINDOWS/system32/drivers/etc/services
+c:/WINDOWS/system32/logfiles/Firewall/pfirewall.log
+c:/WINDOWS/system32/logfiles/Firewall/pfirewall.log.old
+c:/WINDOWS/system32/logfiles/MSFTPSVC
+c:/WINDOWS/system32/logfiles/MSFTPSVC1
+c:/WINDOWS/system32/logfiles/MSFTPSVC2
+c:/WINDOWS/system32/logfiles/SMTPSVC
+c:/WINDOWS/system32/logfiles/SMTPSVC1
+c:/WINDOWS/system32/logfiles/SMTPSVC2
+c:/WINDOWS/system32/logfiles/SMTPSVC3
+c:/WINDOWS/system32/logfiles/SMTPSVC4
+c:/WINDOWS/system32/logfiles/SMTPSVC5
+c:/WINDOWS/system32/logfiles/W3SVC/inetsvn1.log
+c:/WINDOWS/system32/logfiles/W3SVC1/inetsvn1.log
+c:/WINDOWS/system32/logfiles/W3SVC2/inetsvn1.log
+c:/WINDOWS/system32/logfiles/W3SVC3/inetsvn1.log
+c:/WINDOWS/updspapi.log
+c:/WINDOWS/wmsetup.log
+c:/WINNT/php.ini
+c:/WINNT/system32/logfiles/Firewall/pfirewall.log
+c:/WINNT/system32/logfiles/Firewall/pfirewall.log.old
+c:/WINNT/system32/logfiles/MSFTPSVC
+c:/WINNT/system32/logfiles/MSFTPSVC1
+c:/WINNT/system32/logfiles/MSFTPSVC2
+c:/WINNT/system32/logfiles/SMTPSVC
+c:/WINNT/system32/logfiles/SMTPSVC1
+c:/WINNT/system32/logfiles/SMTPSVC2
+c:/WINNT/system32/logfiles/SMTPSVC3
+c:/WINNT/system32/logfiles/SMTPSVC4
+c:/WINNT/system32/logfiles/SMTPSVC5
+c:/WINNT/system32/logfiles/W3SVC/inetsvn1.log
+c:/WINNT/system32/logfiles/W3SVC1/inetsvn1.log
+c:/WINNT/system32/logfiles/W3SVC2/inetsvn1.log
+c:/WINNT/system32/logfiles/W3SVC3/inetsvn1.log
+c:/apache/php/php.ini
+c:/boot.ini
+c:/etc/postgresql/pg_hba.conf
+c:/etc/postgresql/postgresql.conf
+c:/home/postgres/data/PG_VERSION
+c:/home/postgres/data/pg_hba.conf
+c:/home/postgres/data/pg_ident.conf
+c:/home/postgres/data/postgresql.conf
+c:/inetpub/wwwroot/Site.master
+c:/inetpub/wwwroot/app_start/bundleconfig.cs
+c:/inetpub/wwwroot/app_start/filterconfig.cs
+c:/inetpub/wwwroot/app_start/routeconfig.cs
+c:/inetpub/wwwroot/global.asax
+c:/inetpub/wwwroot/packages.config
+c:/mysql/bin/my.ini
+c:/php/php.ini
+c:/php4/php.ini
+c:/php5/php.ini
+c:/users/administrator/.elasticbeanstalk/config
+c:/usr/internet/pgsql/data/pg_hba.conf
+c:/usr/local/pgsql/bin/pg_passwd
+c:/usr/local/pgsql/data/passwd
+c:/usr/local/pgsql/data/pg_hba.conf
+c:/usr/local/pgsql/data/postgresql.conf
+c:/var/lib/pgsql/data/postgresql.conf
+c:/var/log/lighttpd/{DOMAIN}/access.log
+c:/var/nm2/postgresql.conf
+c:/var/postgresql/db/postgresql.conf
+c:/wamp/bin/apache/apache2.2.21/conf/httpd.conf
+c:/wamp/bin/apache/apache2.2.21/logs/access.log
+c:/wamp/bin/apache/apache2.2.21/logs/error.log
+c:/wamp/bin/apache/apache2.2.21/wampserver.conf
+c:/wamp/bin/apache/apache2.2.22/conf/httpd.conf
+c:/wamp/bin/apache/apache2.2.22/conf/wampserver.conf
+c:/wamp/bin/apache/apache2.2.22/logs/access.log
+c:/wamp/bin/apache/apache2.2.22/logs/error.log
+c:/wamp/bin/apache/apache2.2.22/wampserver.conf
+c:/wamp/bin/mysql/mysql5.5.16/data/mysql-bin.index
+c:/wamp/bin/mysql/mysql5.5.16/my.ini
+c:/wamp/bin/mysql/mysql5.5.16/wampserver.conf
+c:/wamp/bin/mysql/mysql5.5.24/data/mysql-bin.index
+c:/wamp/bin/mysql/mysql5.5.24/my.ini
+c:/wamp/bin/mysql/mysql5.5.24/wampserver.conf
+c:/wamp/bin/php/php5.3.8/php.ini
+c:/wamp/bin/php/php5.4.3/php.ini
+c:/wamp/logs/access.log
+c:/wamp/logs/apache_error.log
+c:/wamp/logs/genquery.log
+c:/wamp/logs/mysql.log
+c:/wamp/logs/slowquery.log
+c:/windows/system32/inetsrv/config/Administration.config
+c:/windows/system32/inetsrv/config/Redirection.config
+c:/windows/system32/sysprep/panther/unattend.xml
+c:/windows/system32/sysprep/unattend.xml
+c:/xampp/FileZillaFTP/FileZilla Server.xml
+c:/xampp/MercuryMail/mercury.ini
+c:/xampp/apache/bin/php.ini
+c:/xampp/apache/conf/httpd.conf
+c:/xampp/apache/logs/access.log
+c:/xampp/apache/logs/error.log
+c:/xampp/htdocs/aca.txt
+c:/xampp/htdocs/admin.php
+c:/xampp/htdocs/leer.txt
+c:/xampp/mysql/data/mysql-bin.index
+c:/xampp/mysql/data/mysql.err
+c:/xampp/mysql/data/{IPDELHOST}.err
+c:/xampp/php/php.ini
+c:/xampp/phpMyAdmin/config.inc.php
+c:/xampp/sendmail/sendmail.ini
+c:/xampp/sendmail/sendmail.log
+c:/xampp/webalizer/webalizer.conf
