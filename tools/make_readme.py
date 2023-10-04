@@ -91,6 +91,17 @@ for filename in glob.iglob("./wordlists/**/*", recursive=True):
             print("Invalid level length")
             exit(1337)
 
+sorted_keys = sorted(list(wordlists.keys()))
+wordlists = {key: wordlists[key] for key in sorted_keys}
+
+# Sort User Agents as well
+sorted_user_agents_keys = sorted(list(wordlists["User Agents"].keys()))
+wordlists["User Agents"] = {
+    key: wordlists["User Agents"][key] for key in sorted_user_agents_keys
+}
+
+wordlists = {key: value for key, value in sorted(wordlists.items())}
+
 # Make the togglable list of wordlists
 togglable_list = """<details>
   <summary>Togglable Wordlists</summary>"""
