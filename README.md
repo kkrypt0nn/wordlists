@@ -28,6 +28,38 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
 <details>
   <summary>Togglable Wordlists</summary>
   <details>
+    <summary>Discovery</summary>
+    <ul>
+      <li><a href="wordlists/discovery/sensitive_files_unix.txt">Sensitive Files Unix</a> - 16 Lines</li>
+      <li><a href="wordlists/discovery/wp_themes.txt">Wp Themes</a> - 21,149 Lines</li>
+      <li><a href="wordlists/discovery/jsp.txt">Jsp</a> - 92,216 Lines</li>
+      <li><a href="wordlists/discovery/directory_list_1.0.txt">Directory List 1.0</a> - 141,694 Lines</li>
+      <li><a href="wordlists/discovery/apache.txt">Apache</a> - 13,232 Lines</li>
+      <li><a href="wordlists/discovery/most_common.txt">Most Common</a> - 1,011 Lines</li>
+      <li><a href="wordlists/discovery/big.txt">Big</a> - 20,469 Lines</li>
+      <li><a href="wordlists/discovery/lfi_windows.txt">Lfi Windows</a> - 466 Lines</li>
+      <li><a href="wordlists/discovery/extensions_common.txt">Extensions Common</a> - 28 Lines</li>
+      <li><a href="wordlists/discovery/directory_list_2.3_small.txt">Directory List 2.3 Small</a> - 87,650 Lines</li>
+      <li><a href="wordlists/discovery/lfi_all.txt">Lfi All</a> - 1,483 Lines</li>
+      <li><a href="wordlists/discovery/joomla.txt">Joomla</a> - 1,544 Lines</li>
+      <li><a href="wordlists/discovery/directory_list_2.3_medium.txt">Directory List 2.3 Medium</a> - 220,546 Lines</li>
+      <li><a href="wordlists/discovery/indexes.txt">Indexes</a> - 10 Lines</li>
+      <li><a href="wordlists/discovery/robots.txt">Robots</a> - 990 Lines</li>
+      <li><a href="wordlists/discovery/lfi_unix.txt">Lfi Unix</a> - 1,076 Lines</li>
+      <li><a href="wordlists/discovery/directory_list_lowercase_2.3_small.txt">Directory List Lowercase 2.3 Small</a> - 81,629 Lines</li>
+      <li><a href="wordlists/discovery/apache_user_enum_1.0.txt">Apache User Enum 1.0</a> - 8,916 Lines</li>
+      <li><a href="wordlists/discovery/wp_plugins.txt">Wp Plugins</a> - 88,009 Lines</li>
+      <li><a href="wordlists/discovery/conf.txt">Conf</a> - 100,926 Lines</li>
+      <li><a href="wordlists/discovery/directory_list_lowercase_2.3_medium.txt">Directory List Lowercase 2.3 Medium</a> - 207,629 Lines</li>
+      <li><a href="wordlists/discovery/directories.txt">Directories</a> - 58,656 Lines</li>
+      <li><a href="wordlists/discovery/apache_user_enum_2.0.txt">Apache User Enum 2.0</a> - 10,341 Lines</li>
+      <li><a href="wordlists/discovery/fuzz_php_special.txt">Fuzz Php Special</a> - 136,921 Lines</li>
+      <li><a href="wordlists/discovery/common.txt">Common</a> - 4,613 Lines</li>
+      <li><a href="wordlists/discovery/top_subdomains.txt">Top Subdomains</a> - 114,532 Lines</li>
+      <li><a href="wordlists/discovery/sensitive_files_win.txt">Sensitive Files Win</a> - 7 Lines</li>
+    </ul>
+  </details>
+  <details>
     <summary>Famous</summary>
     <ul>
       <li><a href="wordlists/famous/fasttrack.txt">Fasttrack</a> - 222 Lines</li>
@@ -40,6 +72,31 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
     </ul>
   </details>
   <details>
+    <summary>Languages</summary>
+    <ul>
+      <li><a href="wordlists/languages/ukrainian.txt">Ukrainian</a> - 126,308 Lines</li>
+      <li><a href="wordlists/languages/polish.txt">Polish</a> - 300,676 Lines</li>
+      <li><a href="wordlists/languages/russian.txt">Russian</a> - 379,323 Lines</li>
+      <li><a href="wordlists/languages/hebrew.txt">Hebrew</a> - 469,750 Lines</li>
+      <li><a href="wordlists/languages/serbian.txt">Serbian</a> - 263,909 Lines</li>
+      <li><a href="wordlists/languages/georgian.txt">Georgian</a> - 143,053 Lines</li>
+      <li><a href="wordlists/languages/english.txt">English</a> - 354,297 Lines</li>
+      <li><a href="wordlists/languages/german.txt">German</a> - 1,908,815 Lines</li>
+      <li><a href="wordlists/languages/portuguese.txt">Portuguese</a> - 307,374 Lines</li>
+      <li><a href="wordlists/languages/turkish.txt">Turkish</a> - 371,169 Lines</li>
+      <li><a href="wordlists/languages/italian.txt">Italian</a> - 95,152 Lines</li>
+      <li><a href="wordlists/languages/czech.txt">Czech</a> - 535,889 Lines</li>
+      <li><a href="wordlists/languages/french.txt">French</a> - 336,531 Lines</li>
+      <li><a href="wordlists/languages/danish.txt">Danish</a> - 154,437 Lines</li>
+      <li><a href="wordlists/languages/dutch.txt">Dutch</a> - 173,562 Lines</li>
+      <li><a href="wordlists/languages/croatian.txt">Croatian</a> - 215,956 Lines</li>
+      <li><a href="wordlists/languages/norwegian.txt">Norwegian</a> - 322,043 Lines</li>
+      <li><a href="wordlists/languages/arabic.txt">Arabic</a> - 465,914 Lines</li>
+      <li><a href="wordlists/languages/swedish.txt">Swedish</a> - 72,370 Lines</li>
+      <li><a href="wordlists/languages/spanish.txt">Spanish</a> - 70,157 Lines</li>
+    </ul>
+  </details>
+  <details>
     <summary>Names</summary>
     <ul>
       <li><a href="wordlists/names/top_family_names_usa.txt">Top Family Names Usa</a> - 1,000 Lines</li>
@@ -47,6 +104,54 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
       <li><a href="wordlists/names/top_female_names_germany.txt">Top Female Names Germany</a> - 4,685 Lines</li>
       <li><a href="wordlists/names/names.txt">Names</a> - 10,177 Lines</li>
       <li><a href="wordlists/names/top_female_names_usa.txt">Top Female Names Usa</a> - 1,000 Lines</li>
+    </ul>
+  </details>
+  <details>
+    <summary>Passwords</summary>
+    <ul>
+      <li><a href="wordlists/passwords/most_used_passwords_ncsc.txt">Most Used Passwords Ncsc</a> - 100,000 Lines</li>
+      <li><a href="wordlists/passwords/probable_wpa.txt">Probable Wpa</a> - 4,800 Lines</li>
+      <li><a href="wordlists/passwords/000webhost.txt">000Webhost</a> - 720,302 Lines</li>
+      <li><a href="wordlists/passwords/hak5.txt">Hak5</a> - 2,351 Lines</li>
+      <li><a href="wordlists/passwords/md5decryptor.txt">Md5Decryptor</a> - 3,431,316 Lines</li>
+      <li><a href="wordlists/passwords/postgres_default_passwords.txt">Postgres Default Passwords</a> - 4 Lines</li>
+      <li><a href="wordlists/passwords/unix_passwords.txt">Unix Passwords</a> - 1,009 Lines</li>
+      <li><a href="wordlists/passwords/tomcat_mgr_default_passwords.txt">Tomcat Mgr Default Passwords</a> - 7 Lines</li>
+      <li><a href="wordlists/passwords/top_adobe_passwords.txt">Top Adobe Passwords</a> - 100 Lines</li>
+      <li><a href="wordlists/passwords/most_used_passwords.txt">Most Used Passwords</a> - 999,998 Lines</li>
+      <li><a href="wordlists/passwords/common_roots.txt">Common Roots</a> - 4,724 Lines</li>
+      <li><a href="wordlists/passwords/bt4_passwords.txt">Bt4 Passwords</a> - 1,652,903 Lines</li>
+      <li><a href="wordlists/passwords/nord_vpn.txt">Nord Vpn</a> - 1,437 Lines</li>
+      <li><a href="wordlists/passwords/default_passwords_for_services.txt">Default Passwords For Services</a> - 1,243 Lines</li>
+      <li><a href="wordlists/passwords/password.txt">Password</a> - 88,397 Lines</li>
+      <li><a href="wordlists/passwords/xato_net_passwords.txt">Xato Net Passwords</a> - 5,189,454 Lines</li>
+      <li><a href="wordlists/passwords/mirai_passwords.txt">Mirai Passwords</a> - 43 Lines</li>
+      <li><a href="wordlists/passwords/medical_devices_passwords.txt">Medical Devices Passwords</a> - 173 Lines</li>
+      <li><a href="wordlists/passwords/burnett.txt">Burnett</a> - 1,024 Lines</li>
+      <li><a href="wordlists/passwords/http_default_passwords.txt">Http Default Passwords</a> - 19 Lines</li>
+      <li><a href="wordlists/passwords/common_passwords_win.txt">Common Passwords Win</a> - 815 Lines</li>
+      <li><a href="wordlists/passwords/darkweb_2017.txt">Darkweb 2017</a> - 9,999 Lines</li>
+      <li><a href="wordlists/passwords/db2_default_passwords.txt">Db2 Default Passwords</a> - 8 Lines</li>
+      <li><a href="wordlists/passwords/ipmi_passwords.txt">Ipmi Passwords</a> - 999 Lines</li>
+      <li><a href="wordlists/passwords/keyboard_patterns.txt">Keyboard Patterns</a> - 20 Lines</li>
+      <li><a href="wordlists/passwords/honeynet.txt">Honeynet</a> - 453,009 Lines</li>
+      <li><a href="wordlists/passwords/dutch_passwords.txt">Dutch Passwords</a> - 4,322,834 Lines</li>
+      <li><a href="wordlists/passwords/openwall.txt">Openwall</a> - 3,721,224 Lines</li>
+    </ul>
+  </details>
+  <details>
+    <summary>Security Question Answers</summary>
+    <ul>
+      <li><a href="wordlists/security_question_answers/city_state_country.txt">City State Country</a> - 98,304 Lines</li>
+      <li><a href="wordlists/security_question_answers/street_names.txt">Street Names</a> - 52,680 Lines</li>
+      <li><a href="wordlists/security_question_answers/us_colleges.txt">Us Colleges</a> - 6,752 Lines</li>
+      <li><a href="wordlists/security_question_answers/us_public_schools.txt">Us Public Schools</a> - 100,318 Lines</li>
+      <li><a href="wordlists/security_question_answers/dates.txt">Dates</a> - 751,068 Lines</li>
+      <li><a href="wordlists/security_question_answers/us_private_schools.txt">Us Private Schools</a> - 21,755 Lines</li>
+      <li><a href="wordlists/security_question_answers/html_colors.txt">Html Colors</a> - 148 Lines</li>
+      <li><a href="wordlists/security_question_answers/cities.txt">Cities</a> - 98,304 Lines</li>
+      <li><a href="wordlists/security_question_answers/common_surnames.txt">Common Surnames</a> - 20,000 Lines</li>
+      <li><a href="wordlists/security_question_answers/zip_codes.txt">Zip Codes</a> - 100,000 Lines</li>
     </ul>
   </details>
   <details>
@@ -65,6 +170,27 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
   </details>
   <details>
     <summary>User Agents</summary>
+    <details>
+      <summary>Hardware Type Specific</summary>
+      <ul>
+        <li><a href="wordlists/user_agents/hardware_type_specific/car.txt">Car</a> - 11 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/tablet.txt">Tablet</a> - 26,316 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/glasses.txt">Glasses</a> - 5 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/computer.txt">Computer</a> - 222,967 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/server.txt">Server</a> - 1,756 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/game_console.txt">Game Console</a> - 323 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/large_screen.txt">Large Screen</a> - 390 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/billboard.txt">Billboard</a> - 12 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/handheld_game.txt">Handheld Game</a> - 190 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/pda.txt">Pda</a> - 3 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/mobile.txt">Mobile</a> - 138,617 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/ebook_reader.txt">Ebook Reader</a> - 1,932 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/tv.txt">Tv</a> - 1,110 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/media_player.txt">Media Player</a> - 40 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/music_player.txt">Music Player</a> - 819 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/phone.txt">Phone</a> - 100,479 Lines</li>
+      </ul>
+    </details>
     <details>
       <summary>Operating System Name</summary>
       <ul>
@@ -95,27 +221,6 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
         <li><a href="wordlists/user_agents/operating_system_name/symbian.txt">Symbian</a> - 3,438 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/palmos.txt">Palmos</a> - 18 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/fire_os.txt">Fire Os</a> - 1,869 Lines</li>
-      </ul>
-    </details>
-    <details>
-      <summary>Hardware Type Specific</summary>
-      <ul>
-        <li><a href="wordlists/user_agents/hardware_type_specific/car.txt">Car</a> - 11 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/tablet.txt">Tablet</a> - 26,316 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/glasses.txt">Glasses</a> - 5 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/computer.txt">Computer</a> - 222,967 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/server.txt">Server</a> - 1,756 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/game_console.txt">Game Console</a> - 323 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/large_screen.txt">Large Screen</a> - 390 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/billboard.txt">Billboard</a> - 12 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/handheld_game.txt">Handheld Game</a> - 190 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/pda.txt">Pda</a> - 3 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/mobile.txt">Mobile</a> - 138,617 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/ebook_reader.txt">Ebook Reader</a> - 1,932 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/tv.txt">Tv</a> - 1,110 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/media_player.txt">Media Player</a> - 40 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/music_player.txt">Music Player</a> - 819 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/phone.txt">Phone</a> - 100,479 Lines</li>
       </ul>
     </details>
     <details>
@@ -200,63 +305,6 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
     </ul>
   </details>
   <details>
-    <summary>Discovery</summary>
-    <ul>
-      <li><a href="wordlists/discovery/sensitive_files_unix.txt">Sensitive Files Unix</a> - 16 Lines</li>
-      <li><a href="wordlists/discovery/wp_themes.txt">Wp Themes</a> - 21,149 Lines</li>
-      <li><a href="wordlists/discovery/jsp.txt">Jsp</a> - 92,216 Lines</li>
-      <li><a href="wordlists/discovery/directory_list_1.0.txt">Directory List 1.0</a> - 141,694 Lines</li>
-      <li><a href="wordlists/discovery/apache.txt">Apache</a> - 13,232 Lines</li>
-      <li><a href="wordlists/discovery/most_common.txt">Most Common</a> - 1,011 Lines</li>
-      <li><a href="wordlists/discovery/big.txt">Big</a> - 20,469 Lines</li>
-      <li><a href="wordlists/discovery/lfi_windows.txt">Lfi Windows</a> - 466 Lines</li>
-      <li><a href="wordlists/discovery/extensions_common.txt">Extensions Common</a> - 28 Lines</li>
-      <li><a href="wordlists/discovery/directory_list_2.3_small.txt">Directory List 2.3 Small</a> - 87,650 Lines</li>
-      <li><a href="wordlists/discovery/lfi_all.txt">Lfi All</a> - 1,483 Lines</li>
-      <li><a href="wordlists/discovery/joomla.txt">Joomla</a> - 1,544 Lines</li>
-      <li><a href="wordlists/discovery/directory_list_2.3_medium.txt">Directory List 2.3 Medium</a> - 220,546 Lines</li>
-      <li><a href="wordlists/discovery/indexes.txt">Indexes</a> - 10 Lines</li>
-      <li><a href="wordlists/discovery/robots.txt">Robots</a> - 990 Lines</li>
-      <li><a href="wordlists/discovery/lfi_unix.txt">Lfi Unix</a> - 1,076 Lines</li>
-      <li><a href="wordlists/discovery/directory_list_lowercase_2.3_small.txt">Directory List Lowercase 2.3 Small</a> - 81,629 Lines</li>
-      <li><a href="wordlists/discovery/apache_user_enum_1.0.txt">Apache User Enum 1.0</a> - 8,916 Lines</li>
-      <li><a href="wordlists/discovery/wp_plugins.txt">Wp Plugins</a> - 88,009 Lines</li>
-      <li><a href="wordlists/discovery/conf.txt">Conf</a> - 100,926 Lines</li>
-      <li><a href="wordlists/discovery/directory_list_lowercase_2.3_medium.txt">Directory List Lowercase 2.3 Medium</a> - 207,629 Lines</li>
-      <li><a href="wordlists/discovery/directories.txt">Directories</a> - 58,656 Lines</li>
-      <li><a href="wordlists/discovery/apache_user_enum_2.0.txt">Apache User Enum 2.0</a> - 10,341 Lines</li>
-      <li><a href="wordlists/discovery/fuzz_php_special.txt">Fuzz Php Special</a> - 136,921 Lines</li>
-      <li><a href="wordlists/discovery/common.txt">Common</a> - 4,613 Lines</li>
-      <li><a href="wordlists/discovery/top_subdomains.txt">Top Subdomains</a> - 114,532 Lines</li>
-      <li><a href="wordlists/discovery/sensitive_files_win.txt">Sensitive Files Win</a> - 7 Lines</li>
-    </ul>
-  </details>
-  <details>
-    <summary>Languages</summary>
-    <ul>
-      <li><a href="wordlists/languages/ukrainian.txt">Ukrainian</a> - 126,308 Lines</li>
-      <li><a href="wordlists/languages/polish.txt">Polish</a> - 300,676 Lines</li>
-      <li><a href="wordlists/languages/russian.txt">Russian</a> - 379,323 Lines</li>
-      <li><a href="wordlists/languages/hebrew.txt">Hebrew</a> - 469,750 Lines</li>
-      <li><a href="wordlists/languages/serbian.txt">Serbian</a> - 263,909 Lines</li>
-      <li><a href="wordlists/languages/georgian.txt">Georgian</a> - 143,053 Lines</li>
-      <li><a href="wordlists/languages/english.txt">English</a> - 354,297 Lines</li>
-      <li><a href="wordlists/languages/german.txt">German</a> - 1,908,815 Lines</li>
-      <li><a href="wordlists/languages/portuguese.txt">Portuguese</a> - 307,374 Lines</li>
-      <li><a href="wordlists/languages/turkish.txt">Turkish</a> - 371,169 Lines</li>
-      <li><a href="wordlists/languages/italian.txt">Italian</a> - 95,152 Lines</li>
-      <li><a href="wordlists/languages/czech.txt">Czech</a> - 535,889 Lines</li>
-      <li><a href="wordlists/languages/french.txt">French</a> - 336,531 Lines</li>
-      <li><a href="wordlists/languages/danish.txt">Danish</a> - 154,437 Lines</li>
-      <li><a href="wordlists/languages/dutch.txt">Dutch</a> - 173,562 Lines</li>
-      <li><a href="wordlists/languages/croatian.txt">Croatian</a> - 215,956 Lines</li>
-      <li><a href="wordlists/languages/norwegian.txt">Norwegian</a> - 322,043 Lines</li>
-      <li><a href="wordlists/languages/arabic.txt">Arabic</a> - 465,914 Lines</li>
-      <li><a href="wordlists/languages/swedish.txt">Swedish</a> - 72,370 Lines</li>
-      <li><a href="wordlists/languages/spanish.txt">Spanish</a> - 70,157 Lines</li>
-    </ul>
-  </details>
-  <details>
     <summary>Vulnerabilities</summary>
     <ul>
       <li><a href="wordlists/vulnerabilities/hyperion.txt">Hyperion</a> - 579 Lines</li>
@@ -297,59 +345,41 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
       <li><a href="wordlists/vulnerabilities/jrun.txt">Jrun</a> - 13 Lines</li>
     </ul>
   </details>
-  <details>
-    <summary>Security Question Answers</summary>
-    <ul>
-      <li><a href="wordlists/security_question_answers/city_state_country.txt">City State Country</a> - 98,304 Lines</li>
-      <li><a href="wordlists/security_question_answers/street_names.txt">Street Names</a> - 52,680 Lines</li>
-      <li><a href="wordlists/security_question_answers/us_colleges.txt">Us Colleges</a> - 6,752 Lines</li>
-      <li><a href="wordlists/security_question_answers/us_public_schools.txt">Us Public Schools</a> - 100,318 Lines</li>
-      <li><a href="wordlists/security_question_answers/dates.txt">Dates</a> - 751,068 Lines</li>
-      <li><a href="wordlists/security_question_answers/us_private_schools.txt">Us Private Schools</a> - 21,755 Lines</li>
-      <li><a href="wordlists/security_question_answers/html_colors.txt">Html Colors</a> - 148 Lines</li>
-      <li><a href="wordlists/security_question_answers/cities.txt">Cities</a> - 98,304 Lines</li>
-      <li><a href="wordlists/security_question_answers/common_surnames.txt">Common Surnames</a> - 20,000 Lines</li>
-      <li><a href="wordlists/security_question_answers/zip_codes.txt">Zip Codes</a> - 100,000 Lines</li>
-    </ul>
-  </details>
-  <details>
-    <summary>Passwords</summary>
-    <ul>
-      <li><a href="wordlists/passwords/most_used_passwords_ncsc.txt">Most Used Passwords Ncsc</a> - 100,000 Lines</li>
-      <li><a href="wordlists/passwords/probable_wpa.txt">Probable Wpa</a> - 4,800 Lines</li>
-      <li><a href="wordlists/passwords/000webhost.txt">000Webhost</a> - 720,302 Lines</li>
-      <li><a href="wordlists/passwords/hak5.txt">Hak5</a> - 2,351 Lines</li>
-      <li><a href="wordlists/passwords/md5decryptor.txt">Md5Decryptor</a> - 3,431,316 Lines</li>
-      <li><a href="wordlists/passwords/postgres_default_passwords.txt">Postgres Default Passwords</a> - 4 Lines</li>
-      <li><a href="wordlists/passwords/unix_passwords.txt">Unix Passwords</a> - 1,009 Lines</li>
-      <li><a href="wordlists/passwords/tomcat_mgr_default_passwords.txt">Tomcat Mgr Default Passwords</a> - 7 Lines</li>
-      <li><a href="wordlists/passwords/top_adobe_passwords.txt">Top Adobe Passwords</a> - 100 Lines</li>
-      <li><a href="wordlists/passwords/most_used_passwords.txt">Most Used Passwords</a> - 999,998 Lines</li>
-      <li><a href="wordlists/passwords/common_roots.txt">Common Roots</a> - 4,724 Lines</li>
-      <li><a href="wordlists/passwords/bt4_passwords.txt">Bt4 Passwords</a> - 1,652,903 Lines</li>
-      <li><a href="wordlists/passwords/nord_vpn.txt">Nord Vpn</a> - 1,437 Lines</li>
-      <li><a href="wordlists/passwords/default_passwords_for_services.txt">Default Passwords For Services</a> - 1,243 Lines</li>
-      <li><a href="wordlists/passwords/password.txt">Password</a> - 88,397 Lines</li>
-      <li><a href="wordlists/passwords/xato_net_passwords.txt">Xato Net Passwords</a> - 5,189,454 Lines</li>
-      <li><a href="wordlists/passwords/mirai_passwords.txt">Mirai Passwords</a> - 43 Lines</li>
-      <li><a href="wordlists/passwords/medical_devices_passwords.txt">Medical Devices Passwords</a> - 173 Lines</li>
-      <li><a href="wordlists/passwords/burnett.txt">Burnett</a> - 1,024 Lines</li>
-      <li><a href="wordlists/passwords/http_default_passwords.txt">Http Default Passwords</a> - 19 Lines</li>
-      <li><a href="wordlists/passwords/common_passwords_win.txt">Common Passwords Win</a> - 815 Lines</li>
-      <li><a href="wordlists/passwords/darkweb_2017.txt">Darkweb 2017</a> - 9,999 Lines</li>
-      <li><a href="wordlists/passwords/db2_default_passwords.txt">Db2 Default Passwords</a> - 8 Lines</li>
-      <li><a href="wordlists/passwords/ipmi_passwords.txt">Ipmi Passwords</a> - 999 Lines</li>
-      <li><a href="wordlists/passwords/keyboard_patterns.txt">Keyboard Patterns</a> - 20 Lines</li>
-      <li><a href="wordlists/passwords/honeynet.txt">Honeynet</a> - 453,009 Lines</li>
-      <li><a href="wordlists/passwords/dutch_passwords.txt">Dutch Passwords</a> - 4,322,834 Lines</li>
-      <li><a href="wordlists/passwords/openwall.txt">Openwall</a> - 3,721,224 Lines</li>
-    </ul>
-  </details>
 </details>
 
 <hr>
 
 <ul>
+  <li>Discovery</li>
+  <ul>
+    <li><a href="wordlists/discovery/sensitive_files_unix.txt">Sensitive Files Unix</a> - 16 Lines</li>
+    <li><a href="wordlists/discovery/wp_themes.txt">Wp Themes</a> - 21,149 Lines</li>
+    <li><a href="wordlists/discovery/jsp.txt">Jsp</a> - 92,216 Lines</li>
+    <li><a href="wordlists/discovery/directory_list_1.0.txt">Directory List 1.0</a> - 141,694 Lines</li>
+    <li><a href="wordlists/discovery/apache.txt">Apache</a> - 13,232 Lines</li>
+    <li><a href="wordlists/discovery/most_common.txt">Most Common</a> - 1,011 Lines</li>
+    <li><a href="wordlists/discovery/big.txt">Big</a> - 20,469 Lines</li>
+    <li><a href="wordlists/discovery/lfi_windows.txt">Lfi Windows</a> - 466 Lines</li>
+    <li><a href="wordlists/discovery/extensions_common.txt">Extensions Common</a> - 28 Lines</li>
+    <li><a href="wordlists/discovery/directory_list_2.3_small.txt">Directory List 2.3 Small</a> - 87,650 Lines</li>
+    <li><a href="wordlists/discovery/lfi_all.txt">Lfi All</a> - 1,483 Lines</li>
+    <li><a href="wordlists/discovery/joomla.txt">Joomla</a> - 1,544 Lines</li>
+    <li><a href="wordlists/discovery/directory_list_2.3_medium.txt">Directory List 2.3 Medium</a> - 220,546 Lines</li>
+    <li><a href="wordlists/discovery/indexes.txt">Indexes</a> - 10 Lines</li>
+    <li><a href="wordlists/discovery/robots.txt">Robots</a> - 990 Lines</li>
+    <li><a href="wordlists/discovery/lfi_unix.txt">Lfi Unix</a> - 1,076 Lines</li>
+    <li><a href="wordlists/discovery/directory_list_lowercase_2.3_small.txt">Directory List Lowercase 2.3 Small</a> - 81,629 Lines</li>
+    <li><a href="wordlists/discovery/apache_user_enum_1.0.txt">Apache User Enum 1.0</a> - 8,916 Lines</li>
+    <li><a href="wordlists/discovery/wp_plugins.txt">Wp Plugins</a> - 88,009 Lines</li>
+    <li><a href="wordlists/discovery/conf.txt">Conf</a> - 100,926 Lines</li>
+    <li><a href="wordlists/discovery/directory_list_lowercase_2.3_medium.txt">Directory List Lowercase 2.3 Medium</a> - 207,629 Lines</li>
+    <li><a href="wordlists/discovery/directories.txt">Directories</a> - 58,656 Lines</li>
+    <li><a href="wordlists/discovery/apache_user_enum_2.0.txt">Apache User Enum 2.0</a> - 10,341 Lines</li>
+    <li><a href="wordlists/discovery/fuzz_php_special.txt">Fuzz Php Special</a> - 136,921 Lines</li>
+    <li><a href="wordlists/discovery/common.txt">Common</a> - 4,613 Lines</li>
+    <li><a href="wordlists/discovery/top_subdomains.txt">Top Subdomains</a> - 114,532 Lines</li>
+    <li><a href="wordlists/discovery/sensitive_files_win.txt">Sensitive Files Win</a> - 7 Lines</li>
+  </ul>
   <li>Famous</li>
   <ul>
     <li><a href="wordlists/famous/fasttrack.txt">Fasttrack</a> - 222 Lines</li>
@@ -360,6 +390,29 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
     <li><a href="wordlists/famous/rockyou.zip">Rockyou</a> - 14,344,392 Lines</li>
     <li><a href="wordlists/famous/hotmail.txt">Hotmail</a> - 8,931 Lines</li>
   </ul>
+  <li>Languages</li>
+  <ul>
+    <li><a href="wordlists/languages/ukrainian.txt">Ukrainian</a> - 126,308 Lines</li>
+    <li><a href="wordlists/languages/polish.txt">Polish</a> - 300,676 Lines</li>
+    <li><a href="wordlists/languages/russian.txt">Russian</a> - 379,323 Lines</li>
+    <li><a href="wordlists/languages/hebrew.txt">Hebrew</a> - 469,750 Lines</li>
+    <li><a href="wordlists/languages/serbian.txt">Serbian</a> - 263,909 Lines</li>
+    <li><a href="wordlists/languages/georgian.txt">Georgian</a> - 143,053 Lines</li>
+    <li><a href="wordlists/languages/english.txt">English</a> - 354,297 Lines</li>
+    <li><a href="wordlists/languages/german.txt">German</a> - 1,908,815 Lines</li>
+    <li><a href="wordlists/languages/portuguese.txt">Portuguese</a> - 307,374 Lines</li>
+    <li><a href="wordlists/languages/turkish.txt">Turkish</a> - 371,169 Lines</li>
+    <li><a href="wordlists/languages/italian.txt">Italian</a> - 95,152 Lines</li>
+    <li><a href="wordlists/languages/czech.txt">Czech</a> - 535,889 Lines</li>
+    <li><a href="wordlists/languages/french.txt">French</a> - 336,531 Lines</li>
+    <li><a href="wordlists/languages/danish.txt">Danish</a> - 154,437 Lines</li>
+    <li><a href="wordlists/languages/dutch.txt">Dutch</a> - 173,562 Lines</li>
+    <li><a href="wordlists/languages/croatian.txt">Croatian</a> - 215,956 Lines</li>
+    <li><a href="wordlists/languages/norwegian.txt">Norwegian</a> - 322,043 Lines</li>
+    <li><a href="wordlists/languages/arabic.txt">Arabic</a> - 465,914 Lines</li>
+    <li><a href="wordlists/languages/swedish.txt">Swedish</a> - 72,370 Lines</li>
+    <li><a href="wordlists/languages/spanish.txt">Spanish</a> - 70,157 Lines</li>
+  </ul>
   <li>Names</li>
   <ul>
     <li><a href="wordlists/names/top_family_names_usa.txt">Top Family Names Usa</a> - 1,000 Lines</li>
@@ -367,6 +420,50 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
     <li><a href="wordlists/names/top_female_names_germany.txt">Top Female Names Germany</a> - 4,685 Lines</li>
     <li><a href="wordlists/names/names.txt">Names</a> - 10,177 Lines</li>
     <li><a href="wordlists/names/top_female_names_usa.txt">Top Female Names Usa</a> - 1,000 Lines</li>
+  </ul>
+  <li>Passwords</li>
+  <ul>
+    <li><a href="wordlists/passwords/most_used_passwords_ncsc.txt">Most Used Passwords Ncsc</a> - 100,000 Lines</li>
+    <li><a href="wordlists/passwords/probable_wpa.txt">Probable Wpa</a> - 4,800 Lines</li>
+    <li><a href="wordlists/passwords/000webhost.txt">000Webhost</a> - 720,302 Lines</li>
+    <li><a href="wordlists/passwords/hak5.txt">Hak5</a> - 2,351 Lines</li>
+    <li><a href="wordlists/passwords/md5decryptor.txt">Md5Decryptor</a> - 3,431,316 Lines</li>
+    <li><a href="wordlists/passwords/postgres_default_passwords.txt">Postgres Default Passwords</a> - 4 Lines</li>
+    <li><a href="wordlists/passwords/unix_passwords.txt">Unix Passwords</a> - 1,009 Lines</li>
+    <li><a href="wordlists/passwords/tomcat_mgr_default_passwords.txt">Tomcat Mgr Default Passwords</a> - 7 Lines</li>
+    <li><a href="wordlists/passwords/top_adobe_passwords.txt">Top Adobe Passwords</a> - 100 Lines</li>
+    <li><a href="wordlists/passwords/most_used_passwords.txt">Most Used Passwords</a> - 999,998 Lines</li>
+    <li><a href="wordlists/passwords/common_roots.txt">Common Roots</a> - 4,724 Lines</li>
+    <li><a href="wordlists/passwords/bt4_passwords.txt">Bt4 Passwords</a> - 1,652,903 Lines</li>
+    <li><a href="wordlists/passwords/nord_vpn.txt">Nord Vpn</a> - 1,437 Lines</li>
+    <li><a href="wordlists/passwords/default_passwords_for_services.txt">Default Passwords For Services</a> - 1,243 Lines</li>
+    <li><a href="wordlists/passwords/password.txt">Password</a> - 88,397 Lines</li>
+    <li><a href="wordlists/passwords/xato_net_passwords.txt">Xato Net Passwords</a> - 5,189,454 Lines</li>
+    <li><a href="wordlists/passwords/mirai_passwords.txt">Mirai Passwords</a> - 43 Lines</li>
+    <li><a href="wordlists/passwords/medical_devices_passwords.txt">Medical Devices Passwords</a> - 173 Lines</li>
+    <li><a href="wordlists/passwords/burnett.txt">Burnett</a> - 1,024 Lines</li>
+    <li><a href="wordlists/passwords/http_default_passwords.txt">Http Default Passwords</a> - 19 Lines</li>
+    <li><a href="wordlists/passwords/common_passwords_win.txt">Common Passwords Win</a> - 815 Lines</li>
+    <li><a href="wordlists/passwords/darkweb_2017.txt">Darkweb 2017</a> - 9,999 Lines</li>
+    <li><a href="wordlists/passwords/db2_default_passwords.txt">Db2 Default Passwords</a> - 8 Lines</li>
+    <li><a href="wordlists/passwords/ipmi_passwords.txt">Ipmi Passwords</a> - 999 Lines</li>
+    <li><a href="wordlists/passwords/keyboard_patterns.txt">Keyboard Patterns</a> - 20 Lines</li>
+    <li><a href="wordlists/passwords/honeynet.txt">Honeynet</a> - 453,009 Lines</li>
+    <li><a href="wordlists/passwords/dutch_passwords.txt">Dutch Passwords</a> - 4,322,834 Lines</li>
+    <li><a href="wordlists/passwords/openwall.txt">Openwall</a> - 3,721,224 Lines</li>
+  </ul>
+  <li>Security Question Answers</li>
+  <ul>
+    <li><a href="wordlists/security_question_answers/city_state_country.txt">City State Country</a> - 98,304 Lines</li>
+    <li><a href="wordlists/security_question_answers/street_names.txt">Street Names</a> - 52,680 Lines</li>
+    <li><a href="wordlists/security_question_answers/us_colleges.txt">Us Colleges</a> - 6,752 Lines</li>
+    <li><a href="wordlists/security_question_answers/us_public_schools.txt">Us Public Schools</a> - 100,318 Lines</li>
+    <li><a href="wordlists/security_question_answers/dates.txt">Dates</a> - 751,068 Lines</li>
+    <li><a href="wordlists/security_question_answers/us_private_schools.txt">Us Private Schools</a> - 21,755 Lines</li>
+    <li><a href="wordlists/security_question_answers/html_colors.txt">Html Colors</a> - 148 Lines</li>
+    <li><a href="wordlists/security_question_answers/cities.txt">Cities</a> - 98,304 Lines</li>
+    <li><a href="wordlists/security_question_answers/common_surnames.txt">Common Surnames</a> - 20,000 Lines</li>
+    <li><a href="wordlists/security_question_answers/zip_codes.txt">Zip Codes</a> - 100,000 Lines</li>
   </ul>
   <li>Stressing</li>
   <ul>
@@ -382,6 +479,25 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
   </ul>
   <li>User Agents</li>
   <ul>
+    <li>Hardware Type Specific</li>
+      <ul>
+        <li><a href="wordlists/user_agents/hardware_type_specific/car.txt">Car</a> - 11 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/tablet.txt">Tablet</a> - 26,316 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/glasses.txt">Glasses</a> - 5 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/computer.txt">Computer</a> - 222,967 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/server.txt">Server</a> - 1,756 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/game_console.txt">Game Console</a> - 323 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/large_screen.txt">Large Screen</a> - 390 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/billboard.txt">Billboard</a> - 12 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/handheld_game.txt">Handheld Game</a> - 190 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/pda.txt">Pda</a> - 3 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/mobile.txt">Mobile</a> - 138,617 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/ebook_reader.txt">Ebook Reader</a> - 1,932 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/tv.txt">Tv</a> - 1,110 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/media_player.txt">Media Player</a> - 40 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/music_player.txt">Music Player</a> - 819 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/phone.txt">Phone</a> - 100,479 Lines</li>
+      </ul>
     <li>Operating System Name</li>
       <ul>
         <li><a href="wordlists/user_agents/operating_system_name/windows_mobile.txt">Windows Mobile</a> - 354 Lines</li>
@@ -411,25 +527,6 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
         <li><a href="wordlists/user_agents/operating_system_name/symbian.txt">Symbian</a> - 3,438 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/palmos.txt">Palmos</a> - 18 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/fire_os.txt">Fire Os</a> - 1,869 Lines</li>
-      </ul>
-    <li>Hardware Type Specific</li>
-      <ul>
-        <li><a href="wordlists/user_agents/hardware_type_specific/car.txt">Car</a> - 11 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/tablet.txt">Tablet</a> - 26,316 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/glasses.txt">Glasses</a> - 5 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/computer.txt">Computer</a> - 222,967 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/server.txt">Server</a> - 1,756 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/game_console.txt">Game Console</a> - 323 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/large_screen.txt">Large Screen</a> - 390 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/billboard.txt">Billboard</a> - 12 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/handheld_game.txt">Handheld Game</a> - 190 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/pda.txt">Pda</a> - 3 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/mobile.txt">Mobile</a> - 138,617 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/ebook_reader.txt">Ebook Reader</a> - 1,932 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/tv.txt">Tv</a> - 1,110 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/media_player.txt">Media Player</a> - 40 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/music_player.txt">Music Player</a> - 819 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/phone.txt">Phone</a> - 100,479 Lines</li>
       </ul>
     <li>Software Name</li>
       <ul>
@@ -508,59 +605,6 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
     <li><a href="wordlists/usernames/postgres_default_user.txt">Postgres Default User</a> - 3 Lines</li>
     <li><a href="wordlists/usernames/default_users_for_services.txt">Default Users For Services</a> - 919 Lines</li>
   </ul>
-  <li>Discovery</li>
-  <ul>
-    <li><a href="wordlists/discovery/sensitive_files_unix.txt">Sensitive Files Unix</a> - 16 Lines</li>
-    <li><a href="wordlists/discovery/wp_themes.txt">Wp Themes</a> - 21,149 Lines</li>
-    <li><a href="wordlists/discovery/jsp.txt">Jsp</a> - 92,216 Lines</li>
-    <li><a href="wordlists/discovery/directory_list_1.0.txt">Directory List 1.0</a> - 141,694 Lines</li>
-    <li><a href="wordlists/discovery/apache.txt">Apache</a> - 13,232 Lines</li>
-    <li><a href="wordlists/discovery/most_common.txt">Most Common</a> - 1,011 Lines</li>
-    <li><a href="wordlists/discovery/big.txt">Big</a> - 20,469 Lines</li>
-    <li><a href="wordlists/discovery/lfi_windows.txt">Lfi Windows</a> - 466 Lines</li>
-    <li><a href="wordlists/discovery/extensions_common.txt">Extensions Common</a> - 28 Lines</li>
-    <li><a href="wordlists/discovery/directory_list_2.3_small.txt">Directory List 2.3 Small</a> - 87,650 Lines</li>
-    <li><a href="wordlists/discovery/lfi_all.txt">Lfi All</a> - 1,483 Lines</li>
-    <li><a href="wordlists/discovery/joomla.txt">Joomla</a> - 1,544 Lines</li>
-    <li><a href="wordlists/discovery/directory_list_2.3_medium.txt">Directory List 2.3 Medium</a> - 220,546 Lines</li>
-    <li><a href="wordlists/discovery/indexes.txt">Indexes</a> - 10 Lines</li>
-    <li><a href="wordlists/discovery/robots.txt">Robots</a> - 990 Lines</li>
-    <li><a href="wordlists/discovery/lfi_unix.txt">Lfi Unix</a> - 1,076 Lines</li>
-    <li><a href="wordlists/discovery/directory_list_lowercase_2.3_small.txt">Directory List Lowercase 2.3 Small</a> - 81,629 Lines</li>
-    <li><a href="wordlists/discovery/apache_user_enum_1.0.txt">Apache User Enum 1.0</a> - 8,916 Lines</li>
-    <li><a href="wordlists/discovery/wp_plugins.txt">Wp Plugins</a> - 88,009 Lines</li>
-    <li><a href="wordlists/discovery/conf.txt">Conf</a> - 100,926 Lines</li>
-    <li><a href="wordlists/discovery/directory_list_lowercase_2.3_medium.txt">Directory List Lowercase 2.3 Medium</a> - 207,629 Lines</li>
-    <li><a href="wordlists/discovery/directories.txt">Directories</a> - 58,656 Lines</li>
-    <li><a href="wordlists/discovery/apache_user_enum_2.0.txt">Apache User Enum 2.0</a> - 10,341 Lines</li>
-    <li><a href="wordlists/discovery/fuzz_php_special.txt">Fuzz Php Special</a> - 136,921 Lines</li>
-    <li><a href="wordlists/discovery/common.txt">Common</a> - 4,613 Lines</li>
-    <li><a href="wordlists/discovery/top_subdomains.txt">Top Subdomains</a> - 114,532 Lines</li>
-    <li><a href="wordlists/discovery/sensitive_files_win.txt">Sensitive Files Win</a> - 7 Lines</li>
-  </ul>
-  <li>Languages</li>
-  <ul>
-    <li><a href="wordlists/languages/ukrainian.txt">Ukrainian</a> - 126,308 Lines</li>
-    <li><a href="wordlists/languages/polish.txt">Polish</a> - 300,676 Lines</li>
-    <li><a href="wordlists/languages/russian.txt">Russian</a> - 379,323 Lines</li>
-    <li><a href="wordlists/languages/hebrew.txt">Hebrew</a> - 469,750 Lines</li>
-    <li><a href="wordlists/languages/serbian.txt">Serbian</a> - 263,909 Lines</li>
-    <li><a href="wordlists/languages/georgian.txt">Georgian</a> - 143,053 Lines</li>
-    <li><a href="wordlists/languages/english.txt">English</a> - 354,297 Lines</li>
-    <li><a href="wordlists/languages/german.txt">German</a> - 1,908,815 Lines</li>
-    <li><a href="wordlists/languages/portuguese.txt">Portuguese</a> - 307,374 Lines</li>
-    <li><a href="wordlists/languages/turkish.txt">Turkish</a> - 371,169 Lines</li>
-    <li><a href="wordlists/languages/italian.txt">Italian</a> - 95,152 Lines</li>
-    <li><a href="wordlists/languages/czech.txt">Czech</a> - 535,889 Lines</li>
-    <li><a href="wordlists/languages/french.txt">French</a> - 336,531 Lines</li>
-    <li><a href="wordlists/languages/danish.txt">Danish</a> - 154,437 Lines</li>
-    <li><a href="wordlists/languages/dutch.txt">Dutch</a> - 173,562 Lines</li>
-    <li><a href="wordlists/languages/croatian.txt">Croatian</a> - 215,956 Lines</li>
-    <li><a href="wordlists/languages/norwegian.txt">Norwegian</a> - 322,043 Lines</li>
-    <li><a href="wordlists/languages/arabic.txt">Arabic</a> - 465,914 Lines</li>
-    <li><a href="wordlists/languages/swedish.txt">Swedish</a> - 72,370 Lines</li>
-    <li><a href="wordlists/languages/spanish.txt">Spanish</a> - 70,157 Lines</li>
-  </ul>
   <li>Vulnerabilities</li>
   <ul>
     <li><a href="wordlists/vulnerabilities/hyperion.txt">Hyperion</a> - 579 Lines</li>
@@ -599,50 +643,6 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
     <li><a href="wordlists/vulnerabilities/axis.txt">Axis</a> - 17 Lines</li>
     <li><a href="wordlists/vulnerabilities/sql_inj.txt">Sql Inj</a> - 41 Lines</li>
     <li><a href="wordlists/vulnerabilities/jrun.txt">Jrun</a> - 13 Lines</li>
-  </ul>
-  <li>Security Question Answers</li>
-  <ul>
-    <li><a href="wordlists/security_question_answers/city_state_country.txt">City State Country</a> - 98,304 Lines</li>
-    <li><a href="wordlists/security_question_answers/street_names.txt">Street Names</a> - 52,680 Lines</li>
-    <li><a href="wordlists/security_question_answers/us_colleges.txt">Us Colleges</a> - 6,752 Lines</li>
-    <li><a href="wordlists/security_question_answers/us_public_schools.txt">Us Public Schools</a> - 100,318 Lines</li>
-    <li><a href="wordlists/security_question_answers/dates.txt">Dates</a> - 751,068 Lines</li>
-    <li><a href="wordlists/security_question_answers/us_private_schools.txt">Us Private Schools</a> - 21,755 Lines</li>
-    <li><a href="wordlists/security_question_answers/html_colors.txt">Html Colors</a> - 148 Lines</li>
-    <li><a href="wordlists/security_question_answers/cities.txt">Cities</a> - 98,304 Lines</li>
-    <li><a href="wordlists/security_question_answers/common_surnames.txt">Common Surnames</a> - 20,000 Lines</li>
-    <li><a href="wordlists/security_question_answers/zip_codes.txt">Zip Codes</a> - 100,000 Lines</li>
-  </ul>
-  <li>Passwords</li>
-  <ul>
-    <li><a href="wordlists/passwords/most_used_passwords_ncsc.txt">Most Used Passwords Ncsc</a> - 100,000 Lines</li>
-    <li><a href="wordlists/passwords/probable_wpa.txt">Probable Wpa</a> - 4,800 Lines</li>
-    <li><a href="wordlists/passwords/000webhost.txt">000Webhost</a> - 720,302 Lines</li>
-    <li><a href="wordlists/passwords/hak5.txt">Hak5</a> - 2,351 Lines</li>
-    <li><a href="wordlists/passwords/md5decryptor.txt">Md5Decryptor</a> - 3,431,316 Lines</li>
-    <li><a href="wordlists/passwords/postgres_default_passwords.txt">Postgres Default Passwords</a> - 4 Lines</li>
-    <li><a href="wordlists/passwords/unix_passwords.txt">Unix Passwords</a> - 1,009 Lines</li>
-    <li><a href="wordlists/passwords/tomcat_mgr_default_passwords.txt">Tomcat Mgr Default Passwords</a> - 7 Lines</li>
-    <li><a href="wordlists/passwords/top_adobe_passwords.txt">Top Adobe Passwords</a> - 100 Lines</li>
-    <li><a href="wordlists/passwords/most_used_passwords.txt">Most Used Passwords</a> - 999,998 Lines</li>
-    <li><a href="wordlists/passwords/common_roots.txt">Common Roots</a> - 4,724 Lines</li>
-    <li><a href="wordlists/passwords/bt4_passwords.txt">Bt4 Passwords</a> - 1,652,903 Lines</li>
-    <li><a href="wordlists/passwords/nord_vpn.txt">Nord Vpn</a> - 1,437 Lines</li>
-    <li><a href="wordlists/passwords/default_passwords_for_services.txt">Default Passwords For Services</a> - 1,243 Lines</li>
-    <li><a href="wordlists/passwords/password.txt">Password</a> - 88,397 Lines</li>
-    <li><a href="wordlists/passwords/xato_net_passwords.txt">Xato Net Passwords</a> - 5,189,454 Lines</li>
-    <li><a href="wordlists/passwords/mirai_passwords.txt">Mirai Passwords</a> - 43 Lines</li>
-    <li><a href="wordlists/passwords/medical_devices_passwords.txt">Medical Devices Passwords</a> - 173 Lines</li>
-    <li><a href="wordlists/passwords/burnett.txt">Burnett</a> - 1,024 Lines</li>
-    <li><a href="wordlists/passwords/http_default_passwords.txt">Http Default Passwords</a> - 19 Lines</li>
-    <li><a href="wordlists/passwords/common_passwords_win.txt">Common Passwords Win</a> - 815 Lines</li>
-    <li><a href="wordlists/passwords/darkweb_2017.txt">Darkweb 2017</a> - 9,999 Lines</li>
-    <li><a href="wordlists/passwords/db2_default_passwords.txt">Db2 Default Passwords</a> - 8 Lines</li>
-    <li><a href="wordlists/passwords/ipmi_passwords.txt">Ipmi Passwords</a> - 999 Lines</li>
-    <li><a href="wordlists/passwords/keyboard_patterns.txt">Keyboard Patterns</a> - 20 Lines</li>
-    <li><a href="wordlists/passwords/honeynet.txt">Honeynet</a> - 453,009 Lines</li>
-    <li><a href="wordlists/passwords/dutch_passwords.txt">Dutch Passwords</a> - 4,322,834 Lines</li>
-    <li><a href="wordlists/passwords/openwall.txt">Openwall</a> - 3,721,224 Lines</li>
   </ul>
 </ul>
 
