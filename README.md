@@ -30,7 +30,9 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
   <details>
     <summary>Discovery</summary>
     <ul>
+      <li><a href="wordlists/discovery/common_sql_tables.txt">Common Sql Tables</a> - 1,706 Lines</li>
       <li><a href="wordlists/discovery/sensitive_files_unix.txt">Sensitive Files Unix</a> - 16 Lines</li>
+      <li><a href="wordlists/discovery/common_sql_columns.txt">Common Sql Columns</a> - 471 Lines</li>
       <li><a href="wordlists/discovery/wp_themes.txt">Wp Themes</a> - 21,149 Lines</li>
       <li><a href="wordlists/discovery/jsp.txt">Jsp</a> - 92,216 Lines</li>
       <li><a href="wordlists/discovery/directory_list_1.0.txt">Directory List 1.0</a> - 141,694 Lines</li>
@@ -353,7 +355,9 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
 <ul>
   <li>Discovery</li>
   <ul>
+    <li><a href="wordlists/discovery/common_sql_tables.txt">Common Sql Tables</a> - 1,706 Lines</li>
     <li><a href="wordlists/discovery/sensitive_files_unix.txt">Sensitive Files Unix</a> - 16 Lines</li>
+    <li><a href="wordlists/discovery/common_sql_columns.txt">Common Sql Columns</a> - 471 Lines</li>
     <li><a href="wordlists/discovery/wp_themes.txt">Wp Themes</a> - 21,149 Lines</li>
     <li><a href="wordlists/discovery/jsp.txt">Jsp</a> - 92,216 Lines</li>
     <li><a href="wordlists/discovery/directory_list_1.0.txt">Directory List 1.0</a> - 141,694 Lines</li>
