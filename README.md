@@ -40,6 +40,7 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
       <li><a href="wordlists/discovery/lfi_windows.txt">Lfi Windows</a> - 466 Lines</li>
       <li><a href="wordlists/discovery/extensions_common.txt">Extensions Common</a> - 28 Lines</li>
       <li><a href="wordlists/discovery/directory_list_2.3_small.txt">Directory List 2.3 Small</a> - 87,650 Lines</li>
+      <li><a href="wordlists/discovery/tlds.txt">Tlds</a> - 0 Lines</li>
       <li><a href="wordlists/discovery/lfi_all.txt">Lfi All</a> - 1,483 Lines</li>
       <li><a href="wordlists/discovery/joomla.txt">Joomla</a> - 1,544 Lines</li>
       <li><a href="wordlists/discovery/directory_list_2.3_medium.txt">Directory List 2.3 Medium</a> - 220,546 Lines</li>
@@ -362,6 +363,7 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
     <li><a href="wordlists/discovery/lfi_windows.txt">Lfi Windows</a> - 466 Lines</li>
     <li><a href="wordlists/discovery/extensions_common.txt">Extensions Common</a> - 28 Lines</li>
     <li><a href="wordlists/discovery/directory_list_2.3_small.txt">Directory List 2.3 Small</a> - 87,650 Lines</li>
+    <li><a href="wordlists/discovery/tlds.txt">Tlds</a> - 0 Lines</li>
     <li><a href="wordlists/discovery/lfi_all.txt">Lfi All</a> - 1,483 Lines</li>
     <li><a href="wordlists/discovery/joomla.txt">Joomla</a> - 1,544 Lines</li>
     <li><a href="wordlists/discovery/directory_list_2.3_medium.txt">Directory List 2.3 Medium</a> - 220,546 Lines</li>
