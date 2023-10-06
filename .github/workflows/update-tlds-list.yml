@@ -20,13 +20,13 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r tools/requirements.txt
-      - name: Make README file
+      - name: Make TLD list file
         run: python tools/make_tld_list.py
       - name: Check if there are any changes
         id: verify_diff
         run: |
           git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
-      - name: Update README file
+      - name: Update TLD file
         if: steps.verify_diff.outputs.changed == 'true'
         run: |
           git config --global user.name 'Krypton'
