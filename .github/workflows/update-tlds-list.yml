@@ -31,5 +31,5 @@ jobs:
         run: |
           git config --global user.name 'Krypton'
           git config --global user.email 'root@krypton.ninja'
-          git commit -am "chore: TLDs list update of `date +'%Y-%m-%d %H:%M:%S'` [skip ci]"
+          git commit -am "chore: TLDs list update of `date +'%Y-%m-%d %H:%M:%S'`"
           git push

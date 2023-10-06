@@ -28,5 +28,5 @@ jobs:
         run: |
           git config --global user.name 'Krypton'
           git config --global user.email 'root@krypton.ninja'
-          git commit -am "docs: Automatic README.md file update with accurate wordlists [skip ci]"
+          git commit -am "chore: Automatic README.md file update with accurate wordlists [skip ci]"
           git push
