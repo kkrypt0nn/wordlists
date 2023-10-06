@@ -100,7 +100,14 @@ wordlists["User Agents"] = {
     key: wordlists["User Agents"][key] for key in sorted_user_agents_keys
 }
 
-wordlists = {key: value for key, value in sorted(wordlists.items())}
+# Sort the values
+for key in wordlists:
+    if isinstance(wordlists[key], list):
+        wordlists[key].sort()
+    elif isinstance(wordlists[key], dict):
+        for subkey in wordlists[key]:
+            wordlists[key][subkey].sort()
+
 
 # Make the togglable list of wordlists
 togglable_list = """<details>
