@@ -26,6 +26,7 @@ colord
 couchdb
 cups-pk-helper
 daemon
+david
 dbadmin
 dbus
 Debian-exim
