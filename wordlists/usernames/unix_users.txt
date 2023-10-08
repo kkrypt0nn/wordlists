@@ -37,14 +37,6 @@ distccd
 dni
 dnsmasq
 david
-dradis
-david
-david
-david
-david
-david
-david
-david
 elizabeth
 EZsetup
 fal
@@ -172,7 +164,6 @@ ultra
 umountfs
 umountfsys
 umountsys
-unix
 unix
 unscd
 us_admin
