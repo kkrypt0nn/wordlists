@@ -1,10 +1,12 @@
 4Dgifts
+EZsetup
+_apt
 abrt
 adm
 admin
 administrator
 anon
-_apt
+apache
 arpwatch
 auditor
 avahi
@@ -23,8 +25,10 @@ cmwlogin
 cockpit-ws
 colord
 couchdb
+cpanel
 cups-pk-helper
 daemon
+david
 dbadmin
 dbus
 Debian-exim
@@ -36,7 +40,6 @@ distccd
 dni
 dnsmasq
 dradis
-EZsetup
 fal
 fax
 ftp
@@ -48,6 +51,10 @@ gnome-initial-setup
 gopher
 gropher
 guest
+guest1
+guest2
+guest3
+guestuser
 haldaemon
 halt
 hplip
@@ -75,6 +82,7 @@ mail
 man
 me
 messagebus
+michael
 miredo
 mountfs
 mountfsys
@@ -115,6 +123,8 @@ rtkit
 rwhod
 saned
 service
+serviceuser
+serviceadmin
 setroubleshoot
 setup
 sgiweb
@@ -140,6 +150,11 @@ systemd-network
 systemd-resolve
 systemd-timesync
 tcpdump
+temp
+tempadmin
+tempuser
+test
+testuser
 trouble
 tss
 udadmin
@@ -152,12 +167,16 @@ unscd
 us_admin
 usbmux
 user
+user1
+user2
+user3
 uucp
 uucpadm
 uuidd
 vagrant
 varnish
 web
+webadmin
 webmaster
 whoopsie
 www
@@ -165,3 +184,7 @@ www-data
 xpdb
 xpopr
 zabbix
+znc
+zookeeper
+zope
+zzz
