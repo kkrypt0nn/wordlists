@@ -36,7 +36,7 @@ diag
 distccd
 dni
 dnsmasq
-david
+dradis
 elizabeth
 EZsetup
 fal
@@ -116,8 +116,6 @@ redsocks
 rfindd
 rje
 root
-ROOT
-rooty
 rpc
 rpcuser
 rtkit
@@ -169,9 +167,6 @@ unscd
 us_admin
 usbmux
 user
-user1
-user2
-user3
 uucp
 uucpadm
 uuidd
