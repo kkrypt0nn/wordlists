@@ -1,10 +1,11 @@
 4Dgifts
+EZsetup
+_apt
 abrt
-adm
 admin
 administrator
 anon
-_apt
+apache
 arpwatch
 auditor
 avahi
@@ -17,13 +18,13 @@ bitnami
 checkfs
 checkfsys
 checksys
-chris
 chronos
 chrony
 cmwlogin
 cockpit-ws
 colord
 couchdb
+cpanel
 cups-pk-helper
 daemon
 david
@@ -38,8 +39,6 @@ distccd
 dni
 dnsmasq
 dradis
-elizabeth
-EZsetup
 fal
 fax
 ftp
@@ -80,15 +79,14 @@ lxd
 lynx
 mail
 man
-mary
 me
 messagebus
+michael
 miredo
 mountfs
 mountfsys
 mountsys
 mysql
-michael
 news
 noaccess
 nobody
@@ -103,7 +101,6 @@ operator
 oracle
 OutOfBox
 pi
-peter
 polkitd
 pollinate
 popr
@@ -117,6 +114,8 @@ redsocks
 rfindd
 rje
 root
+ROOT
+rooty
 rpc
 rpcuser
 rtkit
@@ -138,7 +137,6 @@ stunnel4
 sym
 symop
 sync
-susan
 sys
 sysadm
 sysadmin
@@ -168,6 +166,9 @@ unscd
 us_admin
 usbmux
 user
+user1
+user2
+user3
 uucp
 uucpadm
 uuidd
@@ -186,4 +187,3 @@ znc
 zookeeper
 zope
 zzz
-xyz
