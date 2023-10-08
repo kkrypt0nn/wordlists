@@ -2,6 +2,7 @@
 EZsetup
 _apt
 abrt
+adm
 admin
 administrator
 anon
