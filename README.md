@@ -304,7 +304,7 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
       <li><a href="wordlists/usernames/multiple_sources_users.txt">Multiple Sources Users</a> - 21,167 Lines</li>
       <li><a href="wordlists/usernames/postgres_default_user.txt">Postgres Default User</a> - 3 Lines</li>
       <li><a href="wordlists/usernames/tomcat_mgr_default_users.txt">Tomcat Mgr Default Users</a> - 6 Lines</li>
-      <li><a href="wordlists/usernames/unix_users.txt">Unix Users</a> - 167 Lines</li>
+      <li><a href="wordlists/usernames/unix_users.txt">Unix Users</a> - 190 Lines</li>
       <li><a href="wordlists/usernames/xato_net_usernames.txt">Xato Net Usernames</a> - 8,295,455 Lines</li>
     </ul>
   </details>
@@ -610,7 +610,7 @@ If you already have a wordlist ready to be adeded, make sure to [open a pull req
     <li><a href="wordlists/usernames/multiple_sources_users.txt">Multiple Sources Users</a> - 21,167 Lines</li>
     <li><a href="wordlists/usernames/postgres_default_user.txt">Postgres Default User</a> - 3 Lines</li>
     <li><a href="wordlists/usernames/tomcat_mgr_default_users.txt">Tomcat Mgr Default Users</a> - 6 Lines</li>
-    <li><a href="wordlists/usernames/unix_users.txt">Unix Users</a> - 167 Lines</li>
+    <li><a href="wordlists/usernames/unix_users.txt">Unix Users</a> - 190 Lines</li>
     <li><a href="wordlists/usernames/xato_net_usernames.txt">Xato Net Usernames</a> - 8,295,455 Lines</li>
   </ul>
   <li>Vulnerabilities</li>
