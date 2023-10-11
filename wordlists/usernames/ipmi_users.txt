@@ -5,3 +5,17 @@ Administrator
 USERID
 guest
 Admin
+test
+user
+manager
+operator
+service
+webadmin
+superuser
+support
+system
+developer
+engineer
+anonymous
+demo
+backup
