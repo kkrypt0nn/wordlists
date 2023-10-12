@@ -12,7 +12,9 @@ def get_content(url: str) -> str:
 
 
 def main() -> None:
-    content = get_content("https://data.iana.org/TLD/tlds-alpha-by-domain.txt")
+    raw_content = get_content("https://data.iana.org/TLD/tlds-alpha-by-domain.txt")
+    lines = raw_content.split("\n")
+    content = "\n".join(lines[1 : len(lines)])
     with open("./wordlists/discovery/tlds.txt", "w+", encoding="utf-8") as manuf_file:
         manuf_file.write(content)
 
