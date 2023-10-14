@@ -21,7 +21,7 @@ If you have a wordlist that you wish to see here, you can:
 - Join my discord server [here](https://discord.gg/mTBrXyWxAF)
 - Post them [here](https://github.com/kkrypt0nn/wordlists/issues)
 
-If you already have a wordlist ready to be adeded, make sure to [open a pull request](https://github.com/kkrypt0nn/wordlists/pulls).
+If you already have a wordlist ready to be added, make sure to [open a pull request](https://github.com/kkrypt0nn/wordlists/pulls).
 
 ## 📜 Wordlists
 
