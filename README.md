@@ -37,13 +37,13 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/discovery/common.txt">Common</a> - 4,613 Lines</li>
       <li><a href="wordlists/discovery/common_sql_columns.txt">Common Sql Columns</a> - 471 Lines</li>
       <li><a href="wordlists/discovery/common_sql_tables.txt">Common Sql Tables</a> - 1,706 Lines</li>
-      <li><a href="wordlists/discovery/conf.txt">Conf</a> - 100,926 Lines</li>
-      <li><a href="wordlists/discovery/directories.txt">Directories</a> - 58,656 Lines</li>
+      <li><a href="wordlists/discovery/conf.txt">Conf</a> - 201,790 Lines</li>
+      <li><a href="wordlists/discovery/directories.txt">Directories</a> - 58,655 Lines</li>
       <li><a href="wordlists/discovery/directory_list_1.0.txt">Directory List 1.0</a> - 141,694 Lines</li>
-      <li><a href="wordlists/discovery/directory_list_2.3_medium.txt">Directory List 2.3 Medium</a> - 220,546 Lines</li>
-      <li><a href="wordlists/discovery/directory_list_2.3_small.txt">Directory List 2.3 Small</a> - 87,650 Lines</li>
-      <li><a href="wordlists/discovery/directory_list_lowercase_2.3_medium.txt">Directory List Lowercase 2.3 Medium</a> - 207,629 Lines</li>
-      <li><a href="wordlists/discovery/directory_list_lowercase_2.3_small.txt">Directory List Lowercase 2.3 Small</a> - 81,629 Lines</li>
+      <li><a href="wordlists/discovery/directory_list_2.3_medium.txt">Directory List 2.3 Medium</a> - 220,545 Lines</li>
+      <li><a href="wordlists/discovery/directory_list_2.3_small.txt">Directory List 2.3 Small</a> - 87,649 Lines</li>
+      <li><a href="wordlists/discovery/directory_list_lowercase_2.3_medium.txt">Directory List Lowercase 2.3 Medium</a> - 207,628 Lines</li>
+      <li><a href="wordlists/discovery/directory_list_lowercase_2.3_small.txt">Directory List Lowercase 2.3 Small</a> - 81,628 Lines</li>
       <li><a href="wordlists/discovery/extensions_common.txt">Extensions Common</a> - 28 Lines</li>
       <li><a href="wordlists/discovery/fuzz_php_special.txt">Fuzz Php Special</a> - 136,921 Lines</li>
       <li><a href="wordlists/discovery/indexes.txt">Indexes</a> - 10 Lines</li>
@@ -69,7 +69,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/famous/facebook_phished.txt">Facebook Phished</a> - 2,441 Lines</li>
       <li><a href="wordlists/famous/fasttrack.txt">Fasttrack</a> - 222 Lines</li>
       <li><a href="wordlists/famous/fern_wifi.txt">Fern Wifi</a> - 478 Lines</li>
-      <li><a href="wordlists/famous/hotmail.txt">Hotmail</a> - 8,931 Lines</li>
+      <li><a href="wordlists/famous/hotmail.txt">Hotmail</a> - 8,930 Lines</li>
       <li><a href="wordlists/famous/nmap.txt">Nmap</a> - 4,999 Lines</li>
       <li><a href="wordlists/famous/rockyou.zip">Rockyou</a> - 14,344,392 Lines</li>
     </ul>
@@ -130,7 +130,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/passwords/keyboard_patterns.txt">Keyboard Patterns</a> - 20 Lines</li>
       <li><a href="wordlists/passwords/md5decryptor.txt">Md5Decryptor</a> - 3,431,316 Lines</li>
       <li><a href="wordlists/passwords/medical_devices_passwords.txt">Medical Devices Passwords</a> - 173 Lines</li>
-      <li><a href="wordlists/passwords/mirai_passwords.txt">Mirai Passwords</a> - 43 Lines</li>
+      <li><a href="wordlists/passwords/mirai_passwords.txt">Mirai Passwords</a> - 42 Lines</li>
       <li><a href="wordlists/passwords/most_used_passwords.txt">Most Used Passwords</a> - 999,998 Lines</li>
       <li><a href="wordlists/passwords/most_used_passwords_ncsc.txt">Most Used Passwords Ncsc</a> - 100,000 Lines</li>
       <li><a href="wordlists/passwords/nord_vpn.txt">Nord Vpn</a> - 1,437 Lines</li>
@@ -312,10 +312,10 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
   <details>
     <summary>Vulnerabilities</summary>
     <ul>
-      <li><a href="wordlists/vulnerabilities/all_attacks.txt">All Attacks</a> - 468 Lines</li>
+      <li><a href="wordlists/vulnerabilities/all_attacks.txt">All Attacks</a> - 467 Lines</li>
       <li><a href="wordlists/vulnerabilities/apache.txt">Apache</a> - 30 Lines</li>
       <li><a href="wordlists/vulnerabilities/axis.txt">Axis</a> - 17 Lines</li>
-      <li><a href="wordlists/vulnerabilities/cgis.txt">Cgis</a> - 3,494 Lines</li>
+      <li><a href="wordlists/vulnerabilities/cgis.txt">Cgis</a> - 3,463 Lines</li>
       <li><a href="wordlists/vulnerabilities/coldfusion.txt">Coldfusion</a> - 22 Lines</li>
       <li><a href="wordlists/vulnerabilities/directory_traversal.txt">Directory Traversal</a> - 847 Lines</li>
       <li><a href="wordlists/vulnerabilities/directory_traversal_unix.txt">Directory Traversal Unix</a> - 871 Lines</li>
@@ -333,11 +333,11 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/vulnerabilities/jrun.txt">Jrun</a> - 13 Lines</li>
       <li><a href="wordlists/vulnerabilities/juicy_files.txt">Juicy Files</a> - 187,964 Lines</li>
       <li><a href="wordlists/vulnerabilities/netware.txt">Netware</a> - 60 Lines</li>
-      <li><a href="wordlists/vulnerabilities/oracle.txt">Oracle</a> - 1,075 Lines</li>
+      <li><a href="wordlists/vulnerabilities/oracle.txt">Oracle</a> - 1,074 Lines</li>
       <li><a href="wordlists/vulnerabilities/ror.txt">Ror</a> - 121 Lines</li>
       <li><a href="wordlists/vulnerabilities/sap.txt">Sap</a> - 1,111 Lines</li>
       <li><a href="wordlists/vulnerabilities/sharepoint.txt">Sharepoint</a> - 1,708 Lines</li>
-      <li><a href="wordlists/vulnerabilities/sql.txt">Sql</a> - 125 Lines</li>
+      <li><a href="wordlists/vulnerabilities/sql.txt">Sql</a> - 167 Lines</li>
       <li><a href="wordlists/vulnerabilities/sql_inj.txt">Sql Inj</a> - 41 Lines</li>
       <li><a href="wordlists/vulnerabilities/ssti.txt">Ssti</a> - 107 Lines</li>
       <li><a href="wordlists/vulnerabilities/sunas.txt">Sunas</a> - 51 Lines</li>
@@ -347,7 +347,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/vulnerabilities/weblogic.txt">Weblogic</a> - 361 Lines</li>
       <li><a href="wordlists/vulnerabilities/websphere.txt">Websphere</a> - 561 Lines</li>
       <li><a href="wordlists/vulnerabilities/xml.txt">Xml</a> - 15 Lines</li>
-      <li><a href="wordlists/vulnerabilities/xss.txt">Xss</a> - 22,597 Lines</li>
+      <li><a href="wordlists/vulnerabilities/xss.txt">Xss</a> - 19,867 Lines</li>
     </ul>
   </details>
 </details>
@@ -364,13 +364,13 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/discovery/common.txt">Common</a> - 4,613 Lines</li>
     <li><a href="wordlists/discovery/common_sql_columns.txt">Common Sql Columns</a> - 471 Lines</li>
     <li><a href="wordlists/discovery/common_sql_tables.txt">Common Sql Tables</a> - 1,706 Lines</li>
-    <li><a href="wordlists/discovery/conf.txt">Conf</a> - 100,926 Lines</li>
-    <li><a href="wordlists/discovery/directories.txt">Directories</a> - 58,656 Lines</li>
+    <li><a href="wordlists/discovery/conf.txt">Conf</a> - 201,790 Lines</li>
+    <li><a href="wordlists/discovery/directories.txt">Directories</a> - 58,655 Lines</li>
     <li><a href="wordlists/discovery/directory_list_1.0.txt">Directory List 1.0</a> - 141,694 Lines</li>
-    <li><a href="wordlists/discovery/directory_list_2.3_medium.txt">Directory List 2.3 Medium</a> - 220,546 Lines</li>
-    <li><a href="wordlists/discovery/directory_list_2.3_small.txt">Directory List 2.3 Small</a> - 87,650 Lines</li>
-    <li><a href="wordlists/discovery/directory_list_lowercase_2.3_medium.txt">Directory List Lowercase 2.3 Medium</a> - 207,629 Lines</li>
-    <li><a href="wordlists/discovery/directory_list_lowercase_2.3_small.txt">Directory List Lowercase 2.3 Small</a> - 81,629 Lines</li>
+    <li><a href="wordlists/discovery/directory_list_2.3_medium.txt">Directory List 2.3 Medium</a> - 220,545 Lines</li>
+    <li><a href="wordlists/discovery/directory_list_2.3_small.txt">Directory List 2.3 Small</a> - 87,649 Lines</li>
+    <li><a href="wordlists/discovery/directory_list_lowercase_2.3_medium.txt">Directory List Lowercase 2.3 Medium</a> - 207,628 Lines</li>
+    <li><a href="wordlists/discovery/directory_list_lowercase_2.3_small.txt">Directory List Lowercase 2.3 Small</a> - 81,628 Lines</li>
     <li><a href="wordlists/discovery/extensions_common.txt">Extensions Common</a> - 28 Lines</li>
     <li><a href="wordlists/discovery/fuzz_php_special.txt">Fuzz Php Special</a> - 136,921 Lines</li>
     <li><a href="wordlists/discovery/indexes.txt">Indexes</a> - 10 Lines</li>
@@ -394,7 +394,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/famous/facebook_phished.txt">Facebook Phished</a> - 2,441 Lines</li>
     <li><a href="wordlists/famous/fasttrack.txt">Fasttrack</a> - 222 Lines</li>
     <li><a href="wordlists/famous/fern_wifi.txt">Fern Wifi</a> - 478 Lines</li>
-    <li><a href="wordlists/famous/hotmail.txt">Hotmail</a> - 8,931 Lines</li>
+    <li><a href="wordlists/famous/hotmail.txt">Hotmail</a> - 8,930 Lines</li>
     <li><a href="wordlists/famous/nmap.txt">Nmap</a> - 4,999 Lines</li>
     <li><a href="wordlists/famous/rockyou.zip">Rockyou</a> - 14,344,392 Lines</li>
   </ul>
@@ -449,7 +449,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/passwords/keyboard_patterns.txt">Keyboard Patterns</a> - 20 Lines</li>
     <li><a href="wordlists/passwords/md5decryptor.txt">Md5Decryptor</a> - 3,431,316 Lines</li>
     <li><a href="wordlists/passwords/medical_devices_passwords.txt">Medical Devices Passwords</a> - 173 Lines</li>
-    <li><a href="wordlists/passwords/mirai_passwords.txt">Mirai Passwords</a> - 43 Lines</li>
+    <li><a href="wordlists/passwords/mirai_passwords.txt">Mirai Passwords</a> - 42 Lines</li>
     <li><a href="wordlists/passwords/most_used_passwords.txt">Most Used Passwords</a> - 999,998 Lines</li>
     <li><a href="wordlists/passwords/most_used_passwords_ncsc.txt">Most Used Passwords Ncsc</a> - 100,000 Lines</li>
     <li><a href="wordlists/passwords/nord_vpn.txt">Nord Vpn</a> - 1,437 Lines</li>
@@ -617,10 +617,10 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
   </ul>
   <li>Vulnerabilities</li>
   <ul>
-    <li><a href="wordlists/vulnerabilities/all_attacks.txt">All Attacks</a> - 468 Lines</li>
+    <li><a href="wordlists/vulnerabilities/all_attacks.txt">All Attacks</a> - 467 Lines</li>
     <li><a href="wordlists/vulnerabilities/apache.txt">Apache</a> - 30 Lines</li>
     <li><a href="wordlists/vulnerabilities/axis.txt">Axis</a> - 17 Lines</li>
-    <li><a href="wordlists/vulnerabilities/cgis.txt">Cgis</a> - 3,494 Lines</li>
+    <li><a href="wordlists/vulnerabilities/cgis.txt">Cgis</a> - 3,463 Lines</li>
     <li><a href="wordlists/vulnerabilities/coldfusion.txt">Coldfusion</a> - 22 Lines</li>
     <li><a href="wordlists/vulnerabilities/directory_traversal.txt">Directory Traversal</a> - 847 Lines</li>
     <li><a href="wordlists/vulnerabilities/directory_traversal_unix.txt">Directory Traversal Unix</a> - 871 Lines</li>
@@ -638,11 +638,11 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/vulnerabilities/jrun.txt">Jrun</a> - 13 Lines</li>
     <li><a href="wordlists/vulnerabilities/juicy_files.txt">Juicy Files</a> - 187,964 Lines</li>
     <li><a href="wordlists/vulnerabilities/netware.txt">Netware</a> - 60 Lines</li>
-    <li><a href="wordlists/vulnerabilities/oracle.txt">Oracle</a> - 1,075 Lines</li>
+    <li><a href="wordlists/vulnerabilities/oracle.txt">Oracle</a> - 1,074 Lines</li>
     <li><a href="wordlists/vulnerabilities/ror.txt">Ror</a> - 121 Lines</li>
     <li><a href="wordlists/vulnerabilities/sap.txt">Sap</a> - 1,111 Lines</li>
     <li><a href="wordlists/vulnerabilities/sharepoint.txt">Sharepoint</a> - 1,708 Lines</li>
-    <li><a href="wordlists/vulnerabilities/sql.txt">Sql</a> - 125 Lines</li>
+    <li><a href="wordlists/vulnerabilities/sql.txt">Sql</a> - 167 Lines</li>
     <li><a href="wordlists/vulnerabilities/sql_inj.txt">Sql Inj</a> - 41 Lines</li>
     <li><a href="wordlists/vulnerabilities/ssti.txt">Ssti</a> - 107 Lines</li>
     <li><a href="wordlists/vulnerabilities/sunas.txt">Sunas</a> - 51 Lines</li>
@@ -652,7 +652,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/vulnerabilities/weblogic.txt">Weblogic</a> - 361 Lines</li>
     <li><a href="wordlists/vulnerabilities/websphere.txt">Websphere</a> - 561 Lines</li>
     <li><a href="wordlists/vulnerabilities/xml.txt">Xml</a> - 15 Lines</li>
-    <li><a href="wordlists/vulnerabilities/xss.txt">Xss</a> - 22,597 Lines</li>
+    <li><a href="wordlists/vulnerabilities/xss.txt">Xss</a> - 19,867 Lines</li>
   </ul>
 </ul>
 
