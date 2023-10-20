@@ -16,16 +16,16 @@
 /NetServer\bin\stable\apache\php.ini
 /PHP/php.ini
 /PostgreSQL/log/pgadmin.log
-/Program Files/Apache Group/Apache/apache.conf
+/Program Files/Apache Group/Apache2/conf/apache2.conf
+/Program Files/Apache Group/Apache2/conf/apache.conf
+/Program Files/Apache Group/Apache2/conf/httpd.conf
 /Program Files/Apache Group/Apache/apache2.conf
-/Program Files/Apache Group/Apache/conf/apache.conf
+/Program Files/Apache Group/Apache/apache.conf
 /Program Files/Apache Group/Apache/conf/apache2.conf
+/Program Files/Apache Group/Apache/conf/apache.conf
 /Program Files/Apache Group/Apache/conf/httpd.conf
 /Program Files/Apache Group/Apache/logs/access.log
 /Program Files/Apache Group/Apache/logs/error.log
-/Program Files/Apache Group/Apache2/conf/apache.conf
-/Program Files/Apache Group/Apache2/conf/apache2.conf
-/Program Files/Apache Group/Apache2/conf/httpd.conf
 /Program Files/Apache Software Foundation/Apache2.2/conf/httpd.conf
 /Program Files/Apache Software Foundation/Apache2.2/logs/access.log
 /Program Files/Apache Software Foundation/Apache2.2/logs/error.log
@@ -67,8 +67,8 @@
 /Program Files/[JBOSS]/server/default/deploy/jboss-logging.xml
 /Program Files/[JBOSS]/server/default/log/boot.log
 /Program Files/[JBOSS]/server/default/log/server.log
-/Program Files/xampp/apache/conf/apache.conf
 /Program Files/xampp/apache/conf/apache2.conf
+/Program Files/xampp/apache/conf/apache.conf
 /Program Files/xampp/apache/conf/httpd.conf
 /Program Files\Apache Group\Apache2\conf\httpd.conf
 /Program Files\Apache Group\Apache\conf\httpd.conf
@@ -76,13 +76,13 @@
 /Program Files\Apache Group\Apache\logs\error.log
 /Program Files\xampp\apache\conf\httpd.conf
 /System/Library/WebObjects/Adaptors/Apache2.2/apache.conf
-/Volumes/Macintosh_HD1/opt/apache/conf/httpd.conf
 /Volumes/Macintosh_HD1/opt/apache2/conf/httpd.conf
+/Volumes/Macintosh_HD1/opt/apache/conf/httpd.conf
 /Volumes/Macintosh_HD1/opt/httpd/conf/httpd.conf
-/Volumes/Macintosh_HD1/usr/local/php/httpd.conf.php
-/Volumes/Macintosh_HD1/usr/local/php/lib/php.ini
 /Volumes/Macintosh_HD1/usr/local/php4/httpd.conf.php
 /Volumes/Macintosh_HD1/usr/local/php5/httpd.conf.php
+/Volumes/Macintosh_HD1/usr/local/php/httpd.conf.php
+/Volumes/Macintosh_HD1/usr/local/php/lib/php.ini
 /Volumes/webBackup/opt/apache2/conf/httpd.conf
 /Volumes/webBackup/private/etc/httpd/httpd.conf
 /Volumes/webBackup/private/etc/httpd/httpd.conf.default
@@ -96,10 +96,10 @@
 /WINDOWS/system32/logfiles/SMTPSVC3
 /WINDOWS/system32/logfiles/SMTPSVC4
 /WINDOWS/system32/logfiles/SMTPSVC5
-/WINDOWS/system32/logfiles/W3SVC/inetsvn1.log
 /WINDOWS/system32/logfiles/W3SVC1/inetsvn1.log
 /WINDOWS/system32/logfiles/W3SVC2/inetsvn1.log
 /WINDOWS/system32/logfiles/W3SVC3/inetsvn1.log
+/WINDOWS/system32/logfiles/W3SVC/inetsvn1.log
 /WINDOWS\php.ini
 /WINNT/php.ini
 /WINNT/system32/logfiles/MSFTPSVC
@@ -111,10 +111,10 @@
 /WINNT/system32/logfiles/SMTPSVC3
 /WINNT/system32/logfiles/SMTPSVC4
 /WINNT/system32/logfiles/SMTPSVC5
-/WINNT/system32/logfiles/W3SVC/inetsvn1.log
 /WINNT/system32/logfiles/W3SVC1/inetsvn1.log
 /WINNT/system32/logfiles/W3SVC2/inetsvn1.log
 /WINNT/system32/logfiles/W3SVC3/inetsvn1.log
+/WINNT/system32/logfiles/W3SVC/inetsvn1.log
 /WINNT\php.ini
 /[JBOSS]/server/default/conf/jboss-minimal.xml
 /[JBOSS]/server/default/conf/jboss-service.xml
@@ -127,12 +127,12 @@
 /[JBOSS]/server/default/deploy/jboss-logging.xml
 /[JBOSS]/server/default/log/boot.log
 /[JBOSS]/server/default/log/server.log
+/apache2/logs/access.log
+/apache2/logs/error.log
 /apache/conf/httpd.conf
 /apache/logs/access.log
 /apache/logs/error.log
 /apache/php/php.ini
-/apache2/logs/access.log
-/apache2/logs/error.log
 /apache\php\php.ini
 /bin/php.ini
 /boot/grub/grub.cfg
@@ -145,21 +145,16 @@
 /etc/X11/xorg.conf.orig
 /etc/adduser.conf
 /etc/alias
-/etc/apache/access.conf
-/etc/apache/apache.conf
-/etc/apache/conf/httpd.conf
-/etc/apache/default-server.conf
-/etc/apache/httpd.conf
-/etc/apache2/apache.conf
 /etc/apache2/apache2.conf
+/etc/apache2/apache.conf
 /etc/apache2/conf.d/charset
 /etc/apache2/conf.d/phpmyadmin.conf
 /etc/apache2/conf.d/security
 /etc/apache2/conf/httpd.conf
 /etc/apache2/default-server.conf
 /etc/apache2/envvars
-/etc/apache2/httpd.conf
 /etc/apache2/httpd2.conf
+/etc/apache2/httpd.conf
 /etc/apache2/mods-available/autoindex.conf
 /etc/apache2/mods-available/deflate.conf
 /etc/apache2/mods-available/dir.conf
@@ -189,6 +184,11 @@
 /etc/apache2/vhosts.d/default_vhost.include
 /etc/apache22/conf/httpd.conf
 /etc/apache22/httpd.conf
+/etc/apache/access.conf
+/etc/apache/apache.conf
+/etc/apache/conf/httpd.conf
+/etc/apache/default-server.conf
+/etc/apache/httpd.conf
 /etc/apt/apt.conf
 /etc/avahi/avahi-daemon.conf
 /etc/bash.bashrc
@@ -217,9 +217,9 @@
 /etc/debian_version
 /etc/default/grub
 /etc/deluser.conf
-/etc/dhcp/dhclient.conf
 /etc/dhcp3/dhclient.conf
 /etc/dhcp3/dhcpd.conf
+/etc/dhcp/dhclient.conf
 /etc/dns2tcpd.conf
 /etc/e2fsck.conf
 /etc/esound/esd.conf
@@ -244,14 +244,14 @@
 /etc/http/conf/httpd.conf
 /etc/http/httpd.conf
 /etc/httpd.conf
-/etc/httpd/apache.conf
 /etc/httpd/apache2.conf
+/etc/httpd/apache.conf
 /etc/httpd/conf
 /etc/httpd/conf.d
 /etc/httpd/conf.d/php.conf
 /etc/httpd/conf.d/squirrelmail.conf
-/etc/httpd/conf/apache.conf
 /etc/httpd/conf/apache2.conf
+/etc/httpd/conf/apache.conf
 /etc/httpd/conf/httpd.conf
 /etc/httpd/extra/httpd-ssl.conf
 /etc/httpd/httpd.conf
@@ -319,19 +319,19 @@
 /etc/passwd-
 /etc/passwd~
 /etc/password.master
-/etc/php.ini
-/etc/php/apache/php.ini
-/etc/php/apache2/php.ini
-/etc/php/cgi/php.ini
-/etc/php/php.ini
-/etc/php/php4/php.ini
 /etc/php4.4/fcgi/php.ini
-/etc/php4/apache/php.ini
 /etc/php4/apache2/php.ini
+/etc/php4/apache/php.ini
 /etc/php4/cgi/php.ini
-/etc/php5/apache/php.ini
 /etc/php5/apache2/php.ini
+/etc/php5/apache/php.ini
 /etc/php5/cgi/php.ini
+/etc/php.ini
+/etc/php/apache2/php.ini
+/etc/php/apache/php.ini
+/etc/php/cgi/php.ini
+/etc/php/php4/php.ini
+/etc/php/php.ini
 /etc/phpmyadmin/config.inc.php
 /etc/postgresql/pg_hba.conf
 /etc/postgresql/postgresql.conf
@@ -374,8 +374,8 @@
 /etc/security/sepermit.conf
 /etc/security/time.conf
 /etc/security/user
-/etc/sensors.conf
 /etc/sensors3.conf
+/etc/sensors.conf
 /etc/shadow
 /etc/shadow-
 /etc/shadow~
@@ -429,14 +429,14 @@
 /etc/wu-ftpd/ftpaccess
 /etc/wu-ftpd/ftphosts
 /etc/wu-ftpd/ftpusers
+/home2/bin/stable/apache/php.ini
+/home2\bin\stable\apache\php.ini
 /home/bin/stable/apache/php.ini
 /home/postgres/data/PG_VERSION
 /home/postgres/data/pg_hba.conf
 /home/postgres/data/pg_ident.conf
 /home/postgres/data/postgresql.conf
 /home/user/lighttpd/lighttpd.conf
-/home2/bin/stable/apache/php.ini
-/home2\bin\stable\apache\php.ini
 /home\bin\stable\apache\php.ini
 /http/httpd.conf
 /logs/access.log
@@ -458,21 +458,21 @@
 /opt/[JBOSS]/server/default/deploy/jboss-logging.xml
 /opt/[JBOSS]/server/default/log/boot.log
 /opt/[JBOSS]/server/default/log/server.log
-/opt/apache/apache.conf
-/opt/apache/apache2.conf
-/opt/apache/conf/apache.conf
-/opt/apache/conf/apache2.conf
-/opt/apache/conf/httpd.conf
-/opt/apache2/apache.conf
 /opt/apache2/apache2.conf
-/opt/apache2/conf/apache.conf
+/opt/apache2/apache.conf
 /opt/apache2/conf/apache2.conf
+/opt/apache2/conf/apache.conf
 /opt/apache2/conf/httpd.conf
 /opt/apache22/conf/httpd.conf
-/opt/httpd/apache.conf
+/opt/apache/apache2.conf
+/opt/apache/apache.conf
+/opt/apache/conf/apache2.conf
+/opt/apache/conf/apache.conf
+/opt/apache/conf/httpd.conf
 /opt/httpd/apache2.conf
-/opt/httpd/conf/apache.conf
+/opt/httpd/apache.conf
 /opt/httpd/conf/apache2.conf
+/opt/httpd/conf/apache.conf
 /opt/lampp/etc/httpd.conf
 /opt/lampp/logs/access.log
 /opt/lampp/logs/access_log
@@ -489,11 +489,11 @@
 /opt/xampp/logs/access_log
 /opt/xampp/logs/error.log
 /opt/xampp/logs/error_log
-/php/php.ini
 /php4/php.ini
 /php5/php.ini
-/private/etc/httpd/apache.conf
+/php/php.ini
 /private/etc/httpd/apache2.conf
+/private/etc/httpd/apache.conf
 /private/etc/httpd/httpd.conf
 /private/etc/httpd/httpd.conf.default
 /private/etc/squirrelmail/config/config.php
@@ -517,8 +517,15 @@
 /proc/self/environ
 /proc/self/fd/0
 /proc/self/fd/1
+/proc/self/fd/2
+/proc/self/fd/3
+/proc/self/fd/4
+/proc/self/fd/5
+/proc/self/fd/6
+/proc/self/fd/7
+/proc/self/fd/8
+/proc/self/fd/9
 /proc/self/fd/10
-/proc/self/fd/100
 /proc/self/fd/11
 /proc/self/fd/12
 /proc/self/fd/13
@@ -528,7 +535,6 @@
 /proc/self/fd/17
 /proc/self/fd/18
 /proc/self/fd/19
-/proc/self/fd/2
 /proc/self/fd/20
 /proc/self/fd/21
 /proc/self/fd/22
@@ -539,7 +545,6 @@
 /proc/self/fd/27
 /proc/self/fd/28
 /proc/self/fd/29
-/proc/self/fd/3
 /proc/self/fd/30
 /proc/self/fd/31
 /proc/self/fd/32
@@ -550,7 +555,6 @@
 /proc/self/fd/37
 /proc/self/fd/38
 /proc/self/fd/39
-/proc/self/fd/4
 /proc/self/fd/40
 /proc/self/fd/41
 /proc/self/fd/42
@@ -561,7 +565,6 @@
 /proc/self/fd/47
 /proc/self/fd/48
 /proc/self/fd/49
-/proc/self/fd/5
 /proc/self/fd/50
 /proc/self/fd/51
 /proc/self/fd/52
@@ -572,7 +575,6 @@
 /proc/self/fd/57
 /proc/self/fd/58
 /proc/self/fd/59
-/proc/self/fd/6
 /proc/self/fd/60
 /proc/self/fd/61
 /proc/self/fd/62
@@ -583,7 +585,6 @@
 /proc/self/fd/67
 /proc/self/fd/68
 /proc/self/fd/69
-/proc/self/fd/7
 /proc/self/fd/70
 /proc/self/fd/71
 /proc/self/fd/72
@@ -594,7 +595,6 @@
 /proc/self/fd/77
 /proc/self/fd/78
 /proc/self/fd/79
-/proc/self/fd/8
 /proc/self/fd/80
 /proc/self/fd/81
 /proc/self/fd/82
@@ -605,7 +605,6 @@
 /proc/self/fd/87
 /proc/self/fd/88
 /proc/self/fd/89
-/proc/self/fd/9
 /proc/self/fd/90
 /proc/self/fd/91
 /proc/self/fd/92
@@ -616,6 +615,7 @@
 /proc/self/fd/97
 /proc/self/fd/98
 /proc/self/fd/99
+/proc/self/fd/100
 /proc/self/mounts
 /proc/self/stat
 /proc/self/status
@@ -639,8 +639,8 @@
 /tmp/[JBOSS]/server/default/log/boot.log
 /tmp/[JBOSS]/server/default/log/server.log
 /tmp/access.log
-/usr/apache/conf/httpd.conf
 /usr/apache2/conf/httpd.conf
+/usr/apache/conf/httpd.conf
 /usr/etc/pure-ftpd.conf
 /usr/home/user/lighttpd/lighttpd.conf
 /usr/home/user/var/log/apache.log
@@ -663,31 +663,11 @@
 /usr/local/[JBOSS]/server/default/deploy/jboss-logging.xml
 /usr/local/[JBOSS]/server/default/log/boot.log
 /usr/local/[JBOSS]/server/default/log/server.log
-/usr/local/apache/apache.conf
-/usr/local/apache/apache2.conf
-/usr/local/apache/conf/access.conf
-/usr/local/apache/conf/apache.conf
-/usr/local/apache/conf/apache2.conf
-/usr/local/apache/conf/httpd.conf
-/usr/local/apache/conf/httpd.conf.default
-/usr/local/apache/conf/modsec.conf
-/usr/local/apache/conf/php.ini
-/usr/local/apache/conf/vhosts-custom.conf
-/usr/local/apache/conf/vhosts.conf
-/usr/local/apache/httpd.conf
-/usr/local/apache/logs/access.log
-/usr/local/apache/logs/access_log
-/usr/local/apache/logs/audit_log
-/usr/local/apache/logs/error.log
-/usr/local/apache/logs/error_log
-/usr/local/apache/logs/lighttpd.error.log
-/usr/local/apache/logs/lighttpd.log
-/usr/local/apache/logs/mod_jk.log
 /usr/local/apache1.3/conf/httpd.conf
-/usr/local/apache2/apache.conf
 /usr/local/apache2/apache2.conf
-/usr/local/apache2/conf/apache.conf
+/usr/local/apache2/apache.conf
 /usr/local/apache2/conf/apache2.conf
+/usr/local/apache2/conf/apache.conf
 /usr/local/apache2/conf/extra/httpd-ssl.conf
 /usr/local/apache2/conf/httpd.conf
 /usr/local/apache2/conf/modsec.conf
@@ -704,23 +684,43 @@
 /usr/local/apache2/logs/lighttpd.log
 /usr/local/apache22/conf/httpd.conf
 /usr/local/apache22/httpd.conf
-/usr/local/apps/apache/conf/httpd.conf
+/usr/local/apache/apache2.conf
+/usr/local/apache/apache.conf
+/usr/local/apache/conf/access.conf
+/usr/local/apache/conf/apache2.conf
+/usr/local/apache/conf/apache.conf
+/usr/local/apache/conf/httpd.conf
+/usr/local/apache/conf/httpd.conf.default
+/usr/local/apache/conf/modsec.conf
+/usr/local/apache/conf/php.ini
+/usr/local/apache/conf/vhosts-custom.conf
+/usr/local/apache/conf/vhosts.conf
+/usr/local/apache/httpd.conf
+/usr/local/apache/logs/access.log
+/usr/local/apache/logs/access_log
+/usr/local/apache/logs/audit_log
+/usr/local/apache/logs/error.log
+/usr/local/apache/logs/error_log
+/usr/local/apache/logs/lighttpd.error.log
+/usr/local/apache/logs/lighttpd.log
+/usr/local/apache/logs/mod_jk.log
 /usr/local/apps/apache2/conf/httpd.conf
 /usr/local/apps/apache22/conf/httpd.conf
+/usr/local/apps/apache/conf/httpd.conf
 /usr/local/cpanel/logs
 /usr/local/cpanel/logs/access_log
 /usr/local/cpanel/logs/error_log
 /usr/local/cpanel/logs/license_log
 /usr/local/cpanel/logs/login_log
 /usr/local/cpanel/logs/stats_log
-/usr/local/etc/apache/conf/httpd.conf
-/usr/local/etc/apache/httpd.conf
-/usr/local/etc/apache/vhosts.conf
 /usr/local/etc/apache2/conf/httpd.conf
 /usr/local/etc/apache2/httpd.conf
 /usr/local/etc/apache2/vhosts.conf
 /usr/local/etc/apache22/conf/httpd.conf
 /usr/local/etc/apache22/httpd.conf
+/usr/local/etc/apache/conf/httpd.conf
+/usr/local/etc/apache/httpd.conf
+/usr/local/etc/apache/vhosts.conf
 /usr/local/etc/httpd/conf
 /usr/local/etc/httpd/conf/httpd.conf
 /usr/local/etc/lighttpd.conf
@@ -769,27 +769,27 @@
 /usr/local/pgsql/data/pg_log
 /usr/local/pgsql/data/postgresql.conf
 /usr/local/pgsql/data/postgresql.log
-/usr/local/php/apache.conf
-/usr/local/php/apache.conf.php
-/usr/local/php/apache2.conf
-/usr/local/php/apache2.conf.php
-/usr/local/php/httpd.conf
-/usr/local/php/httpd.conf.php
-/usr/local/php/lib/php.ini
-/usr/local/php4/apache.conf
-/usr/local/php4/apache.conf.php
 /usr/local/php4/apache2.conf
 /usr/local/php4/apache2.conf.php
+/usr/local/php4/apache.conf
+/usr/local/php4/apache.conf.php
 /usr/local/php4/httpd.conf
 /usr/local/php4/httpd.conf.php
 /usr/local/php4/lib/php.ini
-/usr/local/php5/apache.conf
-/usr/local/php5/apache.conf.php
 /usr/local/php5/apache2.conf
 /usr/local/php5/apache2.conf.php
+/usr/local/php5/apache.conf
+/usr/local/php5/apache.conf.php
 /usr/local/php5/httpd.conf
 /usr/local/php5/httpd.conf.php
 /usr/local/php5/lib/php.ini
+/usr/local/php/apache2.conf
+/usr/local/php/apache2.conf.php
+/usr/local/php/apache.conf
+/usr/local/php/apache.conf.php
+/usr/local/php/httpd.conf
+/usr/local/php/httpd.conf.php
+/usr/local/php/lib/php.ini
 /usr/local/psa/admin/conf/php.ini
 /usr/local/psa/admin/conf/site_isolation_settings.ini
 /usr/local/psa/admin/htdocs/domains/databases/phpMyAdmin/libraries/config.default.php
@@ -831,14 +831,14 @@
 /usr/share/logs/catalina.out
 /usr/share/squirrelmail/config/config.php
 /usr/share/squirrelmail/plugins/squirrel_logger/setup.php
-/usr/share/tomcat/logs/catalina.err
-/usr/share/tomcat/logs/catalina.out
 /usr/share/tomcat6/conf/context.xml
 /usr/share/tomcat6/conf/logging.properties
 /usr/share/tomcat6/conf/server.xml
 /usr/share/tomcat6/conf/workers.properties
 /usr/share/tomcat6/logs/catalina.err
 /usr/share/tomcat6/logs/catalina.out
+/usr/share/tomcat/logs/catalina.err
+/usr/share/tomcat/logs/catalina.out
 /usr/spool/lp/log
 /usr/spool/mqueue/syslog
 /var/adm/SYSLOG
@@ -880,16 +880,16 @@
 /var/log/Xorg.0.log
 /var/log/access.log
 /var/log/access_log
-/var/log/apache/access.log
-/var/log/apache/access_log
-/var/log/apache/error.log
-/var/log/apache/error_log
 /var/log/apache2/access.log
 /var/log/apache2/access_log
 /var/log/apache2/error.log
 /var/log/apache2/error_log
 /var/log/apache2/squirrelmail.err.log
 /var/log/apache2/squirrelmail.log
+/var/log/apache/access.log
+/var/log/apache/access_log
+/var/log/apache/error.log
+/var/log/apache/error_log
 /var/log/auth.log
 /var/log/authlog
 /var/log/boot.log
@@ -961,8 +961,8 @@
 /var/log/nginx/access_log
 /var/log/nginx/error.log
 /var/log/nginx/error_log
-/var/log/pgsql/pgsql.log
 /var/log/pgsql8.log
+/var/log/pgsql/pgsql.log
 /var/log/pgsql_log
 /var/log/pm-powersave.log
 /var/log/postgres/pg_backup.log

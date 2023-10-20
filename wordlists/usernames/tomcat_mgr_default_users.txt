@@ -1,6 +1,6 @@
 admin
+both
 manager
 role1
 root
 tomcat
-both

@@ -1,10 +1,10 @@
+base
 default
 home
 index
-menu
-main
-start
-localstart
-inicio
 indice
-base
+inicio
+localstart
+main
+menu
+start

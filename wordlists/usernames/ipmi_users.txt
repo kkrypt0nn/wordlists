@@ -1,7 +1,7 @@
 ADMIN
-admin
-root
+Admin
 Administrator
 USERID
+admin
 guest
-Admin
+root

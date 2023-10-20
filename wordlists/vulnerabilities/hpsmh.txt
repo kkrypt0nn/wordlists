@@ -74,11 +74,11 @@ cpqopts.php
 cpqopts.php.en
 credits.php
 credits.php.en
+critical_7.gif
 critical_11.gif
 critical_15.gif
 critical_20.gif
 critical_32.gif
-critical_7.gif
 css
 css/blue_theme.css
 css/common.css
@@ -95,11 +95,11 @@ custom_ui/logo1.jpg
 dclset
 dclshow
 dfw
+disabled_7.gif
 disabled_11.gif
 disabled_15.gif
 disabled_20.gif
 disabled_32.gif
-disabled_7.gif
 dmiagent
 ebs
 errlog.php

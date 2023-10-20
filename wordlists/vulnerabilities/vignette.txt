@@ -10,9 +10,11 @@ Deleting
 Docs
 Editing
 HOME
+HelloWorld.jsp
 Images
 Internal
 MetaDataUpdate
+Ping.jsp
 Report
 Select
 StoryServer
@@ -69,5 +71,3 @@ utils
 vdc
 vgn
 vr
-Ping.jsp
-HelloWorld.jsp

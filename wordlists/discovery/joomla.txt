@@ -1,11 +1,11 @@
 &controller=../../../../../../../../../../../../[LFI]%00
-?1.5.10-x
-?1.5.11-x-http_ref
-?1.5.11-x-php-s3lf
 ?1.5.3-path-disclose
 ?1.5.3-spam
 ?1.5.8-x
 ?1.5.9-x
+?1.5.10-x
+?1.5.11-x-http_ref
+?1.5.11-x-php-s3lf
 ?j1012-fixate-session
 ?option=com_mysms&Itemid=0&task=phonebook
 Joomla_1.6.0-Alpha2-Full-Package/components/com_mailto/assets/close-x.png
@@ -58,8 +58,8 @@ administrator/components/com_serverstat/install.serverstat.php
 administrator/components/com_simpleswfupload/uploadhandler.php");
 administrator/components/com_swmenupro/
 administrator/components/com_treeg/
-administrator/components/com_uhp/
 administrator/components/com_uhp2/
+administrator/components/com_uhp/
 administrator/components/com_webring/
 administrator/components/com_wmtgallery/
 administrator/components/com_wmtportfolio/
@@ -73,7 +73,6 @@ component/com__brightweblinks/
 component/option,com_jdirectory/task,show_content/contentid,1067/catid,26/directory,1/Itemid,0
 component/osproperty/?task=agent_register
 component/quran/index.php?option=com_quran&action=viewayat&surano=
-components/com_ clickheat/
 components/com_5starhotels/
 components/com_ContentBlogList/
 components/com_Eventing/
@@ -81,9 +80,9 @@ components/com_Fabrik/
 components/com_Jambook/jambook.php
 components/com_K2/
 components/com_Projectfork/
-components/com_a3000/
 components/com_a6mambocredits/
 components/com_a6mambohelpdesk/
+components/com_a3000/
 components/com_aardvertiser/
 components/com_ab/
 components/com_ab_gallery/
@@ -142,8 +141,8 @@ components/com_album/
 components/com_alert/
 components/com_alfcontact/
 components/com_alfresco/
-components/com_alfurqan/
 components/com_alfurqan15x/
+components/com_alfurqan/
 components/com_allcinevid/
 components/com_allhotels/
 components/com_alphacontent/
@@ -288,6 +287,7 @@ components/com_clasifier/
 components/com_classified/
 components/com_classifieds/
 components/com_clickheat/
+components/com_ clickheat/
 components/com_cloner/
 components/com_clubmanager/
 components/com_cmimarketplace/
@@ -334,8 +334,8 @@ components/com_custompages/
 components/com_cvmaker/
 components/com_cwtags/
 components/com_cx/
-components/com_d-greinar/
 components/com_d3000/
+components/com_d-greinar/
 components/com_dadamail/
 components/com_dailymeals/
 components/com_dailymessage/
@@ -764,8 +764,8 @@ components/com_jssupportticket/
 components/com_jstore/
 components/com_jsubscription/
 components/com_jsupport/
-components/com_jtagcalendar /
 components/com_jtagcalendar/
+components/com_jtagcalendar /
 components/com_jtagmembersdirectory/
 components/com_jtagminicart/
 components/com_jticketing/
@@ -798,8 +798,8 @@ components/com_kk/
 components/com_kkcontent/
 components/com_knowledgebase/
 components/com_knowledgebase/fckeditor/fckeditor.js
-components/com_kochsuite /
 components/com_kochsuite/
+components/com_kochsuite /
 components/com_komento/
 components/com_konsultasi/
 components/com_kp/
@@ -971,8 +971,8 @@ components/com_omphotogallery/
 components/com_onevote/
 components/com_ongallery/
 components/com_ongumatimesheet20/
-components/com_onismusic /
 components/com_onismusic/
+components/com_onismusic /
 components/com_onispetitions/
 components/com_onisquotes/
 components/com_onlineexam/
@@ -989,8 +989,8 @@ components/com_osproperty/
 components/com_osservicesbooking/
 components/com_otzivi/
 components/com_ownbiblio/
-components/com_oziogallery/
 components/com_oziogallery2/
+components/com_oziogallery/
 components/com_packages/
 components/com_pandafminigames/
 components/com_panoramic/
@@ -1117,8 +1117,8 @@ components/com_rsbook_15/
 components/com_rscomments/
 components/com_rsfiles/
 components/com_rsform/
-components/com_rsgallery/
 components/com_rsgallery2/
+components/com_rsgallery/
 components/com_rsmonials/
 components/com_rss/
 components/com_rssreader/
@@ -1258,8 +1258,8 @@ components/com_tupinambis/
 components/com_turtushout/
 components/com_tweetla/
 components/com_twitchtv/
-components/com_uhp/
 components/com_uhp2/
+components/com_uhp/
 components/com_ultimateportfolio/
 components/com_uniterevolution2/
 components/com_units/
@@ -1274,8 +1274,8 @@ components/com_userstatus/
 components/com_utchat/
 components/com_utchat/pfc/lib/pear/PHPUnit/GUI/Gtk.php
 components/com_vehiclemanager/
-components/com_versioning /
 components/com_versioning/
+components/com_versioning /
 components/com_videodb/
 components/com_videodb/core/videodb.class.xml.php
 components/com_videoflow/
@@ -1363,6 +1363,7 @@ eXtplorer/
 easyblog/entry/uncategorized
 extplorer/
 includes/joomla.php
+index2.php?option=com_joomradio&page=show_video&id=-13+union+select+1,group_concat(username,0x3a,password),3,4,5,6,7+from+jos_users--
 index.php/404'
 index.php/?option=com_question&catID=21' and+1=0 union all
 index.php/image-gallery/"><script>alert('xss')</script>/25-koala
@@ -1515,7 +1516,6 @@ index.php?option=com_zina&view=zina&Itemid=9
 index.php?option=com_zoomportfolio&view=portfolio&view=portfolio&id=
 index.php?search=NoGe&option=com_esearch&searchId=
 index.php?view=videos&type=member&user_id=-62+union+select+1,2,3,4,5,6,7,8,9,10,11,12,group_concat(username,0x3a,password),14,15,16,17,18,19,20,21,22,23,24,25,26,27+from+jos_users--&option=com_jomtube
-index2.php?option=com_joomradio&page=show_video&id=-13+union+select+1,group_concat(username,0x3a,password),3,4,5,6,7+from+jos_users--
 js/index.php?option=com_socialads&view=showad&Itemid=94
 libraries/joomla/utilities/compat/php50x.php
 libraries/pcl/pcltar.php

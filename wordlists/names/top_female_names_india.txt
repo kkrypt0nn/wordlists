@@ -1,11 +1,11 @@
 Aarushi
-Aditi
 Aastha
+Aditi
 Aishwarya
 Ananya
+Anjali
 Ankita
 Anshika
-Anjali
 Apporva
 Arshika
 Ayushi
@@ -35,8 +35,8 @@ Payal
 Priya
 Riya
 Saumya
-Shraddha
 Sheetal
+Shraddha
 Shruti
 Simran
 Sonal

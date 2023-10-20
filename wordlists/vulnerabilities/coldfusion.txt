@@ -1,7 +1,7 @@
 CFIDE
 CFIDE/administrator
-CFIDE/administrator/aboutcf.cfm
 CFIDE/administrator/Application.cfm
+CFIDE/administrator/aboutcf.cfm
 CFIDE/administrator/checkfile.cfm
 CFIDE/administrator/enter.cfm
 CFIDE/administrator/header.cfm
