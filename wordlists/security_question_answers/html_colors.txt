@@ -23,8 +23,8 @@ darkblue
 darkcyan
 darkgoldenrod
 darkgray
-darkgrey
 darkgreen
+darkgrey
 darkkhaki
 darkmagenta
 darkolivegreen
@@ -52,9 +52,9 @@ ghostwhite
 gold
 goldenrod
 gray
-grey
 green
 greenyellow
+grey
 honeydew
 hotpink
 indianred
@@ -70,8 +70,8 @@ lightcoral
 lightcyan
 lightgoldenrodyellow
 lightgray
-lightgrey
 lightgreen
+lightgrey
 lightpink
 lightsalmon
 lightseagreen

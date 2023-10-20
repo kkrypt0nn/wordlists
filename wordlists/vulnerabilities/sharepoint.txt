@@ -1,14 +1,14 @@
-1033
-3082
 50
 60
+1033
+3082
 _admin
 _admin/operations.aspx
 _app_bin
+_catalogs/lt/forms/allitems.aspx
 _catalogs/masterpage/forms/allitems.aspx
 _catalogs/wp/forms/allitems.aspx
 _catalogs/wt/forms/common.aspx
-_catalogs/lt/forms/allitems.aspx
 _controltemplates
 _layouts
 _layouts/1033
@@ -25,8 +25,8 @@ _layouts/1033/alertserror.aspx
 _layouts/1033/allgrps.aspx
 _layouts/1033/applyregionalsettings.aspx
 _layouts/1033/associateportal.aspx
-_layouts/1033/audience_chooser.aspx
 _layouts/1033/audience_chooser2.aspx
+_layouts/1033/audience_chooser.aspx
 _layouts/1033/audience_defruleedit.aspx
 _layouts/1033/audience_edit.aspx
 _layouts/1033/audience_list.aspx
@@ -110,8 +110,8 @@ _layouts/1033/listsearchscopes.aspx
 _layouts/1033/logsummary.aspx
 _layouts/1033/logviewer.aspx
 _layouts/1033/lroperationstatus.aspx
-_layouts/1033/lstman.aspx
 _layouts/1033/lstman2.aspx
+_layouts/1033/lstman.aspx
 _layouts/1033/lstsetng.aspx
 _layouts/1033/mapproperty.aspx
 _layouts/1033/mcontent.aspx
@@ -261,8 +261,8 @@ _layouts/3082/alertserror.aspx
 _layouts/3082/allgrps.aspx
 _layouts/3082/applyregionalsettings.aspx
 _layouts/3082/associateportal.aspx
-_layouts/3082/audience_chooser.aspx
 _layouts/3082/audience_chooser2.aspx
+_layouts/3082/audience_chooser.aspx
 _layouts/3082/audience_defruleedit.aspx
 _layouts/3082/audience_edit.aspx
 _layouts/3082/audience_list.aspx
@@ -345,8 +345,8 @@ _layouts/3082/listsearchscopes.aspx
 _layouts/3082/logsummary.aspx
 _layouts/3082/logviewer.aspx
 _layouts/3082/lroperationstatus.aspx
-_layouts/3082/lstman.aspx
 _layouts/3082/lstman2.aspx
+_layouts/3082/lstman.aspx
 _layouts/3082/lstsetng.aspx
 _layouts/3082/mapproperty.aspx
 _layouts/3082/mcontent.aspx
@@ -584,8 +584,8 @@ _layouts/editpolicy.aspx
 _layouts/editprms.aspx
 _layouts/editprofile.aspx
 _layouts/editproperty.aspx
-_layouts/editpropertynames.aspx
 _layouts/editpropertynames2.aspx
+_layouts/editpropertynames.aspx
 _layouts/editrelevancesettings.aspx
 _layouts/editrole.aspx
 _layouts/editschedule.aspx
@@ -770,8 +770,8 @@ _layouts/qlreord.aspx
 _layouts/qstedit.aspx
 _layouts/qstnew.aspx
 _layouts/quicklinks.aspx
-_layouts/quicklinksdialog.aspx
 _layouts/quicklinksdialog2.aspx
+_layouts/quicklinksdialog.aspx
 _layouts/quicklinksdialogform.aspx
 _layouts/quiklnch.aspx
 _layouts/rcxform.aspx
@@ -815,8 +815,8 @@ _layouts/searchresults.aspx
 _layouts/searchsspsettings.aspx
 _layouts/selectcrawledproperty.aspx
 _layouts/selectmanagedproperty.aspx
-_layouts/selectpicture.aspx
 _layouts/selectpicture2.aspx
+_layouts/selectpicture.aspx
 _layouts/selectuser.aspx
 _layouts/sendtoofficialfile.aspx
 _layouts/setanon.aspx
@@ -1073,8 +1073,8 @@ assetuploader.aspx
 associatedgroups.aspx
 associateportal.aspx
 assocwrkfl.aspx
-audience_chooser.aspx
 audience_chooser2.aspx
+audience_chooser.aspx
 audience_defruleedit.aspx
 audience_edit.aspx
 audience_list.aspx
@@ -1185,8 +1185,8 @@ editpolicy.aspx
 editprms.aspx
 editprofile.aspx
 editproperty.aspx
-editpropertynames.aspx
 editpropertynames2.aspx
+editpropertynames.aspx
 editrelevancesettings.aspx
 editrole.aspx
 editschedule.aspx
@@ -1311,8 +1311,8 @@ logsummary.aspx
 logviewer.aspx
 longrunningoperationprogress.aspx
 lroperationstatus.aspx
-lstman.aspx
 lstman2.aspx
+lstman.aspx
 lstsetng.aspx
 managecheckedoutfiles.aspx
 managecontenttype.aspx
@@ -1468,8 +1468,8 @@ qlreord.aspx
 qstedit.aspx
 qstnew.aspx
 quicklinks.aspx
-quicklinksdialog.aspx
 quicklinksdialog2.aspx
+quicklinksdialog.aspx
 quicklinksdialogform.aspx
 quiklnch.aspx
 rcxform.aspx
@@ -1524,8 +1524,8 @@ searchwsdl.aspx
 selcolor.htm
 selectcrawledproperty.aspx
 selectmanagedproperty.aspx
-selectpicture.aspx
 selectpicture2.aspx
+selectpicture.aspx
 selectuser.aspx
 sendtoofficialfile.aspx
 setanon.aspx

@@ -136,11 +136,11 @@ TechnologySamples/JAASLogin/*
 TechnologySamples/JAASLoginservlet
 TechnologySamples/JAASLoginservlet/*
 TechnologySamples/MovieReview
-TechnologySamples/MovieReview/*
 TechnologySamples/MovieReview2_0
 TechnologySamples/MovieReview2_0/*
 TechnologySamples/MovieReview2_1
 TechnologySamples/MovieReview2_1/*
+TechnologySamples/MovieReview/*
 TechnologySamples/PageReturner
 TechnologySamples/PageReturner/*
 TechnologySamples/PageReturnerservlet
@@ -380,8 +380,8 @@ simple.jsp
 simpleJSP
 sm
 snoop
-snoop/*
 snoop2
+snoop/*
 soaphttp
 statistics.jsp
 status

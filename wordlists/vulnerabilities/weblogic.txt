@@ -1,3 +1,8 @@
+#HTTPClntRecv
+#bea_wls_internal/HTTPClntRecv
+#bea_wls_internal/HTTPClntRecv/*
+#bea_wls_internal/iiop/ClientRecv
+#bea_wls_internal/iiop/ClientRecv/*
 *
 *.gif
 *.gif/
@@ -34,7 +39,6 @@ HTTPClntClose
 HTTPClntClose/*
 HTTPClntLogin
 HTTPClntLogin/*
-#HTTPClntRecv
 HTTPClntRecv/*
 HTTPClntSend
 HTTPClntSend/*
@@ -106,8 +110,6 @@ bea_wls_internal/HTTPClntClose
 bea_wls_internal/HTTPClntClose/*
 bea_wls_internal/HTTPClntLogin
 bea_wls_internal/HTTPClntLogin/*
-#bea_wls_internal/HTTPClntRecv
-#bea_wls_internal/HTTPClntRecv/*
 bea_wls_internal/HTTPClntSend
 bea_wls_internal/HTTPClntSend/*
 bea_wls_internal/WLDummyInitJVMIDs
@@ -124,8 +126,6 @@ bea_wls_internal/iiop/ClientClose
 bea_wls_internal/iiop/ClientClose/*
 bea_wls_internal/iiop/ClientLogin
 bea_wls_internal/iiop/ClientLogin/*
-#bea_wls_internal/iiop/ClientRecv
-#bea_wls_internal/iiop/ClientRecv/*
 bea_wls_internal/iiop/ClientSend
 bea_wls_internal/iiop/ClientSend/*
 bea_wls_internal/psquare/x.jsp
@@ -162,10 +162,10 @@ consolehelp/index.jsp
 cookies
 default
 docs
+docs51
 docs/SamplesSearchServlet/*
 docs/core/index.html
 docs/index.html
-docs51
 domain
 drp-exports
 drp-publish
@@ -310,6 +310,7 @@ web
 web.xml
 webappCachingEar
 weblogic
+weblogic90
 weblogic.cluster.GroupMessageHandlerServlet
 weblogic.cluster.MulticastSessionDataRecoveryServlet
 weblogic.cluster.StateDumpServlet
@@ -326,7 +327,6 @@ weblogic.testclient.CallbackHandler
 weblogic.wsee.async.AsyncResponseBean
 weblogic.wsee.async.AsyncResponseBeanSoap12
 weblogic.xml
-weblogic90
 webservice
 webservicesJwsSimpleEar
 webshare
@@ -342,6 +342,7 @@ wl_management_internal2/FileDistribution
 wl_management_internal2/wl_management
 wliconsole
 wls_utc
+wls_utc4
 wls_utc/*.do
 wls_utc/*.jpf
 wls_utc/*.render
@@ -353,7 +354,6 @@ wls_utc/index.html
 wls_utc/index.jsp
 wls_utc/messageLog.jsp
 wls_utc/selectWsdl.jsp
-wls_utc4
 wlserver
 wlstestclient
 wsee

@@ -1,5 +1,9 @@
 4Dgifts
+Debian-exim
+Debian-snmp
 EZsetup
+OutOfBox
+ROOT
 _apt
 abrt
 adm
@@ -31,8 +35,6 @@ daemon
 david
 dbadmin
 dbus
-Debian-exim
-Debian-snmp
 demo
 demos
 diag
@@ -100,7 +102,6 @@ omi
 omsagent
 operator
 oracle
-OutOfBox
 pi
 polkitd
 pollinate
@@ -115,7 +116,6 @@ redsocks
 rfindd
 rje
 root
-ROOT
 rooty
 rpc
 rpcuser
@@ -123,8 +123,8 @@ rtkit
 rwhod
 saned
 service
-serviceuser
 serviceadmin
+serviceuser
 setroubleshoot
 setup
 sgiweb

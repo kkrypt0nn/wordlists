@@ -54,7 +54,7 @@ for filename in glob.iglob("./wordlists/**/*", recursive=True):
     wordlist = wordlist[: len(wordlist) - 4].replace("_", " ").title()
     href = "/".join(levels)
 
-    if wordlist == "Rockyou":  # Can't count correctly for that one
+    if wordlist == "Rockyou":  # Can't count correctly for that one as it's a ZIP file
         wordlist = f'<a href="{href}">{wordlist}</a> - 14,344,392 Lines'
     else:
         with open(rel_path, "rb") as f:
