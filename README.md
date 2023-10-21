@@ -162,6 +162,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
   <details>
     <summary>Stressing</summary>
     <ul>
+      <li><a href="wordlists/stressing/2_digits_number.txt">2 Digits Number</a> - 100 Lines</li>
       <li><a href="wordlists/stressing/3_digits_000_to_999.txt">3 Digits 000 To 999</a> - 1,000 Lines</li>
       <li><a href="wordlists/stressing/4_digits_0000_to_9999.txt">4 Digits 0000 To 9999</a> - 10,000 Lines</li>
       <li><a href="wordlists/stressing/5_digits_00000_to_99999.txt">5 Digits 00000 To 99999</a> - 100,000 Lines</li>
@@ -477,6 +478,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
   </ul>
   <li>Stressing</li>
   <ul>
+    <li><a href="wordlists/stressing/2_digits_number.txt">2 Digits Number</a> - 100 Lines</li>
     <li><a href="wordlists/stressing/3_digits_000_to_999.txt">3 Digits 000 To 999</a> - 1,000 Lines</li>
     <li><a href="wordlists/stressing/4_digits_0000_to_9999.txt">4 Digits 0000 To 9999</a> - 10,000 Lines</li>
     <li><a href="wordlists/stressing/5_digits_00000_to_99999.txt">5 Digits 00000 To 99999</a> - 100,000 Lines</li>
