@@ -97,6 +97,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/languages/swedish.txt">Swedish</a> - 72,370 Lines</li>
       <li><a href="wordlists/languages/turkish.txt">Turkish</a> - 371,169 Lines</li>
       <li><a href="wordlists/languages/ukrainian.txt">Ukrainian</a> - 126,308 Lines</li>
+      <li><a href="wordlists/languages/Luxembourgish.txt">Luxembourgish</a> - 86,308 Lines</li>
     </ul>
   </details>
   <details>
