@@ -21,7 +21,7 @@ Baruch
 Benedict
 Benjamin
 Bernhard
-Berthold/Barthold
+Berthold
 Bonaventur
 Bonifazius
 Carl
@@ -62,7 +62,7 @@ Franz
 Friedrich
 Fridolin
 Fritz
-Gambrich/ Gombrich
+Gambrich
 Gabriel
 George
 Gerhard
@@ -96,8 +96,8 @@ Kasper
 Kilian
 Konrad
 Landelin
-Leopold
 Leonhard
+Leopold
 Levi
 Liberat
 Louis
