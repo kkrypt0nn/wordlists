@@ -1,3 +1,4 @@
+
 Abel
 Adrien
 Alain
@@ -90,10 +91,6 @@ Ethan
 Eugène
 Evariste
 Evrard
-Édouard
-Éloi
-Émile
-Étienne
 Fabien
 Fabrice
 Ferdinand
@@ -479,3 +476,7 @@ Zygmunt
 Zénon
 Zéphirin
 Zéphyr
+Édouard
+Éloi
+Émile
+Étienne
