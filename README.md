@@ -110,6 +110,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/names/top_female_names_usa.txt">Top Female Names Usa</a> - 1,000 Lines</li>
       <li><a href="wordlists/names/top_male_names_canada.txt">Top Male Names Canada</a> - 1,047 Lines</li>
       <li><a href="wordlists/names/top_male_names_india.txt">Top Male Names India</a> - 269 Lines</li>
+      <li><a href="wordlists/names/top_male_names_turkish.txt">Top Male Names Turkish</a> - 688 Lines</li>
       <li><a href="wordlists/names/top_male_names_usa.txt">Top Male Names Usa</a> - 1,004 Lines</li>
     </ul>
   </details>
@@ -434,6 +435,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/names/top_female_names_usa.txt">Top Female Names Usa</a> - 1,000 Lines</li>
     <li><a href="wordlists/names/top_male_names_canada.txt">Top Male Names Canada</a> - 1,047 Lines</li>
     <li><a href="wordlists/names/top_male_names_india.txt">Top Male Names India</a> - 269 Lines</li>
+    <li><a href="wordlists/names/top_male_names_turkish.txt">Top Male Names Turkish</a> - 688 Lines</li>
     <li><a href="wordlists/names/top_male_names_usa.txt">Top Male Names Usa</a> - 1,004 Lines</li>
   </ul>
   <li>Passwords</li>
