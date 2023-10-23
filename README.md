@@ -102,7 +102,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
   <details>
     <summary>Names</summary>
     <ul>
-      <li><a href="wordlists/names/names.txt">Names</a> - 10,177 Lines</li>
+      <li><a href="wordlists/names/names.txt">Names</a> - 10,178 Lines</li>
       <li><a href="wordlists/names/top_family_names_usa.txt">Top Family Names Usa</a> - 1,000 Lines</li>
       <li><a href="wordlists/names/top_female_names_canada.txt">Top Female Names Canada</a> - 300 Lines</li>
       <li><a href="wordlists/names/top_female_names_germany.txt">Top Female Names Germany</a> - 4,685 Lines</li>
@@ -429,7 +429,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
   </ul>
   <li>Names</li>
   <ul>
-    <li><a href="wordlists/names/names.txt">Names</a> - 10,177 Lines</li>
+    <li><a href="wordlists/names/names.txt">Names</a> - 10,178 Lines</li>
     <li><a href="wordlists/names/top_family_names_usa.txt">Top Family Names Usa</a> - 1,000 Lines</li>
     <li><a href="wordlists/names/top_female_names_canada.txt">Top Female Names Canada</a> - 300 Lines</li>
     <li><a href="wordlists/names/top_female_names_germany.txt">Top Female Names Germany</a> - 4,685 Lines</li>
