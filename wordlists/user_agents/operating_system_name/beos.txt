@@ -12,4 +12,7 @@ Mozilla/5.0 (BeOS; IA-64) AppleWebKit/874.36 (KHTML like Gecko) Chrome/42.4.1362
 Mozilla/5.0 (X11; U; BeOS amd64; rv:5.0) Gecko/20100101 Firefox/56.0
 Mozilla/5.0 (BeOS; U; BeOS BePC; en-US; rv:1.9a1) Gecko/20051002 Firefox/52.4.0
 Mozilla/5.0 (BeOS; U; BeOS BePC; en-US; rv:1.4) Gecko/20030701
-Mozilla/4.41  (BEOS; U ;Nav)
+Mozilla/5.0 (BeOS; U; BeOS BePC; en-US; rv:1.8.1) Gecko/20061108 BonEcho/2.0
+Mozilla/5.0 (BeOS; U; BeOS BePC; en-US; rv:1.9a1) Gecko/20051002 Firefox/52.4.0
+Mozilla/5.0 (BeOS; U; BeOS BePC; en-US; rv:1.4) Gecko/20030701
+Mozilla/4.41 (BEOS; U ;Nav)
