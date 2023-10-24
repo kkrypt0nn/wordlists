@@ -13,3 +13,14 @@ Mozilla/5.0 (X11; U; BeOS amd64; rv:5.0) Gecko/20100101 Firefox/56.0
 Mozilla/5.0 (BeOS; U; BeOS BePC; en-US; rv:1.9a1) Gecko/20051002 Firefox/52.4.0
 Mozilla/5.0 (BeOS; U; BeOS BePC; en-US; rv:1.4) Gecko/20030701
 Mozilla/4.41  (BEOS; U ;Nav)
+Mozilla/5.0 (BeOS; U; BeOS BePC; en-US; rv:1.8.0.4) Gecko/20060929 Firefox/1.5.0.4
+Mozilla/5.0 (BeOS; U; BeOS BePC; en-US; rv:1.8.1.2) Gecko/20070222 SeaMonkey/1.1.1
+Mozilla/5.0 (BeOS; U; BeOS BePC; en-US; rv:1.7.12) Gecko/20050922 Firefox/1.0.7
+Mozilla/5.0 (BeOS; U; BeOS BePC; en-US; rv:1.9.2.13) Gecko/20101203 SeaMonkey/2.0.8
+Mozilla/5.0 (BeOS; U; BeOS BePC; en-US; rv:1.7) Gecko/20040614 Firefox/0.9
+Mozilla/5.0 (BeOS; U; BeOS BePC; en-US; rv:1.8.0.6) Gecko/20060930 Firefox/1.5.0.6
+Mozilla/5.0 (BeOS; U; BeOS BePC; en-US; rv:1.7.6) Gecko/20050225 Firefox/1.0.1
+Mozilla/5.0 (BeOS; U; BeOS BePC; en-US; rv:1.7.5) Gecko/20041217 Firefox/1.0
+Mozilla/5.0 (BeOS; U; BeOS BePC; en-US; rv:1.7.3) Gecko/20040928 Firefox/0.10
+Mozilla/5.0 (BeOS; U; BeOS BePC; en-US; rv:1.8.0.3) Gecko/20060426 Firefox/1.5.0.3
+Mozilla/5.0 (BeOS; U; BeOS BePC; en-US; rv:1.8.1.4) Gecko/20070610 SeaMonkey/1.1.2
