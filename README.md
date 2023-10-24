@@ -207,7 +207,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <ul>
         <li><a href="wordlists/user_agents/operating_system_name/android.txt">Android</a> - 202,129 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/bada.txt">Bada</a> - 182 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/beos.txt">Beos</a> - 15 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/beos.txt">Beos</a> - 18 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/blackberry_os.txt">Blackberry Os</a> - 2,365 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/chromeos.txt">Chromeos</a> - 1,757 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/darwin.txt">Darwin</a> - 549 Lines</li>
@@ -524,7 +524,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <ul>
         <li><a href="wordlists/user_agents/operating_system_name/android.txt">Android</a> - 202,129 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/bada.txt">Bada</a> - 182 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/beos.txt">Beos</a> - 15 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/beos.txt">Beos</a> - 18 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/blackberry_os.txt">Blackberry Os</a> - 2,365 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/chromeos.txt">Chromeos</a> - 1,757 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/darwin.txt">Darwin</a> - 549 Lines</li>
