@@ -1,0 +1,122 @@
+Data makes information
+Information in digital world is Cyber-Security
+
+------------------------------------------------------------------------------------------------------
+
+Threats =
+	If someone access your info than this someone is threat for you
+	It can be person, object or any event
+
+Types:
+	Inadvertent  threats (human failuar)
+	Physical disasters (natural disasters)
+	Technical failures (hardware or software)
+	->Deliberate acts (hacking, espionage)
+-----------------------------------------------------------------------------------------------------
+Terms=
+	CIA Triad:
+	[
+	Confidentiality: No telling to unthourized person ( Wider than privacy )
+	Integrity: Completeness and accuracy of data
+	Availability: When needed, data is available
+	]                                                                          
+	Non-repudiation: Acceptance for both parties about reciving and sending
+	Authenticity: You should actual be who authorized for data
+
+------------------------------------------------------------------------------------------------------
+
+"THE QUIETER YOU BECOME, THE MORE YOU ARE ABLE TO HEAR"
+
+------------------------------------------------------------------------------------------------------
+
+INFORMATION WARFARE =
+	Stealing info of group of people or enemy for special porpose or advantage
+CYBER WARFARE=
+	Same as info warfare but digitally
+
+-------------------------------------------------------------------------------------------------------
+
+Vulnerability: Weakness that can be exploited
+Threat: One who exploit vulnerability
+Risk: Damage cause by exploting vulnerability
+Asset: Which need to be accessed after explotation
+Bug: Error, fault or flaw that may cause unexpected error
+Hacker: Gain acces with or without malicious intent
+Cracker: Gain access to harm asset, always malicious
+InfoSec: Information Security/ Cyber security/ Data security
+Penetration Testing: Testing and Reporting the security loopholes
+Vulnerability Assessment: Testing and Repoting loopholes, and tells how to fix
+VAPT: VA (How to gain access and dive into target), PT (How deeply we can dive and find weakness)
+Cyber Espionage: Spying on someone to gain confidantial info about them
+Exploits: Attacker designed to cause unexpected behaviour to gain advantage
+Script Kiddie: Noob hacking without any skill
+Zero-Day: Vulnerability not known by professionals, only known by hacker
+
+----------------------------------------------------------------------------------------------------
+
+5 Phase of EH =
+
+Footprinting: Gaining as much information about the target, like open ports, network info, personal info, social info, system info etc...
+
+Scanning: Finding loopholes and vulnerabilities in the information that we are gathered, like login vulnerability etc...
+
+Gaining access/ Exploitation: Exploit the vulnerabilities with tools and techniques
+
+Mintaining access/ Backdoor creation: Creating and deploying backdoor (Hidden way for entering into system and gain access for long time) for persistence
+
+Clearing logs: Removing traces and records (that we are created when enterd) to avoid being caught
+
+----------------------------------------------------------------------------------------------------
+
+Penetration Testing=
+	Authorized simulated cyber attack on a system
+	Its done for check system immunity and capacity
+	Perticular domain knowledge is importante
+	EH is learning, but PT is implementation
+
+7 Phase of PT =
+	
+Pre Engagement: Meeting with client for clear their vision and needs
+
+Planning/ Recon/ Footprinting: Gather all info for scan
+
+Threat modelling and Vulnerability identification: Create model of all security concerns and ranking all vulnerability from high risk to low
+
+Explotation: Find bug or Breaching system by vulnerability
+
+Post Explotation: Same as Maintain attack and attack 2nd time with the help of first attack and continue...
+
+Reporting: Detailing the vulnerabilty found and their impact and remedies
+
+Resolution and Re-Testing: Resolve the issue and than re test all vulnarebility
+
+----------------------------------------------------------------------------------------------------
+
+OWASP= Open Web Application Security Project
+	https://owasp.org/www-project-web-security-testing-guide/
+	Non profit Org
+	Work on providing security of software
+
+OWASP TOP 10: 
+	https://owasp.org/www-project-top-ten/
+	Every 3 year owasp provide report of top 10 vulnerability that found on web app
+
+DVWA= Damn Vulnerable Web Application
+	https://sourceforge.net/projects/dvwa.mirror/
+	Its a PHP/MySQL web application that is vulnerable
+	Created for test attack on their vunerable web and learn EH
+
+bWAPP= buggy Web Application
+	https://sourceforge.net/projects/bwapp/
+	bWAPP is a PHP application that uses a MySQL database.
+	Similar like DVWA but support older syntax of MySQL, like mysql_connect...
+
+Metasploitable=
+	https://sourceforge.net/projects/metasploitable/files/Metasploitable2/
+	Its a intentionally created vulnerable linux vertual machine
+	That can be used for test our PT skills on them (act like victim)
+
+OWASP Broken Web Applications Project=
+	https://sourceforge.net/projects/owaspbwa/
+	Similar like metasplotable and many more...
+	Includes bWAPP and DVWA 
