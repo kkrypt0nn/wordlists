@@ -27,7 +27,7 @@ Pull requests are the best way to propose changes. We actively welcome your pull
 1. Fork the repo and create your branch from `main`.
 2. Keep consistency with the current state of the wordlists, this includes:
     - The naming convention of the files are **always** `snake_case`.
-    - The wodlists **must** be sorted using [this website](https://appdevtools.com/sort-lines) and its default settings.
+    - The wordlists **must** be sorted using [this website](https://appdevtools.com/sort-lines) and its default settings.
     - There must be **no** empty lines.
     - All wordlists are **lowercase** unless it makes sense, e.g. file names.
     - For wordlists for names, cities, countries, etc. **every word** must be capitalized. (e.g. **J**ohn **C**ena, not John **c**ena or **j**ohn **c**ena)
