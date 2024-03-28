@@ -56,7 +56,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/discovery/robots.txt">Robots</a> - 990 Lines</li>
       <li><a href="wordlists/discovery/sensitive_files_unix.txt">Sensitive Files Unix</a> - 16 Lines</li>
       <li><a href="wordlists/discovery/sensitive_files_win.txt">Sensitive Files Win</a> - 7 Lines</li>
-      <li><a href="wordlists/discovery/tlds.txt">Tlds</a> - 1,449 Lines</li>
+      <li><a href="wordlists/discovery/tlds.txt">Tlds</a> - 1,448 Lines</li>
       <li><a href="wordlists/discovery/top_subdomains.txt">Top Subdomains</a> - 114,532 Lines</li>
       <li><a href="wordlists/discovery/wp_plugins.txt">Wp Plugins</a> - 88,009 Lines</li>
       <li><a href="wordlists/discovery/wp_themes.txt">Wp Themes</a> - 21,149 Lines</li>
@@ -389,7 +389,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/discovery/robots.txt">Robots</a> - 990 Lines</li>
     <li><a href="wordlists/discovery/sensitive_files_unix.txt">Sensitive Files Unix</a> - 16 Lines</li>
     <li><a href="wordlists/discovery/sensitive_files_win.txt">Sensitive Files Win</a> - 7 Lines</li>
-    <li><a href="wordlists/discovery/tlds.txt">Tlds</a> - 1,449 Lines</li>
+    <li><a href="wordlists/discovery/tlds.txt">Tlds</a> - 1,448 Lines</li>
     <li><a href="wordlists/discovery/top_subdomains.txt">Top Subdomains</a> - 114,532 Lines</li>
     <li><a href="wordlists/discovery/wp_plugins.txt">Wp Plugins</a> - 88,009 Lines</li>
     <li><a href="wordlists/discovery/wp_themes.txt">Wp Themes</a> - 21,149 Lines</li>
