@@ -325,7 +325,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/vulnerabilities/coldfusion.txt">Coldfusion</a> - 22 Lines</li>
       <li><a href="wordlists/vulnerabilities/directory_traversal.txt">Directory Traversal</a> - 847 Lines</li>
       <li><a href="wordlists/vulnerabilities/directory_traversal_unix.txt">Directory Traversal Unix</a> - 871 Lines</li>
-      <li><a href="wordlists/vulnerabilities/directory_traversal_win.txt">Directory Traversal Win</a> - 847 Lines</li>
+      <li><a href="wordlists/vulnerabilities/directory_traversal_win.txt">Directory Traversal Win</a> - 848 Lines</li>
       <li><a href="wordlists/vulnerabilities/domino.txt">Domino</a> - 291 Lines</li>
       <li><a href="wordlists/vulnerabilities/fatwire.txt">Fatwire</a> - 101 Lines</li>
       <li><a href="wordlists/vulnerabilities/fatwire_pagen_ames.txt">Fatwire Pagen Ames</a> - 2,712 Lines</li>
@@ -636,7 +636,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/vulnerabilities/coldfusion.txt">Coldfusion</a> - 22 Lines</li>
     <li><a href="wordlists/vulnerabilities/directory_traversal.txt">Directory Traversal</a> - 847 Lines</li>
     <li><a href="wordlists/vulnerabilities/directory_traversal_unix.txt">Directory Traversal Unix</a> - 871 Lines</li>
-    <li><a href="wordlists/vulnerabilities/directory_traversal_win.txt">Directory Traversal Win</a> - 847 Lines</li>
+    <li><a href="wordlists/vulnerabilities/directory_traversal_win.txt">Directory Traversal Win</a> - 848 Lines</li>
     <li><a href="wordlists/vulnerabilities/domino.txt">Domino</a> - 291 Lines</li>
     <li><a href="wordlists/vulnerabilities/fatwire.txt">Fatwire</a> - 101 Lines</li>
     <li><a href="wordlists/vulnerabilities/fatwire_pagen_ames.txt">Fatwire Pagen Ames</a> - 2,712 Lines</li>
