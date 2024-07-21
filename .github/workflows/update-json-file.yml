@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update_readme_file:
+  update_json_file:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -23,7 +23,7 @@ jobs:
         id: verify_diff
         run: |
           git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
-      - name: Update README file
+      - name: Update JSON file
         if: steps.verify_diff.outputs.changed == 'true'
         run: |
           git config --global user.name 'Krypton'
