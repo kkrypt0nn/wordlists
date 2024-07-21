@@ -1,0 +1,2231 @@
+[
+    {
+        "href": "wordlists/passwords/000webhost.txt",
+        "lines": 720302,
+        "name": "000Webhost",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/1337browser.txt",
+        "lines": 6,
+        "name": "1337Browser",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/stressing/2_digits_number.txt",
+        "lines": 100,
+        "name": "2 Digits Number",
+        "tags": [
+            "stressing"
+        ]
+    },
+    {
+        "href": "wordlists/stressing/3_digits_000_to_999.txt",
+        "lines": 1000,
+        "name": "3 Digits 000 To 999",
+        "tags": [
+            "stressing"
+        ]
+    },
+    {
+        "href": "wordlists/stressing/4_digits_0000_to_9999.txt",
+        "lines": 10000,
+        "name": "4 Digits 0000 To 9999",
+        "tags": [
+            "stressing"
+        ]
+    },
+    {
+        "href": "wordlists/stressing/5_digits_00000_to_99999.txt",
+        "lines": 100000,
+        "name": "5 Digits 00000 To 99999",
+        "tags": [
+            "stressing"
+        ]
+    },
+    {
+        "href": "wordlists/stressing/6_digits_000000_to_999999.txt",
+        "lines": 1000000,
+        "name": "6 Digits 000000 To 999999",
+        "tags": [
+            "stressing"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/alexa_certification_scanner.txt",
+        "lines": 1,
+        "name": "Alexa Certification Scanner",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/all_attacks.txt",
+        "lines": 467,
+        "name": "All Attacks",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/stressing/alphanum_case.txt",
+        "lines": 62,
+        "name": "Alphanum Case",
+        "tags": [
+            "stressing"
+        ]
+    },
+    {
+        "href": "wordlists/stressing/alphanum_case_extra.txt",
+        "lines": 94,
+        "name": "Alphanum Case Extra",
+        "tags": [
+            "stressing"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/android.txt",
+        "lines": 202129,
+        "name": "Android",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/android_browser.txt",
+        "lines": 33081,
+        "name": "Android Browser",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/apache.txt",
+        "lines": 13232,
+        "name": "Apache",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/apache.txt",
+        "lines": 30,
+        "name": "Apache",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/apache_user_enum_1.0.txt",
+        "lines": 8916,
+        "name": "Apache User Enum 1.0",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/apache_user_enum_2.0.txt",
+        "lines": 10341,
+        "name": "Apache User Enum 2.0",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/languages/arabic.txt",
+        "lines": 465914,
+        "name": "Arabic",
+        "tags": [
+            "languages"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/axis.txt",
+        "lines": 17,
+        "name": "Axis",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/bada.txt",
+        "lines": 182,
+        "name": "Bada",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/beos.txt",
+        "lines": 18,
+        "name": "BeOS",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/big.txt",
+        "lines": 20469,
+        "name": "Big",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/hardware_type_specific/billboard.txt",
+        "lines": 12,
+        "name": "Billboard",
+        "tags": [
+            "user-agents",
+            "hardware-type-specific"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/blackberry_browser.txt",
+        "lines": 1854,
+        "name": "Blackberry Browser",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/blackberry_os.txt",
+        "lines": 2365,
+        "name": "Blackberry OS",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/brave.txt",
+        "lines": 70,
+        "name": "Brave",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/bt4_passwords.txt",
+        "lines": 1652903,
+        "name": "Bt4 Passwords",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/burnett.txt",
+        "lines": 1024,
+        "name": "Burnett",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/hardware_type_specific/car.txt",
+        "lines": 11,
+        "name": "Car",
+        "tags": [
+            "user-agents",
+            "hardware-type-specific"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/cgis.txt",
+        "lines": 3463,
+        "name": "Cgis",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/stressing/char.txt",
+        "lines": 26,
+        "name": "Char",
+        "tags": [
+            "stressing"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/chrome.txt",
+        "lines": 182359,
+        "name": "Chrome",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/chromeos.txt",
+        "lines": 1757,
+        "name": "ChromeOS",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/chromium.txt",
+        "lines": 870,
+        "name": "Chromium",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/usernames/cirt_default_usernames.txt",
+        "lines": 827,
+        "name": "Cirt Default Usernames",
+        "tags": [
+            "usernames"
+        ]
+    },
+    {
+        "href": "wordlists/security_question_answers/cities.txt",
+        "lines": 98304,
+        "name": "Cities",
+        "tags": [
+            "security-question-answers"
+        ]
+    },
+    {
+        "href": "wordlists/security_question_answers/city_state_country.txt",
+        "lines": 98304,
+        "name": "City State Country",
+        "tags": [
+            "security-question-answers"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/coldfusion.txt",
+        "lines": 22,
+        "name": "Coldfusion",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/common.txt",
+        "lines": 4613,
+        "name": "Common",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/usernames/common_admin_base64.txt",
+        "lines": 57,
+        "name": "Common Admin Base64",
+        "tags": [
+            "usernames"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/common_passwords_win.txt",
+        "lines": 815,
+        "name": "Common Passwords Win",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/common_roots.txt",
+        "lines": 4724,
+        "name": "Common Roots",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/common_sql_columns.txt",
+        "lines": 471,
+        "name": "Common SQL Columns",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/common_sql_tables.txt",
+        "lines": 1706,
+        "name": "Common SQL Tables",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/security_question_answers/common_surnames.txt",
+        "lines": 20000,
+        "name": "Common Surnames",
+        "tags": [
+            "security-question-answers"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/hardware_type_specific/computer.txt",
+        "lines": 222967,
+        "name": "Computer",
+        "tags": [
+            "user-agents",
+            "hardware-type-specific"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/conf.txt",
+        "lines": 201790,
+        "name": "Conf",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/languages/croatian.txt",
+        "lines": 215956,
+        "name": "Croatian",
+        "tags": [
+            "languages"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/curl.txt",
+        "lines": 232,
+        "name": "Curl",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/languages/czech.txt",
+        "lines": 535889,
+        "name": "Czech",
+        "tags": [
+            "languages"
+        ]
+    },
+    {
+        "href": "wordlists/languages/danish.txt",
+        "lines": 154437,
+        "name": "Danish",
+        "tags": [
+            "languages"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/darkweb_2017.txt",
+        "lines": 9999,
+        "name": "Darkweb 2017",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/darwin.txt",
+        "lines": 549,
+        "name": "Darwin",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/security_question_answers/dates.txt",
+        "lines": 751068,
+        "name": "Dates",
+        "tags": [
+            "security-question-answers"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/db2_default_passwords.txt",
+        "lines": 8,
+        "name": "Db2 Default Passwords",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/usernames/db2_default_user.txt",
+        "lines": 5,
+        "name": "Db2 Default User",
+        "tags": [
+            "usernames"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/default_passwords_for_services.txt",
+        "lines": 1243,
+        "name": "Default Passwords For Services",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/usernames/default_users_for_services.txt",
+        "lines": 919,
+        "name": "Default Users For Services",
+        "tags": [
+            "usernames"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/directories.txt",
+        "lines": 58655,
+        "name": "Directories",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/directory_list_1.0.txt",
+        "lines": 141694,
+        "name": "Directory List 1.0",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/directory_list_2.3_medium.txt",
+        "lines": 220545,
+        "name": "Directory List 2.3 Medium",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/directory_list_2.3_small.txt",
+        "lines": 87649,
+        "name": "Directory List 2.3 Small",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/directory_list_lowercase_2.3_medium.txt",
+        "lines": 207628,
+        "name": "Directory List Lowercase 2.3 Medium",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/directory_list_lowercase_2.3_small.txt",
+        "lines": 81628,
+        "name": "Directory List Lowercase 2.3 Small",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/directory_traversal.txt",
+        "lines": 847,
+        "name": "Directory Traversal",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/directory_traversal_unix.txt",
+        "lines": 871,
+        "name": "Directory Traversal Unix",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/directory_traversal_win.txt",
+        "lines": 848,
+        "name": "Directory Traversal Win",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/discord_bot.txt",
+        "lines": 2,
+        "name": "Discord Bot",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/famous/dnsmap.txt",
+        "lines": 17576,
+        "name": "Dnsmap",
+        "tags": [
+            "famous"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/domino.txt",
+        "lines": 291,
+        "name": "Domino",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/languages/dutch.txt",
+        "lines": 173562,
+        "name": "Dutch",
+        "tags": [
+            "languages"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/dutch_passwords.txt",
+        "lines": 4322834,
+        "name": "Dutch Passwords",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/ea_origin_browser.txt",
+        "lines": 312,
+        "name": "Ea Origin Browser",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/hardware_type_specific/ebook_reader.txt",
+        "lines": 1932,
+        "name": "Ebook Reader",
+        "tags": [
+            "user-agents",
+            "hardware-type-specific"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/edge.txt",
+        "lines": 3605,
+        "name": "Edge",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/electron_application.txt",
+        "lines": 632,
+        "name": "Electron Application",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/languages/english.txt",
+        "lines": 354297,
+        "name": "English",
+        "tags": [
+            "languages"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/excel.txt",
+        "lines": 9,
+        "name": "Excel",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/extensions_common.txt",
+        "lines": 28,
+        "name": "Extensions Common",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/facebook_app.txt",
+        "lines": 6810,
+        "name": "Facebook App",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/facebook_bot.txt",
+        "lines": 19,
+        "name": "Facebook Bot",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/famous/facebook_phished.txt",
+        "lines": 2441,
+        "name": "Facebook Phished",
+        "tags": [
+            "famous"
+        ]
+    },
+    {
+        "href": "wordlists/famous/fasttrack.txt",
+        "lines": 222,
+        "name": "Fasttrack",
+        "tags": [
+            "famous"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/fatwire.txt",
+        "lines": 101,
+        "name": "Fatwire",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/fatwire_pagen_ames.txt",
+        "lines": 2712,
+        "name": "Fatwire Pagen Ames",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/famous/fern_wifi.txt",
+        "lines": 478,
+        "name": "Fern Wifi",
+        "tags": [
+            "famous"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/fire_os.txt",
+        "lines": 1869,
+        "name": "Fire OS",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/firebird.txt",
+        "lines": 98,
+        "name": "Firebird",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/firefox.txt",
+        "lines": 26035,
+        "name": "Firefox",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/freebsd.txt",
+        "lines": 812,
+        "name": "Freebsd",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/languages/french.txt",
+        "lines": 336531,
+        "name": "French",
+        "tags": [
+            "languages"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/front_page.txt",
+        "lines": 43,
+        "name": "Front Page",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/fuzz_php_special.txt",
+        "lines": 136921,
+        "name": "Fuzz Php Special",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/hardware_type_specific/game_console.txt",
+        "lines": 323,
+        "name": "Game Console",
+        "tags": [
+            "user-agents",
+            "hardware-type-specific"
+        ]
+    },
+    {
+        "href": "wordlists/languages/georgian.txt",
+        "lines": 143053,
+        "name": "Georgian",
+        "tags": [
+            "languages"
+        ]
+    },
+    {
+        "href": "wordlists/languages/german.txt",
+        "lines": 1908815,
+        "name": "German",
+        "tags": [
+            "languages"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/hardware_type_specific/glasses.txt",
+        "lines": 5,
+        "name": "Glasses",
+        "tags": [
+            "user-agents",
+            "hardware-type-specific"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/google_earth.txt",
+        "lines": 39,
+        "name": "Google Earth",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/google_earth_pro.txt",
+        "lines": 24,
+        "name": "Google Earth Pro",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/google_favicon_crawler.txt",
+        "lines": 3,
+        "name": "Google Favicon Crawler",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/google_search_app.txt",
+        "lines": 2381,
+        "name": "Google Search App",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/google_site_verifier_bot.txt",
+        "lines": 2,
+        "name": "Google Site Verifier Bot",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/googlebot.txt",
+        "lines": 276,
+        "name": "Googlebot",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/hp_webos.txt",
+        "lines": 21,
+        "name": "HP webOS",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/http_default_passwords.txt",
+        "lines": 19,
+        "name": "HTTP Default Passwords",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/usernames/http_default_users.txt",
+        "lines": 27,
+        "name": "HTTP Default Users",
+        "tags": [
+            "usernames"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/haiku.txt",
+        "lines": 45,
+        "name": "Haiku",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/hak5.txt",
+        "lines": 2351,
+        "name": "Hak5",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/hardware_type_specific/handheld_game.txt",
+        "lines": 190,
+        "name": "Handheld Game",
+        "tags": [
+            "user-agents",
+            "hardware-type-specific"
+        ]
+    },
+    {
+        "href": "wordlists/languages/hebrew.txt",
+        "lines": 469750,
+        "name": "Hebrew",
+        "tags": [
+            "languages"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/honeynet.txt",
+        "lines": 453009,
+        "name": "Honeynet",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/famous/hotmail.txt",
+        "lines": 8930,
+        "name": "Hotmail",
+        "tags": [
+            "famous"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/hpsmh.txt",
+        "lines": 238,
+        "name": "Hpsmh",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/security_question_answers/html_colors.txt",
+        "lines": 148,
+        "name": "Html Colors",
+        "tags": [
+            "security-question-answers"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/hyperion.txt",
+        "lines": 579,
+        "name": "Hyperion",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/iceweasel.txt",
+        "lines": 555,
+        "name": "Iceweasel",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/iis.txt",
+        "lines": 59,
+        "name": "Iis",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/indexes.txt",
+        "lines": 10,
+        "name": "Indexes",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/internet_explorer.txt",
+        "lines": 102404,
+        "name": "Internet Explorer",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/internet_explorer_mobile.txt",
+        "lines": 1068,
+        "name": "Internet Explorer Mobile",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/internet_tv_browser.txt",
+        "lines": 354,
+        "name": "Internet Tv Browser",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/iplanet.txt",
+        "lines": 36,
+        "name": "Iplanet",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/ipmi_passwords.txt",
+        "lines": 999,
+        "name": "Ipmi Passwords",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/usernames/ipmi_users.txt",
+        "lines": 7,
+        "name": "Ipmi Users",
+        "tags": [
+            "usernames"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/irix.txt",
+        "lines": 13,
+        "name": "Irix",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/languages/italian.txt",
+        "lines": 95152,
+        "name": "Italian",
+        "tags": [
+            "languages"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/jsp.txt",
+        "lines": 92216,
+        "name": "JSP",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/java_runtime_environment.txt",
+        "lines": 518,
+        "name": "Java Runtime Environment",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/jboss.txt",
+        "lines": 19,
+        "name": "Jboss",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/jersey.txt",
+        "lines": 121,
+        "name": "Jersey",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/joomla.txt",
+        "lines": 1544,
+        "name": "Joomla",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/jrun.txt",
+        "lines": 13,
+        "name": "Jrun",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/juicy_files.txt",
+        "lines": 187964,
+        "name": "Juicy Files",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/keyboard_patterns.txt",
+        "lines": 20,
+        "name": "Keyboard Patterns",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/kindle_browser.txt",
+        "lines": 76,
+        "name": "Kindle Browser",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/lfi_all.txt",
+        "lines": 1483,
+        "name": "LFI All",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/lfi_unix.txt",
+        "lines": 1076,
+        "name": "LFI Unix",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/lfi_windows.txt",
+        "lines": 466,
+        "name": "LFI Windows",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/hardware_type_specific/large_screen.txt",
+        "lines": 390,
+        "name": "Large Screen",
+        "tags": [
+            "user-agents",
+            "hardware-type-specific"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/linux.txt",
+        "lines": 20823,
+        "name": "Linux",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/livearea.txt",
+        "lines": 52,
+        "name": "Livearea",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/mac.txt",
+        "lines": 655,
+        "name": "Mac",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/mac_os_x.txt",
+        "lines": 18903,
+        "name": "Mac OS X",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/macos.txt",
+        "lines": 5147,
+        "name": "Macos",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/md5decryptor.txt",
+        "lines": 3431316,
+        "name": "Md5Decryptor",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/hardware_type_specific/media_player.txt",
+        "lines": 40,
+        "name": "Media Player",
+        "tags": [
+            "user-agents",
+            "hardware-type-specific"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/medical_devices_passwords.txt",
+        "lines": 173,
+        "name": "Medical Devices Passwords",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/mirai_passwords.txt",
+        "lines": 42,
+        "name": "Mirai Passwords",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/usernames/mirai_user.txt",
+        "lines": 15,
+        "name": "Mirai User",
+        "tags": [
+            "usernames"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/hardware_type_specific/mobile.txt",
+        "lines": 138617,
+        "name": "Mobile",
+        "tags": [
+            "user-agents",
+            "hardware-type-specific"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/most_common.txt",
+        "lines": 1011,
+        "name": "Most Common",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/most_used_passwords.txt",
+        "lines": 999998,
+        "name": "Most Used Passwords",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/most_used_passwords_ncsc.txt",
+        "lines": 100000,
+        "name": "Most Used Passwords Ncsc",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/motorola_internet_browser.txt",
+        "lines": 19,
+        "name": "Motorola Internet Browser",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/usernames/multiple_sources_users.txt",
+        "lines": 21167,
+        "name": "Multiple Sources Users",
+        "tags": [
+            "usernames"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/hardware_type_specific/music_player.txt",
+        "lines": 819,
+        "name": "Music Player",
+        "tags": [
+            "user-agents",
+            "hardware-type-specific"
+        ]
+    },
+    {
+        "href": "wordlists/names/names.txt",
+        "lines": 10178,
+        "name": "Names",
+        "tags": [
+            "names"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/netware.txt",
+        "lines": 60,
+        "name": "Netware",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/nintendo_browser.txt",
+        "lines": 89,
+        "name": "Nintendo Browser",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/famous/nmap.txt",
+        "lines": 4999,
+        "name": "Nmap",
+        "tags": [
+            "famous"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/nokia_browser.txt",
+        "lines": 1240,
+        "name": "Nokia Browser",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/nord_vpn.txt",
+        "lines": 1437,
+        "name": "Nord VPN",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/languages/norwegian.txt",
+        "lines": 322043,
+        "name": "Norwegian",
+        "tags": [
+            "languages"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/onenote.txt",
+        "lines": 2,
+        "name": "Onenote",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/openbsd.txt",
+        "lines": 285,
+        "name": "OpenBSD",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/openwall.txt",
+        "lines": 3721224,
+        "name": "Openwall",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/opera.txt",
+        "lines": 17145,
+        "name": "Opera",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/opera_mini.txt",
+        "lines": 30825,
+        "name": "Opera Mini",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/oracle.txt",
+        "lines": 1074,
+        "name": "Oracle",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/outlook.txt",
+        "lines": 384,
+        "name": "Outlook",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/palm_os.txt",
+        "lines": 18,
+        "name": "Palm OS",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/password.txt",
+        "lines": 88397,
+        "name": "Password",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/hardware_type_specific/pda.txt",
+        "lines": 3,
+        "name": "Pda",
+        "tags": [
+            "user-agents",
+            "hardware-type-specific"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/hardware_type_specific/phone.txt",
+        "lines": 100479,
+        "name": "Phone",
+        "tags": [
+            "user-agents",
+            "hardware-type-specific"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/pinterest_app.txt",
+        "lines": 1283,
+        "name": "Pinterest App",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/pinterest_bot.txt",
+        "lines": 6,
+        "name": "Pinterest Bot",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/playstation_4_browser.txt",
+        "lines": 72,
+        "name": "Playstation 4 Browser",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/languages/polish.txt",
+        "lines": 300676,
+        "name": "Polish",
+        "tags": [
+            "languages"
+        ]
+    },
+    {
+        "href": "wordlists/languages/portuguese.txt",
+        "lines": 307374,
+        "name": "Portuguese",
+        "tags": [
+            "languages"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/postgres_default_passwords.txt",
+        "lines": 4,
+        "name": "Postgres Default Passwords",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/usernames/postgres_default_user.txt",
+        "lines": 3,
+        "name": "Postgres Default User",
+        "tags": [
+            "usernames"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/powerpoint.txt",
+        "lines": 10,
+        "name": "Powerpoint",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/probable_wpa.txt",
+        "lines": 4800,
+        "name": "Probable WPA",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/python_urllib.txt",
+        "lines": 18,
+        "name": "Python Urllib",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/rim_tablet_os.txt",
+        "lines": 12,
+        "name": "Rim Tablet OS",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/robots.txt",
+        "lines": 990,
+        "name": "Robots",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/famous/rockyou.zip",
+        "lines": 14344392,
+        "name": "Rockyou",
+        "tags": [
+            "famous"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/ror.txt",
+        "lines": 121,
+        "name": "Ror",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/languages/russian.txt",
+        "lines": 379323,
+        "name": "Russian",
+        "tags": [
+            "languages"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/sql.txt",
+        "lines": 167,
+        "name": "SQL",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/sql_inj.txt",
+        "lines": 41,
+        "name": "SQL Inj",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/safari.txt",
+        "lines": 12186,
+        "name": "Safari",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/samsung_browser.txt",
+        "lines": 5326,
+        "name": "Samsung Browser",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/sap.txt",
+        "lines": 1111,
+        "name": "Sap",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/sensitive_files_unix.txt",
+        "lines": 16,
+        "name": "Sensitive Files Unix",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/sensitive_files_win.txt",
+        "lines": 7,
+        "name": "Sensitive Files Win",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/languages/serbian.txt",
+        "lines": 263909,
+        "name": "Serbian",
+        "tags": [
+            "languages"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/hardware_type_specific/server.txt",
+        "lines": 1756,
+        "name": "Server",
+        "tags": [
+            "user-agents",
+            "hardware-type-specific"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/sharepoint.txt",
+        "lines": 1708,
+        "name": "Sharepoint",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/slackbot_link_checker.txt",
+        "lines": 2,
+        "name": "Slackbot Link Checker",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/sony_web_browser.txt",
+        "lines": 4,
+        "name": "Sony Web Browser",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/languages/spanish.txt",
+        "lines": 70157,
+        "name": "Spanish",
+        "tags": [
+            "languages"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/ssti.txt",
+        "lines": 107,
+        "name": "Ssti",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/security_question_answers/street_names.txt",
+        "lines": 52680,
+        "name": "Street Names",
+        "tags": [
+            "security-question-answers"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/sunos.txt",
+        "lines": 293,
+        "name": "SunOS",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/sunas.txt",
+        "lines": 51,
+        "name": "Sunas",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/languages/swedish.txt",
+        "lines": 72370,
+        "name": "Swedish",
+        "tags": [
+            "languages"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/symbian.txt",
+        "lines": 3438,
+        "name": "Symbian",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/tlds.txt",
+        "lines": 1446,
+        "name": "TLDs",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/hardware_type_specific/tablet.txt",
+        "lines": 26316,
+        "name": "Tablet",
+        "tags": [
+            "user-agents",
+            "hardware-type-specific"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/tests.txt",
+        "lines": 33,
+        "name": "Tests",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/tomcat.txt",
+        "lines": 87,
+        "name": "Tomcat",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/tomcat_mgr_default_passwords.txt",
+        "lines": 7,
+        "name": "Tomcat Mgr Default Passwords",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/usernames/tomcat_mgr_default_users.txt",
+        "lines": 6,
+        "name": "Tomcat Mgr Default Users",
+        "tags": [
+            "usernames"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/top_adobe_passwords.txt",
+        "lines": 100,
+        "name": "Top Adobe Passwords",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/names/top_family_names_usa.txt",
+        "lines": 1000,
+        "name": "Top Family Names Usa",
+        "tags": [
+            "names"
+        ]
+    },
+    {
+        "href": "wordlists/names/top_female_names_canada.txt",
+        "lines": 300,
+        "name": "Top Female Names Canada",
+        "tags": [
+            "names"
+        ]
+    },
+    {
+        "href": "wordlists/names/top_female_names_germany.txt",
+        "lines": 4685,
+        "name": "Top Female Names Germany",
+        "tags": [
+            "names"
+        ]
+    },
+    {
+        "href": "wordlists/names/top_female_names_india.txt",
+        "lines": 53,
+        "name": "Top Female Names India",
+        "tags": [
+            "names"
+        ]
+    },
+    {
+        "href": "wordlists/names/top_female_names_usa.txt",
+        "lines": 1000,
+        "name": "Top Female Names Usa",
+        "tags": [
+            "names"
+        ]
+    },
+    {
+        "href": "wordlists/names/top_male_name_germany.txt",
+        "lines": 153,
+        "name": "Top Male Name Germany",
+        "tags": [
+            "names"
+        ]
+    },
+    {
+        "href": "wordlists/names/top_male_names_canada.txt",
+        "lines": 1047,
+        "name": "Top Male Names Canada",
+        "tags": [
+            "names"
+        ]
+    },
+    {
+        "href": "wordlists/names/top_male_names_france.txt",
+        "lines": 481,
+        "name": "Top Male Names France",
+        "tags": [
+            "names"
+        ]
+    },
+    {
+        "href": "wordlists/names/top_male_names_india.txt",
+        "lines": 272,
+        "name": "Top Male Names India",
+        "tags": [
+            "names"
+        ]
+    },
+    {
+        "href": "wordlists/names/top_male_names_turkish.txt",
+        "lines": 688,
+        "name": "Top Male Names Turkish",
+        "tags": [
+            "names"
+        ]
+    },
+    {
+        "href": "wordlists/names/top_male_names_usa.txt",
+        "lines": 1004,
+        "name": "Top Male Names Usa",
+        "tags": [
+            "names"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/top_subdomains.txt",
+        "lines": 114532,
+        "name": "Top Subdomains",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/languages/turkish.txt",
+        "lines": 371169,
+        "name": "Turkish",
+        "tags": [
+            "languages"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/hardware_type_specific/tv.txt",
+        "lines": 1110,
+        "name": "Tv",
+        "tags": [
+            "user-agents",
+            "hardware-type-specific"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/tweetmeme_bot.txt",
+        "lines": 3,
+        "name": "Tweetmeme Bot",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/twitter_app.txt",
+        "lines": 154,
+        "name": "Twitter App",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/twitterbot.txt",
+        "lines": 4,
+        "name": "Twitterbot",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/stressing/uri_hex.txt",
+        "lines": 256,
+        "name": "URI Hex",
+        "tags": [
+            "stressing"
+        ]
+    },
+    {
+        "href": "wordlists/security_question_answers/us_colleges.txt",
+        "lines": 6752,
+        "name": "US Colleges",
+        "tags": [
+            "security-question-answers"
+        ]
+    },
+    {
+        "href": "wordlists/security_question_answers/us_private_schools.txt",
+        "lines": 21755,
+        "name": "US Private Schools",
+        "tags": [
+            "security-question-answers"
+        ]
+    },
+    {
+        "href": "wordlists/security_question_answers/us_public_schools.txt",
+        "lines": 100318,
+        "name": "US Public Schools",
+        "tags": [
+            "security-question-answers"
+        ]
+    },
+    {
+        "href": "wordlists/languages/ukrainian.txt",
+        "lines": 126308,
+        "name": "Ukrainian",
+        "tags": [
+            "languages"
+        ]
+    },
+    {
+        "href": "wordlists/stressing/unicode.txt",
+        "lines": 65536,
+        "name": "Unicode",
+        "tags": [
+            "stressing"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/unix_based_os.txt",
+        "lines": 598,
+        "name": "Unix Based OS",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/unix_passwords.txt",
+        "lines": 1009,
+        "name": "Unix Passwords",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/usernames/unix_users.txt",
+        "lines": 190,
+        "name": "Unix Users",
+        "tags": [
+            "usernames"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/valve_steam_game_overlay.txt",
+        "lines": 1009,
+        "name": "Valve Steam Game Overlay",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/vignette.txt",
+        "lines": 73,
+        "name": "Vignette",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/vision_mobile_browser.txt",
+        "lines": 3,
+        "name": "Vision Mobile Browser",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/w3c_css_validator.txt",
+        "lines": 4,
+        "name": "W3C Css Validator",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/w3c_link_checker.txt",
+        "lines": 6,
+        "name": "W3C Link Checker",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/w3c_validator.txt",
+        "lines": 9,
+        "name": "W3C Validator",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/wp_plugins.txt",
+        "lines": 88009,
+        "name": "WP Plugins",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/wp_themes.txt",
+        "lines": 21149,
+        "name": "WP Themes",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/weblogic.txt",
+        "lines": 361,
+        "name": "Weblogic",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/websphere.txt",
+        "lines": 561,
+        "name": "Websphere",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/webtv.txt",
+        "lines": 6,
+        "name": "Webtv",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/wget.txt",
+        "lines": 70,
+        "name": "Wget",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/windows.txt",
+        "lines": 183284,
+        "name": "Windows",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/windows_mobile.txt",
+        "lines": 354,
+        "name": "Windows Mobile",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/windows_phone.txt",
+        "lines": 2193,
+        "name": "Windows Phone",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/word.txt",
+        "lines": 32,
+        "name": "Word",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/xml.txt",
+        "lines": 15,
+        "name": "XML",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/xss.txt",
+        "lines": 19867,
+        "name": "XSS",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/passwords/xato_net_passwords.txt",
+        "lines": 5189454,
+        "name": "Xato Net Passwords",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
+        "href": "wordlists/usernames/xato_net_usernames.txt",
+        "lines": 8295455,
+        "name": "Xato Net Usernames",
+        "tags": [
+            "usernames"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/yandex_browser.txt",
+        "lines": 2175,
+        "name": "Yandex Browser",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/security_question_answers/zip_codes.txt",
+        "lines": 100000,
+        "name": "Zip Codes",
+        "tags": [
+            "security-question-answers"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/ios.txt",
+        "lines": 23836,
+        "name": "iOS",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/software_name/itunes.txt",
+        "lines": 30,
+        "name": "iTunes",
+        "tags": [
+            "user-agents",
+            "software-name"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/operating_system_name/webos.txt",
+        "lines": 42,
+        "name": "webOS",
+        "tags": [
+            "user-agents",
+            "operating-system-name"
+        ]
+    }
+]
