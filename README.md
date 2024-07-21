@@ -245,7 +245,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
         <li><a href="wordlists/user_agents/software_name/chrome.txt">Chrome</a> - 182,359 Lines</li>
         <li><a href="wordlists/user_agents/software_name/chromium.txt">Chromium</a> - 870 Lines</li>
         <li><a href="wordlists/user_agents/software_name/curl.txt">Curl</a> - 232 Lines</li>
-        <li><a href="wordlists/user_agents/software_name/discord_bot.txt">Discord Bot</a> - 2 Lines</li>
+        <li><a href="wordlists/user_agents/software_name/discord.txt">Discord</a> - 3 Lines</li>
         <li><a href="wordlists/user_agents/software_name/ea_origin_browser.txt">Ea Origin Browser</a> - 312 Lines</li>
         <li><a href="wordlists/user_agents/software_name/edge.txt">Edge</a> - 3,605 Lines</li>
         <li><a href="wordlists/user_agents/software_name/electron_application.txt">Electron Application</a> - 632 Lines</li>
@@ -560,7 +560,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
         <li><a href="wordlists/user_agents/software_name/chrome.txt">Chrome</a> - 182,359 Lines</li>
         <li><a href="wordlists/user_agents/software_name/chromium.txt">Chromium</a> - 870 Lines</li>
         <li><a href="wordlists/user_agents/software_name/curl.txt">Curl</a> - 232 Lines</li>
-        <li><a href="wordlists/user_agents/software_name/discord_bot.txt">Discord Bot</a> - 2 Lines</li>
+        <li><a href="wordlists/user_agents/software_name/discord.txt">Discord</a> - 3 Lines</li>
         <li><a href="wordlists/user_agents/software_name/ea_origin_browser.txt">Ea Origin Browser</a> - 312 Lines</li>
         <li><a href="wordlists/user_agents/software_name/edge.txt">Edge</a> - 3,605 Lines</li>
         <li><a href="wordlists/user_agents/software_name/electron_application.txt">Electron Application</a> - 632 Lines</li>
