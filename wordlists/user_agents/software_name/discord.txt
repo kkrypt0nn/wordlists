@@ -1,0 +1,3 @@
+Mozilla/5.0 (compatible; Discordbot/2.0; +https://discordapp.com)
+Mozilla/5.0 (compatible; Discordbot/1.0; +https://discordapp.com)
+Discord-Interactions/1.0 (+https://discord.com)
