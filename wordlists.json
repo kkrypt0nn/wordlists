@@ -553,9 +553,9 @@
         ]
     },
     {
-        "href": "wordlists/user_agents/software_name/discord_bot.txt",
-        "lines": 2,
-        "name": "Discord Bot",
+        "href": "wordlists/user_agents/software_name/discord.txt",
+        "lines": 3,
+        "name": "Discord",
         "tags": [
             "user-agents",
             "software-name"
