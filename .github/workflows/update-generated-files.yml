@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update_readme_file:
+  update_generated_file:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -19,6 +19,8 @@ jobs:
           python-version: "3.11"
       - name: Make README file
         run: python tools/make_readme.py
+      - name: Make JSON file
+        run: python tools/make_json.py
       - name: Check if there are any changes
         id: verify_diff
         run: |
@@ -28,28 +30,5 @@ jobs:
         run: |
           git config --global user.name 'Krypton'
           git config --global user.email 'root@krypton.ninja'
-          git commit -am "chore: Automatic README.md file update with accurate wordlists [skip ci]"
-          git push
-  update_json_file:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.PAT }}
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.11"
-      - name: Make JSON file
-        run: python tools/make_json.py
-      - name: Check if there are any changes
-        id: verify_diff
-        run: |
-          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
-      - name: Update JSON file
-        if: steps.verify_diff.outputs.changed == 'true'
-        run: |
-          git config --global user.name 'Krypton'
-          git config --global user.email 'root@krypton.ninja'
-          git commit -am "chore: Automatic wordlists.json file update with accurate wordlists [skip ci]"
+          git commit -am "chore: Automatic update with accurate wordlists for generated files [skip ci]"
           git push
