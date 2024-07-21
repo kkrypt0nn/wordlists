@@ -2,7 +2,31 @@
 
 import glob
 import os
+import re
 
+keywords = {
+    "Sql": "SQL",
+    "Jsp": "JSP",
+    "Lfi": "LFI",
+    "Tlds": "TLDs",
+    "Wp": "WP",
+    "Vpn": "VPN",
+    "Wpa": "WPA",
+    "Us": "US",
+    "Uri": "URI",
+    "Http": "HTTP",
+    "Os": "OS",
+    "Beos": "BeOS",
+    "Chromeos": "ChromeOS",
+    "Ios": "iOS",
+    "Hp": "HP",
+    "Openbsd": "OpenBSD",
+    "Sunos": "SunOS",
+    "Webos": "webOS",
+    "Itunes": "iTunes",
+    "Xml": "XML",
+    "Xss": "XSS",
+}
 wordlists = {}
 
 readme_template = """
@@ -52,6 +76,10 @@ for filename in glob.iglob("./wordlists/**/*", recursive=True):
     folders = levels[1 : len(levels) - 1]
     wordlist = levels[len(levels) - 1]
     wordlist = wordlist[: len(wordlist) - 4].replace("_", " ").title()
+
+    for keyword in keywords:
+        wordlist = re.sub(rf"\b{keyword}\b", keywords[keyword], wordlist)
+
     href = "/".join(levels)
 
     if wordlist == "Rockyou":  # Can't count correctly for that one as it's a ZIP file

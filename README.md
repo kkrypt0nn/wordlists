@@ -35,8 +35,8 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/discovery/apache_user_enum_2.0.txt">Apache User Enum 2.0</a> - 10,341 Lines</li>
       <li><a href="wordlists/discovery/big.txt">Big</a> - 20,469 Lines</li>
       <li><a href="wordlists/discovery/common.txt">Common</a> - 4,613 Lines</li>
-      <li><a href="wordlists/discovery/common_sql_columns.txt">Common Sql Columns</a> - 471 Lines</li>
-      <li><a href="wordlists/discovery/common_sql_tables.txt">Common Sql Tables</a> - 1,706 Lines</li>
+      <li><a href="wordlists/discovery/common_sql_columns.txt">Common SQL Columns</a> - 471 Lines</li>
+      <li><a href="wordlists/discovery/common_sql_tables.txt">Common SQL Tables</a> - 1,706 Lines</li>
       <li><a href="wordlists/discovery/conf.txt">Conf</a> - 201,790 Lines</li>
       <li><a href="wordlists/discovery/directories.txt">Directories</a> - 58,655 Lines</li>
       <li><a href="wordlists/discovery/directory_list_1.0.txt">Directory List 1.0</a> - 141,694 Lines</li>
@@ -48,18 +48,18 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/discovery/fuzz_php_special.txt">Fuzz Php Special</a> - 136,921 Lines</li>
       <li><a href="wordlists/discovery/indexes.txt">Indexes</a> - 10 Lines</li>
       <li><a href="wordlists/discovery/joomla.txt">Joomla</a> - 1,544 Lines</li>
-      <li><a href="wordlists/discovery/jsp.txt">Jsp</a> - 92,216 Lines</li>
-      <li><a href="wordlists/discovery/lfi_all.txt">Lfi All</a> - 1,483 Lines</li>
-      <li><a href="wordlists/discovery/lfi_unix.txt">Lfi Unix</a> - 1,076 Lines</li>
-      <li><a href="wordlists/discovery/lfi_windows.txt">Lfi Windows</a> - 466 Lines</li>
+      <li><a href="wordlists/discovery/jsp.txt">JSP</a> - 92,216 Lines</li>
+      <li><a href="wordlists/discovery/lfi_all.txt">LFI All</a> - 1,483 Lines</li>
+      <li><a href="wordlists/discovery/lfi_unix.txt">LFI Unix</a> - 1,076 Lines</li>
+      <li><a href="wordlists/discovery/lfi_windows.txt">LFI Windows</a> - 466 Lines</li>
       <li><a href="wordlists/discovery/most_common.txt">Most Common</a> - 1,011 Lines</li>
       <li><a href="wordlists/discovery/robots.txt">Robots</a> - 990 Lines</li>
       <li><a href="wordlists/discovery/sensitive_files_unix.txt">Sensitive Files Unix</a> - 16 Lines</li>
       <li><a href="wordlists/discovery/sensitive_files_win.txt">Sensitive Files Win</a> - 7 Lines</li>
-      <li><a href="wordlists/discovery/tlds.txt">Tlds</a> - 1,446 Lines</li>
+      <li><a href="wordlists/discovery/tlds.txt">TLDs</a> - 1,446 Lines</li>
       <li><a href="wordlists/discovery/top_subdomains.txt">Top Subdomains</a> - 114,532 Lines</li>
-      <li><a href="wordlists/discovery/wp_plugins.txt">Wp Plugins</a> - 88,009 Lines</li>
-      <li><a href="wordlists/discovery/wp_themes.txt">Wp Themes</a> - 21,149 Lines</li>
+      <li><a href="wordlists/discovery/wp_plugins.txt">WP Plugins</a> - 88,009 Lines</li>
+      <li><a href="wordlists/discovery/wp_themes.txt">WP Themes</a> - 21,149 Lines</li>
     </ul>
   </details>
   <details>
@@ -130,7 +130,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/passwords/dutch_passwords.txt">Dutch Passwords</a> - 4,322,834 Lines</li>
       <li><a href="wordlists/passwords/hak5.txt">Hak5</a> - 2,351 Lines</li>
       <li><a href="wordlists/passwords/honeynet.txt">Honeynet</a> - 453,009 Lines</li>
-      <li><a href="wordlists/passwords/http_default_passwords.txt">Http Default Passwords</a> - 19 Lines</li>
+      <li><a href="wordlists/passwords/http_default_passwords.txt">HTTP Default Passwords</a> - 19 Lines</li>
       <li><a href="wordlists/passwords/ipmi_passwords.txt">Ipmi Passwords</a> - 999 Lines</li>
       <li><a href="wordlists/passwords/keyboard_patterns.txt">Keyboard Patterns</a> - 20 Lines</li>
       <li><a href="wordlists/passwords/md5decryptor.txt">Md5Decryptor</a> - 3,431,316 Lines</li>
@@ -138,11 +138,11 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/passwords/mirai_passwords.txt">Mirai Passwords</a> - 42 Lines</li>
       <li><a href="wordlists/passwords/most_used_passwords.txt">Most Used Passwords</a> - 999,998 Lines</li>
       <li><a href="wordlists/passwords/most_used_passwords_ncsc.txt">Most Used Passwords Ncsc</a> - 100,000 Lines</li>
-      <li><a href="wordlists/passwords/nord_vpn.txt">Nord Vpn</a> - 1,437 Lines</li>
+      <li><a href="wordlists/passwords/nord_vpn.txt">Nord VPN</a> - 1,437 Lines</li>
       <li><a href="wordlists/passwords/openwall.txt">Openwall</a> - 3,721,224 Lines</li>
       <li><a href="wordlists/passwords/password.txt">Password</a> - 88,397 Lines</li>
       <li><a href="wordlists/passwords/postgres_default_passwords.txt">Postgres Default Passwords</a> - 4 Lines</li>
-      <li><a href="wordlists/passwords/probable_wpa.txt">Probable Wpa</a> - 4,800 Lines</li>
+      <li><a href="wordlists/passwords/probable_wpa.txt">Probable WPA</a> - 4,800 Lines</li>
       <li><a href="wordlists/passwords/tomcat_mgr_default_passwords.txt">Tomcat Mgr Default Passwords</a> - 7 Lines</li>
       <li><a href="wordlists/passwords/top_adobe_passwords.txt">Top Adobe Passwords</a> - 100 Lines</li>
       <li><a href="wordlists/passwords/unix_passwords.txt">Unix Passwords</a> - 1,009 Lines</li>
@@ -158,9 +158,9 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/security_question_answers/dates.txt">Dates</a> - 751,068 Lines</li>
       <li><a href="wordlists/security_question_answers/html_colors.txt">Html Colors</a> - 148 Lines</li>
       <li><a href="wordlists/security_question_answers/street_names.txt">Street Names</a> - 52,680 Lines</li>
-      <li><a href="wordlists/security_question_answers/us_colleges.txt">Us Colleges</a> - 6,752 Lines</li>
-      <li><a href="wordlists/security_question_answers/us_private_schools.txt">Us Private Schools</a> - 21,755 Lines</li>
-      <li><a href="wordlists/security_question_answers/us_public_schools.txt">Us Public Schools</a> - 100,318 Lines</li>
+      <li><a href="wordlists/security_question_answers/us_colleges.txt">US Colleges</a> - 6,752 Lines</li>
+      <li><a href="wordlists/security_question_answers/us_private_schools.txt">US Private Schools</a> - 21,755 Lines</li>
+      <li><a href="wordlists/security_question_answers/us_public_schools.txt">US Public Schools</a> - 100,318 Lines</li>
       <li><a href="wordlists/security_question_answers/zip_codes.txt">Zip Codes</a> - 100,000 Lines</li>
     </ul>
   </details>
@@ -176,7 +176,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/stressing/alphanum_case_extra.txt">Alphanum Case Extra</a> - 94 Lines</li>
       <li><a href="wordlists/stressing/char.txt">Char</a> - 26 Lines</li>
       <li><a href="wordlists/stressing/unicode.txt">Unicode</a> - 65,536 Lines</li>
-      <li><a href="wordlists/stressing/uri_hex.txt">Uri Hex</a> - 256 Lines</li>
+      <li><a href="wordlists/stressing/uri_hex.txt">URI Hex</a> - 256 Lines</li>
     </ul>
   </details>
   <details>
@@ -207,28 +207,28 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <ul>
         <li><a href="wordlists/user_agents/operating_system_name/android.txt">Android</a> - 202,129 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/bada.txt">Bada</a> - 182 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/beos.txt">Beos</a> - 18 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/blackberry_os.txt">Blackberry Os</a> - 2,365 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/chromeos.txt">Chromeos</a> - 1,757 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/beos.txt">BeOS</a> - 18 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/blackberry_os.txt">Blackberry OS</a> - 2,365 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/chromeos.txt">ChromeOS</a> - 1,757 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/darwin.txt">Darwin</a> - 549 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/fire_os.txt">Fire Os</a> - 1,869 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/fire_os.txt">Fire OS</a> - 1,869 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/freebsd.txt">Freebsd</a> - 812 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/haiku.txt">Haiku</a> - 45 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/hp_webos.txt">Hp Webos</a> - 21 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/ios.txt">Ios</a> - 23,836 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/hp_webos.txt">HP webOS</a> - 21 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/ios.txt">iOS</a> - 23,836 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/irix.txt">Irix</a> - 13 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/linux.txt">Linux</a> - 20,823 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/livearea.txt">Livearea</a> - 52 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/mac.txt">Mac</a> - 655 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/mac_os_x.txt">Mac Os X</a> - 18,903 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/mac_os_x.txt">Mac OS X</a> - 18,903 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/macos.txt">Macos</a> - 5,147 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/openbsd.txt">Openbsd</a> - 285 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/palmos.txt">Palmos</a> - 18 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/rim_tablet_os.txt">Rim Tablet Os</a> - 12 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/sunos.txt">Sunos</a> - 293 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/openbsd.txt">OpenBSD</a> - 285 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/palm_os.txt">Palm OS</a> - 18 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/rim_tablet_os.txt">Rim Tablet OS</a> - 12 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/sunos.txt">SunOS</a> - 293 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/symbian.txt">Symbian</a> - 3,438 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/unix_based__os.txt">Unix Based  Os</a> - 598 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/webos.txt">Webos</a> - 42 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/unix_based_os.txt">Unix Based OS</a> - 598 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/webos.txt">webOS</a> - 42 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/windows.txt">Windows</a> - 183,284 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/windows_mobile.txt">Windows Mobile</a> - 354 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/windows_phone.txt">Windows Phone</a> - 2,193 Lines</li>
@@ -264,7 +264,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
         <li><a href="wordlists/user_agents/software_name/internet_explorer.txt">Internet Explorer</a> - 102,404 Lines</li>
         <li><a href="wordlists/user_agents/software_name/internet_explorer_mobile.txt">Internet Explorer Mobile</a> - 1,068 Lines</li>
         <li><a href="wordlists/user_agents/software_name/internet_tv_browser.txt">Internet Tv Browser</a> - 354 Lines</li>
-        <li><a href="wordlists/user_agents/software_name/itunes.txt">Itunes</a> - 30 Lines</li>
+        <li><a href="wordlists/user_agents/software_name/itunes.txt">iTunes</a> - 30 Lines</li>
         <li><a href="wordlists/user_agents/software_name/java_runtime_environment.txt">Java Runtime Environment</a> - 518 Lines</li>
         <li><a href="wordlists/user_agents/software_name/kindle_browser.txt">Kindle Browser</a> - 76 Lines</li>
         <li><a href="wordlists/user_agents/software_name/motorola_internet_browser.txt">Motorola Internet Browser</a> - 19 Lines</li>
@@ -305,7 +305,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/usernames/common_admin_base64.txt">Common Admin Base64</a> - 57 Lines</li>
       <li><a href="wordlists/usernames/db2_default_user.txt">Db2 Default User</a> - 5 Lines</li>
       <li><a href="wordlists/usernames/default_users_for_services.txt">Default Users For Services</a> - 919 Lines</li>
-      <li><a href="wordlists/usernames/http_default_users.txt">Http Default Users</a> - 27 Lines</li>
+      <li><a href="wordlists/usernames/http_default_users.txt">HTTP Default Users</a> - 27 Lines</li>
       <li><a href="wordlists/usernames/ipmi_users.txt">Ipmi Users</a> - 7 Lines</li>
       <li><a href="wordlists/usernames/mirai_user.txt">Mirai User</a> - 15 Lines</li>
       <li><a href="wordlists/usernames/multiple_sources_users.txt">Multiple Sources Users</a> - 21,167 Lines</li>
@@ -343,8 +343,8 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/vulnerabilities/ror.txt">Ror</a> - 121 Lines</li>
       <li><a href="wordlists/vulnerabilities/sap.txt">Sap</a> - 1,111 Lines</li>
       <li><a href="wordlists/vulnerabilities/sharepoint.txt">Sharepoint</a> - 1,708 Lines</li>
-      <li><a href="wordlists/vulnerabilities/sql.txt">Sql</a> - 167 Lines</li>
-      <li><a href="wordlists/vulnerabilities/sql_inj.txt">Sql Inj</a> - 41 Lines</li>
+      <li><a href="wordlists/vulnerabilities/sql.txt">SQL</a> - 167 Lines</li>
+      <li><a href="wordlists/vulnerabilities/sql_inj.txt">SQL Inj</a> - 41 Lines</li>
       <li><a href="wordlists/vulnerabilities/ssti.txt">Ssti</a> - 107 Lines</li>
       <li><a href="wordlists/vulnerabilities/sunas.txt">Sunas</a> - 51 Lines</li>
       <li><a href="wordlists/vulnerabilities/tests.txt">Tests</a> - 33 Lines</li>
@@ -352,8 +352,8 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/vulnerabilities/vignette.txt">Vignette</a> - 73 Lines</li>
       <li><a href="wordlists/vulnerabilities/weblogic.txt">Weblogic</a> - 361 Lines</li>
       <li><a href="wordlists/vulnerabilities/websphere.txt">Websphere</a> - 561 Lines</li>
-      <li><a href="wordlists/vulnerabilities/xml.txt">Xml</a> - 15 Lines</li>
-      <li><a href="wordlists/vulnerabilities/xss.txt">Xss</a> - 19,867 Lines</li>
+      <li><a href="wordlists/vulnerabilities/xml.txt">XML</a> - 15 Lines</li>
+      <li><a href="wordlists/vulnerabilities/xss.txt">XSS</a> - 19,867 Lines</li>
     </ul>
   </details>
 </details>
@@ -368,8 +368,8 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/discovery/apache_user_enum_2.0.txt">Apache User Enum 2.0</a> - 10,341 Lines</li>
     <li><a href="wordlists/discovery/big.txt">Big</a> - 20,469 Lines</li>
     <li><a href="wordlists/discovery/common.txt">Common</a> - 4,613 Lines</li>
-    <li><a href="wordlists/discovery/common_sql_columns.txt">Common Sql Columns</a> - 471 Lines</li>
-    <li><a href="wordlists/discovery/common_sql_tables.txt">Common Sql Tables</a> - 1,706 Lines</li>
+    <li><a href="wordlists/discovery/common_sql_columns.txt">Common SQL Columns</a> - 471 Lines</li>
+    <li><a href="wordlists/discovery/common_sql_tables.txt">Common SQL Tables</a> - 1,706 Lines</li>
     <li><a href="wordlists/discovery/conf.txt">Conf</a> - 201,790 Lines</li>
     <li><a href="wordlists/discovery/directories.txt">Directories</a> - 58,655 Lines</li>
     <li><a href="wordlists/discovery/directory_list_1.0.txt">Directory List 1.0</a> - 141,694 Lines</li>
@@ -381,18 +381,18 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/discovery/fuzz_php_special.txt">Fuzz Php Special</a> - 136,921 Lines</li>
     <li><a href="wordlists/discovery/indexes.txt">Indexes</a> - 10 Lines</li>
     <li><a href="wordlists/discovery/joomla.txt">Joomla</a> - 1,544 Lines</li>
-    <li><a href="wordlists/discovery/jsp.txt">Jsp</a> - 92,216 Lines</li>
-    <li><a href="wordlists/discovery/lfi_all.txt">Lfi All</a> - 1,483 Lines</li>
-    <li><a href="wordlists/discovery/lfi_unix.txt">Lfi Unix</a> - 1,076 Lines</li>
-    <li><a href="wordlists/discovery/lfi_windows.txt">Lfi Windows</a> - 466 Lines</li>
+    <li><a href="wordlists/discovery/jsp.txt">JSP</a> - 92,216 Lines</li>
+    <li><a href="wordlists/discovery/lfi_all.txt">LFI All</a> - 1,483 Lines</li>
+    <li><a href="wordlists/discovery/lfi_unix.txt">LFI Unix</a> - 1,076 Lines</li>
+    <li><a href="wordlists/discovery/lfi_windows.txt">LFI Windows</a> - 466 Lines</li>
     <li><a href="wordlists/discovery/most_common.txt">Most Common</a> - 1,011 Lines</li>
     <li><a href="wordlists/discovery/robots.txt">Robots</a> - 990 Lines</li>
     <li><a href="wordlists/discovery/sensitive_files_unix.txt">Sensitive Files Unix</a> - 16 Lines</li>
     <li><a href="wordlists/discovery/sensitive_files_win.txt">Sensitive Files Win</a> - 7 Lines</li>
-    <li><a href="wordlists/discovery/tlds.txt">Tlds</a> - 1,446 Lines</li>
+    <li><a href="wordlists/discovery/tlds.txt">TLDs</a> - 1,446 Lines</li>
     <li><a href="wordlists/discovery/top_subdomains.txt">Top Subdomains</a> - 114,532 Lines</li>
-    <li><a href="wordlists/discovery/wp_plugins.txt">Wp Plugins</a> - 88,009 Lines</li>
-    <li><a href="wordlists/discovery/wp_themes.txt">Wp Themes</a> - 21,149 Lines</li>
+    <li><a href="wordlists/discovery/wp_plugins.txt">WP Plugins</a> - 88,009 Lines</li>
+    <li><a href="wordlists/discovery/wp_themes.txt">WP Themes</a> - 21,149 Lines</li>
   </ul>
   <li>Famous</li>
   <ul>
@@ -455,7 +455,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/passwords/dutch_passwords.txt">Dutch Passwords</a> - 4,322,834 Lines</li>
     <li><a href="wordlists/passwords/hak5.txt">Hak5</a> - 2,351 Lines</li>
     <li><a href="wordlists/passwords/honeynet.txt">Honeynet</a> - 453,009 Lines</li>
-    <li><a href="wordlists/passwords/http_default_passwords.txt">Http Default Passwords</a> - 19 Lines</li>
+    <li><a href="wordlists/passwords/http_default_passwords.txt">HTTP Default Passwords</a> - 19 Lines</li>
     <li><a href="wordlists/passwords/ipmi_passwords.txt">Ipmi Passwords</a> - 999 Lines</li>
     <li><a href="wordlists/passwords/keyboard_patterns.txt">Keyboard Patterns</a> - 20 Lines</li>
     <li><a href="wordlists/passwords/md5decryptor.txt">Md5Decryptor</a> - 3,431,316 Lines</li>
@@ -463,11 +463,11 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/passwords/mirai_passwords.txt">Mirai Passwords</a> - 42 Lines</li>
     <li><a href="wordlists/passwords/most_used_passwords.txt">Most Used Passwords</a> - 999,998 Lines</li>
     <li><a href="wordlists/passwords/most_used_passwords_ncsc.txt">Most Used Passwords Ncsc</a> - 100,000 Lines</li>
-    <li><a href="wordlists/passwords/nord_vpn.txt">Nord Vpn</a> - 1,437 Lines</li>
+    <li><a href="wordlists/passwords/nord_vpn.txt">Nord VPN</a> - 1,437 Lines</li>
     <li><a href="wordlists/passwords/openwall.txt">Openwall</a> - 3,721,224 Lines</li>
     <li><a href="wordlists/passwords/password.txt">Password</a> - 88,397 Lines</li>
     <li><a href="wordlists/passwords/postgres_default_passwords.txt">Postgres Default Passwords</a> - 4 Lines</li>
-    <li><a href="wordlists/passwords/probable_wpa.txt">Probable Wpa</a> - 4,800 Lines</li>
+    <li><a href="wordlists/passwords/probable_wpa.txt">Probable WPA</a> - 4,800 Lines</li>
     <li><a href="wordlists/passwords/tomcat_mgr_default_passwords.txt">Tomcat Mgr Default Passwords</a> - 7 Lines</li>
     <li><a href="wordlists/passwords/top_adobe_passwords.txt">Top Adobe Passwords</a> - 100 Lines</li>
     <li><a href="wordlists/passwords/unix_passwords.txt">Unix Passwords</a> - 1,009 Lines</li>
@@ -481,9 +481,9 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/security_question_answers/dates.txt">Dates</a> - 751,068 Lines</li>
     <li><a href="wordlists/security_question_answers/html_colors.txt">Html Colors</a> - 148 Lines</li>
     <li><a href="wordlists/security_question_answers/street_names.txt">Street Names</a> - 52,680 Lines</li>
-    <li><a href="wordlists/security_question_answers/us_colleges.txt">Us Colleges</a> - 6,752 Lines</li>
-    <li><a href="wordlists/security_question_answers/us_private_schools.txt">Us Private Schools</a> - 21,755 Lines</li>
-    <li><a href="wordlists/security_question_answers/us_public_schools.txt">Us Public Schools</a> - 100,318 Lines</li>
+    <li><a href="wordlists/security_question_answers/us_colleges.txt">US Colleges</a> - 6,752 Lines</li>
+    <li><a href="wordlists/security_question_answers/us_private_schools.txt">US Private Schools</a> - 21,755 Lines</li>
+    <li><a href="wordlists/security_question_answers/us_public_schools.txt">US Public Schools</a> - 100,318 Lines</li>
     <li><a href="wordlists/security_question_answers/zip_codes.txt">Zip Codes</a> - 100,000 Lines</li>
   </ul>
   <li>Stressing</li>
@@ -497,7 +497,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/stressing/alphanum_case_extra.txt">Alphanum Case Extra</a> - 94 Lines</li>
     <li><a href="wordlists/stressing/char.txt">Char</a> - 26 Lines</li>
     <li><a href="wordlists/stressing/unicode.txt">Unicode</a> - 65,536 Lines</li>
-    <li><a href="wordlists/stressing/uri_hex.txt">Uri Hex</a> - 256 Lines</li>
+    <li><a href="wordlists/stressing/uri_hex.txt">URI Hex</a> - 256 Lines</li>
   </ul>
   <li>User Agents</li>
   <ul>
@@ -524,28 +524,28 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <ul>
         <li><a href="wordlists/user_agents/operating_system_name/android.txt">Android</a> - 202,129 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/bada.txt">Bada</a> - 182 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/beos.txt">Beos</a> - 18 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/blackberry_os.txt">Blackberry Os</a> - 2,365 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/chromeos.txt">Chromeos</a> - 1,757 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/beos.txt">BeOS</a> - 18 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/blackberry_os.txt">Blackberry OS</a> - 2,365 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/chromeos.txt">ChromeOS</a> - 1,757 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/darwin.txt">Darwin</a> - 549 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/fire_os.txt">Fire Os</a> - 1,869 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/fire_os.txt">Fire OS</a> - 1,869 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/freebsd.txt">Freebsd</a> - 812 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/haiku.txt">Haiku</a> - 45 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/hp_webos.txt">Hp Webos</a> - 21 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/ios.txt">Ios</a> - 23,836 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/hp_webos.txt">HP webOS</a> - 21 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/ios.txt">iOS</a> - 23,836 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/irix.txt">Irix</a> - 13 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/linux.txt">Linux</a> - 20,823 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/livearea.txt">Livearea</a> - 52 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/mac.txt">Mac</a> - 655 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/mac_os_x.txt">Mac Os X</a> - 18,903 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/mac_os_x.txt">Mac OS X</a> - 18,903 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/macos.txt">Macos</a> - 5,147 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/openbsd.txt">Openbsd</a> - 285 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/palmos.txt">Palmos</a> - 18 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/rim_tablet_os.txt">Rim Tablet Os</a> - 12 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/sunos.txt">Sunos</a> - 293 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/openbsd.txt">OpenBSD</a> - 285 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/palm_os.txt">Palm OS</a> - 18 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/rim_tablet_os.txt">Rim Tablet OS</a> - 12 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/sunos.txt">SunOS</a> - 293 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/symbian.txt">Symbian</a> - 3,438 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/unix_based__os.txt">Unix Based  Os</a> - 598 Lines</li>
-        <li><a href="wordlists/user_agents/operating_system_name/webos.txt">Webos</a> - 42 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/unix_based_os.txt">Unix Based OS</a> - 598 Lines</li>
+        <li><a href="wordlists/user_agents/operating_system_name/webos.txt">webOS</a> - 42 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/windows.txt">Windows</a> - 183,284 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/windows_mobile.txt">Windows Mobile</a> - 354 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/windows_phone.txt">Windows Phone</a> - 2,193 Lines</li>
@@ -579,7 +579,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
         <li><a href="wordlists/user_agents/software_name/internet_explorer.txt">Internet Explorer</a> - 102,404 Lines</li>
         <li><a href="wordlists/user_agents/software_name/internet_explorer_mobile.txt">Internet Explorer Mobile</a> - 1,068 Lines</li>
         <li><a href="wordlists/user_agents/software_name/internet_tv_browser.txt">Internet Tv Browser</a> - 354 Lines</li>
-        <li><a href="wordlists/user_agents/software_name/itunes.txt">Itunes</a> - 30 Lines</li>
+        <li><a href="wordlists/user_agents/software_name/itunes.txt">iTunes</a> - 30 Lines</li>
         <li><a href="wordlists/user_agents/software_name/java_runtime_environment.txt">Java Runtime Environment</a> - 518 Lines</li>
         <li><a href="wordlists/user_agents/software_name/kindle_browser.txt">Kindle Browser</a> - 76 Lines</li>
         <li><a href="wordlists/user_agents/software_name/motorola_internet_browser.txt">Motorola Internet Browser</a> - 19 Lines</li>
@@ -618,7 +618,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/usernames/common_admin_base64.txt">Common Admin Base64</a> - 57 Lines</li>
     <li><a href="wordlists/usernames/db2_default_user.txt">Db2 Default User</a> - 5 Lines</li>
     <li><a href="wordlists/usernames/default_users_for_services.txt">Default Users For Services</a> - 919 Lines</li>
-    <li><a href="wordlists/usernames/http_default_users.txt">Http Default Users</a> - 27 Lines</li>
+    <li><a href="wordlists/usernames/http_default_users.txt">HTTP Default Users</a> - 27 Lines</li>
     <li><a href="wordlists/usernames/ipmi_users.txt">Ipmi Users</a> - 7 Lines</li>
     <li><a href="wordlists/usernames/mirai_user.txt">Mirai User</a> - 15 Lines</li>
     <li><a href="wordlists/usernames/multiple_sources_users.txt">Multiple Sources Users</a> - 21,167 Lines</li>
@@ -654,8 +654,8 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/vulnerabilities/ror.txt">Ror</a> - 121 Lines</li>
     <li><a href="wordlists/vulnerabilities/sap.txt">Sap</a> - 1,111 Lines</li>
     <li><a href="wordlists/vulnerabilities/sharepoint.txt">Sharepoint</a> - 1,708 Lines</li>
-    <li><a href="wordlists/vulnerabilities/sql.txt">Sql</a> - 167 Lines</li>
-    <li><a href="wordlists/vulnerabilities/sql_inj.txt">Sql Inj</a> - 41 Lines</li>
+    <li><a href="wordlists/vulnerabilities/sql.txt">SQL</a> - 167 Lines</li>
+    <li><a href="wordlists/vulnerabilities/sql_inj.txt">SQL Inj</a> - 41 Lines</li>
     <li><a href="wordlists/vulnerabilities/ssti.txt">Ssti</a> - 107 Lines</li>
     <li><a href="wordlists/vulnerabilities/sunas.txt">Sunas</a> - 51 Lines</li>
     <li><a href="wordlists/vulnerabilities/tests.txt">Tests</a> - 33 Lines</li>
@@ -663,8 +663,8 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/vulnerabilities/vignette.txt">Vignette</a> - 73 Lines</li>
     <li><a href="wordlists/vulnerabilities/weblogic.txt">Weblogic</a> - 361 Lines</li>
     <li><a href="wordlists/vulnerabilities/websphere.txt">Websphere</a> - 561 Lines</li>
-    <li><a href="wordlists/vulnerabilities/xml.txt">Xml</a> - 15 Lines</li>
-    <li><a href="wordlists/vulnerabilities/xss.txt">Xss</a> - 19,867 Lines</li>
+    <li><a href="wordlists/vulnerabilities/xml.txt">XML</a> - 15 Lines</li>
+    <li><a href="wordlists/vulnerabilities/xss.txt">XSS</a> - 19,867 Lines</li>
   </ul>
 </ul>
 
