@@ -1,0 +1,32 @@
+name: Update JSON file
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update_readme_file:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.PAT }}
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+      - name: Make JSON file
+        run: python tools/make_json.py
+      - name: Check if there are any changes
+        id: verify_diff
+        run: |
+          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+      - name: Update README file
+        if: steps.verify_diff.outputs.changed == 'true'
+        run: |
+          git config --global user.name 'Krypton'
+          git config --global user.email 'root@krypton.ninja'
+          git commit -am "chore: Automatic wordlists.json file update with accurate wordlists [skip ci]"
+          git push
