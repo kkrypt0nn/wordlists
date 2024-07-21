@@ -1,4 +1,4 @@
-name: Update README file
+name: Update generated files
 
 on:
   push:
@@ -29,4 +29,27 @@ jobs:
           git config --global user.name 'Krypton'
           git config --global user.email 'root@krypton.ninja'
           git commit -am "chore: Automatic README.md file update with accurate wordlists [skip ci]"
+          git push
+  update_json_file:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.PAT }}
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+      - name: Make JSON file
+        run: python tools/make_json.py
+      - name: Check if there are any changes
+        id: verify_diff
+        run: |
+          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+      - name: Update JSON file
+        if: steps.verify_diff.outputs.changed == 'true'
+        run: |
+          git config --global user.name 'Krypton'
+          git config --global user.email 'root@krypton.ninja'
+          git commit -am "chore: Automatic wordlists.json file update with accurate wordlists [skip ci]"
           git push
