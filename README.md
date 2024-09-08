@@ -104,11 +104,13 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <ul>
       <li><a href="wordlists/names/names.txt">Names</a> - 10,176 Lines</li>
       <li><a href="wordlists/names/top_family_names_usa.txt">Top Family Names Usa</a> - 1,000 Lines</li>
+      <li><a href="wordlists/names/top_female_names_australia.txt">Top Female Names Australia</a> - 98 Lines</li>
       <li><a href="wordlists/names/top_female_names_canada.txt">Top Female Names Canada</a> - 300 Lines</li>
       <li><a href="wordlists/names/top_female_names_germany.txt">Top Female Names Germany</a> - 4,685 Lines</li>
       <li><a href="wordlists/names/top_female_names_india.txt">Top Female Names India</a> - 53 Lines</li>
       <li><a href="wordlists/names/top_female_names_usa.txt">Top Female Names Usa</a> - 1,000 Lines</li>
       <li><a href="wordlists/names/top_male_name_germany.txt">Top Male Name Germany</a> - 153 Lines</li>
+      <li><a href="wordlists/names/top_male_names_australia.txt">Top Male Names Australia</a> - 110 Lines</li>
       <li><a href="wordlists/names/top_male_names_canada.txt">Top Male Names Canada</a> - 1,047 Lines</li>
       <li><a href="wordlists/names/top_male_names_france.txt">Top Male Names France</a> - 481 Lines</li>
       <li><a href="wordlists/names/top_male_names_india.txt">Top Male Names India</a> - 272 Lines</li>
@@ -131,6 +133,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/passwords/hak5.txt">Hak5</a> - 2,351 Lines</li>
       <li><a href="wordlists/passwords/honeynet.txt">Honeynet</a> - 453,009 Lines</li>
       <li><a href="wordlists/passwords/http_default_passwords.txt">HTTP Default Passwords</a> - 19 Lines</li>
+      <li><a href="wordlists/passwords/indian_passwords.txt">Indian Passwords</a> - 13,154 Lines</li>
       <li><a href="wordlists/passwords/ipmi_passwords.txt">Ipmi Passwords</a> - 999 Lines</li>
       <li><a href="wordlists/passwords/keyboard_patterns.txt">Keyboard Patterns</a> - 20 Lines</li>
       <li><a href="wordlists/passwords/md5decryptor.txt">Md5Decryptor</a> - 3,431,316 Lines</li>
@@ -431,11 +434,13 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
   <ul>
     <li><a href="wordlists/names/names.txt">Names</a> - 10,176 Lines</li>
     <li><a href="wordlists/names/top_family_names_usa.txt">Top Family Names Usa</a> - 1,000 Lines</li>
+    <li><a href="wordlists/names/top_female_names_australia.txt">Top Female Names Australia</a> - 98 Lines</li>
     <li><a href="wordlists/names/top_female_names_canada.txt">Top Female Names Canada</a> - 300 Lines</li>
     <li><a href="wordlists/names/top_female_names_germany.txt">Top Female Names Germany</a> - 4,685 Lines</li>
     <li><a href="wordlists/names/top_female_names_india.txt">Top Female Names India</a> - 53 Lines</li>
     <li><a href="wordlists/names/top_female_names_usa.txt">Top Female Names Usa</a> - 1,000 Lines</li>
     <li><a href="wordlists/names/top_male_name_germany.txt">Top Male Name Germany</a> - 153 Lines</li>
+    <li><a href="wordlists/names/top_male_names_australia.txt">Top Male Names Australia</a> - 110 Lines</li>
     <li><a href="wordlists/names/top_male_names_canada.txt">Top Male Names Canada</a> - 1,047 Lines</li>
     <li><a href="wordlists/names/top_male_names_france.txt">Top Male Names France</a> - 481 Lines</li>
     <li><a href="wordlists/names/top_male_names_india.txt">Top Male Names India</a> - 272 Lines</li>
@@ -456,6 +461,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/passwords/hak5.txt">Hak5</a> - 2,351 Lines</li>
     <li><a href="wordlists/passwords/honeynet.txt">Honeynet</a> - 453,009 Lines</li>
     <li><a href="wordlists/passwords/http_default_passwords.txt">HTTP Default Passwords</a> - 19 Lines</li>
+    <li><a href="wordlists/passwords/indian_passwords.txt">Indian Passwords</a> - 13,154 Lines</li>
     <li><a href="wordlists/passwords/ipmi_passwords.txt">Ipmi Passwords</a> - 999 Lines</li>
     <li><a href="wordlists/passwords/keyboard_patterns.txt">Keyboard Patterns</a> - 20 Lines</li>
     <li><a href="wordlists/passwords/md5decryptor.txt">Md5Decryptor</a> - 3,431,316 Lines</li>

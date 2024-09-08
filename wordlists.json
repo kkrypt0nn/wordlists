@@ -985,6 +985,14 @@
         ]
     },
     {
+        "href": "wordlists/passwords/indian_passwords.txt",
+        "lines": 13154,
+        "name": "Indian Passwords",
+        "tags": [
+            "passwords"
+        ]
+    },
+    {
         "href": "wordlists/user_agents/software_name/internet_explorer.txt",
         "lines": 102404,
         "name": "Internet Explorer",
@@ -1809,6 +1817,14 @@
         ]
     },
     {
+        "href": "wordlists/names/top_female_names_australia.txt",
+        "lines": 98,
+        "name": "Top Female Names Australia",
+        "tags": [
+            "names"
+        ]
+    },
+    {
         "href": "wordlists/names/top_female_names_canada.txt",
         "lines": 300,
         "name": "Top Female Names Canada",
@@ -1844,6 +1860,14 @@
         "href": "wordlists/names/top_male_name_germany.txt",
         "lines": 153,
         "name": "Top Male Name Germany",
+        "tags": [
+            "names"
+        ]
+    },
+    {
+        "href": "wordlists/names/top_male_names_australia.txt",
+        "lines": 110,
+        "name": "Top Male Names Australia",
         "tags": [
             "names"
         ]
