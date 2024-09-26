@@ -1753,7 +1753,7 @@
     },
     {
         "href": "wordlists/discovery/tlds.txt",
-        "lines": 1446,
+        "lines": 1445,
         "name": "TLDs",
         "tags": [
             "discovery"
