@@ -56,6 +56,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/discovery/robots.txt">Robots</a> - 990 Lines</li>
       <li><a href="wordlists/discovery/sensitive_files_unix.txt">Sensitive Files Unix</a> - 16 Lines</li>
       <li><a href="wordlists/discovery/sensitive_files_win.txt">Sensitive Files Win</a> - 7 Lines</li>
+      <li><a href="wordlists/discovery/swagger.txt">Swagger</a> - 958,874 Lines</li>
       <li><a href="wordlists/discovery/tlds.txt">TLDs</a> - 1,445 Lines</li>
       <li><a href="wordlists/discovery/top_subdomains.txt">Top Subdomains</a> - 114,532 Lines</li>
       <li><a href="wordlists/discovery/wp_plugins.txt">WP Plugins</a> - 88,009 Lines</li>
@@ -97,6 +98,12 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/languages/swedish.txt">Swedish</a> - 72,370 Lines</li>
       <li><a href="wordlists/languages/turkish.txt">Turkish</a> - 371,169 Lines</li>
       <li><a href="wordlists/languages/ukrainian.txt">Ukrainian</a> - 126,308 Lines</li>
+    </ul>
+  </details>
+  <details>
+    <summary>Miscallenaous</summary>
+    <ul>
+      <li><a href="wordlists/miscallenaous/profanity_words.txt">Profanity Words</a> - 1,383 Lines</li>
     </ul>
   </details>
   <details>
@@ -392,6 +399,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/discovery/robots.txt">Robots</a> - 990 Lines</li>
     <li><a href="wordlists/discovery/sensitive_files_unix.txt">Sensitive Files Unix</a> - 16 Lines</li>
     <li><a href="wordlists/discovery/sensitive_files_win.txt">Sensitive Files Win</a> - 7 Lines</li>
+    <li><a href="wordlists/discovery/swagger.txt">Swagger</a> - 958,874 Lines</li>
     <li><a href="wordlists/discovery/tlds.txt">TLDs</a> - 1,445 Lines</li>
     <li><a href="wordlists/discovery/top_subdomains.txt">Top Subdomains</a> - 114,532 Lines</li>
     <li><a href="wordlists/discovery/wp_plugins.txt">WP Plugins</a> - 88,009 Lines</li>
@@ -429,6 +437,10 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/languages/swedish.txt">Swedish</a> - 72,370 Lines</li>
     <li><a href="wordlists/languages/turkish.txt">Turkish</a> - 371,169 Lines</li>
     <li><a href="wordlists/languages/ukrainian.txt">Ukrainian</a> - 126,308 Lines</li>
+  </ul>
+  <li>Miscallenaous</li>
+  <ul>
+    <li><a href="wordlists/miscallenaous/profanity_words.txt">Profanity Words</a> - 1,383 Lines</li>
   </ul>
   <li>Names</li>
   <ul>

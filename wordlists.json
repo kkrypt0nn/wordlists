@@ -1543,6 +1543,14 @@
         ]
     },
     {
+        "href": "wordlists/miscallenaous/profanity_words.txt",
+        "lines": 1383,
+        "name": "Profanity Words",
+        "tags": [
+            "miscallenaous"
+        ]
+    },
+    {
         "href": "wordlists/user_agents/software_name/python_urllib.txt",
         "lines": 18,
         "name": "Python Urllib",
@@ -1732,6 +1740,14 @@
         "name": "Sunas",
         "tags": [
             "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/swagger.txt",
+        "lines": 958874,
+        "name": "Swagger",
+        "tags": [
+            "discovery"
         ]
     },
     {
