@@ -1543,11 +1543,11 @@
         ]
     },
     {
-        "href": "wordlists/miscallenaous/profanity_words.txt",
+        "href": "wordlists/miscellaneous/profanity_words.txt",
         "lines": 1383,
         "name": "Profanity Words",
         "tags": [
-            "miscallenaous"
+            "miscellaneous"
         ]
     },
     {

@@ -101,9 +101,9 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     </ul>
   </details>
   <details>
-    <summary>Miscallenaous</summary>
+    <summary>Miscellaneous</summary>
     <ul>
-      <li><a href="wordlists/miscallenaous/profanity_words.txt">Profanity Words</a> - 1,383 Lines</li>
+      <li><a href="wordlists/miscellaneous/profanity_words.txt">Profanity Words</a> - 1,383 Lines</li>
     </ul>
   </details>
   <details>
@@ -438,9 +438,9 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/languages/turkish.txt">Turkish</a> - 371,169 Lines</li>
     <li><a href="wordlists/languages/ukrainian.txt">Ukrainian</a> - 126,308 Lines</li>
   </ul>
-  <li>Miscallenaous</li>
+  <li>Miscellaneous</li>
   <ul>
-    <li><a href="wordlists/miscallenaous/profanity_words.txt">Profanity Words</a> - 1,383 Lines</li>
+    <li><a href="wordlists/miscellaneous/profanity_words.txt">Profanity Words</a> - 1,383 Lines</li>
   </ul>
   <li>Names</li>
   <ul>
