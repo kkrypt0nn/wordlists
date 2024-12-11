@@ -108,19 +108,19 @@
         ]
     },
     {
-        "href": "wordlists/discovery/apache.txt",
-        "lines": 13232,
-        "name": "Apache",
-        "tags": [
-            "discovery"
-        ]
-    },
-    {
         "href": "wordlists/vulnerabilities/apache.txt",
         "lines": 30,
         "name": "Apache",
         "tags": [
             "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/apache.txt",
+        "lines": 13232,
+        "name": "Apache",
+        "tags": [
+            "discovery"
         ]
     },
     {
