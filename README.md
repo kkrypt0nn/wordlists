@@ -103,7 +103,8 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
   <details>
     <summary>Miscellaneous</summary>
     <ul>
-      <li><a href="wordlists/miscellaneous/profanity_words.txt">Profanity Words</a> - 1,383 Lines</li>
+      <li><a href="wordlists/miscellaneous/english_profanity_words.txt">English Profanity Words</a> - 1,383 Lines</li>
+      <li><a href="wordlists/miscellaneous/french_profanity_words.txt">French Profanity Words</a> - 106 Lines</li>
     </ul>
   </details>
   <details>
@@ -440,7 +441,8 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
   </ul>
   <li>Miscellaneous</li>
   <ul>
-    <li><a href="wordlists/miscellaneous/profanity_words.txt">Profanity Words</a> - 1,383 Lines</li>
+    <li><a href="wordlists/miscellaneous/english_profanity_words.txt">English Profanity Words</a> - 1,383 Lines</li>
+    <li><a href="wordlists/miscellaneous/french_profanity_words.txt">French Profanity Words</a> - 106 Lines</li>
   </ul>
   <li>Names</li>
   <ul>

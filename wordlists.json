@@ -638,6 +638,14 @@
         ]
     },
     {
+        "href": "wordlists/miscellaneous/english_profanity_words.txt",
+        "lines": 1383,
+        "name": "English Profanity Words",
+        "tags": [
+            "miscellaneous"
+        ]
+    },
+    {
         "href": "wordlists/user_agents/software_name/excel.txt",
         "lines": 9,
         "name": "Excel",
@@ -754,6 +762,14 @@
         "name": "French",
         "tags": [
             "languages"
+        ]
+    },
+    {
+        "href": "wordlists/miscellaneous/french_profanity_words.txt",
+        "lines": 106,
+        "name": "French Profanity Words",
+        "tags": [
+            "miscellaneous"
         ]
     },
     {
@@ -1540,14 +1556,6 @@
         "name": "Probable WPA",
         "tags": [
             "passwords"
-        ]
-    },
-    {
-        "href": "wordlists/miscellaneous/profanity_words.txt",
-        "lines": 1383,
-        "name": "Profanity Words",
-        "tags": [
-            "miscellaneous"
         ]
     },
     {
