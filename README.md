@@ -103,6 +103,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
   <details>
     <summary>Miscellaneous</summary>
     <ul>
+      <li><a href="wordlists/miscellaneous/bip_39.txt">BIP 39</a> - 2,048 Lines</li>
       <li><a href="wordlists/miscellaneous/english_profanity_words.txt">English Profanity Words</a> - 1,383 Lines</li>
       <li><a href="wordlists/miscellaneous/french_profanity_words.txt">French Profanity Words</a> - 106 Lines</li>
     </ul>
@@ -441,6 +442,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
   </ul>
   <li>Miscellaneous</li>
   <ul>
+    <li><a href="wordlists/miscellaneous/bip_39.txt">BIP 39</a> - 2,048 Lines</li>
     <li><a href="wordlists/miscellaneous/english_profanity_words.txt">English Profanity Words</a> - 1,383 Lines</li>
     <li><a href="wordlists/miscellaneous/french_profanity_words.txt">French Profanity Words</a> - 106 Lines</li>
   </ul>

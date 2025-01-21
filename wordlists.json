@@ -156,6 +156,14 @@
         ]
     },
     {
+        "href": "wordlists/miscellaneous/bip_39.txt",
+        "lines": 2048,
+        "name": "BIP 39",
+        "tags": [
+            "miscellaneous"
+        ]
+    },
+    {
         "href": "wordlists/user_agents/operating_system_name/bada.txt",
         "lines": 182,
         "name": "Bada",
