@@ -5,7 +5,7 @@ import os
 import re
 
 keywords = {
-    "Bip": "BIP,
+    "Bip": "BIP",
     "Sql": "SQL",
     "Jsp": "JSP",
     "Lfi": "LFI",
