@@ -327,7 +327,7 @@
     },
     {
         "href": "wordlists/discovery/common.txt",
-        "lines": 4613,
+        "lines": 4739,
         "name": "Common",
         "tags": [
             "discovery"
@@ -359,7 +359,7 @@
     },
     {
         "href": "wordlists/discovery/common_sql_columns.txt",
-        "lines": 471,
+        "lines": 2694,
         "name": "Common SQL Columns",
         "tags": [
             "discovery"
@@ -367,7 +367,7 @@
     },
     {
         "href": "wordlists/discovery/common_sql_tables.txt",
-        "lines": 1706,
+        "lines": 3695,
         "name": "Common SQL Tables",
         "tags": [
             "discovery"
@@ -392,7 +392,7 @@
     },
     {
         "href": "wordlists/discovery/conf.txt",
-        "lines": 201790,
+        "lines": 100895,
         "name": "Conf",
         "tags": [
             "discovery"
@@ -664,7 +664,7 @@
     },
     {
         "href": "wordlists/discovery/extensions_common.txt",
-        "lines": 28,
+        "lines": 43,
         "name": "Extensions Common",
         "tags": [
             "discovery"
@@ -698,7 +698,7 @@
     },
     {
         "href": "wordlists/famous/fasttrack.txt",
-        "lines": 222,
+        "lines": 261,
         "name": "Fasttrack",
         "tags": [
             "famous"
@@ -1086,7 +1086,7 @@
     },
     {
         "href": "wordlists/discovery/jsp.txt",
-        "lines": 92216,
+        "lines": 67213,
         "name": "JSP",
         "tags": [
             "discovery"
@@ -1160,7 +1160,7 @@
     },
     {
         "href": "wordlists/discovery/lfi_all.txt",
-        "lines": 1483,
+        "lines": 1485,
         "name": "LFI All",
         "tags": [
             "discovery"
@@ -1168,7 +1168,7 @@
     },
     {
         "href": "wordlists/discovery/lfi_unix.txt",
-        "lines": 1076,
+        "lines": 1226,
         "name": "LFI Unix",
         "tags": [
             "discovery"
@@ -1176,7 +1176,7 @@
     },
     {
         "href": "wordlists/discovery/lfi_windows.txt",
-        "lines": 466,
+        "lines": 259,
         "name": "LFI Windows",
         "tags": [
             "discovery"
@@ -1288,7 +1288,7 @@
     },
     {
         "href": "wordlists/discovery/most_common.txt",
-        "lines": 1011,
+        "lines": 1166,
         "name": "Most Common",
         "tags": [
             "discovery"
@@ -1359,14 +1359,6 @@
         "tags": [
             "user-agents",
             "software-name"
-        ]
-    },
-    {
-        "href": "wordlists/famous/nmap.txt",
-        "lines": 4999,
-        "name": "Nmap",
-        "tags": [
-            "famous"
         ]
     },
     {
@@ -1667,9 +1659,9 @@
         ]
     },
     {
-        "href": "wordlists/discovery/sensitive_files_win.txt",
+        "href": "wordlists/discovery/sensitive_files_windows.txt",
         "lines": 7,
-        "name": "Sensitive Files Win",
+        "name": "Sensitive Files Windows",
         "tags": [
             "discovery"
         ]
@@ -1946,7 +1938,7 @@
     },
     {
         "href": "wordlists/discovery/top_subdomains.txt",
-        "lines": 114532,
+        "lines": 114441,
         "name": "Top Subdomains",
         "tags": [
             "discovery"
@@ -2124,7 +2116,7 @@
     },
     {
         "href": "wordlists/discovery/wp_plugins.txt",
-        "lines": 88009,
+        "lines": 104063,
         "name": "WP Plugins",
         "tags": [
             "discovery"
@@ -2132,7 +2124,7 @@
     },
     {
         "href": "wordlists/discovery/wp_themes.txt",
-        "lines": 21149,
+        "lines": 27830,
         "name": "WP Themes",
         "tags": [
             "discovery"

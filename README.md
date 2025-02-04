@@ -17,10 +17,11 @@
 
 ## 🏁 Sources
 
-The wordlists in this repository are not all made by myself. [Daniel Miessler's SecLists](https://github.com/danielmiessler/SecLists) has been an amazing start for getting wordlists. [Tito's Spellchecking Dictionaries of OpenOffice](https://github.com/titoBouzout/Dictionaries) have also been of amazing use.
+The wordlists in this repository are not all made by myself. Therefore, starting February 2025, I will try my best to provide the source of each wordlist, as well as add the potential license/copyright notice of the wordlist in the [NOTICE.md](NOTICE.md) file. Considering this repository is quite old, I may not have the source for all of them, but as mentioned I will try my best.
 
-As of February 2025, I will try my best to provide the source of each wordlist, as well as add the potential license/copyright notice of the wordlist at the beginning of each of them.
-Therefore, any line in a wordlist starting with `#` can be ignored and is not part of the wordlist itself. The same applies to potential `.md` files with the same name as the wordlist, these will be used for license/copyright notices.
+The wordlists that are made by myself, for example all the stressing generated wordlists or wordlists gathered from words on websites, will have **no** license, as I believe there is no point in adding licenses for things you can generate yourself.
+
+> *If you feel like I have used your wordlist and it is missing in the [NOTICE.md](NOTICE.md) file, feel free to open an issue/pull request.*
 
 ## 🌍 Contributing
 
@@ -39,33 +40,33 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/discovery/apache_user_enum_1.0.txt">Apache User Enum 1.0</a> - 8,916 Lines</li>
       <li><a href="wordlists/discovery/apache_user_enum_2.0.txt">Apache User Enum 2.0</a> - 10,341 Lines</li>
       <li><a href="wordlists/discovery/big.txt">Big</a> - 20,469 Lines</li>
-      <li><a href="wordlists/discovery/common.txt">Common</a> - 4,613 Lines</li>
-      <li><a href="wordlists/discovery/common_sql_columns.txt">Common SQL Columns</a> - 471 Lines</li>
-      <li><a href="wordlists/discovery/common_sql_tables.txt">Common SQL Tables</a> - 1,706 Lines</li>
-      <li><a href="wordlists/discovery/conf.txt">Conf</a> - 201,790 Lines</li>
+      <li><a href="wordlists/discovery/common.txt">Common</a> - 4,739 Lines</li>
+      <li><a href="wordlists/discovery/common_sql_columns.txt">Common SQL Columns</a> - 2,694 Lines</li>
+      <li><a href="wordlists/discovery/common_sql_tables.txt">Common SQL Tables</a> - 3,695 Lines</li>
+      <li><a href="wordlists/discovery/conf.txt">Conf</a> - 100,895 Lines</li>
       <li><a href="wordlists/discovery/directories.txt">Directories</a> - 58,655 Lines</li>
       <li><a href="wordlists/discovery/directory_list_1.0.txt">Directory List 1.0</a> - 141,694 Lines</li>
       <li><a href="wordlists/discovery/directory_list_2.3_medium.txt">Directory List 2.3 Medium</a> - 220,545 Lines</li>
       <li><a href="wordlists/discovery/directory_list_2.3_small.txt">Directory List 2.3 Small</a> - 87,649 Lines</li>
       <li><a href="wordlists/discovery/directory_list_lowercase_2.3_medium.txt">Directory List Lowercase 2.3 Medium</a> - 207,628 Lines</li>
       <li><a href="wordlists/discovery/directory_list_lowercase_2.3_small.txt">Directory List Lowercase 2.3 Small</a> - 81,628 Lines</li>
-      <li><a href="wordlists/discovery/extensions_common.txt">Extensions Common</a> - 28 Lines</li>
+      <li><a href="wordlists/discovery/extensions_common.txt">Extensions Common</a> - 43 Lines</li>
       <li><a href="wordlists/discovery/fuzz_php_special.txt">Fuzz Php Special</a> - 136,921 Lines</li>
       <li><a href="wordlists/discovery/indexes.txt">Indexes</a> - 10 Lines</li>
       <li><a href="wordlists/discovery/joomla.txt">Joomla</a> - 1,544 Lines</li>
-      <li><a href="wordlists/discovery/jsp.txt">JSP</a> - 92,216 Lines</li>
-      <li><a href="wordlists/discovery/lfi_all.txt">LFI All</a> - 1,483 Lines</li>
-      <li><a href="wordlists/discovery/lfi_unix.txt">LFI Unix</a> - 1,076 Lines</li>
-      <li><a href="wordlists/discovery/lfi_windows.txt">LFI Windows</a> - 466 Lines</li>
-      <li><a href="wordlists/discovery/most_common.txt">Most Common</a> - 1,011 Lines</li>
+      <li><a href="wordlists/discovery/jsp.txt">JSP</a> - 67,213 Lines</li>
+      <li><a href="wordlists/discovery/lfi_all.txt">LFI All</a> - 1,485 Lines</li>
+      <li><a href="wordlists/discovery/lfi_unix.txt">LFI Unix</a> - 1,226 Lines</li>
+      <li><a href="wordlists/discovery/lfi_windows.txt">LFI Windows</a> - 259 Lines</li>
+      <li><a href="wordlists/discovery/most_common.txt">Most Common</a> - 1,166 Lines</li>
       <li><a href="wordlists/discovery/robots.txt">Robots</a> - 990 Lines</li>
       <li><a href="wordlists/discovery/sensitive_files_unix.txt">Sensitive Files Unix</a> - 16 Lines</li>
-      <li><a href="wordlists/discovery/sensitive_files_win.txt">Sensitive Files Win</a> - 7 Lines</li>
+      <li><a href="wordlists/discovery/sensitive_files_windows.txt">Sensitive Files Windows</a> - 7 Lines</li>
       <li><a href="wordlists/discovery/swagger.txt">Swagger</a> - 958,874 Lines</li>
       <li><a href="wordlists/discovery/tlds.txt">TLDs</a> - 1,445 Lines</li>
-      <li><a href="wordlists/discovery/top_subdomains.txt">Top Subdomains</a> - 114,532 Lines</li>
-      <li><a href="wordlists/discovery/wp_plugins.txt">WP Plugins</a> - 88,009 Lines</li>
-      <li><a href="wordlists/discovery/wp_themes.txt">WP Themes</a> - 21,149 Lines</li>
+      <li><a href="wordlists/discovery/top_subdomains.txt">Top Subdomains</a> - 114,441 Lines</li>
+      <li><a href="wordlists/discovery/wp_plugins.txt">WP Plugins</a> - 104,063 Lines</li>
+      <li><a href="wordlists/discovery/wp_themes.txt">WP Themes</a> - 27,830 Lines</li>
     </ul>
   </details>
   <details>
@@ -73,10 +74,9 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <ul>
       <li><a href="wordlists/famous/dnsmap.txt">Dnsmap</a> - 17,576 Lines</li>
       <li><a href="wordlists/famous/facebook_phished.txt">Facebook Phished</a> - 2,441 Lines</li>
-      <li><a href="wordlists/famous/fasttrack.txt">Fasttrack</a> - 222 Lines</li>
+      <li><a href="wordlists/famous/fasttrack.txt">Fasttrack</a> - 261 Lines</li>
       <li><a href="wordlists/famous/fern_wifi.txt">Fern Wifi</a> - 478 Lines</li>
       <li><a href="wordlists/famous/hotmail.txt">Hotmail</a> - 8,930 Lines</li>
-      <li><a href="wordlists/famous/nmap.txt">Nmap</a> - 4,999 Lines</li>
       <li><a href="wordlists/famous/rockyou.zip">Rockyou</a> - 14,344,392 Lines</li>
     </ul>
   </details>
@@ -384,42 +384,41 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/discovery/apache_user_enum_1.0.txt">Apache User Enum 1.0</a> - 8,916 Lines</li>
     <li><a href="wordlists/discovery/apache_user_enum_2.0.txt">Apache User Enum 2.0</a> - 10,341 Lines</li>
     <li><a href="wordlists/discovery/big.txt">Big</a> - 20,469 Lines</li>
-    <li><a href="wordlists/discovery/common.txt">Common</a> - 4,613 Lines</li>
-    <li><a href="wordlists/discovery/common_sql_columns.txt">Common SQL Columns</a> - 471 Lines</li>
-    <li><a href="wordlists/discovery/common_sql_tables.txt">Common SQL Tables</a> - 1,706 Lines</li>
-    <li><a href="wordlists/discovery/conf.txt">Conf</a> - 201,790 Lines</li>
+    <li><a href="wordlists/discovery/common.txt">Common</a> - 4,739 Lines</li>
+    <li><a href="wordlists/discovery/common_sql_columns.txt">Common SQL Columns</a> - 2,694 Lines</li>
+    <li><a href="wordlists/discovery/common_sql_tables.txt">Common SQL Tables</a> - 3,695 Lines</li>
+    <li><a href="wordlists/discovery/conf.txt">Conf</a> - 100,895 Lines</li>
     <li><a href="wordlists/discovery/directories.txt">Directories</a> - 58,655 Lines</li>
     <li><a href="wordlists/discovery/directory_list_1.0.txt">Directory List 1.0</a> - 141,694 Lines</li>
     <li><a href="wordlists/discovery/directory_list_2.3_medium.txt">Directory List 2.3 Medium</a> - 220,545 Lines</li>
     <li><a href="wordlists/discovery/directory_list_2.3_small.txt">Directory List 2.3 Small</a> - 87,649 Lines</li>
     <li><a href="wordlists/discovery/directory_list_lowercase_2.3_medium.txt">Directory List Lowercase 2.3 Medium</a> - 207,628 Lines</li>
     <li><a href="wordlists/discovery/directory_list_lowercase_2.3_small.txt">Directory List Lowercase 2.3 Small</a> - 81,628 Lines</li>
-    <li><a href="wordlists/discovery/extensions_common.txt">Extensions Common</a> - 28 Lines</li>
+    <li><a href="wordlists/discovery/extensions_common.txt">Extensions Common</a> - 43 Lines</li>
     <li><a href="wordlists/discovery/fuzz_php_special.txt">Fuzz Php Special</a> - 136,921 Lines</li>
     <li><a href="wordlists/discovery/indexes.txt">Indexes</a> - 10 Lines</li>
     <li><a href="wordlists/discovery/joomla.txt">Joomla</a> - 1,544 Lines</li>
-    <li><a href="wordlists/discovery/jsp.txt">JSP</a> - 92,216 Lines</li>
-    <li><a href="wordlists/discovery/lfi_all.txt">LFI All</a> - 1,483 Lines</li>
-    <li><a href="wordlists/discovery/lfi_unix.txt">LFI Unix</a> - 1,076 Lines</li>
-    <li><a href="wordlists/discovery/lfi_windows.txt">LFI Windows</a> - 466 Lines</li>
-    <li><a href="wordlists/discovery/most_common.txt">Most Common</a> - 1,011 Lines</li>
+    <li><a href="wordlists/discovery/jsp.txt">JSP</a> - 67,213 Lines</li>
+    <li><a href="wordlists/discovery/lfi_all.txt">LFI All</a> - 1,485 Lines</li>
+    <li><a href="wordlists/discovery/lfi_unix.txt">LFI Unix</a> - 1,226 Lines</li>
+    <li><a href="wordlists/discovery/lfi_windows.txt">LFI Windows</a> - 259 Lines</li>
+    <li><a href="wordlists/discovery/most_common.txt">Most Common</a> - 1,166 Lines</li>
     <li><a href="wordlists/discovery/robots.txt">Robots</a> - 990 Lines</li>
     <li><a href="wordlists/discovery/sensitive_files_unix.txt">Sensitive Files Unix</a> - 16 Lines</li>
-    <li><a href="wordlists/discovery/sensitive_files_win.txt">Sensitive Files Win</a> - 7 Lines</li>
+    <li><a href="wordlists/discovery/sensitive_files_windows.txt">Sensitive Files Windows</a> - 7 Lines</li>
     <li><a href="wordlists/discovery/swagger.txt">Swagger</a> - 958,874 Lines</li>
     <li><a href="wordlists/discovery/tlds.txt">TLDs</a> - 1,445 Lines</li>
-    <li><a href="wordlists/discovery/top_subdomains.txt">Top Subdomains</a> - 114,532 Lines</li>
-    <li><a href="wordlists/discovery/wp_plugins.txt">WP Plugins</a> - 88,009 Lines</li>
-    <li><a href="wordlists/discovery/wp_themes.txt">WP Themes</a> - 21,149 Lines</li>
+    <li><a href="wordlists/discovery/top_subdomains.txt">Top Subdomains</a> - 114,441 Lines</li>
+    <li><a href="wordlists/discovery/wp_plugins.txt">WP Plugins</a> - 104,063 Lines</li>
+    <li><a href="wordlists/discovery/wp_themes.txt">WP Themes</a> - 27,830 Lines</li>
   </ul>
   <li>Famous</li>
   <ul>
     <li><a href="wordlists/famous/dnsmap.txt">Dnsmap</a> - 17,576 Lines</li>
     <li><a href="wordlists/famous/facebook_phished.txt">Facebook Phished</a> - 2,441 Lines</li>
-    <li><a href="wordlists/famous/fasttrack.txt">Fasttrack</a> - 222 Lines</li>
+    <li><a href="wordlists/famous/fasttrack.txt">Fasttrack</a> - 261 Lines</li>
     <li><a href="wordlists/famous/fern_wifi.txt">Fern Wifi</a> - 478 Lines</li>
     <li><a href="wordlists/famous/hotmail.txt">Hotmail</a> - 8,930 Lines</li>
-    <li><a href="wordlists/famous/nmap.txt">Nmap</a> - 4,999 Lines</li>
     <li><a href="wordlists/famous/rockyou.zip">Rockyou</a> - 14,344,392 Lines</li>
   </ul>
   <li>Languages</li>
