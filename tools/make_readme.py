@@ -47,6 +47,13 @@ readme_template = """
   <a href="//github.com/kkrypt0nn/wordlists/contributors"><img src="https://img.shields.io/github/contributors/kkrypt0nn/wordlists"></a>
 </p>
 
+## 🏁 Sources
+
+The wordlists in this repository are not all made by myself. [Daniel Miessler's SecLists](https://github.com/danielmiessler/SecLists) has been an amazing start for getting wordlists. [Tito's Spellchecking Dictionaries of OpenOffice](https://github.com/titoBouzout/Dictionaries) have also been of amazing use.
+
+As of February 2025, I will try my best to provide the source of each wordlist, as well as add the potential license/copyright notice of the wordlist at the beginning of each of them.
+Therefore, any line in a wordlist starting with `#` can be ignored and is not part of the wordlist itself. The same applies to potential `.md` files with the same name as the wordlist, these will be used for license/copyright notices.
+
 ## 🌍 Contributing
 
 If you have a wordlist that you wish to see here, please post them [here](https://github.com/kkrypt0nn/wordlists/issues).
