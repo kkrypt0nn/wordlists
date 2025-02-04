@@ -49,10 +49,11 @@ readme_template = """
 
 ## 🏁 Sources
 
-The wordlists in this repository are not all made by myself. [Daniel Miessler's SecLists](https://github.com/danielmiessler/SecLists) has been an amazing start for getting wordlists. [Tito's Spellchecking Dictionaries of OpenOffice](https://github.com/titoBouzout/Dictionaries) have also been of amazing use.
+The wordlists in this repository are not all made by myself. Therefore, starting February 2025, I will try my best to provide the source of each wordlist, as well as add the potential license/copyright notice of the wordlist in the [NOTICE.md](NOTICE.md) file. Considering this repository is quite old, I may not have the source for all of them, but as mentioned I will try my best.
 
-As of February 2025, I will try my best to provide the source of each wordlist, as well as add the potential license/copyright notice of the wordlist at the beginning of each of them.
-Therefore, any line in a wordlist starting with `#` can be ignored and is not part of the wordlist itself. The same applies to potential `.md` files with the same name as the wordlist, these will be used for license/copyright notices.
+The wordlists that are made by myself, for example all the stressing generated wordlists or wordlists gathered from words on websites, will have **no** license, as I believe there is no point in adding licenses for things you can generate yourself.
+
+> *If you feel like I have used your wordlist and it is missing in the [NOTICE.md](NOTICE.md) file, feel free to open an issue/pull request.*
 
 ## 🌍 Contributing
 

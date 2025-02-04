@@ -1,4 +1,3 @@
-
 1qaz2wsx
 95
 98
@@ -12,6 +11,14 @@ Autumn2014
 Autumn2015
 Autumn2016
 Autumn2017
+Autumn2018
+Autumn2019
+Autumn2020
+Autumn2021
+Fall2018
+Fall2019
+Fall2020
+Fall2021
 P@55w0rd
 P@55w0rd!
 P@55w0rd!
@@ -34,6 +41,10 @@ Spring2014
 Spring2015
 Spring2016
 Spring2017
+Spring2018
+Spring2019
+Spring2020
+Spring2021
 SqlServer
 Sqlserver
 Summer2008
@@ -47,6 +58,10 @@ Summer2014
 Summer2015
 Summer2016
 Summer2017
+Summer2018
+Summer2019
+Summer2020
+Summer2021
 Welcome123
 Welcome1212
 Welcome1234
@@ -61,6 +76,10 @@ Winter2014
 Winter2015
 Winter2016
 Winter2017
+Winter2018
+Winter2019
+Winter2020
+Winter2021
 abc
 abc123
 abcd123
@@ -76,6 +95,10 @@ autumn2014
 autumn2015
 autumn2016
 autumn2017
+autumn2018
+autumn2019
+autumn2020
+autumn2021
 bankbank
 baseball
 basketball
@@ -102,6 +125,10 @@ devdevdev
 dirt
 dragon
 earth
+fall2018
+fall2019
+fall2020
+fall2021
 fire
 football
 goat
@@ -156,6 +183,10 @@ spring2014
 spring2015
 spring2016
 spring2017
+spring2018
+spring2019
+spring2020
+spring2021
 sql
 sql
 sql2000
@@ -189,6 +220,10 @@ summer2014
 summer2015
 summer2016
 summer2017
+summer2018
+summer2019
+summer2020
+summer2021
 sysadmin
 test
 test
@@ -219,4 +254,8 @@ winter2014
 winter2015
 winter2016
 winter2017
+winter2018
+winter2019
+winter2020
+winter2021
 xp
