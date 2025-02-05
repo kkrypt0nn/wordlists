@@ -4,6 +4,9 @@ balancer
 dav
 deploy
 examples
+examples/%2e%2e/manager/html
+examples/%252e%252e/manager/html
+examples/../manager/html
 examples/jsp/index.html
 examples/jsp/snp/snoop.jsp
 examples/jsp/source.jsp

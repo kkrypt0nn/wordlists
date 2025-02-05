@@ -27,6 +27,7 @@ keywords = {
     "Itunes": "iTunes",
     "Xml": "XML",
     "Xss": "XSS",
+    "Xxe": "XXE",
 }
 wordlists = {}
 

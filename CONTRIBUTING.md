@@ -31,7 +31,8 @@ Pull requests are the best way to propose changes. We actively welcome your pull
     - There must be **no** empty lines.
     - All wordlists are **lowercase** unless it makes sense, e.g. file names.
     - For wordlists for names, cities, countries, etc. **every word** must be capitalized. (e.g. **J**ohn **C**ena, not John **c**ena or **j**ohn **c**ena)
-3. Issue that pull request!
+3. Make sure to have the source of the wordlist in your pull request. If you made the wordlist yourself, please also mention it so that it is clear.
+4. Issue that pull request!
 
 ## Commit messages guidelines
 
