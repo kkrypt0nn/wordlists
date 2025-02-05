@@ -96,13 +96,13 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/languages/italian.txt">Italian</a> - 95,152 Lines</li>
       <li><a href="wordlists/languages/norwegian.txt">Norwegian</a> - 322,043 Lines</li>
       <li><a href="wordlists/languages/polish.txt">Polish</a> - 300,676 Lines</li>
-      <li><a href="wordlists/languages/portuguese.txt">Portuguese</a> - 307,374 Lines</li>
+      <li><a href="wordlists/languages/portuguese.txt">Portuguese</a> - 312,367 Lines</li>
       <li><a href="wordlists/languages/russian.txt">Russian</a> - 379,323 Lines</li>
       <li><a href="wordlists/languages/serbian.txt">Serbian</a> - 263,909 Lines</li>
       <li><a href="wordlists/languages/spanish.txt">Spanish</a> - 70,157 Lines</li>
       <li><a href="wordlists/languages/swedish.txt">Swedish</a> - 72,370 Lines</li>
       <li><a href="wordlists/languages/turkish.txt">Turkish</a> - 371,169 Lines</li>
-      <li><a href="wordlists/languages/ukrainian.txt">Ukrainian</a> - 126,308 Lines</li>
+      <li><a href="wordlists/languages/ukrainian.txt">Ukrainian</a> - 331,520 Lines</li>
     </ul>
   </details>
   <details>
@@ -129,14 +129,14 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/names/top_male_names_france.txt">Top Male Names France</a> - 481 Lines</li>
       <li><a href="wordlists/names/top_male_names_india.txt">Top Male Names India</a> - 272 Lines</li>
       <li><a href="wordlists/names/top_male_names_turkish.txt">Top Male Names Turkish</a> - 688 Lines</li>
-      <li><a href="wordlists/names/top_male_names_usa.txt">Top Male Names Usa</a> - 1,004 Lines</li>
+      <li><a href="wordlists/names/top_male_names_usa.txt">Top Male Names Usa</a> - 1,000 Lines</li>
     </ul>
   </details>
   <details>
     <summary>Passwords</summary>
     <ul>
       <li><a href="wordlists/passwords/000webhost.txt">000Webhost</a> - 720,302 Lines</li>
-      <li><a href="wordlists/passwords/bt4_passwords.txt">Bt4 Passwords</a> - 1,652,903 Lines</li>
+      <li><a href="wordlists/passwords/bt4_passwords.txt">Bt4 Passwords</a> - 1,652,902 Lines</li>
       <li><a href="wordlists/passwords/burnett.txt">Burnett</a> - 1,024 Lines</li>
       <li><a href="wordlists/passwords/common_passwords_win.txt">Common Passwords Win</a> - 815 Lines</li>
       <li><a href="wordlists/passwords/common_roots.txt">Common Roots</a> - 4,724 Lines</li>
@@ -145,7 +145,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/passwords/default_passwords_for_services.txt">Default Passwords For Services</a> - 1,243 Lines</li>
       <li><a href="wordlists/passwords/dutch_passwords.txt">Dutch Passwords</a> - 4,322,834 Lines</li>
       <li><a href="wordlists/passwords/hak5.txt">Hak5</a> - 2,351 Lines</li>
-      <li><a href="wordlists/passwords/honeynet.txt">Honeynet</a> - 453,009 Lines</li>
+      <li><a href="wordlists/passwords/honeynet.txt">Honeynet</a> - 226,081 Lines</li>
       <li><a href="wordlists/passwords/http_default_passwords.txt">HTTP Default Passwords</a> - 19 Lines</li>
       <li><a href="wordlists/passwords/indian_passwords.txt">Indian Passwords</a> - 13,154 Lines</li>
       <li><a href="wordlists/passwords/ipmi_passwords.txt">Ipmi Passwords</a> - 999 Lines</li>
@@ -157,12 +157,12 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/passwords/most_used_passwords_ncsc.txt">Most Used Passwords Ncsc</a> - 100,000 Lines</li>
       <li><a href="wordlists/passwords/nord_vpn.txt">Nord VPN</a> - 1,437 Lines</li>
       <li><a href="wordlists/passwords/openwall.txt">Openwall</a> - 3,721,224 Lines</li>
-      <li><a href="wordlists/passwords/password.txt">Password</a> - 88,397 Lines</li>
+      <li><a href="wordlists/passwords/password.txt">Password</a> - 88,406 Lines</li>
       <li><a href="wordlists/passwords/postgres_default_passwords.txt">Postgres Default Passwords</a> - 4 Lines</li>
       <li><a href="wordlists/passwords/probable_wpa.txt">Probable WPA</a> - 4,800 Lines</li>
       <li><a href="wordlists/passwords/tomcat_mgr_default_passwords.txt">Tomcat Mgr Default Passwords</a> - 7 Lines</li>
       <li><a href="wordlists/passwords/top_adobe_passwords.txt">Top Adobe Passwords</a> - 100 Lines</li>
-      <li><a href="wordlists/passwords/unix_passwords.txt">Unix Passwords</a> - 1,009 Lines</li>
+      <li><a href="wordlists/passwords/unix_passwords.txt">Unix Passwords</a> - 1,021 Lines</li>
       <li><a href="wordlists/passwords/xato_net_passwords.txt">Xato Net Passwords</a> - 5,189,454 Lines</li>
     </ul>
   </details>
@@ -325,7 +325,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/usernames/http_default_users.txt">HTTP Default Users</a> - 27 Lines</li>
       <li><a href="wordlists/usernames/ipmi_users.txt">Ipmi Users</a> - 7 Lines</li>
       <li><a href="wordlists/usernames/mirai_user.txt">Mirai User</a> - 15 Lines</li>
-      <li><a href="wordlists/usernames/multiple_sources_users.txt">Multiple Sources Users</a> - 21,167 Lines</li>
+      <li><a href="wordlists/usernames/multiple_sources_users.txt">Multiple Sources Users</a> - 26,324 Lines</li>
       <li><a href="wordlists/usernames/postgres_default_user.txt">Postgres Default User</a> - 3 Lines</li>
       <li><a href="wordlists/usernames/tomcat_mgr_default_users.txt">Tomcat Mgr Default Users</a> - 6 Lines</li>
       <li><a href="wordlists/usernames/unix_users.txt">Unix Users</a> - 190 Lines</li>
@@ -336,41 +336,38 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <summary>Vulnerabilities</summary>
     <ul>
       <li><a href="wordlists/vulnerabilities/all_attacks.txt">All Attacks</a> - 467 Lines</li>
-      <li><a href="wordlists/vulnerabilities/apache.txt">Apache</a> - 30 Lines</li>
+      <li><a href="wordlists/vulnerabilities/apache.txt">Apache</a> - 8,531 Lines</li>
       <li><a href="wordlists/vulnerabilities/axis.txt">Axis</a> - 17 Lines</li>
       <li><a href="wordlists/vulnerabilities/cgis.txt">Cgis</a> - 3,463 Lines</li>
       <li><a href="wordlists/vulnerabilities/coldfusion.txt">Coldfusion</a> - 22 Lines</li>
       <li><a href="wordlists/vulnerabilities/directory_traversal.txt">Directory Traversal</a> - 847 Lines</li>
       <li><a href="wordlists/vulnerabilities/directory_traversal_unix.txt">Directory Traversal Unix</a> - 871 Lines</li>
-      <li><a href="wordlists/vulnerabilities/directory_traversal_win.txt">Directory Traversal Win</a> - 848 Lines</li>
-      <li><a href="wordlists/vulnerabilities/domino.txt">Domino</a> - 291 Lines</li>
+      <li><a href="wordlists/vulnerabilities/directory_traversal_win.txt">Directory Traversal Win</a> - 847 Lines</li>
+      <li><a href="wordlists/vulnerabilities/domino.txt">Domino</a> - 228 Lines</li>
       <li><a href="wordlists/vulnerabilities/fatwire.txt">Fatwire</a> - 101 Lines</li>
-      <li><a href="wordlists/vulnerabilities/fatwire_pagen_ames.txt">Fatwire Pagen Ames</a> - 2,712 Lines</li>
-      <li><a href="wordlists/vulnerabilities/front_page.txt">Front Page</a> - 43 Lines</li>
+      <li><a href="wordlists/vulnerabilities/fatwire_pagenames.txt">Fatwire Pagenames</a> - 2,712 Lines</li>
+      <li><a href="wordlists/vulnerabilities/front_pages.txt">Front Pages</a> - 43 Lines</li>
       <li><a href="wordlists/vulnerabilities/hpsmh.txt">Hpsmh</a> - 238 Lines</li>
-      <li><a href="wordlists/vulnerabilities/hyperion.txt">Hyperion</a> - 579 Lines</li>
       <li><a href="wordlists/vulnerabilities/iis.txt">Iis</a> - 59 Lines</li>
-      <li><a href="wordlists/vulnerabilities/iplanet.txt">Iplanet</a> - 36 Lines</li>
+      <li><a href="wordlists/vulnerabilities/iplanet.txt">Iplanet</a> - 35 Lines</li>
       <li><a href="wordlists/vulnerabilities/jboss.txt">Jboss</a> - 19 Lines</li>
-      <li><a href="wordlists/vulnerabilities/jersey.txt">Jersey</a> - 121 Lines</li>
       <li><a href="wordlists/vulnerabilities/jrun.txt">Jrun</a> - 13 Lines</li>
-      <li><a href="wordlists/vulnerabilities/juicy_files.txt">Juicy Files</a> - 187,964 Lines</li>
       <li><a href="wordlists/vulnerabilities/netware.txt">Netware</a> - 60 Lines</li>
-      <li><a href="wordlists/vulnerabilities/oracle.txt">Oracle</a> - 1,074 Lines</li>
-      <li><a href="wordlists/vulnerabilities/ror.txt">Ror</a> - 121 Lines</li>
-      <li><a href="wordlists/vulnerabilities/sap.txt">Sap</a> - 1,111 Lines</li>
+      <li><a href="wordlists/vulnerabilities/oracle.txt">Oracle</a> - 1,036 Lines</li>
+      <li><a href="wordlists/vulnerabilities/ror.txt">Ror</a> - 141 Lines</li>
+      <li><a href="wordlists/vulnerabilities/sap.txt">Sap</a> - 1,097 Lines</li>
       <li><a href="wordlists/vulnerabilities/sharepoint.txt">Sharepoint</a> - 1,708 Lines</li>
-      <li><a href="wordlists/vulnerabilities/sql.txt">SQL</a> - 167 Lines</li>
+      <li><a href="wordlists/vulnerabilities/sql.txt">SQL</a> - 268 Lines</li>
       <li><a href="wordlists/vulnerabilities/sql_inj.txt">SQL Inj</a> - 41 Lines</li>
-      <li><a href="wordlists/vulnerabilities/ssti.txt">Ssti</a> - 107 Lines</li>
+      <li><a href="wordlists/vulnerabilities/ssti.txt">Ssti</a> - 138 Lines</li>
       <li><a href="wordlists/vulnerabilities/sunas.txt">Sunas</a> - 51 Lines</li>
       <li><a href="wordlists/vulnerabilities/tests.txt">Tests</a> - 33 Lines</li>
-      <li><a href="wordlists/vulnerabilities/tomcat.txt">Tomcat</a> - 87 Lines</li>
+      <li><a href="wordlists/vulnerabilities/tomcat.txt">Tomcat</a> - 90 Lines</li>
       <li><a href="wordlists/vulnerabilities/vignette.txt">Vignette</a> - 73 Lines</li>
-      <li><a href="wordlists/vulnerabilities/weblogic.txt">Weblogic</a> - 361 Lines</li>
-      <li><a href="wordlists/vulnerabilities/websphere.txt">Websphere</a> - 561 Lines</li>
-      <li><a href="wordlists/vulnerabilities/xml.txt">XML</a> - 15 Lines</li>
-      <li><a href="wordlists/vulnerabilities/xss.txt">XSS</a> - 19,867 Lines</li>
+      <li><a href="wordlists/vulnerabilities/weblogic.txt">Weblogic</a> - 371 Lines</li>
+      <li><a href="wordlists/vulnerabilities/websphere.txt">Websphere</a> - 519 Lines</li>
+      <li><a href="wordlists/vulnerabilities/xss.txt">XSS</a> - 8,456 Lines</li>
+      <li><a href="wordlists/vulnerabilities/xxe.txt">XXE</a> - 51 Lines</li>
     </ul>
   </details>
 </details>
@@ -436,13 +433,13 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/languages/italian.txt">Italian</a> - 95,152 Lines</li>
     <li><a href="wordlists/languages/norwegian.txt">Norwegian</a> - 322,043 Lines</li>
     <li><a href="wordlists/languages/polish.txt">Polish</a> - 300,676 Lines</li>
-    <li><a href="wordlists/languages/portuguese.txt">Portuguese</a> - 307,374 Lines</li>
+    <li><a href="wordlists/languages/portuguese.txt">Portuguese</a> - 312,367 Lines</li>
     <li><a href="wordlists/languages/russian.txt">Russian</a> - 379,323 Lines</li>
     <li><a href="wordlists/languages/serbian.txt">Serbian</a> - 263,909 Lines</li>
     <li><a href="wordlists/languages/spanish.txt">Spanish</a> - 70,157 Lines</li>
     <li><a href="wordlists/languages/swedish.txt">Swedish</a> - 72,370 Lines</li>
     <li><a href="wordlists/languages/turkish.txt">Turkish</a> - 371,169 Lines</li>
-    <li><a href="wordlists/languages/ukrainian.txt">Ukrainian</a> - 126,308 Lines</li>
+    <li><a href="wordlists/languages/ukrainian.txt">Ukrainian</a> - 331,520 Lines</li>
   </ul>
   <li>Miscellaneous</li>
   <ul>
@@ -465,12 +462,12 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/names/top_male_names_france.txt">Top Male Names France</a> - 481 Lines</li>
     <li><a href="wordlists/names/top_male_names_india.txt">Top Male Names India</a> - 272 Lines</li>
     <li><a href="wordlists/names/top_male_names_turkish.txt">Top Male Names Turkish</a> - 688 Lines</li>
-    <li><a href="wordlists/names/top_male_names_usa.txt">Top Male Names Usa</a> - 1,004 Lines</li>
+    <li><a href="wordlists/names/top_male_names_usa.txt">Top Male Names Usa</a> - 1,000 Lines</li>
   </ul>
   <li>Passwords</li>
   <ul>
     <li><a href="wordlists/passwords/000webhost.txt">000Webhost</a> - 720,302 Lines</li>
-    <li><a href="wordlists/passwords/bt4_passwords.txt">Bt4 Passwords</a> - 1,652,903 Lines</li>
+    <li><a href="wordlists/passwords/bt4_passwords.txt">Bt4 Passwords</a> - 1,652,902 Lines</li>
     <li><a href="wordlists/passwords/burnett.txt">Burnett</a> - 1,024 Lines</li>
     <li><a href="wordlists/passwords/common_passwords_win.txt">Common Passwords Win</a> - 815 Lines</li>
     <li><a href="wordlists/passwords/common_roots.txt">Common Roots</a> - 4,724 Lines</li>
@@ -479,7 +476,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/passwords/default_passwords_for_services.txt">Default Passwords For Services</a> - 1,243 Lines</li>
     <li><a href="wordlists/passwords/dutch_passwords.txt">Dutch Passwords</a> - 4,322,834 Lines</li>
     <li><a href="wordlists/passwords/hak5.txt">Hak5</a> - 2,351 Lines</li>
-    <li><a href="wordlists/passwords/honeynet.txt">Honeynet</a> - 453,009 Lines</li>
+    <li><a href="wordlists/passwords/honeynet.txt">Honeynet</a> - 226,081 Lines</li>
     <li><a href="wordlists/passwords/http_default_passwords.txt">HTTP Default Passwords</a> - 19 Lines</li>
     <li><a href="wordlists/passwords/indian_passwords.txt">Indian Passwords</a> - 13,154 Lines</li>
     <li><a href="wordlists/passwords/ipmi_passwords.txt">Ipmi Passwords</a> - 999 Lines</li>
@@ -491,12 +488,12 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/passwords/most_used_passwords_ncsc.txt">Most Used Passwords Ncsc</a> - 100,000 Lines</li>
     <li><a href="wordlists/passwords/nord_vpn.txt">Nord VPN</a> - 1,437 Lines</li>
     <li><a href="wordlists/passwords/openwall.txt">Openwall</a> - 3,721,224 Lines</li>
-    <li><a href="wordlists/passwords/password.txt">Password</a> - 88,397 Lines</li>
+    <li><a href="wordlists/passwords/password.txt">Password</a> - 88,406 Lines</li>
     <li><a href="wordlists/passwords/postgres_default_passwords.txt">Postgres Default Passwords</a> - 4 Lines</li>
     <li><a href="wordlists/passwords/probable_wpa.txt">Probable WPA</a> - 4,800 Lines</li>
     <li><a href="wordlists/passwords/tomcat_mgr_default_passwords.txt">Tomcat Mgr Default Passwords</a> - 7 Lines</li>
     <li><a href="wordlists/passwords/top_adobe_passwords.txt">Top Adobe Passwords</a> - 100 Lines</li>
-    <li><a href="wordlists/passwords/unix_passwords.txt">Unix Passwords</a> - 1,009 Lines</li>
+    <li><a href="wordlists/passwords/unix_passwords.txt">Unix Passwords</a> - 1,021 Lines</li>
     <li><a href="wordlists/passwords/xato_net_passwords.txt">Xato Net Passwords</a> - 5,189,454 Lines</li>
   </ul>
   <li>Security Question Answers</li>
@@ -647,7 +644,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/usernames/http_default_users.txt">HTTP Default Users</a> - 27 Lines</li>
     <li><a href="wordlists/usernames/ipmi_users.txt">Ipmi Users</a> - 7 Lines</li>
     <li><a href="wordlists/usernames/mirai_user.txt">Mirai User</a> - 15 Lines</li>
-    <li><a href="wordlists/usernames/multiple_sources_users.txt">Multiple Sources Users</a> - 21,167 Lines</li>
+    <li><a href="wordlists/usernames/multiple_sources_users.txt">Multiple Sources Users</a> - 26,324 Lines</li>
     <li><a href="wordlists/usernames/postgres_default_user.txt">Postgres Default User</a> - 3 Lines</li>
     <li><a href="wordlists/usernames/tomcat_mgr_default_users.txt">Tomcat Mgr Default Users</a> - 6 Lines</li>
     <li><a href="wordlists/usernames/unix_users.txt">Unix Users</a> - 190 Lines</li>
@@ -656,41 +653,38 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
   <li>Vulnerabilities</li>
   <ul>
     <li><a href="wordlists/vulnerabilities/all_attacks.txt">All Attacks</a> - 467 Lines</li>
-    <li><a href="wordlists/vulnerabilities/apache.txt">Apache</a> - 30 Lines</li>
+    <li><a href="wordlists/vulnerabilities/apache.txt">Apache</a> - 8,531 Lines</li>
     <li><a href="wordlists/vulnerabilities/axis.txt">Axis</a> - 17 Lines</li>
     <li><a href="wordlists/vulnerabilities/cgis.txt">Cgis</a> - 3,463 Lines</li>
     <li><a href="wordlists/vulnerabilities/coldfusion.txt">Coldfusion</a> - 22 Lines</li>
     <li><a href="wordlists/vulnerabilities/directory_traversal.txt">Directory Traversal</a> - 847 Lines</li>
     <li><a href="wordlists/vulnerabilities/directory_traversal_unix.txt">Directory Traversal Unix</a> - 871 Lines</li>
-    <li><a href="wordlists/vulnerabilities/directory_traversal_win.txt">Directory Traversal Win</a> - 848 Lines</li>
-    <li><a href="wordlists/vulnerabilities/domino.txt">Domino</a> - 291 Lines</li>
+    <li><a href="wordlists/vulnerabilities/directory_traversal_win.txt">Directory Traversal Win</a> - 847 Lines</li>
+    <li><a href="wordlists/vulnerabilities/domino.txt">Domino</a> - 228 Lines</li>
     <li><a href="wordlists/vulnerabilities/fatwire.txt">Fatwire</a> - 101 Lines</li>
-    <li><a href="wordlists/vulnerabilities/fatwire_pagen_ames.txt">Fatwire Pagen Ames</a> - 2,712 Lines</li>
-    <li><a href="wordlists/vulnerabilities/front_page.txt">Front Page</a> - 43 Lines</li>
+    <li><a href="wordlists/vulnerabilities/fatwire_pagenames.txt">Fatwire Pagenames</a> - 2,712 Lines</li>
+    <li><a href="wordlists/vulnerabilities/front_pages.txt">Front Pages</a> - 43 Lines</li>
     <li><a href="wordlists/vulnerabilities/hpsmh.txt">Hpsmh</a> - 238 Lines</li>
-    <li><a href="wordlists/vulnerabilities/hyperion.txt">Hyperion</a> - 579 Lines</li>
     <li><a href="wordlists/vulnerabilities/iis.txt">Iis</a> - 59 Lines</li>
-    <li><a href="wordlists/vulnerabilities/iplanet.txt">Iplanet</a> - 36 Lines</li>
+    <li><a href="wordlists/vulnerabilities/iplanet.txt">Iplanet</a> - 35 Lines</li>
     <li><a href="wordlists/vulnerabilities/jboss.txt">Jboss</a> - 19 Lines</li>
-    <li><a href="wordlists/vulnerabilities/jersey.txt">Jersey</a> - 121 Lines</li>
     <li><a href="wordlists/vulnerabilities/jrun.txt">Jrun</a> - 13 Lines</li>
-    <li><a href="wordlists/vulnerabilities/juicy_files.txt">Juicy Files</a> - 187,964 Lines</li>
     <li><a href="wordlists/vulnerabilities/netware.txt">Netware</a> - 60 Lines</li>
-    <li><a href="wordlists/vulnerabilities/oracle.txt">Oracle</a> - 1,074 Lines</li>
-    <li><a href="wordlists/vulnerabilities/ror.txt">Ror</a> - 121 Lines</li>
-    <li><a href="wordlists/vulnerabilities/sap.txt">Sap</a> - 1,111 Lines</li>
+    <li><a href="wordlists/vulnerabilities/oracle.txt">Oracle</a> - 1,036 Lines</li>
+    <li><a href="wordlists/vulnerabilities/ror.txt">Ror</a> - 141 Lines</li>
+    <li><a href="wordlists/vulnerabilities/sap.txt">Sap</a> - 1,097 Lines</li>
     <li><a href="wordlists/vulnerabilities/sharepoint.txt">Sharepoint</a> - 1,708 Lines</li>
-    <li><a href="wordlists/vulnerabilities/sql.txt">SQL</a> - 167 Lines</li>
+    <li><a href="wordlists/vulnerabilities/sql.txt">SQL</a> - 268 Lines</li>
     <li><a href="wordlists/vulnerabilities/sql_inj.txt">SQL Inj</a> - 41 Lines</li>
-    <li><a href="wordlists/vulnerabilities/ssti.txt">Ssti</a> - 107 Lines</li>
+    <li><a href="wordlists/vulnerabilities/ssti.txt">Ssti</a> - 138 Lines</li>
     <li><a href="wordlists/vulnerabilities/sunas.txt">Sunas</a> - 51 Lines</li>
     <li><a href="wordlists/vulnerabilities/tests.txt">Tests</a> - 33 Lines</li>
-    <li><a href="wordlists/vulnerabilities/tomcat.txt">Tomcat</a> - 87 Lines</li>
+    <li><a href="wordlists/vulnerabilities/tomcat.txt">Tomcat</a> - 90 Lines</li>
     <li><a href="wordlists/vulnerabilities/vignette.txt">Vignette</a> - 73 Lines</li>
-    <li><a href="wordlists/vulnerabilities/weblogic.txt">Weblogic</a> - 361 Lines</li>
-    <li><a href="wordlists/vulnerabilities/websphere.txt">Websphere</a> - 561 Lines</li>
-    <li><a href="wordlists/vulnerabilities/xml.txt">XML</a> - 15 Lines</li>
-    <li><a href="wordlists/vulnerabilities/xss.txt">XSS</a> - 19,867 Lines</li>
+    <li><a href="wordlists/vulnerabilities/weblogic.txt">Weblogic</a> - 371 Lines</li>
+    <li><a href="wordlists/vulnerabilities/websphere.txt">Websphere</a> - 519 Lines</li>
+    <li><a href="wordlists/vulnerabilities/xss.txt">XSS</a> - 8,456 Lines</li>
+    <li><a href="wordlists/vulnerabilities/xxe.txt">XXE</a> - 51 Lines</li>
   </ul>
 </ul>
 

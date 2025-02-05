@@ -109,7 +109,7 @@
     },
     {
         "href": "wordlists/vulnerabilities/apache.txt",
-        "lines": 30,
+        "lines": 8531,
         "name": "Apache",
         "tags": [
             "vulnerabilities"
@@ -227,7 +227,7 @@
     },
     {
         "href": "wordlists/passwords/bt4_passwords.txt",
-        "lines": 1652903,
+        "lines": 1652902,
         "name": "Bt4 Passwords",
         "tags": [
             "passwords"
@@ -554,7 +554,7 @@
     },
     {
         "href": "wordlists/vulnerabilities/directory_traversal_win.txt",
-        "lines": 848,
+        "lines": 847,
         "name": "Directory Traversal Win",
         "tags": [
             "vulnerabilities"
@@ -579,7 +579,7 @@
     },
     {
         "href": "wordlists/vulnerabilities/domino.txt",
-        "lines": 291,
+        "lines": 228,
         "name": "Domino",
         "tags": [
             "vulnerabilities"
@@ -713,9 +713,9 @@
         ]
     },
     {
-        "href": "wordlists/vulnerabilities/fatwire_pagen_ames.txt",
+        "href": "wordlists/vulnerabilities/fatwire_pagenames.txt",
         "lines": 2712,
-        "name": "Fatwire Pagen Ames",
+        "name": "Fatwire Pagenames",
         "tags": [
             "vulnerabilities"
         ]
@@ -781,9 +781,9 @@
         ]
     },
     {
-        "href": "wordlists/vulnerabilities/front_page.txt",
+        "href": "wordlists/vulnerabilities/front_pages.txt",
         "lines": 43,
-        "name": "Front Page",
+        "name": "Front Pages",
         "tags": [
             "vulnerabilities"
         ]
@@ -945,7 +945,7 @@
     },
     {
         "href": "wordlists/passwords/honeynet.txt",
-        "lines": 453009,
+        "lines": 226081,
         "name": "Honeynet",
         "tags": [
             "passwords"
@@ -973,14 +973,6 @@
         "name": "Html Colors",
         "tags": [
             "security-question-answers"
-        ]
-    },
-    {
-        "href": "wordlists/vulnerabilities/hyperion.txt",
-        "lines": 579,
-        "name": "Hyperion",
-        "tags": [
-            "vulnerabilities"
         ]
     },
     {
@@ -1045,7 +1037,7 @@
     },
     {
         "href": "wordlists/vulnerabilities/iplanet.txt",
-        "lines": 36,
+        "lines": 35,
         "name": "Iplanet",
         "tags": [
             "vulnerabilities"
@@ -1110,14 +1102,6 @@
         ]
     },
     {
-        "href": "wordlists/vulnerabilities/jersey.txt",
-        "lines": 121,
-        "name": "Jersey",
-        "tags": [
-            "vulnerabilities"
-        ]
-    },
-    {
         "href": "wordlists/discovery/joomla.txt",
         "lines": 1544,
         "name": "Joomla",
@@ -1129,14 +1113,6 @@
         "href": "wordlists/vulnerabilities/jrun.txt",
         "lines": 13,
         "name": "Jrun",
-        "tags": [
-            "vulnerabilities"
-        ]
-    },
-    {
-        "href": "wordlists/vulnerabilities/juicy_files.txt",
-        "lines": 187964,
-        "name": "Juicy Files",
         "tags": [
             "vulnerabilities"
         ]
@@ -1321,7 +1297,7 @@
     },
     {
         "href": "wordlists/usernames/multiple_sources_users.txt",
-        "lines": 21167,
+        "lines": 26324,
         "name": "Multiple Sources Users",
         "tags": [
             "usernames"
@@ -1432,7 +1408,7 @@
     },
     {
         "href": "wordlists/vulnerabilities/oracle.txt",
-        "lines": 1074,
+        "lines": 1036,
         "name": "Oracle",
         "tags": [
             "vulnerabilities"
@@ -1458,7 +1434,7 @@
     },
     {
         "href": "wordlists/passwords/password.txt",
-        "lines": 88397,
+        "lines": 88406,
         "name": "Password",
         "tags": [
             "passwords"
@@ -1519,7 +1495,7 @@
     },
     {
         "href": "wordlists/languages/portuguese.txt",
-        "lines": 307374,
+        "lines": 312367,
         "name": "Portuguese",
         "tags": [
             "languages"
@@ -1594,7 +1570,7 @@
     },
     {
         "href": "wordlists/vulnerabilities/ror.txt",
-        "lines": 121,
+        "lines": 141,
         "name": "Ror",
         "tags": [
             "vulnerabilities"
@@ -1610,7 +1586,7 @@
     },
     {
         "href": "wordlists/vulnerabilities/sql.txt",
-        "lines": 167,
+        "lines": 268,
         "name": "SQL",
         "tags": [
             "vulnerabilities"
@@ -1644,7 +1620,7 @@
     },
     {
         "href": "wordlists/vulnerabilities/sap.txt",
-        "lines": 1111,
+        "lines": 1097,
         "name": "Sap",
         "tags": [
             "vulnerabilities"
@@ -1719,7 +1695,7 @@
     },
     {
         "href": "wordlists/vulnerabilities/ssti.txt",
-        "lines": 107,
+        "lines": 138,
         "name": "Ssti",
         "tags": [
             "vulnerabilities"
@@ -1802,7 +1778,7 @@
     },
     {
         "href": "wordlists/vulnerabilities/tomcat.txt",
-        "lines": 87,
+        "lines": 90,
         "name": "Tomcat",
         "tags": [
             "vulnerabilities"
@@ -1930,7 +1906,7 @@
     },
     {
         "href": "wordlists/names/top_male_names_usa.txt",
-        "lines": 1004,
+        "lines": 1000,
         "name": "Top Male Names Usa",
         "tags": [
             "names"
@@ -2022,7 +1998,7 @@
     },
     {
         "href": "wordlists/languages/ukrainian.txt",
-        "lines": 126308,
+        "lines": 331520,
         "name": "Ukrainian",
         "tags": [
             "languages"
@@ -2047,7 +2023,7 @@
     },
     {
         "href": "wordlists/passwords/unix_passwords.txt",
-        "lines": 1009,
+        "lines": 1021,
         "name": "Unix Passwords",
         "tags": [
             "passwords"
@@ -2132,7 +2108,7 @@
     },
     {
         "href": "wordlists/vulnerabilities/weblogic.txt",
-        "lines": 361,
+        "lines": 371,
         "name": "Weblogic",
         "tags": [
             "vulnerabilities"
@@ -2140,7 +2116,7 @@
     },
     {
         "href": "wordlists/vulnerabilities/websphere.txt",
-        "lines": 561,
+        "lines": 519,
         "name": "Websphere",
         "tags": [
             "vulnerabilities"
@@ -2201,16 +2177,8 @@
         ]
     },
     {
-        "href": "wordlists/vulnerabilities/xml.txt",
-        "lines": 15,
-        "name": "XML",
-        "tags": [
-            "vulnerabilities"
-        ]
-    },
-    {
         "href": "wordlists/vulnerabilities/xss.txt",
-        "lines": 19867,
+        "lines": 8456,
         "name": "XSS",
         "tags": [
             "vulnerabilities"
@@ -2230,6 +2198,14 @@
         "name": "Xato Net Usernames",
         "tags": [
             "usernames"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/xxe.txt",
+        "lines": 51,
+        "name": "Xxe",
+        "tags": [
+            "vulnerabilities"
         ]
     },
     {
