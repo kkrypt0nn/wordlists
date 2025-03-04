@@ -690,4 +690,4 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
 
 ## ⚠️ Disclaimer
 
-These wordlists are for educational purposes only. I am not responsible of any of your actions you may do with the help of these wordlists.
+These wordlists are for ethical purposes only, such a security research, legally allowed penetration testing, educational purposes, etc.
