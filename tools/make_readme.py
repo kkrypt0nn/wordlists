@@ -31,13 +31,12 @@ keywords = {
 }
 wordlists = {}
 
-readme_template = """
-<h1 align="center">
+readme_template = """<h1 align="center">
   Wordlists
 </h1>
 
 <h4 align="center">
-  A collection of wordlists for many different usages. They are sorted by their content. Feel free to request to add new wordlists.
+  Yet another collection of wordlists. They are sorted by their content. Feel free to request to add new wordlists.
 </h4>
 
 <p align="center">
@@ -54,7 +53,7 @@ The wordlists in this repository are not all made by myself. Therefore, starting
 
 The wordlists that are made by myself, for example all the stressing generated wordlists or wordlists gathered from words on websites, will have **no** license, as I believe there is no point in adding licenses for things you can generate yourself.
 
-> *If you feel like I have used your wordlist and it is missing in the [NOTICE.md](NOTICE.md) file, feel free to open an issue/pull request.*
+> _If you feel like I have used your wordlist and it is missing in the [NOTICE.md](NOTICE.md) file, feel free to open an issue/pull request._
 
 ## 🌍 Contributing
 
@@ -72,7 +71,9 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
 
 ## ⚠️ Disclaimer
 
-These wordlists are for ethical purposes only, such a security research, legally allowed penetration testing, educational purposes, etc.
+These wordlists are intended solely for ethical and legal purposes, such as security research, legally authorized penetration testing, and educational use. Unauthorized or illegal use is strictly prohibited.
+
+By using this repository, you agree to follow all applicable laws and abide by the [Terms of Use](https://github.com/kkrypt0nn/wordlists/blob/main/TERMS_OF_USE.md).
 """
 
 for filename in glob.iglob("./wordlists/**/*", recursive=True):
