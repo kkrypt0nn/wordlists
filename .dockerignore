@@ -1,0 +1,6 @@
+.git/
+.github/
+tools/
+.gitattributes
+CONTRIBUTING.md
+wordlists.json

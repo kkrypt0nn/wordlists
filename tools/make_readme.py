@@ -40,7 +40,6 @@ readme_template = """<h1 align="center">
 </h4>
 
 <p align="center">
-  <a href="//discord.gg/mTBrXyWxAF"><img src="https://img.shields.io/discord/739934735387721768?logo=discord"></a>
   <a href="//hub.docker.com/r/kkrypt0nn/wordlists"><img src="https://img.shields.io/docker/v/kkrypt0nn/wordlists?logo=docker"></a>
   <a href="//github.com/kkrypt0nn/wordlists"><img src="https://img.shields.io/github/repo-size/kkrypt0nn/wordlists"></a>
   <a href="//github.com/kkrypt0nn/wordlists/commits"><img src="https://img.shields.io/github/last-commit/kkrypt0nn/wordlists"></a>
