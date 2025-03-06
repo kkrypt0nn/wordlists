@@ -10,7 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        architecture: [amd64, arm64]
         os: [alpine, debian, ubuntu]
     steps:
       - name: Checkout code
@@ -27,6 +26,6 @@ jobs:
         with:
           context: .
           file: ./Dockerfile.${{ matrix.os }}
-          platforms: linux/${{ matrix.architecture }}
+          platforms: linux/amd64,linux/arm64
           push: true
           tags: kkrypt0nn/wordlists:${{ matrix.os }}-latest
