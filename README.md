@@ -7,7 +7,9 @@
 </h4>
 
 <p align="center">
-  <a href="//hub.docker.com/r/kkrypt0nn/wordlists"><img src="https://img.shields.io/docker/v/kkrypt0nn/wordlists?logo=docker"></a>
+  <a href="//hub.docker.com/r/kkrypt0nn/wordlists"><img src="https://img.shields.io/docker/v/kkrypt0nn/wordlists/alpine-latest?logo=docker"></a>
+  <a href="//hub.docker.com/r/kkrypt0nn/wordlists"><img src="https://img.shields.io/docker/v/kkrypt0nn/wordlists/debian-latest?logo=docker"></a>
+  <a href="//hub.docker.com/r/kkrypt0nn/wordlists"><img src="https://img.shields.io/docker/v/kkrypt0nn/wordlists/ubuntu-latest?logo=docker"></a>
   <a href="//github.com/kkrypt0nn/wordlists"><img src="https://img.shields.io/github/repo-size/kkrypt0nn/wordlists"></a>
   <a href="//github.com/kkrypt0nn/wordlists/commits"><img src="https://img.shields.io/github/last-commit/kkrypt0nn/wordlists"></a>
   <a href="//github.com/kkrypt0nn/wordlists/contributors"><img src="https://img.shields.io/github/contributors/kkrypt0nn/wordlists"></a>
@@ -26,6 +28,16 @@ The wordlists that are made by myself, for example all the stressing generated w
 If you have a wordlist that you wish to see here, please post them [here](https://github.com/kkrypt0nn/wordlists/issues).
 
 If you already have a wordlist ready to be added, make sure to [open a pull request](https://github.com/kkrypt0nn/wordlists/pulls).
+
+## 🐳 Docker Images
+
+There are three Docker images available with for the three main OS images:
+
+- `alpine-latest`
+- `debian-latest`
+- `ubuntu-latest`
+
+These will have a `/wordlists` file with all the wordlists in there for you to use them.
 
 ## 📜 Wordlists
 

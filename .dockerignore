@@ -3,4 +3,5 @@
 tools/
 .gitattributes
 CONTRIBUTING.md
+Dockerfile*
 wordlists.json
