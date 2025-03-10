@@ -15,20 +15,6 @@
   <a href="//github.com/kkrypt0nn/wordlists/contributors"><img src="https://img.shields.io/github/contributors/kkrypt0nn/wordlists"></a>
 </p>
 
-## 🏁 Sources
-
-The wordlists in this repository are not all made by myself. Therefore, starting February 2025, I will try my best to provide the source of each wordlist, as well as add the potential license/copyright notice of the wordlist in the [NOTICE.md](NOTICE.md) file. Considering this repository is quite old, I may not have the source for all of them, but as mentioned I will try my best.
-
-The wordlists that are made by myself, for example all the stressing generated wordlists or wordlists gathered from words on websites, will have **no** license, as I believe there is no point in adding licenses for things you can generate yourself.
-
-> _If you feel like I have used your wordlist and it is missing in the [NOTICE.md](NOTICE.md) file, feel free to open an issue/pull request._
-
-## 🌍 Contributing
-
-If you have a wordlist that you wish to see here, please post them [here](https://github.com/kkrypt0nn/wordlists/issues).
-
-If you already have a wordlist ready to be added, make sure to [open a pull request](https://github.com/kkrypt0nn/wordlists/pulls).
-
 ## 🐳 Docker Images
 
 There are three Docker images available with for the three main OS images:
@@ -37,7 +23,13 @@ There are three Docker images available with for the three main OS images:
 - `debian-latest`
 - `ubuntu-latest`
 
-These will have a `/wordlists` file with all the wordlists in there for you to use them.
+These will have a `/wordlists` folder with all the wordlists in there for you to use them.
+
+## 🌍 Contributing
+
+If you have a wordlist that you wish to see here, please post them [here](https://github.com/kkrypt0nn/wordlists/issues).
+
+If you already have a wordlist ready to be added, make sure to [open a pull request](https://github.com/kkrypt0nn/wordlists/pulls).
 
 ## 📜 Wordlists
 
@@ -703,3 +695,11 @@ These will have a `/wordlists` file with all the wordlists in there for you to u
 These wordlists are intended solely for ethical and legal purposes, such as security research, legally authorized penetration testing, and educational use. Unauthorized or illegal use is strictly prohibited.
 
 By using this repository, you agree to follow all applicable laws and abide by the [Terms of Use](https://github.com/kkrypt0nn/wordlists/blob/main/TERMS_OF_USE.md).
+
+## 🏁 Sources
+
+The wordlists in this repository are not all made by myself. Therefore, starting February 2025, I will try my best to provide the source of each wordlist, as well as add the potential license/copyright notice of the wordlist in the [NOTICE.md](NOTICE.md) file. Considering this repository is quite old, I may not have the source for all of them, but as mentioned I will try my best.
+
+The wordlists that are made by myself, for example all the stressing generated wordlists or wordlists gathered from words on websites, will have **no** license, as I believe there is no point in adding licenses for things you can generate yourself.
+
+> _If you feel like I have used your wordlist and it is missing in the [NOTICE.md](NOTICE.md) file, feel free to open an issue/pull request._
