@@ -1,5 +1,16 @@
 FROM alpine:latest
 
+# Copy wordlists
 COPY wordlists /wordlists
 
-WORKDIR /wordlists
+# Copy relevant Markdown files
+COPY NOTICE.md /wordlists/NOTICE.md
+COPY TERMS_OF_USE.md /wordlists/TERMS_OF_USE.md
+
+# Unzip rockyou
+WORKDIR /wordlists/famous
+RUN apk add --no-cache unzip && \
+  unzip rockyou.zip && rm rockyou.zip
+
+# Cleanup
+RUN rm -rf /tmp/*
