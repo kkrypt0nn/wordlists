@@ -2,7 +2,7 @@ name: Update TLDs list
 
 on:
   schedule:
-    - cron: "0 0 1 * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT }}
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
