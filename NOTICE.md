@@ -10,6 +10,37 @@ The following modifications may have been done on some wordlists:
 - Capitalized every word of names, cities, countries, etc.
 - Comments have been removed to keep the wordlists clean
 
+## chinese_name_analysis
+
+- [`names/top_family_names_chinese.txt`](wordlists/names/top_family_names_chinese.txt) - [Source](https://github.com/NihaoKangkang/chinese_name_analysis/blob/main/2020/2020_family_name_top100.txt)
+- [`names/top_surnames_character_chinese.txt`](wordlists/names/top_surnames_character_chinese.txt) - [Source](https://github.com/NihaoKangkang/chinese_name_analysis/blob/main/2019/2019_surname_word_top50.txt)
+
+### License
+
+```
+MIT License
+
+Copyright (c) 2025 Kyi Wong
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
 ## DirBuster
 
 - [`discovery/apache_user_enum_1.0.txt`](wordlists/discovery/apache_user_enum_1.0.txt) -> _Removed every `~`_ - [Source](https://gitlab.com/kalilinux/packages/dirbuster/-/blob/kali/master/apache-user-enum-1.0.txt)
