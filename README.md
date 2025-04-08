@@ -132,8 +132,6 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/names/top_male_names_india.txt">Top Male Names India</a> - 272 Lines</li>
       <li><a href="wordlists/names/top_male_names_turkish.txt">Top Male Names Turkish</a> - 688 Lines</li>
       <li><a href="wordlists/names/top_male_names_usa.txt">Top Male Names Usa</a> - 1,000 Lines</li>
-      <li><a href="wordlists/names/top_family_names_chinese.txt">Top Family Names Chinese</a> - 100 Lines</li>
-      <li><a href="wordlists/names/top_surnames_character_chinese.txt">Top Surnames Chinese</a> - 50 Lines</li>
     </ul>
   </details>
   <details>
