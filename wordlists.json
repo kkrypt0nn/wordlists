@@ -1809,6 +1809,14 @@
         ]
     },
     {
+        "href": "wordlists/names/top_family_names_chinese.txt",
+        "lines": 100,
+        "name": "Top Family Names Chinese",
+        "tags": [
+            "names"
+        ]
+    },
+    {
         "href": "wordlists/names/top_family_names_usa.txt",
         "lines": 1000,
         "name": "Top Family Names Usa",
@@ -1918,6 +1926,14 @@
         "name": "Top Subdomains",
         "tags": [
             "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/names/top_surnames_character_chinese.txt",
+        "lines": 50,
+        "name": "Top Surnames Character Chinese",
+        "tags": [
+            "names"
         ]
     },
     {
