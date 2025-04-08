@@ -137,6 +137,8 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 - [`names/top_family_names_usa.txt`](wordlists/names/top_family_names_usa.txt) - [Source](https://github.com/danielmiessler/SecLists/blob/master/Usernames/Names/familynames-usa-top1000.txt)
 - [`names/top_female_names_usa.txt`](wordlists/names/top_female_names_usa.txt) - [Source](https://github.com/danielmiessler/SecLists/blob/master/Usernames/Names/femalenames-usa-top1000.txt)
 - [`names/top_male_names_usa.txt`](wordlists/names/top_male_names_usa.txt) - [Source](https://github.com/danielmiessler/SecLists/blob/master/Usernames/Names/malenames-usa-top1000.txt)
+- [`names/top_family_names_chinese.txt`](wordlists/names/top_family_names_chinese.txt) - [Source](https://github.com/NihaoKangkang/chinese_name_analysis/blob/main/2020/2020_family_name_top100.txt)
+- [`names/top_surnames_character_chinese.txt`](wordlists/names/top_surnames_character_chinese.txt) - [Source](https://github.com/NihaoKangkang/chinese_name_analysis/blob/main/2019/2019_surname_word_top50.txt)
 - [`passwords/000webhost.txt`](wordlists/passwords/000webhost.txt) - [Source](https://github.com/danielmiessler/SecLists/blob/master/Passwords/Leaked-Databases/000webhost.txt)
 - [`passwords/bt4_passwords.txt`](wordlists/passwords/bt4_passwords.txt) - [Source](https://github.com/danielmiessler/SecLists/blob/master/Passwords/bt4-password.txt)
 - [`passwords/common_passwords_win.txt`](wordlists/passwords/common_passwords_win.txt) - [Source](https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/common-passwords-win.txt)
