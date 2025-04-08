@@ -120,6 +120,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <ul>
       <li><a href="wordlists/names/names.txt">Names</a> - 10,176 Lines</li>
       <li><a href="wordlists/names/top_family_names_usa.txt">Top Family Names Usa</a> - 1,000 Lines</li>
+      <li><a href="wordlists/names/top_family_names_chinese.txt">Top Family Names Chinese</a> - 100 Lines</li>
       <li><a href="wordlists/names/top_female_names_australia.txt">Top Female Names Australia</a> - 98 Lines</li>
       <li><a href="wordlists/names/top_female_names_canada.txt">Top Female Names Canada</a> - 300 Lines</li>
       <li><a href="wordlists/names/top_female_names_germany.txt">Top Female Names Germany</a> - 4,685 Lines</li>
@@ -132,7 +133,6 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/names/top_male_names_india.txt">Top Male Names India</a> - 272 Lines</li>
       <li><a href="wordlists/names/top_male_names_turkish.txt">Top Male Names Turkish</a> - 688 Lines</li>
       <li><a href="wordlists/names/top_male_names_usa.txt">Top Male Names Usa</a> - 1,000 Lines</li>
-      <li><a href="wordlists/names/top_family_names_chinese.txt">Top Family Names Chinese</a> - 100 Lines</li>
       <li><a href="wordlists/names/top_surnames_character_chinese.txt">Top Surnames Chinese</a> - 50 Lines</li>
     </ul>
   </details>
@@ -455,6 +455,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
   <ul>
     <li><a href="wordlists/names/names.txt">Names</a> - 10,176 Lines</li>
     <li><a href="wordlists/names/top_family_names_usa.txt">Top Family Names Usa</a> - 1,000 Lines</li>
+    <li><a href="wordlists/names/top_family_names_chinese.txt">Top Family Names Chinese</a> - 100 Lines</li>
     <li><a href="wordlists/names/top_female_names_australia.txt">Top Female Names Australia</a> - 98 Lines</li>
     <li><a href="wordlists/names/top_female_names_canada.txt">Top Female Names Canada</a> - 300 Lines</li>
     <li><a href="wordlists/names/top_female_names_germany.txt">Top Female Names Germany</a> - 4,685 Lines</li>
@@ -467,6 +468,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/names/top_male_names_india.txt">Top Male Names India</a> - 272 Lines</li>
     <li><a href="wordlists/names/top_male_names_turkish.txt">Top Male Names Turkish</a> - 688 Lines</li>
     <li><a href="wordlists/names/top_male_names_usa.txt">Top Male Names Usa</a> - 1,000 Lines</li>
+    <li><a href="wordlists/names/top_surnames_character_chinese.txt">Top Surnames Chinese</a> - 50 Lines</li>
   </ul>
   <li>Passwords</li>
   <ul>
