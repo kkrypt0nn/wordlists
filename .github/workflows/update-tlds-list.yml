@@ -33,5 +33,5 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git commit -am "chore: TLDs list update of `date +'%Y-%m-%d %H:%M:%S'`"
+          git commit -am "chore: Automatic update of TLDs list (`date +'%Y-%m-%d %H:%M:%S'`)"
           git push
