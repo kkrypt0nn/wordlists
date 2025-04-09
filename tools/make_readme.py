@@ -55,11 +55,11 @@ readme_template = """<h1 align="center">
 
 ## 🐳 Docker Images
 
-There are three Docker images available with for the three main OS images:
+There are three Docker tags available for the [`kkrypt0nn/wordlists`](https://hub.docker.com/r/kkrypt0nn/wordlists) Docker repository:
 
-- `alpine-latest`
-- `debian-latest`
-- `ubuntu-latest`
+- [`alpine-latest`](https://hub.docker.com/r/kkrypt0nn/wordlists/tags?name=alpine-latest)
+- [`debian-latest`](https://hub.docker.com/r/kkrypt0nn/wordlists/tags?name=debian-latest)
+- [`ubuntu-latest`](https://hub.docker.com/r/kkrypt0nn/wordlists/tags?name=ubuntu-latest)
 
 These will have a `/wordlists` folder with all the wordlists in there for you to use them.
 
