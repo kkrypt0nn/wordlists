@@ -28,6 +28,7 @@ keywords = {
     "Xml": "XML",
     "Xss": "XSS",
     "Xxe": "XXE",
+    "Usa": "USA",
 }
 wordlists = {}
 
@@ -43,6 +44,10 @@ readme_template = """<h1 align="center">
   <a href="//hub.docker.com/r/kkrypt0nn/wordlists"><img src="https://img.shields.io/docker/v/kkrypt0nn/wordlists/alpine-latest?logo=docker"></a>
   <a href="//hub.docker.com/r/kkrypt0nn/wordlists"><img src="https://img.shields.io/docker/v/kkrypt0nn/wordlists/debian-latest?logo=docker"></a>
   <a href="//hub.docker.com/r/kkrypt0nn/wordlists"><img src="https://img.shields.io/docker/v/kkrypt0nn/wordlists/ubuntu-latest?logo=docker"></a>
+</p>
+
+<p align="center">
+  <a href="//discord.gg/xj6y5ZaTMr"><img src="https://img.shields.io/discord/1358456011316396295?logo=discord"></a>
   <a href="//github.com/kkrypt0nn/wordlists"><img src="https://img.shields.io/github/repo-size/kkrypt0nn/wordlists"></a>
   <a href="//github.com/kkrypt0nn/wordlists/commits"><img src="https://img.shields.io/github/last-commit/kkrypt0nn/wordlists"></a>
   <a href="//github.com/kkrypt0nn/wordlists/contributors"><img src="https://img.shields.io/github/contributors/kkrypt0nn/wordlists"></a>
