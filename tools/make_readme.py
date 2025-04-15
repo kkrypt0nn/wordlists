@@ -63,6 +63,12 @@ There are three Docker tags available for the [`kkrypt0nn/wordlists`](https://hu
 
 These will have a `/wordlists` folder with all the wordlists in there for you to use them.
 
+## 📦 HackTheBox Wordlists
+
+[Hack The Box](https://hackthebox.com) is a platform designed for practicing penetration testing skills in a legal and controlled environment. It offers various challenges and real-world scenarios for users to sharpen their hacking abilities.
+
+In the [`wordlists/htb`](https://github.com/kkrypt0nn/wordlists/tree/main/wordlists/htb) folder, you'll find a collection of custom wordlists I created specifically for use on HTB. As I got more into the platform and had fun solving challenges, these wordlists became invaluable for tasks like brute-forcing and enumeration. Feel free to use them for your own HTB adventures, and I hope they help you level up your hacking skills!
+
 ## 🌍 Contributing
 
 If you have a wordlist that you wish to see here, please post them [here](https://github.com/kkrypt0nn/wordlists/issues).
@@ -116,7 +122,9 @@ for filename in glob.iglob("./wordlists/**/*", recursive=True):
     # Here is where I got lost myself to be fair
     match len(levels) - 2:
         case 1:
-            folder = folders[0].replace("_", " ").title()
+            folder = (
+                folders[0].replace("_", " ").title() if folders[0] != "htb" else "HTB"
+            )
             if folder not in wordlists:
                 wordlists[folder] = [wordlist]
             else:
