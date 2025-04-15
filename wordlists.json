@@ -17,6 +17,14 @@
         ]
     },
     {
+        "href": "wordlists/htb/2_digits.txt",
+        "lines": 100,
+        "name": "2 Digits",
+        "tags": [
+            "htb"
+        ]
+    },
+    {
         "href": "wordlists/stressing/2_digits_number.txt",
         "lines": 100,
         "name": "2 Digits Number",
@@ -25,11 +33,27 @@
         ]
     },
     {
+        "href": "wordlists/htb/3_digits.txt",
+        "lines": 1000,
+        "name": "3 Digits",
+        "tags": [
+            "htb"
+        ]
+    },
+    {
         "href": "wordlists/stressing/3_digits_000_to_999.txt",
         "lines": 1000,
         "name": "3 Digits 000 To 999",
         "tags": [
             "stressing"
+        ]
+    },
+    {
+        "href": "wordlists/htb/4_digits.txt",
+        "lines": 10000,
+        "name": "4 Digits",
+        "tags": [
+            "htb"
         ]
     },
     {
@@ -497,6 +521,14 @@
         ]
     },
     {
+        "href": "wordlists/htb/directories.txt",
+        "lines": 97523,
+        "name": "Directories",
+        "tags": [
+            "htb"
+        ]
+    },
+    {
         "href": "wordlists/discovery/directory_list_1.0.txt",
         "lines": 141694,
         "name": "Directory List 1.0",
@@ -819,6 +851,22 @@
         "name": "German",
         "tags": [
             "languages"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/gitignore.txt",
+        "lines": 1017,
+        "name": "Gitignore",
+        "tags": [
+            "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/htb/gitignore.txt",
+        "lines": 1017,
+        "name": "Gitignore",
+        "tags": [
+            "htb"
         ]
     },
     {
@@ -1710,6 +1758,14 @@
         ]
     },
     {
+        "href": "wordlists/htb/subdomains.txt",
+        "lines": 150779,
+        "name": "Subdomains",
+        "tags": [
+            "htb"
+        ]
+    },
+    {
         "href": "wordlists/user_agents/operating_system_name/sunos.txt",
         "lines": 293,
         "name": "SunOS",
@@ -2051,6 +2107,14 @@
         "name": "Unix Users",
         "tags": [
             "usernames"
+        ]
+    },
+    {
+        "href": "wordlists/htb/users.txt",
+        "lines": 10331,
+        "name": "Users",
+        "tags": [
+            "htb"
         ]
     },
     {

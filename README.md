@@ -29,6 +29,12 @@ There are three Docker tags available for the [`kkrypt0nn/wordlists`](https://hu
 
 These will have a `/wordlists` folder with all the wordlists in there for you to use them.
 
+## 📦 HackTheBox Wordlists
+
+[Hack The Box](https://hackthebox.com) is a platform designed for practicing penetration testing skills in a legal and controlled environment. It offers various challenges and real-world scenarios for users to sharpen their hacking abilities.
+
+In the [`wordlists/htb`](https://github.com/kkrypt0nn/wordlists/tree/main/wordlists/htb) folder, you'll find a collection of custom wordlists I created specifically for use on HTB. As I got more into the platform and had fun solving challenges, these wordlists became invaluable for tasks like brute-forcing and enumeration. Feel free to use them for your own HTB adventures, and I hope they help you level up your hacking skills!
+
 ## 🌍 Contributing
 
 If you have a wordlist that you wish to see here, please post them [here](https://github.com/kkrypt0nn/wordlists/issues).
@@ -58,6 +64,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/discovery/directory_list_lowercase_2.3_small.txt">Directory List Lowercase 2.3 Small</a> - 81,628 Lines</li>
       <li><a href="wordlists/discovery/extensions_common.txt">Extensions Common</a> - 43 Lines</li>
       <li><a href="wordlists/discovery/fuzz_php_special.txt">Fuzz Php Special</a> - 136,921 Lines</li>
+      <li><a href="wordlists/discovery/gitignore.txt">Gitignore</a> - 1,017 Lines</li>
       <li><a href="wordlists/discovery/indexes.txt">Indexes</a> - 10 Lines</li>
       <li><a href="wordlists/discovery/joomla.txt">Joomla</a> - 1,544 Lines</li>
       <li><a href="wordlists/discovery/jsp.txt">JSP</a> - 67,213 Lines</li>
@@ -84,6 +91,18 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/famous/fern_wifi.txt">Fern Wifi</a> - 478 Lines</li>
       <li><a href="wordlists/famous/hotmail.txt">Hotmail</a> - 8,930 Lines</li>
       <li><a href="wordlists/famous/rockyou.zip">Rockyou</a> - 14,344,392 Lines</li>
+    </ul>
+  </details>
+  <details>
+    <summary>HTB</summary>
+    <ul>
+      <li><a href="wordlists/htb/2_digits.txt">2 Digits</a> - 100 Lines</li>
+      <li><a href="wordlists/htb/3_digits.txt">3 Digits</a> - 1,000 Lines</li>
+      <li><a href="wordlists/htb/4_digits.txt">4 Digits</a> - 10,000 Lines</li>
+      <li><a href="wordlists/htb/directories.txt">Directories</a> - 97,523 Lines</li>
+      <li><a href="wordlists/htb/gitignore.txt">Gitignore</a> - 1,017 Lines</li>
+      <li><a href="wordlists/htb/subdomains.txt">Subdomains</a> - 150,779 Lines</li>
+      <li><a href="wordlists/htb/users.txt">Users</a> - 10,331 Lines</li>
     </ul>
   </details>
   <details>
@@ -401,6 +420,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/discovery/directory_list_lowercase_2.3_small.txt">Directory List Lowercase 2.3 Small</a> - 81,628 Lines</li>
     <li><a href="wordlists/discovery/extensions_common.txt">Extensions Common</a> - 43 Lines</li>
     <li><a href="wordlists/discovery/fuzz_php_special.txt">Fuzz Php Special</a> - 136,921 Lines</li>
+    <li><a href="wordlists/discovery/gitignore.txt">Gitignore</a> - 1,017 Lines</li>
     <li><a href="wordlists/discovery/indexes.txt">Indexes</a> - 10 Lines</li>
     <li><a href="wordlists/discovery/joomla.txt">Joomla</a> - 1,544 Lines</li>
     <li><a href="wordlists/discovery/jsp.txt">JSP</a> - 67,213 Lines</li>
@@ -425,6 +445,16 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/famous/fern_wifi.txt">Fern Wifi</a> - 478 Lines</li>
     <li><a href="wordlists/famous/hotmail.txt">Hotmail</a> - 8,930 Lines</li>
     <li><a href="wordlists/famous/rockyou.zip">Rockyou</a> - 14,344,392 Lines</li>
+  </ul>
+  <li>HTB</li>
+  <ul>
+    <li><a href="wordlists/htb/2_digits.txt">2 Digits</a> - 100 Lines</li>
+    <li><a href="wordlists/htb/3_digits.txt">3 Digits</a> - 1,000 Lines</li>
+    <li><a href="wordlists/htb/4_digits.txt">4 Digits</a> - 10,000 Lines</li>
+    <li><a href="wordlists/htb/directories.txt">Directories</a> - 97,523 Lines</li>
+    <li><a href="wordlists/htb/gitignore.txt">Gitignore</a> - 1,017 Lines</li>
+    <li><a href="wordlists/htb/subdomains.txt">Subdomains</a> - 150,779 Lines</li>
+    <li><a href="wordlists/htb/users.txt">Users</a> - 10,331 Lines</li>
   </ul>
   <li>Languages</li>
   <ul>
