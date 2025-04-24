@@ -132,19 +132,19 @@
         ]
     },
     {
-        "href": "wordlists/vulnerabilities/apache.txt",
-        "lines": 8531,
-        "name": "Apache",
-        "tags": [
-            "vulnerabilities"
-        ]
-    },
-    {
         "href": "wordlists/discovery/apache.txt",
         "lines": 13232,
         "name": "Apache",
         "tags": [
             "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/apache.txt",
+        "lines": 8531,
+        "name": "Apache",
+        "tags": [
+            "vulnerabilities"
         ]
     },
     {
@@ -513,19 +513,19 @@
         ]
     },
     {
-        "href": "wordlists/discovery/directories.txt",
-        "lines": 58655,
-        "name": "Directories",
-        "tags": [
-            "discovery"
-        ]
-    },
-    {
         "href": "wordlists/htb/directories.txt",
         "lines": 97523,
         "name": "Directories",
         "tags": [
             "htb"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/directories.txt",
+        "lines": 58655,
+        "name": "Directories",
+        "tags": [
+            "discovery"
         ]
     },
     {
@@ -854,19 +854,19 @@
         ]
     },
     {
-        "href": "wordlists/discovery/gitignore.txt",
-        "lines": 1017,
-        "name": "Gitignore",
-        "tags": [
-            "discovery"
-        ]
-    },
-    {
         "href": "wordlists/htb/gitignore.txt",
         "lines": 1017,
         "name": "Gitignore",
         "tags": [
             "htb"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/gitignore.txt",
+        "lines": 1017,
+        "name": "Gitignore",
+        "tags": [
+            "discovery"
         ]
     },
     {
@@ -1809,7 +1809,7 @@
     },
     {
         "href": "wordlists/discovery/tlds.txt",
-        "lines": 1443,
+        "lines": 1442,
         "name": "TLDs",
         "tags": [
             "discovery"
