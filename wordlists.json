@@ -1809,7 +1809,7 @@
     },
     {
         "href": "wordlists/discovery/tlds.txt",
-        "lines": 1442,
+        "lines": 1441,
         "name": "TLDs",
         "tags": [
             "discovery"
