@@ -5,4 +5,5 @@ tools/
 CONTRIBUTING.md
 Dockerfile*
 README.md
+renovate.json
 wordlists.json
