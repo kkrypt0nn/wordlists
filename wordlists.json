@@ -406,6 +406,14 @@
         ]
     },
     {
+        "href": "wordlists/miscellaneous/companies.txt",
+        "lines": 60047,
+        "name": "Companies",
+        "tags": [
+            "miscellaneous"
+        ]
+    },
+    {
         "href": "wordlists/user_agents/hardware_type_specific/computer.txt",
         "lines": 222967,
         "name": "Computer",
