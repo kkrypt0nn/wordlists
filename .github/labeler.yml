@@ -1,0 +1,59 @@
+category/discovery:
+  - changed-files:
+      - any-glob-to-any-file:
+          - wordlists/discovery/**/*
+
+category/famous:
+  - changed-files:
+      - any-glob-to-any-file:
+          - wordlists/famous/**/*
+
+category/htb:
+  - changed-files:
+      - any-glob-to-any-file:
+          - wordlists/htb/**/*
+
+category/languages:
+  - changed-files:
+      - any-glob-to-any-file:
+          - wordlists/languages/**/*
+
+category/miscellaneous:
+  - changed-files:
+      - any-glob-to-any-file:
+          - wordlists/miscellaneous/**/*
+
+category/names:
+  - changed-files:
+      - any-glob-to-any-file:
+          - wordlists/names/**/*
+
+category/passwords:
+  - changed-files:
+      - any-glob-to-any-file:
+          - wordlists/passwords/**/*
+
+category/security-question-answers:
+  - changed-files:
+      - any-glob-to-any-file:
+          - wordlists/security_question_answers/**/*
+
+category/stressing:
+  - changed-files:
+      - any-glob-to-any-file:
+          - wordlists/stressing/**/*
+
+category/user-agents:
+  - changed-files:
+      - any-glob-to-any-file:
+          - wordlists/user_agents/**/*
+
+category/usernames:
+  - changed-files:
+      - any-glob-to-any-file:
+          - wordlists/usernames/**/*
+
+category/vulnerabilities:
+  - changed-files:
+      - any-glob-to-any-file:
+          - wordlists/vulnerabilities/**/*
