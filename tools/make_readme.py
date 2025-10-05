@@ -15,6 +15,8 @@ keywords = {
     "Wpa": "WPA",
     "Us": "US",
     "Uri": "URI",
+    "Html": "HTML",
+    "Js": "JS",
     "Http": "HTTP",
     "Os": "OS",
     "Beos": "BeOS",
