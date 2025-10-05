@@ -950,6 +950,30 @@
         ]
     },
     {
+        "href": "wordlists/security_question_answers/html_colors.txt",
+        "lines": 148,
+        "name": "HTML Colors",
+        "tags": [
+            "security-question-answers"
+        ]
+    },
+    {
+        "href": "wordlists/miscellaneous/html_js_events.txt",
+        "lines": 171,
+        "name": "HTML JS Events",
+        "tags": [
+            "miscellaneous"
+        ]
+    },
+    {
+        "href": "wordlists/miscellaneous/html_tags.txt",
+        "lines": 113,
+        "name": "HTML Tags",
+        "tags": [
+            "miscellaneous"
+        ]
+    },
+    {
         "href": "wordlists/passwords/http_default_passwords.txt",
         "lines": 19,
         "name": "HTTP Default Passwords",
@@ -1021,14 +1045,6 @@
         "name": "Hpsmh",
         "tags": [
             "vulnerabilities"
-        ]
-    },
-    {
-        "href": "wordlists/security_question_answers/html_colors.txt",
-        "lines": 148,
-        "name": "Html Colors",
-        "tags": [
-            "security-question-answers"
         ]
     },
     {

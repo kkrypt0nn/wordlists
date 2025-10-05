@@ -137,6 +137,8 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/miscellaneous/companies.txt">Companies</a> - 60,047 Lines</li>
       <li><a href="wordlists/miscellaneous/english_profanity_words.txt">English Profanity Words</a> - 1,383 Lines</li>
       <li><a href="wordlists/miscellaneous/french_profanity_words.txt">French Profanity Words</a> - 106 Lines</li>
+      <li><a href="wordlists/miscellaneous/html_js_events.txt">HTML JS Events</a> - 171 Lines</li>
+      <li><a href="wordlists/miscellaneous/html_tags.txt">HTML Tags</a> - 113 Lines</li>
     </ul>
   </details>
   <details>
@@ -201,7 +203,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/security_question_answers/city_state_country.txt">City State Country</a> - 98,304 Lines</li>
       <li><a href="wordlists/security_question_answers/common_surnames.txt">Common Surnames</a> - 20,000 Lines</li>
       <li><a href="wordlists/security_question_answers/dates.txt">Dates</a> - 751,068 Lines</li>
-      <li><a href="wordlists/security_question_answers/html_colors.txt">Html Colors</a> - 148 Lines</li>
+      <li><a href="wordlists/security_question_answers/html_colors.txt">HTML Colors</a> - 148 Lines</li>
       <li><a href="wordlists/security_question_answers/street_names.txt">Street Names</a> - 52,680 Lines</li>
       <li><a href="wordlists/security_question_answers/us_colleges.txt">US Colleges</a> - 6,752 Lines</li>
       <li><a href="wordlists/security_question_answers/us_private_schools.txt">US Private Schools</a> - 21,755 Lines</li>
@@ -486,6 +488,8 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/miscellaneous/companies.txt">Companies</a> - 60,047 Lines</li>
     <li><a href="wordlists/miscellaneous/english_profanity_words.txt">English Profanity Words</a> - 1,383 Lines</li>
     <li><a href="wordlists/miscellaneous/french_profanity_words.txt">French Profanity Words</a> - 106 Lines</li>
+    <li><a href="wordlists/miscellaneous/html_js_events.txt">HTML JS Events</a> - 171 Lines</li>
+    <li><a href="wordlists/miscellaneous/html_tags.txt">HTML Tags</a> - 113 Lines</li>
   </ul>
   <li>Names</li>
   <ul>
@@ -544,7 +548,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/security_question_answers/city_state_country.txt">City State Country</a> - 98,304 Lines</li>
     <li><a href="wordlists/security_question_answers/common_surnames.txt">Common Surnames</a> - 20,000 Lines</li>
     <li><a href="wordlists/security_question_answers/dates.txt">Dates</a> - 751,068 Lines</li>
-    <li><a href="wordlists/security_question_answers/html_colors.txt">Html Colors</a> - 148 Lines</li>
+    <li><a href="wordlists/security_question_answers/html_colors.txt">HTML Colors</a> - 148 Lines</li>
     <li><a href="wordlists/security_question_answers/street_names.txt">Street Names</a> - 52,680 Lines</li>
     <li><a href="wordlists/security_question_answers/us_colleges.txt">US Colleges</a> - 6,752 Lines</li>
     <li><a href="wordlists/security_question_answers/us_private_schools.txt">US Private Schools</a> - 21,755 Lines</li>
