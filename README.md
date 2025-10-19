@@ -140,7 +140,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/miscellaneous/french_profanity_words.txt">French Profanity Words</a> - 106 Lines</li>
       <li><a href="wordlists/miscellaneous/html_colors.txt">HTML Colors</a> - 148 Lines</li>
       <li><a href="wordlists/miscellaneous/html_js_events.txt">HTML JS Events</a> - 171 Lines</li>
-      <li><a href="wordlists/miscellaneous/html_tags.txt">HTML Tags</a> - 113 Lines</li>
+      <li><a href="wordlists/miscellaneous/html_tags.txt">HTML Tags</a> - 129 Lines</li>
     </ul>
   </details>
   <details>
@@ -493,7 +493,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/miscellaneous/french_profanity_words.txt">French Profanity Words</a> - 106 Lines</li>
     <li><a href="wordlists/miscellaneous/html_colors.txt">HTML Colors</a> - 148 Lines</li>
     <li><a href="wordlists/miscellaneous/html_js_events.txt">HTML JS Events</a> - 171 Lines</li>
-    <li><a href="wordlists/miscellaneous/html_tags.txt">HTML Tags</a> - 113 Lines</li>
+    <li><a href="wordlists/miscellaneous/html_tags.txt">HTML Tags</a> - 129 Lines</li>
   </ul>
   <li>Names</li>
   <ul>
