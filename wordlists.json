@@ -132,6 +132,14 @@
         ]
     },
     {
+        "href": "wordlists/miscellaneous/android_permissions.txt",
+        "lines": 339,
+        "name": "Android Permissions",
+        "tags": [
+            "miscellaneous"
+        ]
+    },
+    {
         "href": "wordlists/discovery/apache.txt",
         "lines": 13232,
         "name": "Apache",
