@@ -132,19 +132,19 @@
         ]
     },
     {
-        "href": "wordlists/vulnerabilities/apache.txt",
-        "lines": 8531,
-        "name": "Apache",
-        "tags": [
-            "vulnerabilities"
-        ]
-    },
-    {
         "href": "wordlists/discovery/apache.txt",
         "lines": 13232,
         "name": "Apache",
         "tags": [
             "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/apache.txt",
+        "lines": 8531,
+        "name": "Apache",
+        "tags": [
+            "vulnerabilities"
         ]
     },
     {
@@ -947,6 +947,14 @@
         "tags": [
             "user-agents",
             "operating-system-name"
+        ]
+    },
+    {
+        "href": "wordlists/miscellaneous/html_colors.txt",
+        "lines": 148,
+        "name": "HTML Colors",
+        "tags": [
+            "miscellaneous"
         ]
     },
     {

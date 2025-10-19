@@ -137,6 +137,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/miscellaneous/companies.txt">Companies</a> - 60,047 Lines</li>
       <li><a href="wordlists/miscellaneous/english_profanity_words.txt">English Profanity Words</a> - 1,383 Lines</li>
       <li><a href="wordlists/miscellaneous/french_profanity_words.txt">French Profanity Words</a> - 106 Lines</li>
+      <li><a href="wordlists/miscellaneous/html_colors.txt">HTML Colors</a> - 148 Lines</li>
       <li><a href="wordlists/miscellaneous/html_js_events.txt">HTML JS Events</a> - 171 Lines</li>
       <li><a href="wordlists/miscellaneous/html_tags.txt">HTML Tags</a> - 113 Lines</li>
     </ul>
@@ -488,6 +489,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/miscellaneous/companies.txt">Companies</a> - 60,047 Lines</li>
     <li><a href="wordlists/miscellaneous/english_profanity_words.txt">English Profanity Words</a> - 1,383 Lines</li>
     <li><a href="wordlists/miscellaneous/french_profanity_words.txt">French Profanity Words</a> - 106 Lines</li>
+    <li><a href="wordlists/miscellaneous/html_colors.txt">HTML Colors</a> - 148 Lines</li>
     <li><a href="wordlists/miscellaneous/html_js_events.txt">HTML JS Events</a> - 171 Lines</li>
     <li><a href="wordlists/miscellaneous/html_tags.txt">HTML Tags</a> - 113 Lines</li>
   </ul>
