@@ -140,19 +140,19 @@
         ]
     },
     {
-        "href": "wordlists/discovery/apache.txt",
-        "lines": 13232,
-        "name": "Apache",
-        "tags": [
-            "discovery"
-        ]
-    },
-    {
         "href": "wordlists/vulnerabilities/apache.txt",
         "lines": 8531,
         "name": "Apache",
         "tags": [
             "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/apache.txt",
+        "lines": 13232,
+        "name": "Apache",
+        "tags": [
+            "discovery"
         ]
     },
     {
@@ -958,19 +958,19 @@
         ]
     },
     {
-        "href": "wordlists/miscellaneous/html_colors.txt",
-        "lines": 148,
-        "name": "HTML Colors",
-        "tags": [
-            "miscellaneous"
-        ]
-    },
-    {
         "href": "wordlists/security_question_answers/html_colors.txt",
         "lines": 148,
         "name": "HTML Colors",
         "tags": [
             "security-question-answers"
+        ]
+    },
+    {
+        "href": "wordlists/miscellaneous/html_colors.txt",
+        "lines": 148,
+        "name": "HTML Colors",
+        "tags": [
+            "miscellaneous"
         ]
     },
     {
@@ -1849,7 +1849,7 @@
     },
     {
         "href": "wordlists/discovery/tlds.txt",
-        "lines": 1439,
+        "lines": 1438,
         "name": "TLDs",
         "tags": [
             "discovery"
