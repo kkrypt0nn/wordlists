@@ -6,10 +6,11 @@ on:
       - main
     paths:
       - "wordlists/**"
+      - "Dockerfile.*"
   workflow_dispatch:
 
 jobs:
-  build-and-push:
+  build_and_push:
     name: Build and push Docker images
     runs-on: ubuntu-latest
     strategy:
@@ -18,13 +19,16 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
+
       - name: Log in to Docker Hub
         uses: docker/login-action@4907a6ddec9925e35a0a9e82d7399ccc52663121 # v4
         with:
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_TOKEN }}
+
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@4d04d5d9486b7bd6fa91e7baf45bbb4f8b9deedd # v4
+
       - name: Build and push Docker image
         uses: docker/build-push-action@bcafcacb16a39f128d818304e6c9c0c18556b85f # v7
         with:

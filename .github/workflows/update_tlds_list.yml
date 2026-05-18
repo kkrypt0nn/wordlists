@@ -15,20 +15,25 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
+
       - name: Setup Python
         uses: actions/setup-python@a309ff8b426b58ec0e2a45f0f869d46889d02405 # v6
         with:
           python-version: "3.14.5"
+
       - name: Install Python packages
         run: |
           python -m pip install --upgrade pip
           pip install -r tools/requirements.txt
+
       - name: Make TLD list file
         run: python tools/make_tld_list.py
+
       - name: Check if there are any changes
         id: verify_diff
         run: |
           git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+
       - name: Update TLD file
         if: steps.verify_diff.outputs.changed == 'true'
         run: |

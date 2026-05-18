@@ -1,9 +1,0 @@
-.git/
-.github/
-tools/
-.gitattributes
-CONTRIBUTING.md
-Dockerfile*
-README.md
-renovate.json
-wordlists.json

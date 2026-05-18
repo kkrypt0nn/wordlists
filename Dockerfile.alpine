@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.23
 
 # Copy wordlists
 COPY wordlists /wordlists

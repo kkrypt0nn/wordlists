@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:resolute
 
 # Copy wordlists
 COPY wordlists /wordlists
