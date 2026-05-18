@@ -9,6 +9,7 @@
 <p align="center">
   <a href="//hub.docker.com/r/kkrypt0nn/wordlists"><img src="https://img.shields.io/docker/v/kkrypt0nn/wordlists/alpine-latest?logo=docker"></a>
   <a href="//hub.docker.com/r/kkrypt0nn/wordlists"><img src="https://img.shields.io/docker/v/kkrypt0nn/wordlists/debian-latest?logo=docker"></a>
+  <a href="//hub.docker.com/r/kkrypt0nn/wordlists"><img src="https://img.shields.io/docker/v/kkrypt0nn/wordlists/scratch-latest?logo=docker"></a>
   <a href="//hub.docker.com/r/kkrypt0nn/wordlists"><img src="https://img.shields.io/docker/v/kkrypt0nn/wordlists/ubuntu-latest?logo=docker"></a>
 </p>
 
@@ -25,6 +26,7 @@ There are three Docker tags available for the [`kkrypt0nn/wordlists`](https://hu
 
 - [`alpine-latest`](https://hub.docker.com/r/kkrypt0nn/wordlists/tags?name=alpine-latest)
 - [`debian-latest`](https://hub.docker.com/r/kkrypt0nn/wordlists/tags?name=debian-latest)
+- [`scratch-latest`](https://hub.docker.com/r/kkrypt0nn/wordlists/tags?name=scratch-latest)
 - [`ubuntu-latest`](https://hub.docker.com/r/kkrypt0nn/wordlists/tags?name=ubuntu-latest)
 
 These will have a `/wordlists` folder with all the wordlists in there for you to use them.

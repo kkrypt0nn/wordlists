@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - "wordlists/**"
-      - "Dockerfile.*"
+      - "dockerfiles/**"
   workflow_dispatch:
 
 jobs:
@@ -15,10 +15,16 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        image: [alpine, debian, ubuntu]
+        image: [alpine, debian, scratch, ubuntu]
     steps:
       - name: Checkout code
         uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
+
+      - name: Unzip rockyou
+        run: |
+          cd wordlists/famous
+          unzip -o rockyou.zip
+          rm rockyou.zip
 
       - name: Log in to Docker Hub
         uses: docker/login-action@4907a6ddec9925e35a0a9e82d7399ccc52663121 # v4
@@ -33,7 +39,7 @@ jobs:
         uses: docker/build-push-action@bcafcacb16a39f128d818304e6c9c0c18556b85f # v7
         with:
           context: .
-          file: ./Dockerfile.${{ matrix.image }}
+          file: ./dockerfiles/Dockerfile.${{ matrix.image }}
           platforms: linux/amd64,linux/arm64
           push: true
           tags: kkrypt0nn/wordlists:${{ matrix.image }}-latest

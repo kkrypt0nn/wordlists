@@ -1,0 +1,8 @@
+FROM scratch
+
+# Copy wordlists
+COPY wordlists /wordlists
+
+# Copy relevant Markdown files
+COPY NOTICE.md /wordlists/NOTICE.md
+COPY TERMS_OF_USE.md /wordlists/TERMS_OF_USE.md
