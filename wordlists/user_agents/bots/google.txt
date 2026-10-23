@@ -274,3 +274,30 @@ Googlebot/2.1 (+http://www.google.com/bot.html) Mozilla/5.0 (compatible); Google
 Opera/18.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 Googlebot/2.1 (+https://www.google.com/bot.html)
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.60 Safari/537.36 Googlebot/2.1 (+http://www.googlebot.com/bot.html)
+Mozilla/5.0 (X11; Linux x86_64; Storebot-Google/1.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Safari/537.36
+Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012; Storebot-Google/1.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36
+Mozilla/5.0 (compatible; Google-InspectionTool/1.0)
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Google-InspectionTool/1.0)
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; 41.0.2272.96)
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; 41.0.2272.96) Chrome/41.0.2272.96 Safari/537.36
+41.0.2272.96-Image/1.0
+41.0.2272.96-Video/1.0
+Google-CloudVertexBot
+Google-Extended
+APIs-Google (+https://developers.google.com/webmasters/APIs-Google.html)
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; AdsBot-Google-Mobile; +http://www.google.com/mobile/adsbot.html)
+AdsBot-Google (+http://www.google.com/adsbot.html)
+Google-Safety
+Mediapartners-Google
+Mozilla/5.0 (compatible; Google-CWS)
+FeedFetcher-Google; (+http://www.google.com/feedfetcher.html)
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36 (compatible; Google-GeminiNotebook; +https://developers.google.com/crawling/docs/crawlers-fetchers/google-gemininotebook)
+ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 (compatible; Google-GeminiNotebook; +https://developers.google.com/crawling/docs/crawlers-fetchers/google-gemininotebook)
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Google-Agent; +https://developers.google.com/crawling/docs/crawlers-fetchers/google-agent)
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; compatible; Google-Agent; +https://developers.google.com/crawling/docs/crawlers-fetchers/google-agent) Chrome/41.0.2272.96 Safari/537.36
+GoogleMessages
+Google-Pinpoint
+GoogleProducer; (+https://developers.google.com/search/docs/crawling-indexing/google-producer)
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36 (compatible; Google-Read-Aloud; +https://support.google.com/webmasters/answer/1061943)
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 (compatible; Google-Read-Aloud; +https://support.google.com/webmasters/answer/1061943)
+Mozilla/5.0 (compatible; Google-Site-Verification/1.0)

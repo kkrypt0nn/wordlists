@@ -1,0 +1,3 @@
+ClaudeBot
+Claude-User
+Claude-SearchBot

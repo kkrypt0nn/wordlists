@@ -17,3 +17,11 @@ facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php
 facebookexternalhit/1.1 (+http(s)://www.facebook.com/externalhit_uatext.php
 facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) Facebot
 facebookexternalhit/1.1 (compatible; Blueno/1.0; +http://naver.me/scrap) Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) Mobile Safari/537.36
+meta-webindexer/1.1 (+/documentation/sharing/webmasters/web-crawlers)
+meta-webindexer/1.1
+meta-externalads/1.1 (+/documentation/sharing/webmasters/web-crawlers)
+meta-externalads/1.1
+meta-externalagent/1.1 (+/documentation/sharing/webmasters/web-crawlers)
+meta-externalagent/1.1
+meta-externalfetcher/1.1 (+/documentation/sharing/webmasters/web-crawlers)
+meta-externalfetcher/1.1

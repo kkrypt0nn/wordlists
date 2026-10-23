@@ -5,7 +5,6 @@ import json
 import os
 import re
 
-
 keywords = {
     "Bip": "BIP",
     "Sql": "SQL",
@@ -18,8 +17,8 @@ keywords = {
     "Us": "US",
     "Uri": "URI",
     "Html": "HTML",
-    "Http": "HTTP",
     "Js": "JS",
+    "Http": "HTTP",
     "Os": "OS",
     "Beos": "BeOS",
     "Chromeos": "ChromeOS",
@@ -31,18 +30,21 @@ keywords = {
     "Itunes": "iTunes",
     "Xml": "XML",
     "Xss": "XSS",
+    "Xxe": "XXE",
+    "Usa": "USA",
+    "Openai": "OpenAI",
 }
 
 
 class Wordlist:
-    def __init__(self, name: str, href: str, lines: int, tags: list[type[str]]):
+    def __init__(self, name: str, href: str, lines: int, tags: list[str]):
         self.name = name
         self.href = href
         self.lines = lines
         self.tags = tags
 
 
-wordlists: list[type[Wordlist]] = []
+wordlists: list[Wordlist] = []
 
 for filename in glob.iglob("./wordlists/**/*", recursive=True):
     if os.path.isdir(filename):
@@ -54,8 +56,8 @@ for filename in glob.iglob("./wordlists/**/*", recursive=True):
     name = levels[len(levels) - 1]
     name = name[: len(name) - 4].replace("_", " ").title()
 
-    for keyword in keywords:
-        name = re.sub(rf"\b{keyword}\b", keywords[keyword], name)
+    for keyword, value in keywords.items():
+        name = re.sub(rf"\b{keyword}\b", value, name)
 
     href = "/".join(levels)
 
@@ -66,7 +68,7 @@ for filename in glob.iglob("./wordlists/**/*", recursive=True):
         with open(rel_path, "rb") as f:
             lines = sum(1 for _ in f)
 
-    tags: list[type[str]] = []
+    tags: list[str] = []
     for folder in folders:
         tags.append(folder.replace("_", "-"))
 

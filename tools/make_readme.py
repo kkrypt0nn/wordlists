@@ -3,6 +3,7 @@
 import glob
 import os
 import re
+import sys
 
 keywords = {
     "Bip": "BIP",
@@ -31,6 +32,7 @@ keywords = {
     "Xss": "XSS",
     "Xxe": "XXE",
     "Usa": "USA",
+    "Openai": "OpenAI",
 }
 wordlists = {}
 
@@ -45,6 +47,7 @@ readme_template = """<h1 align="center">
 <p align="center">
   <a href="//hub.docker.com/r/kkrypt0nn/wordlists"><img src="https://img.shields.io/docker/v/kkrypt0nn/wordlists/alpine-latest?logo=docker"></a>
   <a href="//hub.docker.com/r/kkrypt0nn/wordlists"><img src="https://img.shields.io/docker/v/kkrypt0nn/wordlists/debian-latest?logo=docker"></a>
+  <a href="//hub.docker.com/r/kkrypt0nn/wordlists"><img src="https://img.shields.io/docker/v/kkrypt0nn/wordlists/scratch-latest?logo=docker"></a>
   <a href="//hub.docker.com/r/kkrypt0nn/wordlists"><img src="https://img.shields.io/docker/v/kkrypt0nn/wordlists/ubuntu-latest?logo=docker"></a>
 </p>
 
@@ -61,6 +64,7 @@ There are three Docker tags available for the [`kkrypt0nn/wordlists`](https://hu
 
 - [`alpine-latest`](https://hub.docker.com/r/kkrypt0nn/wordlists/tags?name=alpine-latest)
 - [`debian-latest`](https://hub.docker.com/r/kkrypt0nn/wordlists/tags?name=debian-latest)
+- [`scratch-latest`](https://hub.docker.com/r/kkrypt0nn/wordlists/tags?name=scratch-latest)
 - [`ubuntu-latest`](https://hub.docker.com/r/kkrypt0nn/wordlists/tags?name=ubuntu-latest)
 
 These will have a `/wordlists` folder with all the wordlists in there for you to use them.
@@ -110,8 +114,8 @@ for filename in glob.iglob("./wordlists/**/*", recursive=True):
     wordlist = levels[len(levels) - 1]
     wordlist = wordlist[: len(wordlist) - 4].replace("_", " ").title()
 
-    for keyword in keywords:
-        wordlist = re.sub(rf"\b{keyword}\b", keywords[keyword], wordlist)
+    for keyword, value in keywords.items():
+        wordlist = re.sub(rf"\b{keyword}\b", value, wordlist)
 
     href = "/".join(levels)
 
@@ -132,7 +136,7 @@ for filename in glob.iglob("./wordlists/**/*", recursive=True):
             else:
                 wordlists[folder].append(wordlist)
         case 2:
-            for i in range(0, len(folders)):
+            for i in range(len(folders)):
                 folder = folders[i].replace("_", " ").title()
                 if folder not in wordlists:
                     if i == 0:
@@ -152,13 +156,13 @@ for filename in glob.iglob("./wordlists/**/*", recursive=True):
                             wordlists[previous_folder][folder].append(wordlist)
         case other:
             print("Invalid level length")
-            exit(1337)
+            sys.exit(1337)
 
-sorted_keys = sorted(list(wordlists.keys()))
+sorted_keys = sorted(wordlists.keys())
 wordlists = {key: wordlists[key] for key in sorted_keys}
 
 # Sort User Agents as well
-sorted_user_agents_keys = sorted(list(wordlists["User Agents"].keys()))
+sorted_user_agents_keys = sorted(wordlists["User Agents"].keys())
 wordlists["User Agents"] = {
     key: wordlists["User Agents"][key] for key in sorted_user_agents_keys
 }
@@ -225,12 +229,12 @@ for category in wordlists:
         for subcategory in wordlists[category]:
             current_category += f"""
     <li>{subcategory}</li>"""
-            current_category += f"""
+            current_category += """
       <ul>"""
             for wordlist in wordlists[category][subcategory]:
                 current_category += f"""
         <li>{wordlist}</li>"""
-            current_category += f"""
+            current_category += """
       </ul>"""
 
     current_category += """
