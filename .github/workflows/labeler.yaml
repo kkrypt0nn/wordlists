@@ -6,15 +6,10 @@ on:
     branches:
       - main
 
+permissions:
+  contents: read
+  pull-requests: write
+
 jobs:
   labeler:
-    name: Labeler
-    runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      pull-requests: write
-    steps:
-      - name: Labeler
-        uses: actions/labeler@bf12e9b00b37c5c0ca2b87b79b2daf7891dbda13 # v7.0.0
-        with:
-          configuration-path: .github/labeler.yml
+    uses: kkrypt0nn/actions/.github/workflows/labeler.yaml@764909eeff7c880e26da91d6f31a208fdb45d57b # v0.2.0

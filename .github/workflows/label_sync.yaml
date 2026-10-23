@@ -1,0 +1,17 @@
+name: Label Sync
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/labels.yaml"
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  label_sync:
+    uses: kkrypt0nn/actions/.github/workflows/label_sync.yaml@764909eeff7c880e26da91d6f31a208fdb45d57b # v0.2.0
