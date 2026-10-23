@@ -81,12 +81,12 @@
         ]
     },
     {
-        "href": "wordlists/user_agents/software_name/alexa_certification_scanner.txt",
+        "href": "wordlists/user_agents/bots/alexa.txt",
         "lines": 1,
-        "name": "Alexa Certification Scanner",
+        "name": "Alexa",
         "tags": [
             "user-agents",
-            "software-name"
+            "bots"
         ]
     },
     {
@@ -111,6 +111,15 @@
         "name": "Alphanum Case Extra",
         "tags": [
             "stressing"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/bots/amazon.txt",
+        "lines": 3,
+        "name": "Amazon",
+        "tags": [
+            "user-agents",
+            "bots"
         ]
     },
     {
@@ -140,11 +149,12 @@
         ]
     },
     {
-        "href": "wordlists/vulnerabilities/apache.txt",
-        "lines": 8531,
-        "name": "Apache",
+        "href": "wordlists/user_agents/bots/anthropic.txt",
+        "lines": 3,
+        "name": "Anthropic",
         "tags": [
-            "vulnerabilities"
+            "user-agents",
+            "bots"
         ]
     },
     {
@@ -153,6 +163,14 @@
         "name": "Apache",
         "tags": [
             "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/apache.txt",
+        "lines": 8531,
+        "name": "Apache",
+        "tags": [
+            "vulnerabilities"
         ]
     },
     {
@@ -169,6 +187,15 @@
         "name": "Apache User Enum 2.0",
         "tags": [
             "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/bots/apple.txt",
+        "lines": 4,
+        "name": "Apple",
+        "tags": [
+            "user-agents",
+            "bots"
         ]
     },
     {
@@ -228,6 +255,15 @@
         "tags": [
             "user-agents",
             "hardware-type-specific"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/bots/bing.txt",
+        "lines": 13,
+        "name": "Bing",
+        "tags": [
+            "user-agents",
+            "bots"
         ]
     },
     {
@@ -609,12 +645,12 @@
         ]
     },
     {
-        "href": "wordlists/user_agents/software_name/discord.txt",
+        "href": "wordlists/user_agents/bots/discord.txt",
         "lines": 3,
         "name": "Discord",
         "tags": [
             "user-agents",
-            "software-name"
+            "bots"
         ]
     },
     {
@@ -631,6 +667,15 @@
         "name": "Domino",
         "tags": [
             "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/bots/duckduckgo.txt",
+        "lines": 1,
+        "name": "Duckduckgo",
+        "tags": [
+            "user-agents",
+            "bots"
         ]
     },
     {
@@ -719,18 +764,18 @@
         ]
     },
     {
-        "href": "wordlists/user_agents/software_name/facebook_app.txt",
-        "lines": 6810,
-        "name": "Facebook App",
+        "href": "wordlists/user_agents/bots/facebook.txt",
+        "lines": 27,
+        "name": "Facebook",
         "tags": [
             "user-agents",
-            "software-name"
+            "bots"
         ]
     },
     {
-        "href": "wordlists/user_agents/software_name/facebook_bot.txt",
-        "lines": 19,
-        "name": "Facebook Bot",
+        "href": "wordlists/user_agents/software_name/facebook_app.txt",
+        "lines": 6810,
+        "name": "Facebook App",
         "tags": [
             "user-agents",
             "software-name"
@@ -895,6 +940,15 @@
         ]
     },
     {
+        "href": "wordlists/user_agents/bots/google.txt",
+        "lines": 303,
+        "name": "Google",
+        "tags": [
+            "user-agents",
+            "bots"
+        ]
+    },
+    {
         "href": "wordlists/user_agents/software_name/google_earth.txt",
         "lines": 39,
         "name": "Google Earth",
@@ -940,15 +994,6 @@
         ]
     },
     {
-        "href": "wordlists/user_agents/software_name/googlebot.txt",
-        "lines": 276,
-        "name": "Googlebot",
-        "tags": [
-            "user-agents",
-            "software-name"
-        ]
-    },
-    {
         "href": "wordlists/user_agents/operating_system_name/hp_webos.txt",
         "lines": 21,
         "name": "HP webOS",
@@ -958,19 +1003,19 @@
         ]
     },
     {
-        "href": "wordlists/security_question_answers/html_colors.txt",
-        "lines": 148,
-        "name": "HTML Colors",
-        "tags": [
-            "security-question-answers"
-        ]
-    },
-    {
         "href": "wordlists/miscellaneous/html_colors.txt",
         "lines": 148,
         "name": "HTML Colors",
         "tags": [
             "miscellaneous"
+        ]
+    },
+    {
+        "href": "wordlists/security_question_answers/html_colors.txt",
+        "lines": 148,
+        "name": "HTML Colors",
+        "tags": [
+            "security-question-answers"
         ]
     },
     {
@@ -1342,6 +1387,15 @@
         ]
     },
     {
+        "href": "wordlists/user_agents/bots/mistral.txt",
+        "lines": 3,
+        "name": "Mistral",
+        "tags": [
+            "user-agents",
+            "bots"
+        ]
+    },
+    {
         "href": "wordlists/user_agents/hardware_type_specific/mobile.txt",
         "lines": 138617,
         "name": "Mobile",
@@ -1460,6 +1514,15 @@
         ]
     },
     {
+        "href": "wordlists/user_agents/bots/openai.txt",
+        "lines": 5,
+        "name": "OpenAI",
+        "tags": [
+            "user-agents",
+            "bots"
+        ]
+    },
+    {
         "href": "wordlists/user_agents/operating_system_name/openbsd.txt",
         "lines": 285,
         "name": "OpenBSD",
@@ -1535,6 +1598,15 @@
         "tags": [
             "user-agents",
             "hardware-type-specific"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/bots/perplexity.txt",
+        "lines": 2,
+        "name": "Perplexity",
+        "tags": [
+            "user-agents",
+            "bots"
         ]
     },
     {
@@ -1756,12 +1828,12 @@
         ]
     },
     {
-        "href": "wordlists/user_agents/software_name/slackbot_link_checker.txt",
+        "href": "wordlists/user_agents/bots/slack.txt",
         "lines": 2,
-        "name": "Slackbot Link Checker",
+        "name": "Slack",
         "tags": [
             "user-agents",
-            "software-name"
+            "bots"
         ]
     },
     {
@@ -1915,7 +1987,7 @@
     {
         "href": "wordlists/names/top_family_names_usa.txt",
         "lines": 1000,
-        "name": "Top Family Names Usa",
+        "name": "Top Family Names USA",
         "tags": [
             "names"
         ]
@@ -1955,7 +2027,7 @@
     {
         "href": "wordlists/names/top_female_names_usa.txt",
         "lines": 1000,
-        "name": "Top Female Names Usa",
+        "name": "Top Female Names USA",
         "tags": [
             "names"
         ]
@@ -2011,7 +2083,7 @@
     {
         "href": "wordlists/names/top_male_names_usa.txt",
         "lines": 1000,
-        "name": "Top Male Names Usa",
+        "name": "Top Male Names USA",
         "tags": [
             "names"
         ]
@@ -2059,18 +2131,18 @@
         ]
     },
     {
-        "href": "wordlists/user_agents/software_name/twitter_app.txt",
-        "lines": 154,
-        "name": "Twitter App",
+        "href": "wordlists/user_agents/bots/twitter.txt",
+        "lines": 4,
+        "name": "Twitter",
         "tags": [
             "user-agents",
-            "software-name"
+            "bots"
         ]
     },
     {
-        "href": "wordlists/user_agents/software_name/twitterbot.txt",
-        "lines": 4,
-        "name": "Twitterbot",
+        "href": "wordlists/user_agents/software_name/twitter_app.txt",
+        "lines": 154,
+        "name": "Twitter App",
         "tags": [
             "user-agents",
             "software-name"
@@ -2305,6 +2377,14 @@
         ]
     },
     {
+        "href": "wordlists/vulnerabilities/xxe.txt",
+        "lines": 51,
+        "name": "XXE",
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
         "href": "wordlists/passwords/xato_net_passwords.txt",
         "lines": 5189454,
         "name": "Xato Net Passwords",
@@ -2318,14 +2398,6 @@
         "name": "Xato Net Usernames",
         "tags": [
             "usernames"
-        ]
-    },
-    {
-        "href": "wordlists/vulnerabilities/xxe.txt",
-        "lines": 51,
-        "name": "Xxe",
-        "tags": [
-            "vulnerabilities"
         ]
     },
     {

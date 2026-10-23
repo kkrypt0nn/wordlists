@@ -233,6 +233,25 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
   <details>
     <summary>User Agents</summary>
     <details>
+      <summary>Bots</summary>
+      <ul>
+        <li><a href="wordlists/user_agents/bots/alexa.txt">Alexa</a> - 1 Lines</li>
+        <li><a href="wordlists/user_agents/bots/amazon.txt">Amazon</a> - 3 Lines</li>
+        <li><a href="wordlists/user_agents/bots/anthropic.txt">Anthropic</a> - 3 Lines</li>
+        <li><a href="wordlists/user_agents/bots/apple.txt">Apple</a> - 4 Lines</li>
+        <li><a href="wordlists/user_agents/bots/bing.txt">Bing</a> - 13 Lines</li>
+        <li><a href="wordlists/user_agents/bots/discord.txt">Discord</a> - 3 Lines</li>
+        <li><a href="wordlists/user_agents/bots/duckduckgo.txt">Duckduckgo</a> - 1 Lines</li>
+        <li><a href="wordlists/user_agents/bots/facebook.txt">Facebook</a> - 27 Lines</li>
+        <li><a href="wordlists/user_agents/bots/google.txt">Google</a> - 303 Lines</li>
+        <li><a href="wordlists/user_agents/bots/mistral.txt">Mistral</a> - 3 Lines</li>
+        <li><a href="wordlists/user_agents/bots/openai.txt">OpenAI</a> - 5 Lines</li>
+        <li><a href="wordlists/user_agents/bots/perplexity.txt">Perplexity</a> - 2 Lines</li>
+        <li><a href="wordlists/user_agents/bots/slack.txt">Slack</a> - 2 Lines</li>
+        <li><a href="wordlists/user_agents/bots/twitter.txt">Twitter</a> - 4 Lines</li>
+      </ul>
+    </details>
+    <details>
       <summary>Hardware Type Specific</summary>
       <ul>
         <li><a href="wordlists/user_agents/hardware_type_specific/billboard.txt">Billboard</a> - 12 Lines</li>
@@ -289,20 +308,17 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <summary>Software Name</summary>
       <ul>
         <li><a href="wordlists/user_agents/software_name/1337browser.txt">1337Browser</a> - 6 Lines</li>
-        <li><a href="wordlists/user_agents/software_name/alexa_certification_scanner.txt">Alexa Certification Scanner</a> - 1 Lines</li>
         <li><a href="wordlists/user_agents/software_name/android_browser.txt">Android Browser</a> - 33,081 Lines</li>
         <li><a href="wordlists/user_agents/software_name/blackberry_browser.txt">Blackberry Browser</a> - 1,854 Lines</li>
         <li><a href="wordlists/user_agents/software_name/brave.txt">Brave</a> - 70 Lines</li>
         <li><a href="wordlists/user_agents/software_name/chrome.txt">Chrome</a> - 182,359 Lines</li>
         <li><a href="wordlists/user_agents/software_name/chromium.txt">Chromium</a> - 870 Lines</li>
         <li><a href="wordlists/user_agents/software_name/curl.txt">Curl</a> - 232 Lines</li>
-        <li><a href="wordlists/user_agents/software_name/discord.txt">Discord</a> - 3 Lines</li>
         <li><a href="wordlists/user_agents/software_name/ea_origin_browser.txt">Ea Origin Browser</a> - 312 Lines</li>
         <li><a href="wordlists/user_agents/software_name/edge.txt">Edge</a> - 3,605 Lines</li>
         <li><a href="wordlists/user_agents/software_name/electron_application.txt">Electron Application</a> - 632 Lines</li>
         <li><a href="wordlists/user_agents/software_name/excel.txt">Excel</a> - 9 Lines</li>
         <li><a href="wordlists/user_agents/software_name/facebook_app.txt">Facebook App</a> - 6,810 Lines</li>
-        <li><a href="wordlists/user_agents/software_name/facebook_bot.txt">Facebook Bot</a> - 19 Lines</li>
         <li><a href="wordlists/user_agents/software_name/firebird.txt">Firebird</a> - 98 Lines</li>
         <li><a href="wordlists/user_agents/software_name/firefox.txt">Firefox</a> - 26,035 Lines</li>
         <li><a href="wordlists/user_agents/software_name/google_earth.txt">Google Earth</a> - 39 Lines</li>
@@ -310,7 +326,6 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
         <li><a href="wordlists/user_agents/software_name/google_favicon_crawler.txt">Google Favicon Crawler</a> - 3 Lines</li>
         <li><a href="wordlists/user_agents/software_name/google_search_app.txt">Google Search App</a> - 2,381 Lines</li>
         <li><a href="wordlists/user_agents/software_name/google_site_verifier_bot.txt">Google Site Verifier Bot</a> - 2 Lines</li>
-        <li><a href="wordlists/user_agents/software_name/googlebot.txt">Googlebot</a> - 276 Lines</li>
         <li><a href="wordlists/user_agents/software_name/iceweasel.txt">Iceweasel</a> - 555 Lines</li>
         <li><a href="wordlists/user_agents/software_name/internet_explorer.txt">Internet Explorer</a> - 102,404 Lines</li>
         <li><a href="wordlists/user_agents/software_name/internet_explorer_mobile.txt">Internet Explorer Mobile</a> - 1,068 Lines</li>
@@ -332,11 +347,9 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
         <li><a href="wordlists/user_agents/software_name/python_urllib.txt">Python Urllib</a> - 18 Lines</li>
         <li><a href="wordlists/user_agents/software_name/safari.txt">Safari</a> - 12,186 Lines</li>
         <li><a href="wordlists/user_agents/software_name/samsung_browser.txt">Samsung Browser</a> - 5,326 Lines</li>
-        <li><a href="wordlists/user_agents/software_name/slackbot_link_checker.txt">Slackbot Link Checker</a> - 2 Lines</li>
         <li><a href="wordlists/user_agents/software_name/sony_web_browser.txt">Sony Web Browser</a> - 4 Lines</li>
         <li><a href="wordlists/user_agents/software_name/tweetmeme_bot.txt">Tweetmeme Bot</a> - 3 Lines</li>
         <li><a href="wordlists/user_agents/software_name/twitter_app.txt">Twitter App</a> - 154 Lines</li>
-        <li><a href="wordlists/user_agents/software_name/twitterbot.txt">Twitterbot</a> - 4 Lines</li>
         <li><a href="wordlists/user_agents/software_name/valve_steam_game_overlay.txt">Valve Steam Game Overlay</a> - 1,009 Lines</li>
         <li><a href="wordlists/user_agents/software_name/vision_mobile_browser.txt">Vision Mobile Browser</a> - 3 Lines</li>
         <li><a href="wordlists/user_agents/software_name/w3c_css_validator.txt">W3C Css Validator</a> - 4 Lines</li>
@@ -576,6 +589,23 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
   </ul>
   <li>User Agents</li>
   <ul>
+    <li>Bots</li>
+      <ul>
+        <li><a href="wordlists/user_agents/bots/alexa.txt">Alexa</a> - 1 Lines</li>
+        <li><a href="wordlists/user_agents/bots/amazon.txt">Amazon</a> - 3 Lines</li>
+        <li><a href="wordlists/user_agents/bots/anthropic.txt">Anthropic</a> - 3 Lines</li>
+        <li><a href="wordlists/user_agents/bots/apple.txt">Apple</a> - 4 Lines</li>
+        <li><a href="wordlists/user_agents/bots/bing.txt">Bing</a> - 13 Lines</li>
+        <li><a href="wordlists/user_agents/bots/discord.txt">Discord</a> - 3 Lines</li>
+        <li><a href="wordlists/user_agents/bots/duckduckgo.txt">Duckduckgo</a> - 1 Lines</li>
+        <li><a href="wordlists/user_agents/bots/facebook.txt">Facebook</a> - 27 Lines</li>
+        <li><a href="wordlists/user_agents/bots/google.txt">Google</a> - 303 Lines</li>
+        <li><a href="wordlists/user_agents/bots/mistral.txt">Mistral</a> - 3 Lines</li>
+        <li><a href="wordlists/user_agents/bots/openai.txt">OpenAI</a> - 5 Lines</li>
+        <li><a href="wordlists/user_agents/bots/perplexity.txt">Perplexity</a> - 2 Lines</li>
+        <li><a href="wordlists/user_agents/bots/slack.txt">Slack</a> - 2 Lines</li>
+        <li><a href="wordlists/user_agents/bots/twitter.txt">Twitter</a> - 4 Lines</li>
+      </ul>
     <li>Hardware Type Specific</li>
       <ul>
         <li><a href="wordlists/user_agents/hardware_type_specific/billboard.txt">Billboard</a> - 12 Lines</li>
@@ -628,20 +658,17 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li>Software Name</li>
       <ul>
         <li><a href="wordlists/user_agents/software_name/1337browser.txt">1337Browser</a> - 6 Lines</li>
-        <li><a href="wordlists/user_agents/software_name/alexa_certification_scanner.txt">Alexa Certification Scanner</a> - 1 Lines</li>
         <li><a href="wordlists/user_agents/software_name/android_browser.txt">Android Browser</a> - 33,081 Lines</li>
         <li><a href="wordlists/user_agents/software_name/blackberry_browser.txt">Blackberry Browser</a> - 1,854 Lines</li>
         <li><a href="wordlists/user_agents/software_name/brave.txt">Brave</a> - 70 Lines</li>
         <li><a href="wordlists/user_agents/software_name/chrome.txt">Chrome</a> - 182,359 Lines</li>
         <li><a href="wordlists/user_agents/software_name/chromium.txt">Chromium</a> - 870 Lines</li>
         <li><a href="wordlists/user_agents/software_name/curl.txt">Curl</a> - 232 Lines</li>
-        <li><a href="wordlists/user_agents/software_name/discord.txt">Discord</a> - 3 Lines</li>
         <li><a href="wordlists/user_agents/software_name/ea_origin_browser.txt">Ea Origin Browser</a> - 312 Lines</li>
         <li><a href="wordlists/user_agents/software_name/edge.txt">Edge</a> - 3,605 Lines</li>
         <li><a href="wordlists/user_agents/software_name/electron_application.txt">Electron Application</a> - 632 Lines</li>
         <li><a href="wordlists/user_agents/software_name/excel.txt">Excel</a> - 9 Lines</li>
         <li><a href="wordlists/user_agents/software_name/facebook_app.txt">Facebook App</a> - 6,810 Lines</li>
-        <li><a href="wordlists/user_agents/software_name/facebook_bot.txt">Facebook Bot</a> - 19 Lines</li>
         <li><a href="wordlists/user_agents/software_name/firebird.txt">Firebird</a> - 98 Lines</li>
         <li><a href="wordlists/user_agents/software_name/firefox.txt">Firefox</a> - 26,035 Lines</li>
         <li><a href="wordlists/user_agents/software_name/google_earth.txt">Google Earth</a> - 39 Lines</li>
@@ -649,7 +676,6 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
         <li><a href="wordlists/user_agents/software_name/google_favicon_crawler.txt">Google Favicon Crawler</a> - 3 Lines</li>
         <li><a href="wordlists/user_agents/software_name/google_search_app.txt">Google Search App</a> - 2,381 Lines</li>
         <li><a href="wordlists/user_agents/software_name/google_site_verifier_bot.txt">Google Site Verifier Bot</a> - 2 Lines</li>
-        <li><a href="wordlists/user_agents/software_name/googlebot.txt">Googlebot</a> - 276 Lines</li>
         <li><a href="wordlists/user_agents/software_name/iceweasel.txt">Iceweasel</a> - 555 Lines</li>
         <li><a href="wordlists/user_agents/software_name/internet_explorer.txt">Internet Explorer</a> - 102,404 Lines</li>
         <li><a href="wordlists/user_agents/software_name/internet_explorer_mobile.txt">Internet Explorer Mobile</a> - 1,068 Lines</li>
@@ -671,11 +697,9 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
         <li><a href="wordlists/user_agents/software_name/python_urllib.txt">Python Urllib</a> - 18 Lines</li>
         <li><a href="wordlists/user_agents/software_name/safari.txt">Safari</a> - 12,186 Lines</li>
         <li><a href="wordlists/user_agents/software_name/samsung_browser.txt">Samsung Browser</a> - 5,326 Lines</li>
-        <li><a href="wordlists/user_agents/software_name/slackbot_link_checker.txt">Slackbot Link Checker</a> - 2 Lines</li>
         <li><a href="wordlists/user_agents/software_name/sony_web_browser.txt">Sony Web Browser</a> - 4 Lines</li>
         <li><a href="wordlists/user_agents/software_name/tweetmeme_bot.txt">Tweetmeme Bot</a> - 3 Lines</li>
         <li><a href="wordlists/user_agents/software_name/twitter_app.txt">Twitter App</a> - 154 Lines</li>
-        <li><a href="wordlists/user_agents/software_name/twitterbot.txt">Twitterbot</a> - 4 Lines</li>
         <li><a href="wordlists/user_agents/software_name/valve_steam_game_overlay.txt">Valve Steam Game Overlay</a> - 1,009 Lines</li>
         <li><a href="wordlists/user_agents/software_name/vision_mobile_browser.txt">Vision Mobile Browser</a> - 3 Lines</li>
         <li><a href="wordlists/user_agents/software_name/w3c_css_validator.txt">W3C Css Validator</a> - 4 Lines</li>
