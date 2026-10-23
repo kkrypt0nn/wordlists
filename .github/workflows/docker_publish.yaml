@@ -49,4 +49,4 @@ jobs:
           push: true
           tags: |
             kkrypt0nn/wordlists:${{ matrix.image }}-latest
-            krypt0nn/wordlists:${{ matrix.image }}-${{ steps.tag.outputs.tag }}
+            kkrypt0nn/wordlists:${{ matrix.image }}-${{ steps.tag.outputs.tag }}
