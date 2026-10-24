@@ -25,10 +25,10 @@ jobs:
           python-version: "3.15.1"
 
       - name: Make README file
-        run: python tools/make_readme.py
+        run: python scripts/make_readme.py
 
       - name: Make JSON file
-        run: python tools/make_json.py
+        run: python scripts/make_json.py
 
       - name: Check if there are any changes
         id: verify_diff
