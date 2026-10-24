@@ -15,7 +15,7 @@ The following modifications may have been done on some wordlists:
 - [`names/top_family_names_chinese.txt`](wordlists/names/top_family_names_chinese.txt) - [Source](https://github.com/NihaoKangkang/chinese_name_analysis/blob/main/2020/2020_family_name_top100.txt)
 - [`names/top_surnames_character_chinese.txt`](wordlists/names/top_surnames_character_chinese.txt) - [Source](https://github.com/NihaoKangkang/chinese_name_analysis/blob/main/2019/2019_surname_word_top50.txt)
 
-### License
+### License
 
 ```
 MIT License
