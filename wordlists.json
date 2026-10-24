@@ -3,6 +3,9 @@
         "href": "wordlists/passwords/000webhost.txt",
         "lines": 720302,
         "name": "000Webhost",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Passwords/Leaked-Databases/000webhost.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -11,6 +14,9 @@
         "href": "wordlists/user_agents/software_name/1337browser.txt",
         "lines": 6,
         "name": "1337Browser",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/1337browser.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -20,6 +26,9 @@
         "href": "wordlists/htb/2_digits.txt",
         "lines": 100,
         "name": "2 Digits",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "htb"
         ]
@@ -28,6 +37,9 @@
         "href": "wordlists/stressing/2_digits_number.txt",
         "lines": 100,
         "name": "2 Digits Number",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "stressing"
         ]
@@ -36,6 +48,9 @@
         "href": "wordlists/htb/3_digits.txt",
         "lines": 1000,
         "name": "3 Digits",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "htb"
         ]
@@ -44,6 +59,9 @@
         "href": "wordlists/stressing/3_digits_000_to_999.txt",
         "lines": 1000,
         "name": "3 Digits 000 To 999",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "stressing"
         ]
@@ -52,6 +70,9 @@
         "href": "wordlists/htb/4_digits.txt",
         "lines": 10000,
         "name": "4 Digits",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "htb"
         ]
@@ -60,6 +81,9 @@
         "href": "wordlists/stressing/4_digits_0000_to_9999.txt",
         "lines": 10000,
         "name": "4 Digits 0000 To 9999",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "stressing"
         ]
@@ -68,6 +92,9 @@
         "href": "wordlists/stressing/5_digits_00000_to_99999.txt",
         "lines": 100000,
         "name": "5 Digits 00000 To 99999",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "stressing"
         ]
@@ -76,6 +103,9 @@
         "href": "wordlists/stressing/6_digits_000000_to_999999.txt",
         "lines": 1000000,
         "name": "6 Digits 000000 To 999999",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "stressing"
         ]
@@ -84,6 +114,9 @@
         "href": "wordlists/user_agents/bots/alexa.txt",
         "lines": 1,
         "name": "Alexa",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/alexa-certification-scanner.txt"
+        ],
         "tags": [
             "user-agents",
             "bots"
@@ -93,6 +126,9 @@
         "href": "wordlists/vulnerabilities/all_attacks.txt",
         "lines": 467,
         "name": "All Attacks",
+        "sources": [
+            "https://github.com/xmendez/wfuzz/blob/master/wordlist/Injections/All_attack.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -101,6 +137,9 @@
         "href": "wordlists/stressing/alphanum_case.txt",
         "lines": 62,
         "name": "Alphanum Case",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "stressing"
         ]
@@ -109,6 +148,9 @@
         "href": "wordlists/stressing/alphanum_case_extra.txt",
         "lines": 94,
         "name": "Alphanum Case Extra",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "stressing"
         ]
@@ -117,6 +159,9 @@
         "href": "wordlists/user_agents/bots/amazon.txt",
         "lines": 3,
         "name": "Amazon",
+        "sources": [
+            "https://developer.amazon.com/amazonbot"
+        ],
         "tags": [
             "user-agents",
             "bots"
@@ -126,6 +171,9 @@
         "href": "wordlists/user_agents/operating_system_name/android.txt",
         "lines": 202129,
         "name": "Android",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/operating-system-name/android.txt"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"
@@ -135,6 +183,9 @@
         "href": "wordlists/user_agents/software_name/android_browser.txt",
         "lines": 33081,
         "name": "Android Browser",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/android-browser.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -144,6 +195,9 @@
         "href": "wordlists/miscellaneous/android_permissions.txt",
         "lines": 339,
         "name": "Android Permissions",
+        "sources": [
+            "https://developer.android.com/reference/android/Manifest.permission"
+        ],
         "tags": [
             "miscellaneous"
         ]
@@ -152,6 +206,9 @@
         "href": "wordlists/user_agents/bots/anthropic.txt",
         "lines": 3,
         "name": "Anthropic",
+        "sources": [
+            "https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler"
+        ],
         "tags": [
             "user-agents",
             "bots"
@@ -161,6 +218,9 @@
         "href": "wordlists/discovery/apache.txt",
         "lines": 13232,
         "name": "Apache",
+        "sources": [
+            "https://github.com/orwagodfather/WordList/blob/main/apac.txt"
+        ],
         "tags": [
             "discovery"
         ]
@@ -169,6 +229,9 @@
         "href": "wordlists/vulnerabilities/apache.txt",
         "lines": 8531,
         "name": "Apache",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/Apache.fuzz.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -177,6 +240,9 @@
         "href": "wordlists/discovery/apache_user_enum_1.0.txt",
         "lines": 8916,
         "name": "Apache User Enum 1.0",
+        "sources": [
+            "https://gitlab.com/kalilinux/packages/dirbuster/-/blob/kali/master/apache-user-enum-1.0.txt"
+        ],
         "tags": [
             "discovery"
         ]
@@ -185,6 +251,9 @@
         "href": "wordlists/discovery/apache_user_enum_2.0.txt",
         "lines": 10341,
         "name": "Apache User Enum 2.0",
+        "sources": [
+            "https://gitlab.com/kalilinux/packages/dirbuster/-/blob/kali/master/apache-user-enum-2.0.txt"
+        ],
         "tags": [
             "discovery"
         ]
@@ -193,6 +262,9 @@
         "href": "wordlists/user_agents/bots/apple.txt",
         "lines": 4,
         "name": "Apple",
+        "sources": [
+            "https://support.apple.com/en-us/119829"
+        ],
         "tags": [
             "user-agents",
             "bots"
@@ -202,6 +274,9 @@
         "href": "wordlists/languages/arabic.txt",
         "lines": 465914,
         "name": "Arabic",
+        "sources": [
+            "https://github.com/titoBouzout/Dictionaries/blob/master/Arabic.dic"
+        ],
         "tags": [
             "languages"
         ]
@@ -210,6 +285,9 @@
         "href": "wordlists/vulnerabilities/axis.txt",
         "lines": 17,
         "name": "Axis",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/axis.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -218,6 +296,9 @@
         "href": "wordlists/miscellaneous/bip_39.txt",
         "lines": 2048,
         "name": "BIP 39",
+        "sources": [
+            "https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt"
+        ],
         "tags": [
             "miscellaneous"
         ]
@@ -226,6 +307,9 @@
         "href": "wordlists/user_agents/operating_system_name/bada.txt",
         "lines": 182,
         "name": "Bada",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/operating-system-name/bada.txt"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"
@@ -235,6 +319,9 @@
         "href": "wordlists/user_agents/operating_system_name/beos.txt",
         "lines": 18,
         "name": "BeOS",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/operating-system-name/beos.txt"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"
@@ -244,6 +331,9 @@
         "href": "wordlists/discovery/big.txt",
         "lines": 20469,
         "name": "Big",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "discovery"
         ]
@@ -252,6 +342,9 @@
         "href": "wordlists/user_agents/hardware_type_specific/billboard.txt",
         "lines": 12,
         "name": "Billboard",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/hardware-type-specific/billboard.txt"
+        ],
         "tags": [
             "user-agents",
             "hardware-type-specific"
@@ -261,6 +354,9 @@
         "href": "wordlists/user_agents/bots/bing.txt",
         "lines": 13,
         "name": "Bing",
+        "sources": [
+            "https://www.bing.com/webmasters/help/which-crawlers-does-bing-use-8c184ec0"
+        ],
         "tags": [
             "user-agents",
             "bots"
@@ -270,6 +366,9 @@
         "href": "wordlists/user_agents/software_name/blackberry_browser.txt",
         "lines": 1854,
         "name": "Blackberry Browser",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/blackberry-browser.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -279,6 +378,9 @@
         "href": "wordlists/user_agents/operating_system_name/blackberry_os.txt",
         "lines": 2365,
         "name": "Blackberry OS",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/operating-system-name/blackberry-os.txt"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"
@@ -288,6 +390,9 @@
         "href": "wordlists/user_agents/software_name/brave.txt",
         "lines": 70,
         "name": "Brave",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/brave.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -297,6 +402,9 @@
         "href": "wordlists/passwords/bt4_passwords.txt",
         "lines": 1652902,
         "name": "Bt4 Passwords",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Passwords/bt4-password.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -305,6 +413,9 @@
         "href": "wordlists/passwords/burnett.txt",
         "lines": 1024,
         "name": "Burnett",
+        "sources": [
+            "https://github.com/rapid7/metasploit-framework/blob/master/data/wordlists/burnett_top_1024.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -313,6 +424,9 @@
         "href": "wordlists/user_agents/hardware_type_specific/car.txt",
         "lines": 11,
         "name": "Car",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/hardware-type-specific/car.txt"
+        ],
         "tags": [
             "user-agents",
             "hardware-type-specific"
@@ -322,6 +436,9 @@
         "href": "wordlists/vulnerabilities/cgis.txt",
         "lines": 3463,
         "name": "Cgis",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/CGIs.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -330,6 +447,9 @@
         "href": "wordlists/stressing/char.txt",
         "lines": 26,
         "name": "Char",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "stressing"
         ]
@@ -338,6 +458,9 @@
         "href": "wordlists/user_agents/software_name/chrome.txt",
         "lines": 182359,
         "name": "Chrome",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/chrome.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -347,6 +470,9 @@
         "href": "wordlists/user_agents/operating_system_name/chromeos.txt",
         "lines": 1757,
         "name": "ChromeOS",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/operating-system-name/chromeos.txt"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"
@@ -356,6 +482,9 @@
         "href": "wordlists/user_agents/software_name/chromium.txt",
         "lines": 870,
         "name": "Chromium",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/chromium.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -365,6 +494,9 @@
         "href": "wordlists/usernames/cirt_default_usernames.txt",
         "lines": 827,
         "name": "Cirt Default Usernames",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Usernames/cirt-default-usernames.txt"
+        ],
         "tags": [
             "usernames"
         ]
@@ -373,6 +505,9 @@
         "href": "wordlists/security_question_answers/cities.txt",
         "lines": 98304,
         "name": "Cities",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Miscellaneous/Security-Question-Answers/cities.txt"
+        ],
         "tags": [
             "security-question-answers"
         ]
@@ -381,6 +516,9 @@
         "href": "wordlists/security_question_answers/city_state_country.txt",
         "lines": 98304,
         "name": "City State Country",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Miscellaneous/Security-Question-Answers/city-state-country.txt"
+        ],
         "tags": [
             "security-question-answers"
         ]
@@ -389,6 +527,9 @@
         "href": "wordlists/vulnerabilities/coldfusion.txt",
         "lines": 22,
         "name": "Coldfusion",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/coldfusion.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -397,6 +538,9 @@
         "href": "wordlists/discovery/common.txt",
         "lines": 4739,
         "name": "Common",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/common.txt"
+        ],
         "tags": [
             "discovery"
         ]
@@ -405,6 +549,9 @@
         "href": "wordlists/usernames/common_admin_base64.txt",
         "lines": 57,
         "name": "Common Admin Base64",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Usernames/CommonAdminBase64.txt"
+        ],
         "tags": [
             "usernames"
         ]
@@ -413,6 +560,9 @@
         "href": "wordlists/passwords/common_passwords_win.txt",
         "lines": 815,
         "name": "Common Passwords Win",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/common-passwords-win.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -421,6 +571,9 @@
         "href": "wordlists/passwords/common_roots.txt",
         "lines": 4724,
         "name": "Common Roots",
+        "sources": [
+            "https://github.com/rapid7/metasploit-framework/blob/master/data/wordlists/common_roots.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -429,6 +582,9 @@
         "href": "wordlists/discovery/common_sql_columns.txt",
         "lines": 2694,
         "name": "Common SQL Columns",
+        "sources": [
+            "https://github.com/sqlmapproject/sqlmap/blob/master/data/txt/common-columns.txt"
+        ],
         "tags": [
             "discovery"
         ]
@@ -437,6 +593,9 @@
         "href": "wordlists/discovery/common_sql_tables.txt",
         "lines": 3695,
         "name": "Common SQL Tables",
+        "sources": [
+            "https://github.com/sqlmapproject/sqlmap/blob/master/data/txt/common-tables.txt"
+        ],
         "tags": [
             "discovery"
         ]
@@ -445,6 +604,9 @@
         "href": "wordlists/security_question_answers/common_surnames.txt",
         "lines": 20000,
         "name": "Common Surnames",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Miscellaneous/Security-Question-Answers/common-surnames.txt"
+        ],
         "tags": [
             "security-question-answers"
         ]
@@ -453,6 +615,9 @@
         "href": "wordlists/miscellaneous/companies.txt",
         "lines": 60047,
         "name": "Companies",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "miscellaneous"
         ]
@@ -461,6 +626,9 @@
         "href": "wordlists/user_agents/hardware_type_specific/computer.txt",
         "lines": 222967,
         "name": "Computer",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/hardware-type-specific/computer.txt"
+        ],
         "tags": [
             "user-agents",
             "hardware-type-specific"
@@ -470,6 +638,9 @@
         "href": "wordlists/discovery/conf.txt",
         "lines": 100895,
         "name": "Conf",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "discovery"
         ]
@@ -478,6 +649,9 @@
         "href": "wordlists/languages/croatian.txt",
         "lines": 215956,
         "name": "Croatian",
+        "sources": [
+            "https://github.com/titoBouzout/Dictionaries/blob/master/Croatian.dic"
+        ],
         "tags": [
             "languages"
         ]
@@ -486,6 +660,9 @@
         "href": "wordlists/user_agents/software_name/curl.txt",
         "lines": 232,
         "name": "Curl",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/curl.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -495,6 +672,9 @@
         "href": "wordlists/languages/czech.txt",
         "lines": 535889,
         "name": "Czech",
+        "sources": [
+            "https://github.com/titoBouzout/Dictionaries/blob/master/Czech.dic"
+        ],
         "tags": [
             "languages"
         ]
@@ -503,6 +683,9 @@
         "href": "wordlists/languages/danish.txt",
         "lines": 154437,
         "name": "Danish",
+        "sources": [
+            "https://github.com/titoBouzout/Dictionaries/blob/master/Danish.dic"
+        ],
         "tags": [
             "languages"
         ]
@@ -511,6 +694,9 @@
         "href": "wordlists/passwords/darkweb_2017.txt",
         "lines": 9999,
         "name": "Darkweb 2017",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Passwords/darkweb2017-top10000.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -519,6 +705,9 @@
         "href": "wordlists/user_agents/operating_system_name/darwin.txt",
         "lines": 549,
         "name": "Darwin",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/operating-system-name/darwin.txt"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"
@@ -528,6 +717,9 @@
         "href": "wordlists/security_question_answers/dates.txt",
         "lines": 751068,
         "name": "Dates",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Miscellaneous/Security-Question-Answers/dates.txt"
+        ],
         "tags": [
             "security-question-answers"
         ]
@@ -536,6 +728,9 @@
         "href": "wordlists/passwords/db2_default_passwords.txt",
         "lines": 8,
         "name": "Db2 Default Passwords",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Passwords/Default-Credentials/db2-betterdefaultpasslist.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -544,6 +739,9 @@
         "href": "wordlists/usernames/db2_default_user.txt",
         "lines": 5,
         "name": "Db2 Default User",
+        "sources": [
+            "https://github.com/rapid7/metasploit-framework/blob/master/data/wordlists/db2_default_user.txt"
+        ],
         "tags": [
             "usernames"
         ]
@@ -552,6 +750,9 @@
         "href": "wordlists/passwords/default_passwords_for_services.txt",
         "lines": 1243,
         "name": "Default Passwords For Services",
+        "sources": [
+            "https://github.com/rapid7/metasploit-framework/blob/master/data/wordlists/default_pass_for_services_unhash.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -560,6 +761,9 @@
         "href": "wordlists/usernames/default_users_for_services.txt",
         "lines": 919,
         "name": "Default Users For Services",
+        "sources": [
+            "https://github.com/rapid7/metasploit-framework/blob/master/data/wordlists/default_users_for_services_unhash.txt"
+        ],
         "tags": [
             "usernames"
         ]
@@ -568,6 +772,9 @@
         "href": "wordlists/discovery/directories.txt",
         "lines": 58655,
         "name": "Directories",
+        "sources": [
+            "https://gitlab.com/kalilinux/packages/dirbuster/-/blob/kali/master/directories.jbrofuzz"
+        ],
         "tags": [
             "discovery"
         ]
@@ -576,6 +783,9 @@
         "href": "wordlists/htb/directories.txt",
         "lines": 97523,
         "name": "Directories",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "htb"
         ]
@@ -584,6 +794,9 @@
         "href": "wordlists/discovery/directory_list_1.0.txt",
         "lines": 141694,
         "name": "Directory List 1.0",
+        "sources": [
+            "https://gitlab.com/kalilinux/packages/dirbuster/-/blob/kali/master/directory-list-1.0.txt"
+        ],
         "tags": [
             "discovery"
         ]
@@ -592,6 +805,9 @@
         "href": "wordlists/discovery/directory_list_2.3_medium.txt",
         "lines": 220545,
         "name": "Directory List 2.3 Medium",
+        "sources": [
+            "https://gitlab.com/kalilinux/packages/dirbuster/-/blob/kali/master/directory-list-2.3-medium.txt"
+        ],
         "tags": [
             "discovery"
         ]
@@ -600,6 +816,9 @@
         "href": "wordlists/discovery/directory_list_2.3_small.txt",
         "lines": 87649,
         "name": "Directory List 2.3 Small",
+        "sources": [
+            "https://gitlab.com/kalilinux/packages/dirbuster/-/blob/kali/master/directory-list-2.3-small.txt"
+        ],
         "tags": [
             "discovery"
         ]
@@ -608,6 +827,9 @@
         "href": "wordlists/discovery/directory_list_lowercase_2.3_medium.txt",
         "lines": 207628,
         "name": "Directory List Lowercase 2.3 Medium",
+        "sources": [
+            "https://gitlab.com/kalilinux/packages/dirbuster/-/blob/kali/master/directory-list-lowercase-2.3-medium.txt"
+        ],
         "tags": [
             "discovery"
         ]
@@ -616,6 +838,9 @@
         "href": "wordlists/discovery/directory_list_lowercase_2.3_small.txt",
         "lines": 81628,
         "name": "Directory List Lowercase 2.3 Small",
+        "sources": [
+            "https://gitlab.com/kalilinux/packages/dirbuster/-/blob/kali/master/directory-list-lowercase-2.3-small.txt"
+        ],
         "tags": [
             "discovery"
         ]
@@ -624,6 +849,9 @@
         "href": "wordlists/vulnerabilities/directory_traversal.txt",
         "lines": 847,
         "name": "Directory Traversal",
+        "sources": [
+            "https://github.com/xmendez/wfuzz/blob/master/wordlist/vulns/dirTraversal.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -632,6 +860,9 @@
         "href": "wordlists/vulnerabilities/directory_traversal_unix.txt",
         "lines": 871,
         "name": "Directory Traversal Unix",
+        "sources": [
+            "https://github.com/xmendez/wfuzz/blob/master/wordlist/vulns/dirTraversal-nix.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -640,6 +871,9 @@
         "href": "wordlists/vulnerabilities/directory_traversal_win.txt",
         "lines": 847,
         "name": "Directory Traversal Win",
+        "sources": [
+            "https://github.com/xmendez/wfuzz/blob/master/wordlist/vulns/dirTraversal-win.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -648,6 +882,9 @@
         "href": "wordlists/user_agents/bots/discord.txt",
         "lines": 3,
         "name": "Discord",
+        "sources": [
+            "https://www.centinelanalytica.com/bots/discordbot"
+        ],
         "tags": [
             "user-agents",
             "bots"
@@ -657,6 +894,9 @@
         "href": "wordlists/famous/dnsmap.txt",
         "lines": 17576,
         "name": "Dnsmap",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "famous"
         ]
@@ -665,6 +905,9 @@
         "href": "wordlists/vulnerabilities/domino.txt",
         "lines": 228,
         "name": "Domino",
+        "sources": [
+            "https://github.com/xmendez/wfuzz/blob/master/wordlist/vulns/domino.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -673,6 +916,9 @@
         "href": "wordlists/user_agents/bots/duckduckgo.txt",
         "lines": 1,
         "name": "Duckduckgo",
+        "sources": [
+            "https://duckduckgo.com/duckduckgo-help-pages/results/duckassistbot"
+        ],
         "tags": [
             "user-agents",
             "bots"
@@ -682,6 +928,9 @@
         "href": "wordlists/languages/dutch.txt",
         "lines": 173562,
         "name": "Dutch",
+        "sources": [
+            "https://github.com/titoBouzout/Dictionaries/blob/master/Dutch.dic"
+        ],
         "tags": [
             "languages"
         ]
@@ -690,6 +939,9 @@
         "href": "wordlists/passwords/dutch_passwords.txt",
         "lines": 4322834,
         "name": "Dutch Passwords",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Passwords/dutch_passwordlist.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -698,6 +950,9 @@
         "href": "wordlists/user_agents/software_name/ea_origin_browser.txt",
         "lines": 312,
         "name": "Ea Origin Browser",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/ea-origin-browser.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -707,6 +962,9 @@
         "href": "wordlists/user_agents/hardware_type_specific/ebook_reader.txt",
         "lines": 1932,
         "name": "Ebook Reader",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/hardware-type-specific/ebook-reader.txt"
+        ],
         "tags": [
             "user-agents",
             "hardware-type-specific"
@@ -716,6 +974,9 @@
         "href": "wordlists/user_agents/software_name/edge.txt",
         "lines": 3605,
         "name": "Edge",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/edge.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -725,6 +986,9 @@
         "href": "wordlists/user_agents/software_name/electron_application.txt",
         "lines": 632,
         "name": "Electron Application",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/electron-application.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -734,6 +998,9 @@
         "href": "wordlists/languages/english.txt",
         "lines": 354297,
         "name": "English",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "languages"
         ]
@@ -742,6 +1009,9 @@
         "href": "wordlists/miscellaneous/english_profanity_words.txt",
         "lines": 1383,
         "name": "English Profanity Words",
+        "sources": [
+            "https://www.cs.cmu.edu/~biglou/resources/bad-words.txt"
+        ],
         "tags": [
             "miscellaneous"
         ]
@@ -750,6 +1020,9 @@
         "href": "wordlists/user_agents/software_name/excel.txt",
         "lines": 9,
         "name": "Excel",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/excel.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -759,6 +1032,9 @@
         "href": "wordlists/discovery/extensions_common.txt",
         "lines": 43,
         "name": "Extensions Common",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/web-extensions.txt"
+        ],
         "tags": [
             "discovery"
         ]
@@ -767,6 +1043,10 @@
         "href": "wordlists/user_agents/bots/facebook.txt",
         "lines": 27,
         "name": "Facebook",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/facebook-bot.txt",
+            "https://developers.facebook.com/documentation/sharing/webmasters/web-crawlers"
+        ],
         "tags": [
             "user-agents",
             "bots"
@@ -776,6 +1056,9 @@
         "href": "wordlists/user_agents/software_name/facebook_app.txt",
         "lines": 6810,
         "name": "Facebook App",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/facebook-app.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -785,6 +1068,9 @@
         "href": "wordlists/famous/facebook_phished.txt",
         "lines": 2441,
         "name": "Facebook Phished",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "famous"
         ]
@@ -793,6 +1079,9 @@
         "href": "wordlists/famous/fasttrack.txt",
         "lines": 261,
         "name": "Fasttrack",
+        "sources": [
+            "https://github.com/trustedsec/social-engineer-toolkit/blob/master/src/fasttrack/wordlist.txt"
+        ],
         "tags": [
             "famous"
         ]
@@ -801,6 +1090,9 @@
         "href": "wordlists/vulnerabilities/fatwire.txt",
         "lines": 101,
         "name": "Fatwire",
+        "sources": [
+            "https://github.com/xmendez/wfuzz/blob/master/wordlist/vulns/fatwire.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -809,6 +1101,9 @@
         "href": "wordlists/vulnerabilities/fatwire_pagenames.txt",
         "lines": 2712,
         "name": "Fatwire Pagenames",
+        "sources": [
+            "https://github.com/xmendez/wfuzz/blob/master/wordlist/vulns/fatwire_pagenames.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -817,6 +1112,9 @@
         "href": "wordlists/famous/fern_wifi.txt",
         "lines": 478,
         "name": "Fern Wifi",
+        "sources": [
+            "https://github.com/savio-code/fern-wifi-cracker/blob/master/Fern-Wifi-Cracker/extras/wordlists/common.txt"
+        ],
         "tags": [
             "famous"
         ]
@@ -825,6 +1123,9 @@
         "href": "wordlists/user_agents/operating_system_name/fire_os.txt",
         "lines": 1869,
         "name": "Fire OS",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/operating-system-name/fire-os.txt"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"
@@ -834,6 +1135,9 @@
         "href": "wordlists/user_agents/software_name/firebird.txt",
         "lines": 98,
         "name": "Firebird",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/firebird.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -843,6 +1147,9 @@
         "href": "wordlists/user_agents/software_name/firefox.txt",
         "lines": 26035,
         "name": "Firefox",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/firefox.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -852,6 +1159,9 @@
         "href": "wordlists/user_agents/operating_system_name/freebsd.txt",
         "lines": 812,
         "name": "Freebsd",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/operating-system-name/freebsd.txt"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"
@@ -861,6 +1171,9 @@
         "href": "wordlists/languages/french.txt",
         "lines": 336531,
         "name": "French",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "languages"
         ]
@@ -869,6 +1182,10 @@
         "href": "wordlists/miscellaneous/french_profanity_words.txt",
         "lines": 106,
         "name": "French Profanity Words",
+        "sources": [
+            "https://lingvist.com/course/learn-french-online/resources/french-curse-words/",
+            "https://french-iceberg.com/french-swear-words/"
+        ],
         "tags": [
             "miscellaneous"
         ]
@@ -877,6 +1194,9 @@
         "href": "wordlists/vulnerabilities/front_pages.txt",
         "lines": 43,
         "name": "Front Pages",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/frontpage.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -885,6 +1205,9 @@
         "href": "wordlists/discovery/fuzz_php_special.txt",
         "lines": 136921,
         "name": "Fuzz Php Special",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "discovery"
         ]
@@ -893,6 +1216,9 @@
         "href": "wordlists/user_agents/hardware_type_specific/game_console.txt",
         "lines": 323,
         "name": "Game Console",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/hardware-type-specific/game-console.txt"
+        ],
         "tags": [
             "user-agents",
             "hardware-type-specific"
@@ -902,6 +1228,9 @@
         "href": "wordlists/languages/georgian.txt",
         "lines": 143053,
         "name": "Georgian",
+        "sources": [
+            "https://github.com/wooorm/dictionaries/blob/main/dictionaries/ka/index.dic"
+        ],
         "tags": [
             "languages"
         ]
@@ -910,6 +1239,9 @@
         "href": "wordlists/languages/german.txt",
         "lines": 1908815,
         "name": "German",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "languages"
         ]
@@ -918,6 +1250,9 @@
         "href": "wordlists/discovery/gitignore.txt",
         "lines": 1017,
         "name": "Gitignore",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "discovery"
         ]
@@ -926,6 +1261,9 @@
         "href": "wordlists/htb/gitignore.txt",
         "lines": 1017,
         "name": "Gitignore",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "htb"
         ]
@@ -934,6 +1272,9 @@
         "href": "wordlists/user_agents/hardware_type_specific/glasses.txt",
         "lines": 5,
         "name": "Glasses",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/hardware-type-specific/glasses.txt"
+        ],
         "tags": [
             "user-agents",
             "hardware-type-specific"
@@ -943,6 +1284,11 @@
         "href": "wordlists/user_agents/bots/google.txt",
         "lines": 303,
         "name": "Google",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/googlebot.txt",
+            "https://developers.google.com/crawling/docs/crawlers-fetchers/google-user-triggered-fetchers",
+            "https://developers.google.com/crawling/docs/crawlers-fetchers/google-common-crawlers"
+        ],
         "tags": [
             "user-agents",
             "bots"
@@ -952,6 +1298,9 @@
         "href": "wordlists/user_agents/software_name/google_earth.txt",
         "lines": 39,
         "name": "Google Earth",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/google-earth.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -961,6 +1310,9 @@
         "href": "wordlists/user_agents/software_name/google_earth_pro.txt",
         "lines": 24,
         "name": "Google Earth Pro",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/google-earth-pro.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -970,6 +1322,9 @@
         "href": "wordlists/user_agents/software_name/google_favicon_crawler.txt",
         "lines": 3,
         "name": "Google Favicon Crawler",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/google-favicon-crawler.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -979,6 +1334,9 @@
         "href": "wordlists/user_agents/software_name/google_search_app.txt",
         "lines": 2381,
         "name": "Google Search App",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/google-search-app.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -988,6 +1346,9 @@
         "href": "wordlists/user_agents/software_name/google_site_verifier_bot.txt",
         "lines": 2,
         "name": "Google Site Verifier Bot",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/google-site-verifier-bot.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -997,6 +1358,9 @@
         "href": "wordlists/user_agents/operating_system_name/hp_webos.txt",
         "lines": 21,
         "name": "HP webOS",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/operating-system-name/hp-webos.txt"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"
@@ -1006,6 +1370,9 @@
         "href": "wordlists/miscellaneous/html_colors.txt",
         "lines": 148,
         "name": "HTML Colors",
+        "sources": [
+            "https://www.w3schools.com/tags/ref_colornames.asp"
+        ],
         "tags": [
             "miscellaneous"
         ]
@@ -1014,6 +1381,9 @@
         "href": "wordlists/security_question_answers/html_colors.txt",
         "lines": 148,
         "name": "HTML Colors",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Miscellaneous/Security-Question-Answers/html-colors.txt"
+        ],
         "tags": [
             "security-question-answers"
         ]
@@ -1022,6 +1392,7 @@
         "href": "wordlists/miscellaneous/html_js_events.txt",
         "lines": 171,
         "name": "HTML JS Events",
+        "sources": [],
         "tags": [
             "miscellaneous"
         ]
@@ -1030,6 +1401,9 @@
         "href": "wordlists/miscellaneous/html_tags.txt",
         "lines": 129,
         "name": "HTML Tags",
+        "sources": [
+            "https://www.w3schools.com/tags/"
+        ],
         "tags": [
             "miscellaneous"
         ]
@@ -1038,6 +1412,9 @@
         "href": "wordlists/passwords/http_default_passwords.txt",
         "lines": 19,
         "name": "HTTP Default Passwords",
+        "sources": [
+            "https://github.com/rapid7/metasploit-framework/blob/master/data/wordlists/http_default_pass.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -1046,6 +1423,9 @@
         "href": "wordlists/usernames/http_default_users.txt",
         "lines": 27,
         "name": "HTTP Default Users",
+        "sources": [
+            "https://github.com/rapid7/metasploit-framework/blob/master/data/wordlists/http_default_users.txt"
+        ],
         "tags": [
             "usernames"
         ]
@@ -1054,6 +1434,9 @@
         "href": "wordlists/user_agents/operating_system_name/haiku.txt",
         "lines": 45,
         "name": "Haiku",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/operating-system-name/haiku.txt"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"
@@ -1063,6 +1446,9 @@
         "href": "wordlists/passwords/hak5.txt",
         "lines": 2351,
         "name": "Hak5",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Passwords/Leaked-Databases/hak5.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -1071,6 +1457,9 @@
         "href": "wordlists/user_agents/hardware_type_specific/handheld_game.txt",
         "lines": 190,
         "name": "Handheld Game",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/hardware-type-specific/handheld-game.txt"
+        ],
         "tags": [
             "user-agents",
             "hardware-type-specific"
@@ -1080,6 +1469,9 @@
         "href": "wordlists/languages/hebrew.txt",
         "lines": 469750,
         "name": "Hebrew",
+        "sources": [
+            "https://github.com/titoBouzout/Dictionaries/blob/master/Hebrew%20(Israel"
+        ],
         "tags": [
             "languages"
         ]
@@ -1088,6 +1480,10 @@
         "href": "wordlists/passwords/honeynet.txt",
         "lines": 226081,
         "name": "Honeynet",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Passwords/Leaked-Databases/honeynet.txt",
+            "https://github.com/danielmiessler/SecLists/blob/master/Passwords/Leaked-Databases/honeynet2.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -1096,6 +1492,9 @@
         "href": "wordlists/famous/hotmail.txt",
         "lines": 8930,
         "name": "Hotmail",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Passwords/Leaked-Databases/hotmail.txt"
+        ],
         "tags": [
             "famous"
         ]
@@ -1104,6 +1503,20 @@
         "href": "wordlists/vulnerabilities/hpsmh.txt",
         "lines": 238,
         "name": "Hpsmh",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/hpsmh.txt"
+        ],
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/iis.txt",
+        "lines": 59,
+        "name": "IIS",
+        "sources": [
+            "https://github.com/xmendez/wfuzz/blob/master/wordlist/vulns/iis.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -1112,23 +1525,21 @@
         "href": "wordlists/user_agents/software_name/iceweasel.txt",
         "lines": 555,
         "name": "Iceweasel",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/iceweasel.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
         ]
     },
     {
-        "href": "wordlists/vulnerabilities/iis.txt",
-        "lines": 59,
-        "name": "Iis",
-        "tags": [
-            "vulnerabilities"
-        ]
-    },
-    {
         "href": "wordlists/discovery/indexes.txt",
         "lines": 10,
         "name": "Indexes",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "discovery"
         ]
@@ -1137,6 +1548,9 @@
         "href": "wordlists/passwords/indian_passwords.txt",
         "lines": 13154,
         "name": "Indian Passwords",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "passwords"
         ]
@@ -1145,6 +1559,9 @@
         "href": "wordlists/user_agents/software_name/internet_explorer.txt",
         "lines": 102404,
         "name": "Internet Explorer",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/internet-explorer.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -1154,6 +1571,9 @@
         "href": "wordlists/user_agents/software_name/internet_explorer_mobile.txt",
         "lines": 1068,
         "name": "Internet Explorer Mobile",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/internet-explorer-mobile.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -1162,7 +1582,10 @@
     {
         "href": "wordlists/user_agents/software_name/internet_tv_browser.txt",
         "lines": 354,
-        "name": "Internet Tv Browser",
+        "name": "Internet TV Browser",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/internet-tv-browser.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -1172,6 +1595,9 @@
         "href": "wordlists/vulnerabilities/iplanet.txt",
         "lines": 35,
         "name": "Iplanet",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/iplanet.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -1180,6 +1606,9 @@
         "href": "wordlists/passwords/ipmi_passwords.txt",
         "lines": 999,
         "name": "Ipmi Passwords",
+        "sources": [
+            "https://github.com/rapid7/metasploit-framework/blob/master/data/wordlists/ipmi_passwords.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -1188,6 +1617,9 @@
         "href": "wordlists/usernames/ipmi_users.txt",
         "lines": 7,
         "name": "Ipmi Users",
+        "sources": [
+            "https://github.com/rapid7/metasploit-framework/blob/master/data/wordlists/ipmi_users.txt"
+        ],
         "tags": [
             "usernames"
         ]
@@ -1196,6 +1628,9 @@
         "href": "wordlists/user_agents/operating_system_name/irix.txt",
         "lines": 13,
         "name": "Irix",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/operating-system-name/irix.txt"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"
@@ -1205,6 +1640,9 @@
         "href": "wordlists/languages/italian.txt",
         "lines": 95152,
         "name": "Italian",
+        "sources": [
+            "https://github.com/titoBouzout/Dictionaries/blob/master/Italian.dic"
+        ],
         "tags": [
             "languages"
         ]
@@ -1213,6 +1651,9 @@
         "href": "wordlists/discovery/jsp.txt",
         "lines": 67213,
         "name": "JSP",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "discovery"
         ]
@@ -1221,6 +1662,9 @@
         "href": "wordlists/user_agents/software_name/java_runtime_environment.txt",
         "lines": 518,
         "name": "Java Runtime Environment",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/java-runtime-environment.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -1230,6 +1674,9 @@
         "href": "wordlists/vulnerabilities/jboss.txt",
         "lines": 19,
         "name": "Jboss",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/jboss.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -1238,6 +1685,9 @@
         "href": "wordlists/discovery/joomla.txt",
         "lines": 1544,
         "name": "Joomla",
+        "sources": [
+            "https://github.com/rapid7/metasploit-framework/blob/master/data/wordlists/joomla.txt"
+        ],
         "tags": [
             "discovery"
         ]
@@ -1246,6 +1696,9 @@
         "href": "wordlists/vulnerabilities/jrun.txt",
         "lines": 13,
         "name": "Jrun",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/jrun.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -1254,6 +1707,9 @@
         "href": "wordlists/passwords/keyboard_patterns.txt",
         "lines": 20,
         "name": "Keyboard Patterns",
+        "sources": [
+            "https://github.com/rapid7/metasploit-framework/blob/master/data/wordlists/keyboard-patterns.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -1262,6 +1718,9 @@
         "href": "wordlists/user_agents/software_name/kindle_browser.txt",
         "lines": 76,
         "name": "Kindle Browser",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/kindle-browser.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -1271,6 +1730,9 @@
         "href": "wordlists/discovery/lfi_all.txt",
         "lines": 1485,
         "name": "LFI All",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "discovery"
         ]
@@ -1279,6 +1741,9 @@
         "href": "wordlists/discovery/lfi_unix.txt",
         "lines": 1226,
         "name": "LFI Unix",
+        "sources": [
+            "https://github.com/carlospolop/Auto_Wordlists/blob/main/wordlists/file_inclusion_linux.txt"
+        ],
         "tags": [
             "discovery"
         ]
@@ -1287,6 +1752,7 @@
         "href": "wordlists/discovery/lfi_windows.txt",
         "lines": 259,
         "name": "LFI Windows",
+        "sources": [],
         "tags": [
             "discovery"
         ]
@@ -1295,6 +1761,9 @@
         "href": "wordlists/user_agents/hardware_type_specific/large_screen.txt",
         "lines": 390,
         "name": "Large Screen",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/hardware-type-specific/large-screen.txt"
+        ],
         "tags": [
             "user-agents",
             "hardware-type-specific"
@@ -1304,6 +1773,9 @@
         "href": "wordlists/user_agents/operating_system_name/linux.txt",
         "lines": 20823,
         "name": "Linux",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/operating-system-name/linux.txt"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"
@@ -1313,6 +1785,9 @@
         "href": "wordlists/user_agents/operating_system_name/livearea.txt",
         "lines": 52,
         "name": "Livearea",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/operating-system-name/livearea.txt"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"
@@ -1322,6 +1797,9 @@
         "href": "wordlists/user_agents/operating_system_name/mac.txt",
         "lines": 655,
         "name": "Mac",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/operating-system-name/mac.txt"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"
@@ -1331,6 +1809,9 @@
         "href": "wordlists/user_agents/operating_system_name/mac_os_x.txt",
         "lines": 18903,
         "name": "Mac OS X",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/operating-system-name/mac-os-x.txt"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"
@@ -1340,6 +1821,9 @@
         "href": "wordlists/user_agents/operating_system_name/macos.txt",
         "lines": 5147,
         "name": "Macos",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/operating-system-name/macos.txt"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"
@@ -1349,6 +1833,9 @@
         "href": "wordlists/passwords/md5decryptor.txt",
         "lines": 3431316,
         "name": "Md5Decryptor",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Passwords/Leaked-Databases/md5decryptor-uk.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -1357,6 +1844,9 @@
         "href": "wordlists/user_agents/hardware_type_specific/media_player.txt",
         "lines": 40,
         "name": "Media Player",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/hardware-type-specific/media-player.txt"
+        ],
         "tags": [
             "user-agents",
             "hardware-type-specific"
@@ -1366,6 +1856,9 @@
         "href": "wordlists/passwords/medical_devices_passwords.txt",
         "lines": 173,
         "name": "Medical Devices Passwords",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/medical-devices.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -1374,6 +1867,9 @@
         "href": "wordlists/passwords/mirai_passwords.txt",
         "lines": 42,
         "name": "Mirai Passwords",
+        "sources": [
+            "https://github.com/rapid7/metasploit-framework/blob/master/data/wordlists/mirai_pass.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -1382,6 +1878,9 @@
         "href": "wordlists/usernames/mirai_user.txt",
         "lines": 15,
         "name": "Mirai User",
+        "sources": [
+            "https://github.com/rapid7/metasploit-framework/blob/master/data/wordlists/mirai_user.txt"
+        ],
         "tags": [
             "usernames"
         ]
@@ -1390,6 +1889,9 @@
         "href": "wordlists/user_agents/bots/mistral.txt",
         "lines": 3,
         "name": "Mistral",
+        "sources": [
+            "https://docs.mistral.ai/robots"
+        ],
         "tags": [
             "user-agents",
             "bots"
@@ -1399,6 +1901,9 @@
         "href": "wordlists/user_agents/hardware_type_specific/mobile.txt",
         "lines": 138617,
         "name": "Mobile",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/hardware-type-specific/mobile.txt"
+        ],
         "tags": [
             "user-agents",
             "hardware-type-specific"
@@ -1408,6 +1913,9 @@
         "href": "wordlists/discovery/most_common.txt",
         "lines": 1166,
         "name": "Most Common",
+        "sources": [
+            "https://github.com/gatete/DomainTrail/blob/main/wordlists/top1k-subdomains.txt"
+        ],
         "tags": [
             "discovery"
         ]
@@ -1416,6 +1924,9 @@
         "href": "wordlists/passwords/most_used_passwords.txt",
         "lines": 999998,
         "name": "Most Used Passwords",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -1424,6 +1935,9 @@
         "href": "wordlists/passwords/most_used_passwords_ncsc.txt",
         "lines": 100000,
         "name": "Most Used Passwords Ncsc",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/100k-most-used-passwords-NCSC.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -1432,6 +1946,9 @@
         "href": "wordlists/user_agents/software_name/motorola_internet_browser.txt",
         "lines": 19,
         "name": "Motorola Internet Browser",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/motorola-internet-browser.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -1441,6 +1958,9 @@
         "href": "wordlists/usernames/multiple_sources_users.txt",
         "lines": 26324,
         "name": "Multiple Sources Users",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Usernames/Honeypot-Captures/multiplesources-users-fabian-fingerle.de.txt"
+        ],
         "tags": [
             "usernames"
         ]
@@ -1449,6 +1969,9 @@
         "href": "wordlists/user_agents/hardware_type_specific/music_player.txt",
         "lines": 819,
         "name": "Music Player",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/hardware-type-specific/music-player.txt"
+        ],
         "tags": [
             "user-agents",
             "hardware-type-specific"
@@ -1458,6 +1981,9 @@
         "href": "wordlists/names/names.txt",
         "lines": 10176,
         "name": "Names",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Usernames/Names/names.txt"
+        ],
         "tags": [
             "names"
         ]
@@ -1466,6 +1992,9 @@
         "href": "wordlists/vulnerabilities/netware.txt",
         "lines": 60,
         "name": "Netware",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/netware.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -1474,6 +2003,9 @@
         "href": "wordlists/user_agents/software_name/nintendo_browser.txt",
         "lines": 89,
         "name": "Nintendo Browser",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/nintendo-browser.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -1483,6 +2015,9 @@
         "href": "wordlists/user_agents/software_name/nokia_browser.txt",
         "lines": 1240,
         "name": "Nokia Browser",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/nokia-browser.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -1492,6 +2027,9 @@
         "href": "wordlists/passwords/nord_vpn.txt",
         "lines": 1437,
         "name": "Nord VPN",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Passwords/Leaked-Databases/NordVPN.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -1500,6 +2038,9 @@
         "href": "wordlists/languages/norwegian.txt",
         "lines": 322043,
         "name": "Norwegian",
+        "sources": [
+            "https://github.com/titoBouzout/Dictionaries/blob/master/Norwegian%20(Bokmal"
+        ],
         "tags": [
             "languages"
         ]
@@ -1508,6 +2049,9 @@
         "href": "wordlists/user_agents/software_name/onenote.txt",
         "lines": 2,
         "name": "Onenote",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/onenote.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -1517,6 +2061,9 @@
         "href": "wordlists/user_agents/bots/openai.txt",
         "lines": 5,
         "name": "OpenAI",
+        "sources": [
+            "https://developers.openai.com/api/docs/bots"
+        ],
         "tags": [
             "user-agents",
             "bots"
@@ -1526,6 +2073,9 @@
         "href": "wordlists/user_agents/operating_system_name/openbsd.txt",
         "lines": 285,
         "name": "OpenBSD",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/operating-system-name/openbsd.txt"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"
@@ -1535,6 +2085,9 @@
         "href": "wordlists/passwords/openwall.txt",
         "lines": 3721224,
         "name": "Openwall",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Passwords/openwall.net-all.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -1543,6 +2096,9 @@
         "href": "wordlists/user_agents/software_name/opera.txt",
         "lines": 17145,
         "name": "Opera",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/opera.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -1552,6 +2108,9 @@
         "href": "wordlists/user_agents/software_name/opera_mini.txt",
         "lines": 30825,
         "name": "Opera Mini",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/opera-mini.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -1561,6 +2120,9 @@
         "href": "wordlists/vulnerabilities/oracle.txt",
         "lines": 1036,
         "name": "Oracle",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/oracle.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -1569,6 +2131,9 @@
         "href": "wordlists/user_agents/software_name/outlook.txt",
         "lines": 384,
         "name": "Outlook",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/outlook.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -1578,6 +2143,9 @@
         "href": "wordlists/user_agents/operating_system_name/palm_os.txt",
         "lines": 18,
         "name": "Palm OS",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/operating-system-name/palmos.txt"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"
@@ -1587,6 +2155,9 @@
         "href": "wordlists/passwords/password.txt",
         "lines": 88406,
         "name": "Password",
+        "sources": [
+            "https://github.com/rapid7/metasploit-framework/blob/master/data/wordlists/password.lst"
+        ],
         "tags": [
             "passwords"
         ]
@@ -1595,6 +2166,9 @@
         "href": "wordlists/user_agents/hardware_type_specific/pda.txt",
         "lines": 3,
         "name": "Pda",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/hardware-type-specific/pda.txt"
+        ],
         "tags": [
             "user-agents",
             "hardware-type-specific"
@@ -1604,6 +2178,9 @@
         "href": "wordlists/user_agents/bots/perplexity.txt",
         "lines": 2,
         "name": "Perplexity",
+        "sources": [
+            "https://docs.perplexity.ai/docs/resources/perplexity-crawlers"
+        ],
         "tags": [
             "user-agents",
             "bots"
@@ -1613,6 +2190,9 @@
         "href": "wordlists/user_agents/hardware_type_specific/phone.txt",
         "lines": 100479,
         "name": "Phone",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/hardware-type-specific/phone.txt"
+        ],
         "tags": [
             "user-agents",
             "hardware-type-specific"
@@ -1622,6 +2202,9 @@
         "href": "wordlists/user_agents/software_name/pinterest_app.txt",
         "lines": 1283,
         "name": "Pinterest App",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/pinterest-app.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -1631,6 +2214,9 @@
         "href": "wordlists/user_agents/software_name/pinterest_bot.txt",
         "lines": 6,
         "name": "Pinterest Bot",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/pinterest-bot.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -1640,6 +2226,9 @@
         "href": "wordlists/user_agents/software_name/playstation_4_browser.txt",
         "lines": 72,
         "name": "Playstation 4 Browser",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/playstation-4-browser.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -1649,6 +2238,9 @@
         "href": "wordlists/languages/polish.txt",
         "lines": 300676,
         "name": "Polish",
+        "sources": [
+            "https://github.com/titoBouzout/Dictionaries/blob/master/Polish.dic"
+        ],
         "tags": [
             "languages"
         ]
@@ -1657,6 +2249,9 @@
         "href": "wordlists/languages/portuguese.txt",
         "lines": 312367,
         "name": "Portuguese",
+        "sources": [
+            "https://github.com/titoBouzout/Dictionaries/blob/master/Portuguese%20(Brazilian"
+        ],
         "tags": [
             "languages"
         ]
@@ -1665,6 +2260,9 @@
         "href": "wordlists/passwords/postgres_default_passwords.txt",
         "lines": 4,
         "name": "Postgres Default Passwords",
+        "sources": [
+            "https://github.com/rapid7/metasploit-framework/blob/master/data/wordlists/postgres_default_pass.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -1673,6 +2271,9 @@
         "href": "wordlists/usernames/postgres_default_user.txt",
         "lines": 3,
         "name": "Postgres Default User",
+        "sources": [
+            "https://github.com/rapid7/metasploit-framework/blob/master/data/wordlists/postgres_default_user.txt"
+        ],
         "tags": [
             "usernames"
         ]
@@ -1681,6 +2282,9 @@
         "href": "wordlists/user_agents/software_name/powerpoint.txt",
         "lines": 10,
         "name": "Powerpoint",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/powerpoint.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -1690,6 +2294,9 @@
         "href": "wordlists/passwords/probable_wpa.txt",
         "lines": 4800,
         "name": "Probable WPA",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Passwords/WiFi-WPA/probable-v2-wpa-top4800.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -1698,6 +2305,9 @@
         "href": "wordlists/user_agents/software_name/python_urllib.txt",
         "lines": 18,
         "name": "Python Urllib",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/python-urllib.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -1707,6 +2317,9 @@
         "href": "wordlists/user_agents/operating_system_name/rim_tablet_os.txt",
         "lines": 12,
         "name": "Rim Tablet OS",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/operating-system-name/rim-tablet-os.txt"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"
@@ -1716,6 +2329,9 @@
         "href": "wordlists/discovery/robots.txt",
         "lines": 990,
         "name": "Robots",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "discovery"
         ]
@@ -1724,6 +2340,9 @@
         "href": "wordlists/famous/rockyou.zip",
         "lines": 14344392,
         "name": "Rockyou",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "famous"
         ]
@@ -1732,6 +2351,9 @@
         "href": "wordlists/vulnerabilities/ror.txt",
         "lines": 141,
         "name": "Ror",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/ror.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -1740,6 +2362,9 @@
         "href": "wordlists/languages/russian.txt",
         "lines": 379323,
         "name": "Russian",
+        "sources": [
+            "https://github.com/titoBouzout/Dictionaries/blob/master/Russian.dic"
+        ],
         "tags": [
             "languages"
         ]
@@ -1748,6 +2373,9 @@
         "href": "wordlists/vulnerabilities/sql.txt",
         "lines": 268,
         "name": "SQL",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/SQLi/Generic-SQLi.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -1756,6 +2384,20 @@
         "href": "wordlists/vulnerabilities/sql_inj.txt",
         "lines": 41,
         "name": "SQL Inj",
+        "sources": [
+            "https://github.com/xmendez/wfuzz/blob/master/wordlist/vulns/sql_inj.txt"
+        ],
+        "tags": [
+            "vulnerabilities"
+        ]
+    },
+    {
+        "href": "wordlists/vulnerabilities/ssti.txt",
+        "lines": 138,
+        "name": "SSTI",
+        "sources": [
+            "https://github.com/carlospolop/Auto_Wordlists/blob/main/wordlists/ssti.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -1764,6 +2406,9 @@
         "href": "wordlists/user_agents/software_name/safari.txt",
         "lines": 12186,
         "name": "Safari",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/safari.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -1773,6 +2418,9 @@
         "href": "wordlists/user_agents/software_name/samsung_browser.txt",
         "lines": 5326,
         "name": "Samsung Browser",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/samsung-browser.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -1782,6 +2430,9 @@
         "href": "wordlists/vulnerabilities/sap.txt",
         "lines": 1097,
         "name": "Sap",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/sap.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -1790,6 +2441,9 @@
         "href": "wordlists/discovery/sensitive_files_unix.txt",
         "lines": 16,
         "name": "Sensitive Files Unix",
+        "sources": [
+            "https://github.com/rapid7/metasploit-framework/blob/master/data/wordlists/sensitive_files.txt"
+        ],
         "tags": [
             "discovery"
         ]
@@ -1798,6 +2452,9 @@
         "href": "wordlists/discovery/sensitive_files_windows.txt",
         "lines": 7,
         "name": "Sensitive Files Windows",
+        "sources": [
+            "https://github.com/rapid7/metasploit-framework/blob/master/data/wordlists/sensitive_files_win.txt"
+        ],
         "tags": [
             "discovery"
         ]
@@ -1806,6 +2463,9 @@
         "href": "wordlists/languages/serbian.txt",
         "lines": 263909,
         "name": "Serbian",
+        "sources": [
+            "https://github.com/titoBouzout/Dictionaries/blob/master/Serbian%20(Cyrillic"
+        ],
         "tags": [
             "languages"
         ]
@@ -1814,6 +2474,9 @@
         "href": "wordlists/user_agents/hardware_type_specific/server.txt",
         "lines": 1756,
         "name": "Server",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/hardware-type-specific/server.txt"
+        ],
         "tags": [
             "user-agents",
             "hardware-type-specific"
@@ -1823,6 +2486,9 @@
         "href": "wordlists/vulnerabilities/sharepoint.txt",
         "lines": 1708,
         "name": "Sharepoint",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/CMS/sharepoint.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -1831,6 +2497,9 @@
         "href": "wordlists/user_agents/bots/slack.txt",
         "lines": 2,
         "name": "Slack",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "user-agents",
             "bots"
@@ -1840,6 +2509,9 @@
         "href": "wordlists/user_agents/software_name/sony_web_browser.txt",
         "lines": 4,
         "name": "Sony Web Browser",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/sony-web-browser.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -1849,22 +2521,20 @@
         "href": "wordlists/languages/spanish.txt",
         "lines": 70157,
         "name": "Spanish",
+        "sources": [
+            "https://github.com/titoBouzout/Dictionaries/blob/master/Spanish.dic"
+        ],
         "tags": [
             "languages"
-        ]
-    },
-    {
-        "href": "wordlists/vulnerabilities/ssti.txt",
-        "lines": 138,
-        "name": "Ssti",
-        "tags": [
-            "vulnerabilities"
         ]
     },
     {
         "href": "wordlists/security_question_answers/street_names.txt",
         "lines": 52680,
         "name": "Street Names",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Miscellaneous/Security-Question-Answers/street-names.txt"
+        ],
         "tags": [
             "security-question-answers"
         ]
@@ -1873,6 +2543,9 @@
         "href": "wordlists/htb/subdomains.txt",
         "lines": 150779,
         "name": "Subdomains",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "htb"
         ]
@@ -1881,6 +2554,9 @@
         "href": "wordlists/user_agents/operating_system_name/sunos.txt",
         "lines": 293,
         "name": "SunOS",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/operating-system-name/sunos.txt"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"
@@ -1890,6 +2566,9 @@
         "href": "wordlists/vulnerabilities/sunas.txt",
         "lines": 51,
         "name": "Sunas",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/sunas.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -1898,6 +2577,9 @@
         "href": "wordlists/discovery/swagger.txt",
         "lines": 958874,
         "name": "Swagger",
+        "sources": [
+            "https://wordlists-cdn.assetnote.io/data/kiterunner/swagger-wordlist.txt"
+        ],
         "tags": [
             "discovery"
         ]
@@ -1906,6 +2588,9 @@
         "href": "wordlists/languages/swedish.txt",
         "lines": 72370,
         "name": "Swedish",
+        "sources": [
+            "https://github.com/titoBouzout/Dictionaries/blob/master/Swedish.dic"
+        ],
         "tags": [
             "languages"
         ]
@@ -1914,6 +2599,9 @@
         "href": "wordlists/user_agents/operating_system_name/symbian.txt",
         "lines": 3438,
         "name": "Symbian",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/operating-system-name/symbian.txt"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"
@@ -1923,14 +2611,32 @@
         "href": "wordlists/discovery/tlds.txt",
         "lines": 1437,
         "name": "TLDs",
+        "sources": [
+            "https://data.iana.org/TLD/tlds-alpha-by-domain.txt"
+        ],
         "tags": [
             "discovery"
+        ]
+    },
+    {
+        "href": "wordlists/user_agents/hardware_type_specific/tv.txt",
+        "lines": 1110,
+        "name": "TV",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/hardware-type-specific/tv.txt"
+        ],
+        "tags": [
+            "user-agents",
+            "hardware-type-specific"
         ]
     },
     {
         "href": "wordlists/user_agents/hardware_type_specific/tablet.txt",
         "lines": 26316,
         "name": "Tablet",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/hardware-type-specific/tablet.txt"
+        ],
         "tags": [
             "user-agents",
             "hardware-type-specific"
@@ -1940,6 +2646,9 @@
         "href": "wordlists/vulnerabilities/tests.txt",
         "lines": 33,
         "name": "Tests",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/tests.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -1948,6 +2657,9 @@
         "href": "wordlists/vulnerabilities/tomcat.txt",
         "lines": 90,
         "name": "Tomcat",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/tomcat.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -1956,6 +2668,9 @@
         "href": "wordlists/passwords/tomcat_mgr_default_passwords.txt",
         "lines": 7,
         "name": "Tomcat Mgr Default Passwords",
+        "sources": [
+            "https://github.com/rapid7/metasploit-framework/blob/master/data/wordlists/tomcat_mgr_default_pass.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -1964,6 +2679,9 @@
         "href": "wordlists/usernames/tomcat_mgr_default_users.txt",
         "lines": 6,
         "name": "Tomcat Mgr Default Users",
+        "sources": [
+            "https://github.com/rapid7/metasploit-framework/blob/master/data/wordlists/tomcat_mgr_default_users.txt"
+        ],
         "tags": [
             "usernames"
         ]
@@ -1972,6 +2690,9 @@
         "href": "wordlists/passwords/top_adobe_passwords.txt",
         "lines": 100,
         "name": "Top Adobe Passwords",
+        "sources": [
+            "https://github.com/rapid7/metasploit-framework/blob/master/data/wordlists/adobe_top100_pass.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -1980,6 +2701,9 @@
         "href": "wordlists/names/top_family_names_chinese.txt",
         "lines": 100,
         "name": "Top Family Names Chinese",
+        "sources": [
+            "https://github.com/NihaoKangkang/chinese_name_analysis/blob/main/2020/2020_family_name_top100.txt"
+        ],
         "tags": [
             "names"
         ]
@@ -1988,6 +2712,9 @@
         "href": "wordlists/names/top_family_names_usa.txt",
         "lines": 1000,
         "name": "Top Family Names USA",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Usernames/Names/familynames-usa-top1000.txt"
+        ],
         "tags": [
             "names"
         ]
@@ -1996,6 +2723,9 @@
         "href": "wordlists/names/top_female_names_australia.txt",
         "lines": 98,
         "name": "Top Female Names Australia",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "names"
         ]
@@ -2004,6 +2734,9 @@
         "href": "wordlists/names/top_female_names_canada.txt",
         "lines": 300,
         "name": "Top Female Names Canada",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "names"
         ]
@@ -2012,6 +2745,9 @@
         "href": "wordlists/names/top_female_names_germany.txt",
         "lines": 4685,
         "name": "Top Female Names Germany",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "names"
         ]
@@ -2020,6 +2756,9 @@
         "href": "wordlists/names/top_female_names_india.txt",
         "lines": 53,
         "name": "Top Female Names India",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "names"
         ]
@@ -2028,6 +2767,9 @@
         "href": "wordlists/names/top_female_names_usa.txt",
         "lines": 1000,
         "name": "Top Female Names USA",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Usernames/Names/femalenames-usa-top1000.txt"
+        ],
         "tags": [
             "names"
         ]
@@ -2036,6 +2778,9 @@
         "href": "wordlists/names/top_male_name_germany.txt",
         "lines": 153,
         "name": "Top Male Name Germany",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "names"
         ]
@@ -2044,6 +2789,9 @@
         "href": "wordlists/names/top_male_names_australia.txt",
         "lines": 110,
         "name": "Top Male Names Australia",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "names"
         ]
@@ -2052,6 +2800,9 @@
         "href": "wordlists/names/top_male_names_canada.txt",
         "lines": 1047,
         "name": "Top Male Names Canada",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "names"
         ]
@@ -2060,6 +2811,9 @@
         "href": "wordlists/names/top_male_names_france.txt",
         "lines": 481,
         "name": "Top Male Names France",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "names"
         ]
@@ -2068,6 +2822,9 @@
         "href": "wordlists/names/top_male_names_india.txt",
         "lines": 272,
         "name": "Top Male Names India",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "names"
         ]
@@ -2076,6 +2833,9 @@
         "href": "wordlists/names/top_male_names_turkish.txt",
         "lines": 688,
         "name": "Top Male Names Turkish",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "names"
         ]
@@ -2084,6 +2844,9 @@
         "href": "wordlists/names/top_male_names_usa.txt",
         "lines": 1000,
         "name": "Top Male Names USA",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Usernames/Names/malenames-usa-top1000.txt"
+        ],
         "tags": [
             "names"
         ]
@@ -2092,6 +2855,9 @@
         "href": "wordlists/discovery/top_subdomains.txt",
         "lines": 114441,
         "name": "Top Subdomains",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/subdomains-top1million-110000.txt"
+        ],
         "tags": [
             "discovery"
         ]
@@ -2100,6 +2866,9 @@
         "href": "wordlists/names/top_surnames_character_chinese.txt",
         "lines": 50,
         "name": "Top Surnames Character Chinese",
+        "sources": [
+            "https://github.com/NihaoKangkang/chinese_name_analysis/blob/main/2019/2019_surname_word_top50.txt"
+        ],
         "tags": [
             "names"
         ]
@@ -2108,23 +2877,20 @@
         "href": "wordlists/languages/turkish.txt",
         "lines": 371169,
         "name": "Turkish",
+        "sources": [
+            "https://github.com/titoBouzout/Dictionaries/blob/master/Turkish.dic"
+        ],
         "tags": [
             "languages"
-        ]
-    },
-    {
-        "href": "wordlists/user_agents/hardware_type_specific/tv.txt",
-        "lines": 1110,
-        "name": "Tv",
-        "tags": [
-            "user-agents",
-            "hardware-type-specific"
         ]
     },
     {
         "href": "wordlists/user_agents/software_name/tweetmeme_bot.txt",
         "lines": 3,
         "name": "Tweetmeme Bot",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/tweetmeme-bot.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -2134,6 +2900,9 @@
         "href": "wordlists/user_agents/bots/twitter.txt",
         "lines": 4,
         "name": "Twitter",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/twitterbot.txt"
+        ],
         "tags": [
             "user-agents",
             "bots"
@@ -2143,6 +2912,9 @@
         "href": "wordlists/user_agents/software_name/twitter_app.txt",
         "lines": 154,
         "name": "Twitter App",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/twitter-app.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -2152,6 +2924,9 @@
         "href": "wordlists/stressing/uri_hex.txt",
         "lines": 256,
         "name": "URI Hex",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "stressing"
         ]
@@ -2160,6 +2935,9 @@
         "href": "wordlists/security_question_answers/us_colleges.txt",
         "lines": 6752,
         "name": "US Colleges",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/tree/master/Miscellaneous/Security-Question-Answers/us-colleges"
+        ],
         "tags": [
             "security-question-answers"
         ]
@@ -2168,6 +2946,9 @@
         "href": "wordlists/security_question_answers/us_private_schools.txt",
         "lines": 21755,
         "name": "US Private Schools",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/tree/master/Miscellaneous/Security-Question-Answers/us-private-schools"
+        ],
         "tags": [
             "security-question-answers"
         ]
@@ -2176,6 +2957,9 @@
         "href": "wordlists/security_question_answers/us_public_schools.txt",
         "lines": 100318,
         "name": "US Public Schools",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/tree/master/Miscellaneous/Security-Question-Answers/us-public-schools"
+        ],
         "tags": [
             "security-question-answers"
         ]
@@ -2184,6 +2968,9 @@
         "href": "wordlists/languages/ukrainian.txt",
         "lines": 331520,
         "name": "Ukrainian",
+        "sources": [
+            "https://github.com/titoBouzout/Dictionaries/blob/master/Ukrainian_uk_UA.dic"
+        ],
         "tags": [
             "languages"
         ]
@@ -2192,6 +2979,9 @@
         "href": "wordlists/stressing/unicode.txt",
         "lines": 65536,
         "name": "Unicode",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "stressing"
         ]
@@ -2200,6 +2990,9 @@
         "href": "wordlists/user_agents/operating_system_name/unix_based_os.txt",
         "lines": 598,
         "name": "Unix Based OS",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"
@@ -2209,6 +3002,9 @@
         "href": "wordlists/passwords/unix_passwords.txt",
         "lines": 1021,
         "name": "Unix Passwords",
+        "sources": [
+            "https://github.com/rapid7/metasploit-framework/blob/master/data/wordlists/unix_passwords.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -2217,6 +3013,9 @@
         "href": "wordlists/usernames/unix_users.txt",
         "lines": 190,
         "name": "Unix Users",
+        "sources": [
+            "https://github.com/rapid7/metasploit-framework/blob/master/data/wordlists/unix_users.txt"
+        ],
         "tags": [
             "usernames"
         ]
@@ -2225,6 +3024,9 @@
         "href": "wordlists/htb/users.txt",
         "lines": 10331,
         "name": "Users",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "htb"
         ]
@@ -2233,6 +3035,9 @@
         "href": "wordlists/user_agents/software_name/valve_steam_game_overlay.txt",
         "lines": 1009,
         "name": "Valve Steam Game Overlay",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/valve-steam-game-overlay.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -2242,6 +3047,9 @@
         "href": "wordlists/vulnerabilities/vignette.txt",
         "lines": 73,
         "name": "Vignette",
+        "sources": [
+            "https://github.com/xmendez/wfuzz/blob/master/wordlist/vulns/vignette.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -2250,6 +3058,9 @@
         "href": "wordlists/user_agents/software_name/vision_mobile_browser.txt",
         "lines": 3,
         "name": "Vision Mobile Browser",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/vision-mobile-browser.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -2259,6 +3070,9 @@
         "href": "wordlists/user_agents/software_name/w3c_css_validator.txt",
         "lines": 4,
         "name": "W3C Css Validator",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/w3c-css-validator.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -2268,6 +3082,9 @@
         "href": "wordlists/user_agents/software_name/w3c_link_checker.txt",
         "lines": 6,
         "name": "W3C Link Checker",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/w3c-link-checker.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -2277,6 +3094,9 @@
         "href": "wordlists/user_agents/software_name/w3c_validator.txt",
         "lines": 9,
         "name": "W3C Validator",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/w3c-validator.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -2286,6 +3106,9 @@
         "href": "wordlists/discovery/wp_plugins.txt",
         "lines": 104063,
         "name": "WP Plugins",
+        "sources": [
+            "https://github.com/rapid7/metasploit-framework/blob/master/data/wordlists/wp-plugins.txt"
+        ],
         "tags": [
             "discovery"
         ]
@@ -2294,6 +3117,9 @@
         "href": "wordlists/discovery/wp_themes.txt",
         "lines": 27830,
         "name": "WP Themes",
+        "sources": [
+            "https://github.com/rapid7/metasploit-framework/blob/master/data/wordlists/wp-themes.txt"
+        ],
         "tags": [
             "discovery"
         ]
@@ -2302,6 +3128,9 @@
         "href": "wordlists/vulnerabilities/weblogic.txt",
         "lines": 371,
         "name": "Weblogic",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/weblogic.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -2310,6 +3139,9 @@
         "href": "wordlists/vulnerabilities/websphere.txt",
         "lines": 519,
         "name": "Websphere",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/websphere.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -2318,6 +3150,9 @@
         "href": "wordlists/user_agents/software_name/webtv.txt",
         "lines": 6,
         "name": "Webtv",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/webtv.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -2327,6 +3162,9 @@
         "href": "wordlists/user_agents/software_name/wget.txt",
         "lines": 70,
         "name": "Wget",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/wget.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -2336,6 +3174,9 @@
         "href": "wordlists/user_agents/operating_system_name/windows.txt",
         "lines": 183284,
         "name": "Windows",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/operating-system-name/windows.txt"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"
@@ -2345,6 +3186,9 @@
         "href": "wordlists/user_agents/operating_system_name/windows_mobile.txt",
         "lines": 354,
         "name": "Windows Mobile",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/operating-system-name/windows-mobile.txt"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"
@@ -2354,6 +3198,9 @@
         "href": "wordlists/user_agents/operating_system_name/windows_phone.txt",
         "lines": 2193,
         "name": "Windows Phone",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/operating-system-name/windows-phone.txt"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"
@@ -2363,6 +3210,9 @@
         "href": "wordlists/user_agents/software_name/word.txt",
         "lines": 32,
         "name": "Word",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/word.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -2372,6 +3222,9 @@
         "href": "wordlists/vulnerabilities/xss.txt",
         "lines": 8456,
         "name": "XSS",
+        "sources": [
+            "Not known"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -2380,6 +3233,9 @@
         "href": "wordlists/vulnerabilities/xxe.txt",
         "lines": 51,
         "name": "XXE",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/XXE-Fuzzing.txt"
+        ],
         "tags": [
             "vulnerabilities"
         ]
@@ -2388,6 +3244,9 @@
         "href": "wordlists/passwords/xato_net_passwords.txt",
         "lines": 5189454,
         "name": "Xato Net Passwords",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Passwords/xato-net-10-million-passwords.txt"
+        ],
         "tags": [
             "passwords"
         ]
@@ -2396,6 +3255,9 @@
         "href": "wordlists/usernames/xato_net_usernames.txt",
         "lines": 8295455,
         "name": "Xato Net Usernames",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Usernames/xato-net-10-million-usernames.txt"
+        ],
         "tags": [
             "usernames"
         ]
@@ -2404,6 +3266,9 @@
         "href": "wordlists/user_agents/software_name/yandex_browser.txt",
         "lines": 2175,
         "name": "Yandex Browser",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/yandex-browser.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -2413,6 +3278,9 @@
         "href": "wordlists/security_question_answers/zip_codes.txt",
         "lines": 100000,
         "name": "Zip Codes",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Miscellaneous/Security-Question-Answers/zip-codes.txt"
+        ],
         "tags": [
             "security-question-answers"
         ]
@@ -2421,6 +3289,9 @@
         "href": "wordlists/user_agents/operating_system_name/ios.txt",
         "lines": 23836,
         "name": "iOS",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/operating-system-name/ios.txt"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"
@@ -2430,6 +3301,9 @@
         "href": "wordlists/user_agents/software_name/itunes.txt",
         "lines": 30,
         "name": "iTunes",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/software-name/itunes.txt"
+        ],
         "tags": [
             "user-agents",
             "software-name"
@@ -2439,6 +3313,9 @@
         "href": "wordlists/user_agents/operating_system_name/webos.txt",
         "lines": 42,
         "name": "webOS",
+        "sources": [
+            "https://github.com/danielmiessler/SecLists/blob/master/Fuzzing/User-Agents/operating-system-name/webos.txt"
+        ],
         "tags": [
             "user-agents",
             "operating-system-name"

@@ -22,7 +22,7 @@
 
 ## 🐳 Docker Images
 
-There are three Docker tags available for the [`kkrypt0nn/wordlists`](https://hub.docker.com/r/kkrypt0nn/wordlists) Docker repository:
+There are four Docker tags available for the [`kkrypt0nn/wordlists`](https://hub.docker.com/r/kkrypt0nn/wordlists) Docker repository:
 
 - [`alpine-latest`](https://hub.docker.com/r/kkrypt0nn/wordlists/tags?name=alpine-latest)
 - [`debian-latest`](https://hub.docker.com/r/kkrypt0nn/wordlists/tags?name=debian-latest)
@@ -47,6 +47,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
 
 <details>
   <summary>Togglable Wordlists</summary>
+
   <details>
     <summary>Discovery</summary>
     <ul>
@@ -84,6 +85,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/discovery/wp_themes.txt">WP Themes</a> - 27,830 Lines</li>
     </ul>
   </details>
+
   <details>
     <summary>Famous</summary>
     <ul>
@@ -95,6 +97,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/famous/rockyou.zip">Rockyou</a> - 14,344,392 Lines</li>
     </ul>
   </details>
+
   <details>
     <summary>HTB</summary>
     <ul>
@@ -107,6 +110,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/htb/users.txt">Users</a> - 10,331 Lines</li>
     </ul>
   </details>
+
   <details>
     <summary>Languages</summary>
     <ul>
@@ -132,6 +136,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/languages/ukrainian.txt">Ukrainian</a> - 331,520 Lines</li>
     </ul>
   </details>
+
   <details>
     <summary>Miscellaneous</summary>
     <ul>
@@ -145,6 +150,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/miscellaneous/html_tags.txt">HTML Tags</a> - 129 Lines</li>
     </ul>
   </details>
+
   <details>
     <summary>Names</summary>
     <ul>
@@ -166,6 +172,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/names/top_surnames_character_chinese.txt">Top Surnames Character Chinese</a> - 50 Lines</li>
     </ul>
   </details>
+
   <details>
     <summary>Passwords</summary>
     <ul>
@@ -200,6 +207,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/passwords/xato_net_passwords.txt">Xato Net Passwords</a> - 5,189,454 Lines</li>
     </ul>
   </details>
+
   <details>
     <summary>Security Question Answers</summary>
     <ul>
@@ -215,6 +223,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/security_question_answers/zip_codes.txt">Zip Codes</a> - 100,000 Lines</li>
     </ul>
   </details>
+
   <details>
     <summary>Stressing</summary>
     <ul>
@@ -230,8 +239,32 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/stressing/uri_hex.txt">URI Hex</a> - 256 Lines</li>
     </ul>
   </details>
+
   <details>
     <summary>User Agents</summary>
+
+    <details>
+      <summary>Hardware Type Specific</summary>
+      <ul>
+        <li><a href="wordlists/user_agents/hardware_type_specific/billboard.txt">Billboard</a> - 12 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/car.txt">Car</a> - 11 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/computer.txt">Computer</a> - 222,967 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/ebook_reader.txt">Ebook Reader</a> - 1,932 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/game_console.txt">Game Console</a> - 323 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/glasses.txt">Glasses</a> - 5 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/handheld_game.txt">Handheld Game</a> - 190 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/large_screen.txt">Large Screen</a> - 390 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/media_player.txt">Media Player</a> - 40 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/mobile.txt">Mobile</a> - 138,617 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/music_player.txt">Music Player</a> - 819 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/pda.txt">Pda</a> - 3 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/phone.txt">Phone</a> - 100,479 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/server.txt">Server</a> - 1,756 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/tablet.txt">Tablet</a> - 26,316 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/tv.txt">TV</a> - 1,110 Lines</li>
+      </ul>
+    </details>
+
     <details>
       <summary>Bots</summary>
       <ul>
@@ -251,27 +284,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
         <li><a href="wordlists/user_agents/bots/twitter.txt">Twitter</a> - 4 Lines</li>
       </ul>
     </details>
-    <details>
-      <summary>Hardware Type Specific</summary>
-      <ul>
-        <li><a href="wordlists/user_agents/hardware_type_specific/billboard.txt">Billboard</a> - 12 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/car.txt">Car</a> - 11 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/computer.txt">Computer</a> - 222,967 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/ebook_reader.txt">Ebook Reader</a> - 1,932 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/game_console.txt">Game Console</a> - 323 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/glasses.txt">Glasses</a> - 5 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/handheld_game.txt">Handheld Game</a> - 190 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/large_screen.txt">Large Screen</a> - 390 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/media_player.txt">Media Player</a> - 40 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/mobile.txt">Mobile</a> - 138,617 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/music_player.txt">Music Player</a> - 819 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/pda.txt">Pda</a> - 3 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/phone.txt">Phone</a> - 100,479 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/server.txt">Server</a> - 1,756 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/tablet.txt">Tablet</a> - 26,316 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/tv.txt">Tv</a> - 1,110 Lines</li>
-      </ul>
-    </details>
+
     <details>
       <summary>Operating System Name</summary>
       <ul>
@@ -304,6 +317,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
         <li><a href="wordlists/user_agents/operating_system_name/windows_phone.txt">Windows Phone</a> - 2,193 Lines</li>
       </ul>
     </details>
+
     <details>
       <summary>Software Name</summary>
       <ul>
@@ -329,7 +343,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
         <li><a href="wordlists/user_agents/software_name/iceweasel.txt">Iceweasel</a> - 555 Lines</li>
         <li><a href="wordlists/user_agents/software_name/internet_explorer.txt">Internet Explorer</a> - 102,404 Lines</li>
         <li><a href="wordlists/user_agents/software_name/internet_explorer_mobile.txt">Internet Explorer Mobile</a> - 1,068 Lines</li>
-        <li><a href="wordlists/user_agents/software_name/internet_tv_browser.txt">Internet Tv Browser</a> - 354 Lines</li>
+        <li><a href="wordlists/user_agents/software_name/internet_tv_browser.txt">Internet TV Browser</a> - 354 Lines</li>
         <li><a href="wordlists/user_agents/software_name/itunes.txt">iTunes</a> - 30 Lines</li>
         <li><a href="wordlists/user_agents/software_name/java_runtime_environment.txt">Java Runtime Environment</a> - 518 Lines</li>
         <li><a href="wordlists/user_agents/software_name/kindle_browser.txt">Kindle Browser</a> - 76 Lines</li>
@@ -362,6 +376,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       </ul>
     </details>
   </details>
+
   <details>
     <summary>Usernames</summary>
     <ul>
@@ -379,6 +394,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/usernames/xato_net_usernames.txt">Xato Net Usernames</a> - 8,295,455 Lines</li>
     </ul>
   </details>
+
   <details>
     <summary>Vulnerabilities</summary>
     <ul>
@@ -395,7 +411,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/vulnerabilities/fatwire_pagenames.txt">Fatwire Pagenames</a> - 2,712 Lines</li>
       <li><a href="wordlists/vulnerabilities/front_pages.txt">Front Pages</a> - 43 Lines</li>
       <li><a href="wordlists/vulnerabilities/hpsmh.txt">Hpsmh</a> - 238 Lines</li>
-      <li><a href="wordlists/vulnerabilities/iis.txt">Iis</a> - 59 Lines</li>
+      <li><a href="wordlists/vulnerabilities/iis.txt">IIS</a> - 59 Lines</li>
       <li><a href="wordlists/vulnerabilities/iplanet.txt">Iplanet</a> - 35 Lines</li>
       <li><a href="wordlists/vulnerabilities/jboss.txt">Jboss</a> - 19 Lines</li>
       <li><a href="wordlists/vulnerabilities/jrun.txt">Jrun</a> - 13 Lines</li>
@@ -406,7 +422,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/vulnerabilities/sharepoint.txt">Sharepoint</a> - 1,708 Lines</li>
       <li><a href="wordlists/vulnerabilities/sql.txt">SQL</a> - 268 Lines</li>
       <li><a href="wordlists/vulnerabilities/sql_inj.txt">SQL Inj</a> - 41 Lines</li>
-      <li><a href="wordlists/vulnerabilities/ssti.txt">Ssti</a> - 138 Lines</li>
+      <li><a href="wordlists/vulnerabilities/ssti.txt">SSTI</a> - 138 Lines</li>
       <li><a href="wordlists/vulnerabilities/sunas.txt">Sunas</a> - 51 Lines</li>
       <li><a href="wordlists/vulnerabilities/tests.txt">Tests</a> - 33 Lines</li>
       <li><a href="wordlists/vulnerabilities/tomcat.txt">Tomcat</a> - 90 Lines</li>
@@ -589,23 +605,6 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
   </ul>
   <li>User Agents</li>
   <ul>
-    <li>Bots</li>
-      <ul>
-        <li><a href="wordlists/user_agents/bots/alexa.txt">Alexa</a> - 1 Lines</li>
-        <li><a href="wordlists/user_agents/bots/amazon.txt">Amazon</a> - 3 Lines</li>
-        <li><a href="wordlists/user_agents/bots/anthropic.txt">Anthropic</a> - 3 Lines</li>
-        <li><a href="wordlists/user_agents/bots/apple.txt">Apple</a> - 4 Lines</li>
-        <li><a href="wordlists/user_agents/bots/bing.txt">Bing</a> - 13 Lines</li>
-        <li><a href="wordlists/user_agents/bots/discord.txt">Discord</a> - 3 Lines</li>
-        <li><a href="wordlists/user_agents/bots/duckduckgo.txt">Duckduckgo</a> - 1 Lines</li>
-        <li><a href="wordlists/user_agents/bots/facebook.txt">Facebook</a> - 27 Lines</li>
-        <li><a href="wordlists/user_agents/bots/google.txt">Google</a> - 303 Lines</li>
-        <li><a href="wordlists/user_agents/bots/mistral.txt">Mistral</a> - 3 Lines</li>
-        <li><a href="wordlists/user_agents/bots/openai.txt">OpenAI</a> - 5 Lines</li>
-        <li><a href="wordlists/user_agents/bots/perplexity.txt">Perplexity</a> - 2 Lines</li>
-        <li><a href="wordlists/user_agents/bots/slack.txt">Slack</a> - 2 Lines</li>
-        <li><a href="wordlists/user_agents/bots/twitter.txt">Twitter</a> - 4 Lines</li>
-      </ul>
     <li>Hardware Type Specific</li>
       <ul>
         <li><a href="wordlists/user_agents/hardware_type_specific/billboard.txt">Billboard</a> - 12 Lines</li>
@@ -623,7 +622,24 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
         <li><a href="wordlists/user_agents/hardware_type_specific/phone.txt">Phone</a> - 100,479 Lines</li>
         <li><a href="wordlists/user_agents/hardware_type_specific/server.txt">Server</a> - 1,756 Lines</li>
         <li><a href="wordlists/user_agents/hardware_type_specific/tablet.txt">Tablet</a> - 26,316 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/tv.txt">Tv</a> - 1,110 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/tv.txt">TV</a> - 1,110 Lines</li>
+      </ul>
+    <li>Bots</li>
+      <ul>
+        <li><a href="wordlists/user_agents/bots/alexa.txt">Alexa</a> - 1 Lines</li>
+        <li><a href="wordlists/user_agents/bots/amazon.txt">Amazon</a> - 3 Lines</li>
+        <li><a href="wordlists/user_agents/bots/anthropic.txt">Anthropic</a> - 3 Lines</li>
+        <li><a href="wordlists/user_agents/bots/apple.txt">Apple</a> - 4 Lines</li>
+        <li><a href="wordlists/user_agents/bots/bing.txt">Bing</a> - 13 Lines</li>
+        <li><a href="wordlists/user_agents/bots/discord.txt">Discord</a> - 3 Lines</li>
+        <li><a href="wordlists/user_agents/bots/duckduckgo.txt">Duckduckgo</a> - 1 Lines</li>
+        <li><a href="wordlists/user_agents/bots/facebook.txt">Facebook</a> - 27 Lines</li>
+        <li><a href="wordlists/user_agents/bots/google.txt">Google</a> - 303 Lines</li>
+        <li><a href="wordlists/user_agents/bots/mistral.txt">Mistral</a> - 3 Lines</li>
+        <li><a href="wordlists/user_agents/bots/openai.txt">OpenAI</a> - 5 Lines</li>
+        <li><a href="wordlists/user_agents/bots/perplexity.txt">Perplexity</a> - 2 Lines</li>
+        <li><a href="wordlists/user_agents/bots/slack.txt">Slack</a> - 2 Lines</li>
+        <li><a href="wordlists/user_agents/bots/twitter.txt">Twitter</a> - 4 Lines</li>
       </ul>
     <li>Operating System Name</li>
       <ul>
@@ -679,7 +695,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
         <li><a href="wordlists/user_agents/software_name/iceweasel.txt">Iceweasel</a> - 555 Lines</li>
         <li><a href="wordlists/user_agents/software_name/internet_explorer.txt">Internet Explorer</a> - 102,404 Lines</li>
         <li><a href="wordlists/user_agents/software_name/internet_explorer_mobile.txt">Internet Explorer Mobile</a> - 1,068 Lines</li>
-        <li><a href="wordlists/user_agents/software_name/internet_tv_browser.txt">Internet Tv Browser</a> - 354 Lines</li>
+        <li><a href="wordlists/user_agents/software_name/internet_tv_browser.txt">Internet TV Browser</a> - 354 Lines</li>
         <li><a href="wordlists/user_agents/software_name/itunes.txt">iTunes</a> - 30 Lines</li>
         <li><a href="wordlists/user_agents/software_name/java_runtime_environment.txt">Java Runtime Environment</a> - 518 Lines</li>
         <li><a href="wordlists/user_agents/software_name/kindle_browser.txt">Kindle Browser</a> - 76 Lines</li>
@@ -741,7 +757,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/vulnerabilities/fatwire_pagenames.txt">Fatwire Pagenames</a> - 2,712 Lines</li>
     <li><a href="wordlists/vulnerabilities/front_pages.txt">Front Pages</a> - 43 Lines</li>
     <li><a href="wordlists/vulnerabilities/hpsmh.txt">Hpsmh</a> - 238 Lines</li>
-    <li><a href="wordlists/vulnerabilities/iis.txt">Iis</a> - 59 Lines</li>
+    <li><a href="wordlists/vulnerabilities/iis.txt">IIS</a> - 59 Lines</li>
     <li><a href="wordlists/vulnerabilities/iplanet.txt">Iplanet</a> - 35 Lines</li>
     <li><a href="wordlists/vulnerabilities/jboss.txt">Jboss</a> - 19 Lines</li>
     <li><a href="wordlists/vulnerabilities/jrun.txt">Jrun</a> - 13 Lines</li>
@@ -752,7 +768,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/vulnerabilities/sharepoint.txt">Sharepoint</a> - 1,708 Lines</li>
     <li><a href="wordlists/vulnerabilities/sql.txt">SQL</a> - 268 Lines</li>
     <li><a href="wordlists/vulnerabilities/sql_inj.txt">SQL Inj</a> - 41 Lines</li>
-    <li><a href="wordlists/vulnerabilities/ssti.txt">Ssti</a> - 138 Lines</li>
+    <li><a href="wordlists/vulnerabilities/ssti.txt">SSTI</a> - 138 Lines</li>
     <li><a href="wordlists/vulnerabilities/sunas.txt">Sunas</a> - 51 Lines</li>
     <li><a href="wordlists/vulnerabilities/tests.txt">Tests</a> - 33 Lines</li>
     <li><a href="wordlists/vulnerabilities/tomcat.txt">Tomcat</a> - 90 Lines</li>
