@@ -769,17 +769,6 @@
         ]
     },
     {
-        "href": "wordlists/discovery/directories.txt",
-        "lines": 58655,
-        "name": "Directories",
-        "sources": [
-            "https://gitlab.com/kalilinux/packages/dirbuster/-/blob/kali/master/directories.jbrofuzz"
-        ],
-        "tags": [
-            "discovery"
-        ]
-    },
-    {
         "href": "wordlists/htb/directories.txt",
         "lines": 97523,
         "name": "Directories",
@@ -788,6 +777,17 @@
         ],
         "tags": [
             "htb"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/directories.txt",
+        "lines": 58655,
+        "name": "Directories",
+        "sources": [
+            "https://gitlab.com/kalilinux/packages/dirbuster/-/blob/kali/master/directories.jbrofuzz"
+        ],
+        "tags": [
+            "discovery"
         ]
     },
     {
@@ -1247,17 +1247,6 @@
         ]
     },
     {
-        "href": "wordlists/discovery/gitignore.txt",
-        "lines": 1017,
-        "name": "Gitignore",
-        "sources": [
-            "Not known"
-        ],
-        "tags": [
-            "discovery"
-        ]
-    },
-    {
         "href": "wordlists/htb/gitignore.txt",
         "lines": 1017,
         "name": "Gitignore",
@@ -1266,6 +1255,17 @@
         ],
         "tags": [
             "htb"
+        ]
+    },
+    {
+        "href": "wordlists/discovery/gitignore.txt",
+        "lines": 1017,
+        "name": "Gitignore",
+        "sources": [
+            "Not known"
+        ],
+        "tags": [
+            "discovery"
         ]
     },
     {
@@ -2609,7 +2609,7 @@
     },
     {
         "href": "wordlists/discovery/tlds.txt",
-        "lines": 1437,
+        "lines": 1436,
         "name": "TLDs",
         "sources": [
             "https://data.iana.org/TLD/tlds-alpha-by-domain.txt"

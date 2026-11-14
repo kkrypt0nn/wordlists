@@ -16,7 +16,7 @@
 
 ## 🐳 Docker Images
 
-There are [`scratch-`](https://hub.docker.com/r/kkrypt0nn/wordlists/tags?name=scratch-latest) Docker tags available for the [`kkrypt0nn/wordlists`](https://hub.docker.com/r/kkrypt0nn/wordlists) Docker repository. There is always `scratch-latest` and `scratch-{date}` where there is the date of when it was published, in format `YYYYmmddHHMM`.
+There are [`scratch-`](https://hub.docker.com/r/kkrypt0nn/wordlists/tags?name=scratch-) Docker tags available for the [`kkrypt0nn/wordlists`](https://hub.docker.com/r/kkrypt0nn/wordlists) Docker repository. There is always `scratch-latest` and `scratch-{date}` where there is the date of when it was published, in format `YYYYmmddHHMM`.
 
 These will have a `/wordlists` folder with all the wordlists in there for you to use them.
 
@@ -68,7 +68,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
       <li><a href="wordlists/discovery/sensitive_files_unix.txt">Sensitive Files Unix</a> - 16 Lines</li>
       <li><a href="wordlists/discovery/sensitive_files_windows.txt">Sensitive Files Windows</a> - 7 Lines</li>
       <li><a href="wordlists/discovery/swagger.txt">Swagger</a> - 958,874 Lines</li>
-      <li><a href="wordlists/discovery/tlds.txt">TLDs</a> - 1,437 Lines</li>
+      <li><a href="wordlists/discovery/tlds.txt">TLDs</a> - 1,436 Lines</li>
       <li><a href="wordlists/discovery/top_subdomains.txt">Top Subdomains</a> - 114,441 Lines</li>
       <li><a href="wordlists/discovery/wp_plugins.txt">WP Plugins</a> - 104,063 Lines</li>
       <li><a href="wordlists/discovery/wp_themes.txt">WP Themes</a> - 27,830 Lines</li>
@@ -233,28 +233,6 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <summary>User Agents</summary>
 
     <details>
-      <summary>Hardware Type Specific</summary>
-      <ul>
-        <li><a href="wordlists/user_agents/hardware_type_specific/billboard.txt">Billboard</a> - 12 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/car.txt">Car</a> - 11 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/computer.txt">Computer</a> - 222,967 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/ebook_reader.txt">Ebook Reader</a> - 1,932 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/game_console.txt">Game Console</a> - 323 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/glasses.txt">Glasses</a> - 5 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/handheld_game.txt">Handheld Game</a> - 190 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/large_screen.txt">Large Screen</a> - 390 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/media_player.txt">Media Player</a> - 40 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/mobile.txt">Mobile</a> - 138,617 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/music_player.txt">Music Player</a> - 819 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/pda.txt">Pda</a> - 3 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/phone.txt">Phone</a> - 100,479 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/server.txt">Server</a> - 1,756 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/tablet.txt">Tablet</a> - 26,316 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/tv.txt">TV</a> - 1,110 Lines</li>
-      </ul>
-    </details>
-
-    <details>
       <summary>Bots</summary>
       <ul>
         <li><a href="wordlists/user_agents/bots/alexa.txt">Alexa</a> - 1 Lines</li>
@@ -304,6 +282,28 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
         <li><a href="wordlists/user_agents/operating_system_name/windows.txt">Windows</a> - 183,284 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/windows_mobile.txt">Windows Mobile</a> - 354 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/windows_phone.txt">Windows Phone</a> - 2,193 Lines</li>
+      </ul>
+    </details>
+
+    <details>
+      <summary>Hardware Type Specific</summary>
+      <ul>
+        <li><a href="wordlists/user_agents/hardware_type_specific/billboard.txt">Billboard</a> - 12 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/car.txt">Car</a> - 11 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/computer.txt">Computer</a> - 222,967 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/ebook_reader.txt">Ebook Reader</a> - 1,932 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/game_console.txt">Game Console</a> - 323 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/glasses.txt">Glasses</a> - 5 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/handheld_game.txt">Handheld Game</a> - 190 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/large_screen.txt">Large Screen</a> - 390 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/media_player.txt">Media Player</a> - 40 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/mobile.txt">Mobile</a> - 138,617 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/music_player.txt">Music Player</a> - 819 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/pda.txt">Pda</a> - 3 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/phone.txt">Phone</a> - 100,479 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/server.txt">Server</a> - 1,756 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/tablet.txt">Tablet</a> - 26,316 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/tv.txt">TV</a> - 1,110 Lines</li>
       </ul>
     </details>
 
@@ -457,7 +457,7 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
     <li><a href="wordlists/discovery/sensitive_files_unix.txt">Sensitive Files Unix</a> - 16 Lines</li>
     <li><a href="wordlists/discovery/sensitive_files_windows.txt">Sensitive Files Windows</a> - 7 Lines</li>
     <li><a href="wordlists/discovery/swagger.txt">Swagger</a> - 958,874 Lines</li>
-    <li><a href="wordlists/discovery/tlds.txt">TLDs</a> - 1,437 Lines</li>
+    <li><a href="wordlists/discovery/tlds.txt">TLDs</a> - 1,436 Lines</li>
     <li><a href="wordlists/discovery/top_subdomains.txt">Top Subdomains</a> - 114,441 Lines</li>
     <li><a href="wordlists/discovery/wp_plugins.txt">WP Plugins</a> - 104,063 Lines</li>
     <li><a href="wordlists/discovery/wp_themes.txt">WP Themes</a> - 27,830 Lines</li>
@@ -594,25 +594,6 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
   </ul>
   <li>User Agents</li>
   <ul>
-    <li>Hardware Type Specific</li>
-      <ul>
-        <li><a href="wordlists/user_agents/hardware_type_specific/billboard.txt">Billboard</a> - 12 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/car.txt">Car</a> - 11 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/computer.txt">Computer</a> - 222,967 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/ebook_reader.txt">Ebook Reader</a> - 1,932 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/game_console.txt">Game Console</a> - 323 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/glasses.txt">Glasses</a> - 5 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/handheld_game.txt">Handheld Game</a> - 190 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/large_screen.txt">Large Screen</a> - 390 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/media_player.txt">Media Player</a> - 40 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/mobile.txt">Mobile</a> - 138,617 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/music_player.txt">Music Player</a> - 819 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/pda.txt">Pda</a> - 3 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/phone.txt">Phone</a> - 100,479 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/server.txt">Server</a> - 1,756 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/tablet.txt">Tablet</a> - 26,316 Lines</li>
-        <li><a href="wordlists/user_agents/hardware_type_specific/tv.txt">TV</a> - 1,110 Lines</li>
-      </ul>
     <li>Bots</li>
       <ul>
         <li><a href="wordlists/user_agents/bots/alexa.txt">Alexa</a> - 1 Lines</li>
@@ -659,6 +640,25 @@ If you already have a wordlist ready to be added, make sure to [open a pull requ
         <li><a href="wordlists/user_agents/operating_system_name/windows.txt">Windows</a> - 183,284 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/windows_mobile.txt">Windows Mobile</a> - 354 Lines</li>
         <li><a href="wordlists/user_agents/operating_system_name/windows_phone.txt">Windows Phone</a> - 2,193 Lines</li>
+      </ul>
+    <li>Hardware Type Specific</li>
+      <ul>
+        <li><a href="wordlists/user_agents/hardware_type_specific/billboard.txt">Billboard</a> - 12 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/car.txt">Car</a> - 11 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/computer.txt">Computer</a> - 222,967 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/ebook_reader.txt">Ebook Reader</a> - 1,932 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/game_console.txt">Game Console</a> - 323 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/glasses.txt">Glasses</a> - 5 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/handheld_game.txt">Handheld Game</a> - 190 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/large_screen.txt">Large Screen</a> - 390 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/media_player.txt">Media Player</a> - 40 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/mobile.txt">Mobile</a> - 138,617 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/music_player.txt">Music Player</a> - 819 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/pda.txt">Pda</a> - 3 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/phone.txt">Phone</a> - 100,479 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/server.txt">Server</a> - 1,756 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/tablet.txt">Tablet</a> - 26,316 Lines</li>
+        <li><a href="wordlists/user_agents/hardware_type_specific/tv.txt">TV</a> - 1,110 Lines</li>
       </ul>
     <li>Software Name</li>
       <ul>
