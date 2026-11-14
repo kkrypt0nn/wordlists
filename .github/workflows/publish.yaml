@@ -54,9 +54,6 @@ jobs:
     name: Build and push Docker images
     runs-on: ubuntu-latest
     needs: update_generated_files
-    strategy:
-      matrix:
-        image: [alpine, debian, scratch, ubuntu]
     steps:
       - name: Checkout code
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
@@ -87,9 +84,9 @@ jobs:
         uses: docker/build-push-action@c3c9e263c25d99ce0380d002d59b67737d91b0dc # v7.4.0
         with:
           context: .
-          file: ./dockerfiles/Dockerfile.${{ matrix.image }}
+          file: ./Dockerfile
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            kkrypt0nn/wordlists:${{ matrix.image }}-latest
-            kkrypt0nn/wordlists:${{ matrix.image }}-${{ steps.tag.outputs.tag }}
+            kkrypt0nn/wordlists:scratch-${{ steps.tag.outputs.tag }}
+            kkrypt0nn/wordlists:scratch-latest

@@ -7,13 +7,7 @@
 </h4>
 
 <p align="center">
-  <a href="//hub.docker.com/r/kkrypt0nn/wordlists"><img src="https://img.shields.io/docker/v/kkrypt0nn/wordlists/alpine-latest?logo=docker"></a>
-  <a href="//hub.docker.com/r/kkrypt0nn/wordlists"><img src="https://img.shields.io/docker/v/kkrypt0nn/wordlists/debian-latest?logo=docker"></a>
   <a href="//hub.docker.com/r/kkrypt0nn/wordlists"><img src="https://img.shields.io/docker/v/kkrypt0nn/wordlists/scratch-latest?logo=docker"></a>
-  <a href="//hub.docker.com/r/kkrypt0nn/wordlists"><img src="https://img.shields.io/docker/v/kkrypt0nn/wordlists/ubuntu-latest?logo=docker"></a>
-</p>
-
-<p align="center">
   <a href="//discord.gg/xj6y5ZaTMr"><img src="https://img.shields.io/discord/1358456011316396295?logo=discord"></a>
   <a href="//github.com/kkrypt0nn/wordlists"><img src="https://img.shields.io/github/repo-size/kkrypt0nn/wordlists"></a>
   <a href="//github.com/kkrypt0nn/wordlists/commits"><img src="https://img.shields.io/github/last-commit/kkrypt0nn/wordlists"></a>
@@ -22,12 +16,7 @@
 
 ## 🐳 Docker Images
 
-There are four Docker tags available for the [`kkrypt0nn/wordlists`](https://hub.docker.com/r/kkrypt0nn/wordlists) Docker repository:
-
-- [`alpine-latest`](https://hub.docker.com/r/kkrypt0nn/wordlists/tags?name=alpine-latest)
-- [`debian-latest`](https://hub.docker.com/r/kkrypt0nn/wordlists/tags?name=debian-latest)
-- [`scratch-latest`](https://hub.docker.com/r/kkrypt0nn/wordlists/tags?name=scratch-latest)
-- [`ubuntu-latest`](https://hub.docker.com/r/kkrypt0nn/wordlists/tags?name=ubuntu-latest)
+There are [`scratch-`](https://hub.docker.com/r/kkrypt0nn/wordlists/tags?name=scratch-latest) Docker tags available for the [`kkrypt0nn/wordlists`](https://hub.docker.com/r/kkrypt0nn/wordlists) Docker repository. There is always `scratch-latest` and `scratch-{date}` where there is the date of when it was published, in format `YYYYmmddHHMM`.
 
 These will have a `/wordlists` folder with all the wordlists in there for you to use them.
 
