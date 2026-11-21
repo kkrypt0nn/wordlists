@@ -5,8 +5,10 @@
     "helpers:pinGitHubActionDigests",
     ":gitSignOff"
   ],
-  "dependencyDashboard": true,
-  "dependencyDashboardTitle": "Renovate Dashboard 🤖",
+  "dependencyDashboard": {
+    "enabled": true,
+    "title": "Renovate Dashboard 🤖"
+  },
   "rangeStrategy": "pin",
   "rebaseWhen": "conflicted",
   "schedule": ["on friday and saturday"]
