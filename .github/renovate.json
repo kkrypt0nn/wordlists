@@ -5,6 +5,7 @@
     "helpers:pinGitHubActionDigests",
     ":gitSignOff"
   ],
+  "assignees": ["kkrypt0nn"],
   "dependencyDashboard": {
     "enabled": true,
     "title": "Renovate Dashboard 🤖"
